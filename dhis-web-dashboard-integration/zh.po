@@ -293,7 +293,7 @@ msgstr "分享注释"
 
 #: select_users_and_user_groups
 msgid "Select users and user groups"
-msgstr ""
+msgstr "选择用户和用户组"
 
 #: selected_more_than_200_user
 msgid "You have {userCount} recipients, please reduce to 200 or less"
@@ -317,15 +317,15 @@ msgstr ""
 
 #: no_hits
 msgid "No hits, try again"
-msgstr ""
+msgstr "没有击中，再试"
 
 #: profile
 msgid "Profile"
-msgstr ""
+msgstr "基本信息"
 
 #: works_as
 msgid "Works as"
-msgstr ""
+msgstr "作为"
 
 #: employed_at
 msgid "Employed at"
@@ -345,11 +345,11 @@ msgstr ""
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "电话号码"
 
 #: org_units
 msgid "Org units"
-msgstr ""
+msgstr "机构"
 
 #: edit_profile
 msgid "Edit profile"
@@ -369,7 +369,7 @@ msgstr ""
 
 #: send_message
 msgid "Send message"
-msgstr ""
+msgstr "方式消息"
 
 #: to
 msgid "To"
