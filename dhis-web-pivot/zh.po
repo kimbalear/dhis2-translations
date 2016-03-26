@@ -15,243 +15,243 @@ msgstr ""
 
 #: dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "维度"
 
 #: row
 msgid "Row"
-msgstr ""
+msgstr "行"
 
 #: column
 msgid "Column"
-msgstr ""
+msgstr "列"
 
 #: filter
 msgid "Filter"
-msgstr ""
+msgstr "过滤器"
 
 #: table_layout
 msgid "Table layout"
-msgstr ""
+msgstr "表布局"
 
 #: show_subtotals
 msgid "Show subtotals"
-msgstr ""
+msgstr "显示小计"
 
 #: hide_empty_rows
 msgid "Hide empty rows"
-msgstr ""
+msgstr "隐藏空行"
 
 #: display_density
 msgid "Display density"
-msgstr ""
+msgstr "显示稀密度"
 
 #: font_size
 msgid "Font size"
-msgstr ""
+msgstr "字体大小"
 
 #: digit_group_separator
 msgid "Digit group separator"
-msgstr ""
+msgstr "数字分隔符"
 
 #: comfortable
 msgid "Comfortable"
-msgstr ""
+msgstr "舒适"
 
 #: compact
 msgid "Compact"
-msgstr ""
+msgstr "紧凑"
 
 #: large
 msgid "Large"
-msgstr ""
+msgstr "较大"
 
 #: small_
 msgid "Small"
-msgstr ""
+msgstr "小"
 
 #: normal
 msgid "Normal"
-msgstr ""
+msgstr "适度"
 
 #: reporting_period
 msgid "Reporting period"
-msgstr ""
+msgstr "报表期间"
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "机构"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "机构"
 
 #: parent_organisation_unit
 msgid "Parent organisation unit"
-msgstr ""
+msgstr "上级机构"
 
 #: user_organisation_unit
 msgid "User org unit"
-msgstr ""
+msgstr "当前用户机构"
 
 #: table_options
 msgid "Table options"
-msgstr ""
+msgstr "表选项"
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "创建"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: delete_
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: save
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: hide
 msgid "Hide"
-msgstr ""
+msgstr "隐藏"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "新加"
 
 #: manage_favorites
 msgid "Manage favorites"
-msgstr ""
+msgstr "管理偏好"
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr ""
+msgstr "搜索偏好"
 
 #: overwrite_favorite
 msgid "Overwrite favorite"
-msgstr ""
+msgstr "覆盖偏好"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr ""
+msgstr "删除偏好"
 
 #: prev
 msgid "Prev"
-msgstr ""
+msgstr "前一个"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: rename
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: overwrite
 msgid "Overwrite"
-msgstr ""
+msgstr "覆盖"
 
 #: share_with_other_people
 msgid "Share with other people"
-msgstr ""
+msgstr "分享给其他人"
 
 #: sharing_settings
 msgid "Sharing settings"
-msgstr ""
+msgstr "共享设置"
 
 #: can_view
 msgid "Can view"
-msgstr ""
+msgstr "可查看"
 
 #: can_edit_and_view
 msgid "Can edit and view"
-msgstr ""
+msgstr "可编辑和查看"
 
 #: none
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: public_access
 msgid "Public access"
-msgstr ""
+msgstr "公开访问"
 
 #: search_for_user_groups
 msgid "Search for user groups"
-msgstr ""
+msgstr "搜索用户组"
 
 #: available
 msgid "Available"
-msgstr ""
+msgstr "可用"
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "选择的"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "指标"
 
 #: all_indicator_groups
 msgid "All indicator groups"
-msgstr ""
+msgstr "所有指标组"
 
 #: select_indicator_group
 msgid "Select indicator group"
-msgstr ""
+msgstr "选择指标组"
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
+msgstr "数据元"
 
 #: all_data_element_groups
 msgid "All data element groups"
-msgstr ""
+msgstr "所有数据元组"
 
 #: select_data_element_group
 msgid "Select data element group"
-msgstr ""
+msgstr "选择数据元组"
 
 #: data_sets
 msgid "Data sets"
-msgstr ""
+msgstr "数据集"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr ""
+msgstr "上报率"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "期间"
 
 #: select_period_type
 msgid "Select period type"
-msgstr ""
+msgstr "选择期间类型"
 
 #: weeks
 msgid "Weeks"
-msgstr ""
+msgstr "星期"
 
 #: last_week
 msgid "Last week"
-msgstr ""
+msgstr "上周"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr ""
+msgstr "最近四周"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
-msgstr ""
+msgstr "最近12周"
 
 #: months
 msgid "Months"
-msgstr ""
+msgstr "月"
 
 #: last_month
 msgid "Last month"
