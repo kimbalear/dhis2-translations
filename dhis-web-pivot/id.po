@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-02-16 07:08+0000\n"
-"Last-Translator: Annisa Ristya <annisaristya@gmail.com>\n"
+"PO-Revision-Date: 2016-02-23 04:32+0000\n"
+"Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1455606539.0\n"
+"X-POOTLE-MTIME: 1456201952.0\n"
 
 #: dimensions
 msgid "Dimensions"
@@ -353,7 +353,7 @@ msgstr "Diagram"
 
 #: map
 msgid "Map"
-msgstr "Map"
+msgstr "Peta"
 
 #: home
 msgid "Home"
@@ -642,15 +642,15 @@ msgstr "Tampilkan diagram yang paling akhir"
 
 #: go_to_maps
 msgid "Go to maps"
-msgstr "Lanjut ke maps"
+msgstr "Lanjut ke peta"
 
 #: open_this_table_as_map
 msgid "Open this table as map"
-msgstr "Tampilkan tabel ini dalam map"
+msgstr "Tampilkan tabel ini dalam peta"
 
 #: open_last_map
 msgid "Open last map"
-msgstr "Tampilkan map paling akhir"
+msgstr "Tampilkan peta paling akhir"
 
 #: show_row_totals
 msgid "Show row totals"

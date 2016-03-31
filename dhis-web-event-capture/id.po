@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-01-22 08:09+0000\n"
+"PO-Revision-Date: 2016-02-23 04:25+0000\n"
 "Last-Translator: marlita <marlita.putri.ekasari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1453450177.0\n"
+"X-POOTLE-MTIME: 1456201519.0\n"
 
 #: home
 msgid "Home"
@@ -437,7 +437,7 @@ msgstr "[Garis lintang, Garis Bujur]"
 
 #: get_from_map
 msgid "Get from map"
-msgstr "Dapatkan dari map"
+msgstr "Dapatkan dari peta"
 
 #: capture
 msgid "Capture"
@@ -453,7 +453,7 @@ msgstr "Zoom out"
 
 #: center_map
 msgid "Center map"
-msgstr "Center map"
+msgstr "Pusat peta"
 
 #: set_coordinate
 msgid "Set coordinate"
