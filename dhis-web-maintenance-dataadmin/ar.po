@@ -4,14 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-03-30 14:11+0000\n"
+"Last-Translator: david.huser <david.huser@swisstph.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1459347097.0\n"
 
 #: remove_all
 msgid "Remove All Locks"
@@ -138,8 +141,9 @@ msgid "Put count"
 msgstr "تعداد ال"
 
 #: hit_count
+#, fuzzy
 msgid "Hit count"
-msgstr ""
+msgstr "تعداد ال"
 
 #: miss_count
 msgid "Miss count"
@@ -578,8 +582,9 @@ msgid "Select the organisation unit to keep"
 msgstr "اختر وحدة المنظمة لحفظها"
 
 #: create_sql_views
+#, fuzzy
 msgid "Create SQL views"
-msgstr ""
+msgstr "تحديث مشاهدة SQL"
 
 #: merge
 msgid "Merge"
@@ -804,9 +809,10 @@ msgid "Please select a data set"
 msgstr "الرجاء اختيار فئة البيانات"
 
 #: not_choose_organisation
+#, fuzzy
 msgctxt "not_choose_organisation"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "الرجاء اختيار وحدة المنظمة"
 
 #: generate
 msgid "Generate"
@@ -825,8 +831,9 @@ msgid "SQL type"
 msgstr ""
 
 #: sql_view_type
+#, fuzzy
 msgid "SQL view"
-msgstr ""
+msgstr "مشاهدة SQL"
 
 #: materialized_sql_view_type
 msgid "Materialized SQL view"
@@ -1110,8 +1117,9 @@ msgid "Yesterday"
 msgstr "أمس"
 
 #: last_2_days
+#, fuzzy
 msgid "Last 2 days"
-msgstr ""
+msgstr "آخر 7 أيام"
 
 #: last_7_days
 msgid "Last 7 days"
@@ -1495,7 +1503,7 @@ msgstr "اللغة"
 
 #: country
 msgid "Country"
-msgstr "البلد"
+msgstr "بلد"
 
 #: locale_language_no_translation
 msgid "Please select a language"
@@ -1554,8 +1562,9 @@ msgid "Last success"
 msgstr ""
 
 #: option_management
+#, fuzzy
 msgid "Option management"
-msgstr ""
+msgstr "إدارة فئة الاختيار"
 
 #: add_option
 msgid "Add option"
@@ -1576,12 +1585,13 @@ msgstr ""
 #: please_select_a_dataset
 msgctxt "please_select_a_dataset"
 msgid "Please select a data set"
-msgstr ""
+msgstr "الرجاء اختيار فئة البيانات"
 
 #: please_select_an_organisation_unit
+#, fuzzy
 msgctxt "please_select_an_organisation_unit"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "الرجاء اختيار وحدة المنظمة"
 
 #: prev_year
 msgid "Prev year"

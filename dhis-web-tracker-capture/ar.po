@@ -4,14 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-12-04 06:24+0000\n"
+"Last-Translator: david.huser <david.huser@swisstph.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1449210279.0\n"
 
 #: online_notification
 msgid "You are online"
@@ -63,11 +66,11 @@ msgstr "لايوجد برنامج"
 
 #: please_select_a_program_for_enrollment
 msgid "Please select a program for enrollment."
-msgstr ""
+msgstr "رجاءً اختر برنامجاً للتسجيل"
 
 #: please_select_program_report
 msgid "Please select a program for reporting."
-msgstr ""
+msgstr "رجاءً اختر برنامجاً للإعداد"
 
 #: please_select_a_relationship
 msgid "Please select a relationship"
@@ -75,19 +78,19 @@ msgstr "رجاءً اختر علاقة"
 
 #: no_relationship
 msgid "No relationship exists."
-msgstr ""
+msgstr "لاتوجد علاقة"
 
 #: relationship_not_possible
 msgid "No tracked entity instance, relationship not possible."
-msgstr ""
+msgstr "لا يوجد مثال لكيان متبع . العلاقة غير ممكنة"
 
 #: no_program_exists_enrollment
 msgid "No program exists for the selected org unit. Enrollment not possible."
-msgstr ""
+msgstr "لايوجد برنامج لعلاقة التنظيم المختارة . التسجيل غير ممكن"
 
 #: no_program_exists_report
 msgid "No program exists for the selected org unit. Reporting not possible."
-msgstr ""
+msgstr "لايوجد برنامج لعلاقة التنظيم المختارة . الاعداد غير ممكن"
 
 #: not_yet_enrolled_data_entry
 msgid "Not yet enrolled. Data entry not possible."
@@ -107,15 +110,15 @@ msgstr "غير مسجل حتى الآن . تسجيل الملاحظة غير م�
 
 #: not_yet_enrolled_report
 msgid "Not yet enrolled. Reporting not possible"
-msgstr ""
+msgstr "غير مسجل حتى الآن . الاعداد غير ممكن"
 
 #: no_data_report
 msgid "No record exists for reporting"
-msgstr ""
+msgstr "لايوجد تسجيل ليتم الاعداد"
 
 #: empty_notes
 msgid "Empty notes list."
-msgstr ""
+msgstr "لائحة الملاحظات الفارغة"
 
 #: event
 msgid "Event"
@@ -123,7 +126,7 @@ msgstr ""
 
 #: no_event_is_yet_created
 msgid "No event is available for data entry. Please create one."
-msgstr ""
+msgstr "لايوجد حدث متوفر لادخال البيانات . رجاءً انشئ واحداً"
 
 #: event_creation
 msgid "Please create one from below"
@@ -263,7 +266,7 @@ msgstr "كيانات مسجلة"
 
 #: empty_entity_list
 msgid "There are no registered entities"
-msgstr ""
+msgstr "لاتوجد كيانات مسجلة"
 
 #: empty
 msgid "Empty"
@@ -271,7 +274,7 @@ msgstr "فارغ"
 
 #: form_is_empty_fill_at_least_one
 msgid "Form is empty, please fill at least one."
-msgstr ""
+msgstr "الاستمارة فارغة . رجاءً املأ واحدة على الأقل"
 
 #: total
 msgid "Total"
@@ -279,11 +282,11 @@ msgstr ""
 
 #: total_number_of_pages
 msgid "No. of pages"
-msgstr ""
+msgstr "عدد الصفحات"
 
 #: rows_per_page
 msgid "No. of rows per page"
-msgstr ""
+msgstr "عدد الصفوف في كل صفحة"
 
 #: jump_to_page
 msgid "Jump to page"
@@ -554,8 +557,9 @@ msgid "B is to A"
 msgstr "علاقة (ب) لــ (أ)"
 
 #: select
+#, fuzzy
 msgid "Select"
-msgstr ""
+msgstr "مختار\\u0629"
 
 #: please_select_source
 msgid "Please select source"
@@ -741,7 +745,7 @@ msgstr "قيمة مسجلة"
 
 #: no_value
 msgid "NO_VALUE"
-msgstr ""
+msgstr "لا قيمة"
 
 #: no_data_found
 msgid "No data found"
@@ -934,7 +938,7 @@ msgstr "اعد جدولة"
 
 #: scheduling_messaging
 msgid "Scheduling and Messaging"
-msgstr ""
+msgstr "الجدولة و الرسائل"
 
 #: not_yet_enrolled_scheduling
 msgid "Not yet enrolled, scheduling not possible"
@@ -946,7 +950,7 @@ msgstr "تفاصيل الجدول"
 
 #: no_event_to_schedule
 msgid "No event to schedule"
-msgstr ""
+msgstr "لا توجد أحداث لجدولتها"
 
 #: enroll
 msgid "Enroll"
@@ -1178,8 +1182,9 @@ msgid "Cancel"
 msgstr "الغِ"
 
 #: are_you_sure_to_delete_relationship
+#, fuzzy
 msgid "Are you sure you want to delete the relationship?"
-msgstr ""
+msgstr "هل أنت متأكد من أنك ترغب في حذف الحدث المختار ؟"
 
 #: are_you_sure_to_delete_enrollment
 msgid "Are you sure you want to delete the selected enrollment?"
@@ -1207,7 +1212,7 @@ msgstr "هل أنت متأكد من أنك ترغب في اكمال الحدث �
 
 #: are_you_sure_to_incomplete_event
 msgid "Are you sure you want to incomplete the selected event?"
-msgstr ""
+msgstr "هل أنت متأكد من أنك ترغب في عدم اكمال الحدث المختار ؟"
 
 #: are_you_sure_to_skip_event
 msgid "Are you sure you want to skip the selected event?"
@@ -1231,7 +1236,7 @@ msgstr "مزيد"
 
 #: under_construction
 msgid "Under construction.    "
-msgstr ""
+msgstr "مازال قيد الانشاء"
 
 #: advanced_search
 msgid "Advanced search"
@@ -1452,12 +1457,14 @@ msgid "equals to"
 msgstr ""
 
 #: less_than
+#, fuzzy
 msgid "less than"
-msgstr ""
+msgstr "أقل من"
 
 #: greater_than
+#, fuzzy
 msgid "greater than"
-msgstr ""
+msgstr "أكثر من"
 
 #: inactive
 msgid "Inactive"

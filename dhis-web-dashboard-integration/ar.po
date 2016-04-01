@@ -4,14 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-03-31 10:03+0000\n"
+"Last-Translator: david.huser <david.huser@swisstph.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1459418598.0\n"
 
 #: dashboard
 msgid "Dashboard"
@@ -129,7 +132,7 @@ msgstr "علامة غير مقروءة"
 
 #: mark_followup
 msgid "Mark for followup"
-msgstr ""
+msgstr "علامة للمتابعة"
 
 #: clear_followup
 msgid "Clear followup"
@@ -461,7 +464,7 @@ msgstr "انقر لاستكشاف أو اسحب إلى موقع جديد"
 
 #: click_and_drag_to_new_position
 msgid "Click and drag to new position"
-msgstr ""
+msgstr "انقر واسحب إلى موقعها الجديد"
 
 #: drag_to_new_position
 msgid "Drag to new position"
@@ -493,7 +496,7 @@ msgstr "اضافة"
 
 #: resize
 msgid "Resize"
-msgstr ""
+msgstr "تغيير حجم"
 
 #: add_items_to_current_dashboard
 msgid "Add items to current dashboard"
@@ -521,7 +524,7 @@ msgstr ""
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "تحميل"
 
 #: api_link
 msgid "API link"
@@ -529,4 +532,4 @@ msgstr ""
 
 #: get_as_image
 msgid "Get as image"
-msgstr ""
+msgstr "الحصول كصورة"

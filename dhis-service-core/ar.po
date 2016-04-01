@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-04 06:24+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2016-03-31 07:45+0000\n"
+"Last-Translator: david.huser <david.huser@swisstph.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1449210277.0\n"
+"X-POOTLE-MTIME: 1459410311.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -212,7 +212,7 @@ msgstr "التقاط المتتبع"
 
 #: dhis-web-cache-cleaner
 msgid "Browser Cache Cleaner"
-msgstr ""
+msgstr "منظف متصفح الكاش"
 
 #: dhis-web-reporting
 msgid "Reports"
@@ -880,7 +880,7 @@ msgstr ""
 
 #: LAST_6_MONTHS
 msgid "Last 6 months"
-msgstr ""
+msgstr "آخر 6 أشهر"
 
 #: LAST_3_MONTHS
 msgid "Last 3 months"
@@ -900,7 +900,7 @@ msgstr ""
 
 #: THIS_FINANCIAL_YEAR
 msgid "This financial year"
-msgstr ""
+msgstr "هذه السنة المالية"
 
 #: LAST_FINANCIAL_YEAR
 msgid "Last financial year"
@@ -924,7 +924,7 @@ msgstr ""
 
 #: LAST_52_WEEKS
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "آخر 52 أسبوعا"
 
 #. #-- PeriodTypes ----------------------------------------------------------------#
 #: Daily
@@ -1138,7 +1138,7 @@ msgstr ""
 #. #-- Months and weeks -----------------------------------------------------------#
 #: month.january
 msgid "January"
-msgstr "كانون الثاني"
+msgstr "يناير"
 
 #: month.february
 msgid "February"
@@ -2103,7 +2103,7 @@ msgstr "الحد الادنى"
 
 #: max
 msgid "Max"
-msgstr "الحد الاقصى"
+msgstr "أقصى"
 
 #: text
 msgid "Text"

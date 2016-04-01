@@ -4,14 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-03-30 14:18+0000\n"
+"Last-Translator: david.huser <david.huser@swisstph.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1459347525.0\n"
 
 #: dimensions
 msgid "Dimensions"
@@ -784,15 +787,17 @@ msgstr ""
 
 #: output_type
 msgid "Output type"
-msgstr ""
+msgstr "طريقة العرض"
 
 #: event
+#, fuzzy
 msgid "Event"
-msgstr ""
+msgstr "احداث"
 
 #: tracked_entity_instance
+#, fuzzy
 msgid "Tracked entity instance"
-msgstr ""
+msgstr "أمثلة كيان متبعة"
 
 #: enrollment
 msgid "Enrollment"
@@ -828,7 +833,7 @@ msgstr "عد"
 
 #: sum
 msgid "Sum"
-msgstr "حاصل جمع"
+msgstr "مجموع"
 
 #: by_data_element
 msgid "By data element"
@@ -840,7 +845,7 @@ msgstr ""
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "تباين"
 
 #: min
 msgid "Min"
@@ -855,8 +860,9 @@ msgid "Number of events"
 msgstr ""
 
 #: this_financial_year
+#, fuzzy
 msgid "This financial year"
-msgstr ""
+msgstr "السنة المالية الفائتة"
 
 #: user_sub_units
 msgid "User sub-units"
@@ -879,8 +885,9 @@ msgid "Remove"
 msgstr ""
 
 #: select
+#, fuzzy
 msgid "Select"
-msgstr ""
+msgstr "مختارة"
 
 #: this_week
 msgid "This week"
@@ -896,7 +903,7 @@ msgstr ""
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "الستة أشهر الحالية"
 
 #: this_bimonth
 msgid "This bi-month"
@@ -904,7 +911,7 @@ msgstr ""
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "حول"
 
 #: time_since_last_data_update
 msgid "Time since last data update"

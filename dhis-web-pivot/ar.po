@@ -4,14 +4,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-03-30 14:16+0000\n"
+"Last-Translator: david.huser <david.huser@swisstph.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1459347372.0\n"
 
 #: dimensions
 msgid "Dimensions"
@@ -563,16 +566,19 @@ msgid "Monthly"
 msgstr ""
 
 #: bimonthly
+#, fuzzy
 msgid "Bi-monthly"
-msgstr ""
+msgstr "كل شهرين"
 
 #: quarterly
+#, fuzzy
 msgid "Quarterly"
-msgstr ""
+msgstr "ربع سنوي"
 
 #: sixmonthly
+#, fuzzy
 msgid "Six-monthly"
-msgstr ""
+msgstr "ستة أشهر"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
@@ -616,15 +622,15 @@ msgstr ""
 
 #: by_data_element
 msgid "By data element"
-msgstr ""
+msgstr "بواسطة عناصر البيانات"
 
 #: stddev
 msgid "Standard deviation"
-msgstr ""
+msgstr "الانحراف المعياري"
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "فرق"
 
 #: go_to_charts
 msgid "Go to charts"
@@ -656,7 +662,7 @@ msgstr ""
 
 #: show_col_totals
 msgid "Show column totals"
-msgstr ""
+msgstr "اظهار مجموع العمود"
 
 #: assigned_categories
 msgid "Assigned categories"
@@ -664,7 +670,7 @@ msgstr ""
 
 #: show_dimension_labels
 msgid "Show dimension labels"
-msgstr ""
+msgstr "اظهار أبعاد العناوين"
 
 #: min
 msgid "Min"
@@ -688,19 +694,21 @@ msgstr ""
 
 #: show_col_subtotals
 msgid "Show column sub-totals"
-msgstr ""
+msgstr "إظهار عمود المجاميع الفرعية"
 
 #: show_row_subtotals
 msgid "Show row sub-totals"
 msgstr ""
 
 #: last_52_weeks
+#, fuzzy
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "آخر 12 أسبوعاً"
 
 #: last_6_months
+#, fuzzy
 msgid "Last 6 months"
-msgstr ""
+msgstr "آخر 3 أشهر"
 
 #: created_by
 msgid "Created by"
@@ -715,8 +723,9 @@ msgid "Clear pivot table"
 msgstr ""
 
 #: this_financial_year
+#, fuzzy
 msgid "This financial year"
-msgstr ""
+msgstr "آخر سنة مالية"
 
 #: user_sub_units
 msgid "User sub-units"
@@ -744,7 +753,7 @@ msgstr ""
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "الستة أشهر الحالية"
 
 #: this_bimonth
 msgid "This bi-month"
@@ -752,15 +761,15 @@ msgstr ""
 
 #: excluded_dimensions
 msgid "Excluded dimensions"
-msgstr ""
+msgstr "أبعاد مستبعدة"
 
 #: column_dimensions
 msgid "Column dimensions"
-msgstr ""
+msgstr "أبعاد الأعمدة"
 
 #: row_dimensions
 msgid "Row dimensions"
-msgstr ""
+msgstr "أبعاد التوالي"
 
 #: report_filter
 msgid "Report filter"
@@ -768,7 +777,7 @@ msgstr ""
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "حول"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
@@ -808,11 +817,11 @@ msgstr ""
 
 #: event_data_items
 msgid "Event data items"
-msgstr ""
+msgstr "عناصر بيانات الحدث"
 
 #: program_indicators
 msgid "Program indicators"
-msgstr ""
+msgstr "مؤشرات البرنامج"
 
 #: program
 msgid "Program"
