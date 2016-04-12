@@ -1,37 +1,35 @@
-#. #-- Application name -----------------------------------------------------------#
+﻿#. #-- Application name -----------------------------------------------------------#
 #. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-03-30 11:33+0000\n"
-"Last-Translator: antonia <antonia@informa.pro>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ku\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1459337631.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
 
-#: district_health_information_software
+#: district_health_information_software 
 msgid "District Health Information Software 2"
-msgstr ""
+msgstr "بةشي بةرنامةي زانياري تةندوروستي 2 "
 
 #: dhis2
 msgid "DHIS 2"
-msgstr ""
+msgstr "دي ئيج اي س 2"
 
 #. #-- dhis-wp --------------------------------------------------------------------#
 #: no_page_specified
 msgid "No page specified"
-msgstr "نەو پێيج سپێسەفايد"
+msgstr  " هيج لابةرةك دياري نةكراوة"
 
 #: an_exception_occured
 msgid "An exception occurred"
-msgstr "ئەن ئيكسێپشەن ئەكێد"
+msgstr "روداوي جاوةروان نةكراو"
 
 #: exception_explanation_text
 msgid ""
@@ -45,179 +43,179 @@ msgstr "ئيكسێپشەن"
 
 #: caused_by
 msgid "Caused by"
-msgstr ""
+msgstr "بةهؤي"
 
 #: unknown_source
 msgid "Unknown source"
-msgstr ""
+msgstr "سةرجاوةي نةناسراو"
 
 #: logged_in
 msgid "Logged in"
-msgstr ""
+msgstr "جونة زورةوة"
 
 #: not_logged_in
 msgid "Not logged in"
-msgstr ""
+msgstr "نةجويتة زورةوة"
 
 #: log_out
 msgid "Log out"
-msgstr ""
+msgstr "جونةدةرةوة"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "دةربارةي"
 
 #: access_denied
 msgid "Access denied"
-msgstr ""
+msgstr "رةت كراوة"
 
 #: access_denied_message
 msgid "You don't have sufficient authority to view this page"
-msgstr ""
+msgstr "دةسةلاتت نية بو بينيني ئةم لابةرة"
 
 #: create_access_denied_message
 msgid "You don't have create access to object"
-msgstr ""
+msgstr "كريةت اكسست نية بة ئةم بابةتة"
 
 #: read_access_denied_message
 msgid "You don't have read access to object"
-msgstr ""
+msgstr "ريد اكسست نية بؤ ئةم بابةتة"
 
 #: update_access_denied_message
 msgid "You don't have update access to object"
-msgstr ""
+msgstr "ئةبديت اكسست نية بؤ ئةم بابةتة"
 
 #: delete_access_denied_message
 msgid "You don't have delete access to object"
-msgstr ""
+msgstr "ديليت اكسست نية بؤ ئةم بابةتة"
 
 #: go_back
 msgid "Go back"
-msgstr ""
+msgstr "بؤ دواوة" 
 
 #: main_menu
 msgid "Main menu"
-msgstr ""
+msgstr "ليستى سەرەكى"
 
 #: maintenance
 msgid "Maintenance"
-msgstr ""
+msgstr "سةرةكي"
 
 #: services
 msgid "Services"
-msgstr ""
+msgstr "خزمةن كوزاري"
 
 #. #-- dhis-ouwt ------------------------------------------------------------------#
 #: org_unit_tree
 msgid "Organisation Unit Tree"
-msgstr ""
+msgstr "زنجيرةي يةكةي ئوركةنيزةيشن"
 
 #: specify_organisationunit
 msgid "Please specify an organisation unit"
-msgstr ""
+msgstr "بةيارمةتيت يةكيك لة يةكةي اوركانيزيشون هةلبزيرة "
 
 #: cannot_clear_selected_orgunits
 msgid "Cannot clear the selected organisation units"
-msgstr ""
+msgstr "ناتواني ئةو يةكة اوركةنيزيشنةي وةرتكرتوة باك بكةي"
 
 #: locate_organisation_unit_by_name
 msgid "Locate organisation unit by name"
-msgstr ""
+msgstr "ريكخستني يةكةكان بةكويرةي ناو"
 
 #: error_occurred
 msgid "An error has occurred."
-msgstr ""
+msgstr "هةلةيةك كراوة"
 
 #: select_organisationunit
 msgid "You must select an OrganisationUnit from the tree."
-msgstr ""
+msgstr "بيويستة يةكيك لة سةنتةرةكان هةلبزيري"
 
 #. #-- Modules --------------------------------------------------------------------#
 #: dhis-web-maintenance-datadictionary
 msgid "Data Elements / Indicators"
-msgstr ""
+msgstr "يةكةي داتا / ريبةر"
 
 #: dhis-web-maintenance-dataset
 msgid "Data Sets"
-msgstr ""
+msgstr "داخل كردني داتا "
 
 #: dhis-web-maintenance-organisationunit
 msgid "Organisation Units"
-msgstr ""
+msgstr "يةكةي اوركةنيزيشون"
 
 #: dhis-web-maintenance-user
 msgctxt "dhis-web-maintenance-user"
 msgid "Users"
-msgstr ""
+msgstr "بةكارهينةرةكان"
 
 #: dhis-web-maintenance-dataadmin
 msgid "Data Administration"
-msgstr ""
+msgstr "بةريوةبردني داتا"
 
 #: dhis-web-maintenance-settings
 msgctxt "dhis-web-maintenance-settings"
 msgid "Settings"
-msgstr ""
+msgstr "ريكخستن"
 
 #: dhis-web-maintenance-program
 msgid "Programs / Attributes"
-msgstr ""
+msgstr "بةرنامةكان / تايبةتمةندي "
 
 #: dhis-web-maintenance-mobile
 msgid "Mobile Configuration"
-msgstr ""
+msgstr "ريكخستن"
 
 #: dhis-web-maintenance-appmanager
 msgid "App Management"
-msgstr ""
+msgstr "بةريوةبردني بةرنامةكان"
 
 #: dhis-web-caseentry
 msgid "Individual Records"
-msgstr ""
+msgstr "توماري تاك"
 
 #: dhis-web-dataentry
 msgid "Data Entry"
-msgstr ""
+msgstr "داخل كةري داتا"
 
 #: dhis-web-importexport
 msgid "Import-Export"
-msgstr ""
+msgstr "داخل كردن- وةركرتن"
 
 #: dhis-web-validationrule
 msgid "Data Quality"
-msgstr ""
+msgstr "جوري داتا"
 
 #: dhis-web-mapping
 msgid "GIS"
-msgstr ""
+msgstr "جي اي اس"
 
 #: dhis-web-event-capture
 msgid "Event Capture"
-msgstr ""
+msgstr "داخل كردني حالة"
 
 #: dhis-web-event-reports
 msgid "Event Reports"
-msgstr ""
+msgstr "رابورتي ئيفينت"
 
 #: dhis-web-event-visualizer
 msgid "Event Visualizer"
-msgstr ""
+msgstr "جاوةروانكراوي ئيفينت"
 
 #: dhis-web-tracker-capture
 msgid "Tracker Capture"
-msgstr ""
+msgstr "كرتني تراكير"
 
 #: dhis-web-cache-cleaner
 msgid "Browser Cache Cleaner"
-msgstr ""
+msgstr "باكردنةوةي زيادةي براوسير"
 
 #: dhis-web-reporting
 msgid "Reports"
-msgstr ""
+msgstr "رابورت"
 
 #: dhis-web-light
 msgid "Mobile (Light)"
-msgstr ""
+msgstr "موبايلي ئاسايي"
 
 #: dhis-web-mobile
 msgid "Mobile (Smartphone)"
@@ -226,27 +224,27 @@ msgstr ""
 #: dhis-web-dashboard-integration
 msgctxt "dhis-web-dashboard-integration"
 msgid "Dashboard"
-msgstr ""
+msgstr "بؤردي بةريوةبردن"
 
 #: dhis-web-visualizer
 msgid "Data Visualizer"
-msgstr ""
+msgstr "داتا فيجولايزر"
 
 #: dhis-web-pivot
 msgid "Pivot Table"
-msgstr ""
+msgstr "خشتةي خولي"
 
 #: dhis-web-dashboard
 msgid "Data Analyser"
-msgstr ""
+msgstr "شيتةل كردني داتا"
 
 #: dhis-web-integration
 msgid "NHRM Integration"
-msgstr ""
+msgstr "ليكداني ان اج ار ام"
 
 #: dhis-web-reports
 msgid "NRHM Reports"
-msgstr ""
+msgstr "رابؤرتي ان اج ار ام"
 
 #: dhis-web-dataentry-national
 msgid "Linelisting Data Entry"
@@ -254,7 +252,7 @@ msgstr ""
 
 #: dhis-web-validationrule-local-in
 msgid "Validation Analysis"
-msgstr ""
+msgstr "شيتةل كردني دلنيا بوون لة راستي"
 
 #: dhis-web-survey
 msgid "Survey - Target"
@@ -262,53 +260,53 @@ msgstr ""
 
 #: dhis-web-spreadsheet-reporting
 msgid "Spreadsheet Reports"
-msgstr ""
+msgstr "رابورتي خشتةكان"
 
 #: dhis-web-sms
 msgid "SMS"
-msgstr ""
+msgstr "نامة"
 
 #: dhis-web-maintenance-in
 msgid "Configuration"
-msgstr ""
+msgstr "ريكخستن"
 
 #: dhis-web-linelisting-mp
 msgid "Manpower"
-msgstr ""
+msgstr "هيزي كار"
 
 #: dhis-web-maintenance-rbf
 msgid "Maintenance RBF"
-msgstr ""
+msgstr "سةرةكي"
 
 #. #-- Intro modules -------------------------------------------------------------#
 #: intro_dhis-web-maintenance-datadictionary
 msgid "Maintain data elements, indicators, categories and groups."
-msgstr ""
+msgstr "يةكةكاني داتاي سةرةكي ,ريبةرةكان , بةشةكان , وة كؤمةلةكان"
 
 #: intro_dhis-web-maintenance-dataset
 msgid ""
 "Maintain data sets, custom forms, sections and compulsory data elements."
-msgstr ""
+msgstr "داخلكردني داتاي سةرةكي ,فورمي ناسراو ,بةش و يةكةكاني داتاي سةرةكي  "
 
 #: intro_dhis-web-maintenance-organisationunit
 msgid "Maintain organisation units and its hierarchy, groups and group sets."
-msgstr ""
+msgstr "يةكة سةرةكيكان وة زنجيرةي هةرةمي , كروبةكان و داخل كرجني كروبةكان"
 
 #: intro_dhis-web-maintenance-user
 msgid ""
 "Maintain users in terms of authorities and passwords, user roles and groups."
-msgstr ""
+msgstr "بةكارهينةرة سةرةكيةكان لة بركةي دةسةلات و وشةي نهيني , ياساكاني بةكارهينةر و كروبةكان"
 
 #: intro_dhis-web-maintenance-dataadmin
 msgid ""
 "Maintain resource tables, check data integrity, see statistics and more."
-msgstr ""
+msgstr "خشتةي سةرةكي سةرجاوةكان , بشكنيني داتاي داخلكراو , بينيني تؤمارةكان و زياتر"
 
 #: intro_dhis-web-maintenance-settings
 msgid ""
 "Maintain user and system settings related to appearance, notifications and "
 "more."
-msgstr ""
+msgstr "بةكارهينةري سةرةكي و وستينكي سيستةم كةبةيوةستة بة سةيركردن, ونتيشيفيكويشن و زياتر"
 
 #: intro_dhis-web-maintenance-program
 msgid ""
@@ -318,68 +316,68 @@ msgstr ""
 #: intro_dhis-web-maintenance-mobile
 msgid ""
 "Maintain data sets plus settings for mobile reporting and SMS configuration."
-msgstr ""
+msgstr "داخلكردني داتاي سةرةكي وةهةروةها سيتينكي موبايل بة رابورتي موبايل و ريكخستني نامة "
 
 #: intro_dhis-web-maintenance-appmanager
 msgid ""
 "Access and upload apps, which are extensions to the standard user interface."
-msgstr ""
+msgstr " كيشتن و ابلود كرني بةرنامةكةان كة هاوبيجن لة كةل رووي بةكارهينةري ئاسايي "
 
 #: intro_dhis-web-caseentry
 msgid ""
 "Register beneficiaries, enter data for encounters and events and view "
 "reports."
-msgstr ""
+msgstr "تؤمار كردني سوود وةركرةكان داخل كردنب داتا بؤ جاوبيكةتنةكان و كردارةكان و بينيني رابؤرتةكان"
 
 #: intro_dhis-web-dataentry
 msgid ""
 "Enter data for forms either on-line or off-line, validate data and view data "
 "trends."
-msgstr ""
+msgstr "داخلكردتي داتا بؤ ئةو فؤرمانةي كو اون لاين يان اوف لاينن,بشكنين لة راستي داتا وبيني داتا, سةرجةمةكان "
 
 #: intro_dhis-web-importexport
 msgid ""
 "Import and export data from DHIS or third-party systems on various formats."
-msgstr ""
+msgstr "داخل كردن و وةركتني داتا لة دي اج تي اس يان لايةني سيةمي سيستةم بة شيوةي جياواز"
 
 #: intro_dhis-web-validationrule
 msgid ""
 "Validate and assess data quality using validation rules or statistical "
 "methods."
-msgstr ""
+msgstr "شيتةل كردن و هةلسةنكاندني راستي داتا بة بةكارهيناني ياساي دلنيا بوون لة راستي يان ئامارةكان "شيواز"
 
 #: intro_dhis-web-mapping
 msgid ""
 "Visualize data on maps using polygons, points, symbols in multiple layers."
-msgstr ""
+msgstr "وينةكرتني داتا لة نةخشة بةبةكارهيناني بولي كونس و رةمز لة ئاستي جياواز"
 
 #: intro_dhis-web-reporting
 msgid ""
 "Analyse data and reporting rates using predefined and dynamic report tools."
-msgstr ""
+msgstr "شيتةل كردني داتاو رابورت كردن تيكراي بةكارهيناني ئاميري رابورتي دياري كراوي بيشتر و ديناميكي "
 
 #: intro_dhis-web-light
 msgid "Access a mobile device optimized version of data entry and analysis."
-msgstr ""
+msgstr "كةيشتن بة باشترين فيرزني موبايل بو داخل و شيتةل كردني داتاكان"
 
 #: intro_dhis-web-mobile
 msgid ""
 "Access a smartphone optimized version of data entry, settings, messages."
-msgstr ""
+msgstr "كةيشتن بة باشترين فيرزني موبايلي زيرةك بو داخلكردن و ريكخستني داتا , ونامةكان "
 
 #: intro_dhis-web-dashboard-integration
 msgid ""
 "Get an overview of favorite charts, reports and maps and view or write "
 "messages."
-msgstr ""
+msgstr "دةست كةوتني شيوازيكي كشتي لة نةخشة بةسندةكان و رابورت و ونةخشة بة وينة يان نوسين " نامةكان "
 
 #: intro_dhis-web-visualizer
 msgid "Create dynamic data visualizations for data elements and indicators."
-msgstr ""
+msgstr "دروستكردني داتا جاوةروان كراوةكان وديناميكي بؤ يةكةي داتا وة دةرخستني"
 
 #: intro_dhis-web-pivot
 msgid "Generate flexible pivot tables with data aggregated in all dimensions."
-msgstr ""
+msgstr "دروستكردني خشتةي تةوةري لة كةل كوكردنةوةي داتا لة هةموو شوينيك "
 
 #: intro_dhis-web-sms
 msgid "Send SMS reminders and notifications manually or as scheduled tasks."
