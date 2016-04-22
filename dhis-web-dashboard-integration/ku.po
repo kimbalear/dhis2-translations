@@ -1,219 +1,223 @@
-#. extracted from /home/jason/development/dhis2/dhis-2//dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties
-#, fuzzy
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-09-27 09:02+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-03-31 10:03+0000\n"
+"Last-Translator: david.huser <david.huser@swisstph.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1459418598.0\n"
+
 
 #: dashboard
 msgid "Dashboard"
-msgstr ""
+msgstr "بؤردي بةريَوة بردن"
 
 #: insert
 msgid "Insert"
-msgstr ""
+msgstr "داخلكردن"
 
 #: close
 msgid "Close"
-msgstr ""
+msgstr "داخستن"
 
 #: clear
 msgid "Clear"
-msgstr ""
+msgstr "روون"
 
 #: rss_health
 msgid "RSS Health"
-msgstr ""
+msgstr "ار اس اس تةندروستي"
 
 #: rss_diseases
 msgid "RSS Diseases"
-msgstr ""
+msgstr "ار اس اس نةخؤشي"
 
 #: report
 msgid "Reports"
-msgstr ""
+msgstr "رابؤرتةكان"
 
 #: document
 msgid "Resources"
-msgstr ""
+msgstr "بنةماكان"
 
 #: report_table
 msgid "Report tables"
-msgstr ""
+msgstr "رابؤرتي خشتةكان"
 
 #: map_view
 msgctxt "map_view"
 msgid "Maps"
-msgstr ""
+msgstr "نةخشةكان"
 
 #: map
 msgctxt "map"
 msgid "Maps"
-msgstr ""
+msgstr "نةخشةكان"
 
 #: this_is_a_link_area
 msgid "This is a link area"
-msgstr ""
+msgstr "ئةم شويَنة ثةيوةندة بة "
 
 #: click_insert_and_select_link
 msgid "Click insert and select links"
-msgstr ""
+msgstr "داخلكردن بة كليك و لينك هةلذيَرة"
 
 #: this_is_a_chart_area
 msgid "This is a chart area"
-msgstr ""
+msgstr "ئةمة هيَلكاري شوينة"
 
 #: click_insert_and_select_chart
 msgid "Click Insert and select a chart"
-msgstr ""
+msgstr "كليك بكة وه هيَلكاري هةلبزيرة"
 
 #: insert_links_by_going_to
 msgid "Insert links by going to"
-msgstr ""
+msgstr "لينكةكان داخل بكة بة رؤيشتن بؤ"
 
 #: messages
 msgid "Messages"
-msgstr ""
+msgstr "نامةكان"
 
 #: sender
 msgid "Sender"
-msgstr ""
+msgstr "نيَنةر"
 
 #: date
 msgid "Date"
-msgstr ""
+msgstr "داتا"
 
 #: subject
 msgid "Subject"
-msgstr ""
+msgstr "بابةت"
 
 #: remove
 msgid "Remove"
-msgstr ""
+msgstr "سرينةوة"
 
 #: write_message
 msgid "Write message"
-msgstr ""
+msgstr "نوسيني نامة"
 
 #: write_feedback
 msgid "Write feedback"
-msgstr ""
+msgstr "نوسيني دةستكةوت"
 
 #: write_new_message
 msgid "Write new message"
-msgstr ""
+msgstr "نوسيني نامةي نوي"
 
 #: write_new_feedback
 msgid "Write new feedback"
-msgstr ""
+msgstr "نوسيني دةستكةوتي نوي"
 
 #: recipients
 msgid "Recipients"
-msgstr ""
+msgstr "وةركر"
 
 #: mark_unread
 msgid "Mark as unread"
-msgstr ""
+msgstr "ئامازة كردني وةك نةخويندراو"
 
 #: mark_read
 msgid "Mark as read"
-msgstr ""
+msgstr "ئامازة كردني وةك خويندراو"
 
 #: mark_followup
 msgid "Mark for followup"
-msgstr ""
+msgstr "ئامازة كردني وةك فولو اب"
 
 #: clear_followup
 msgid "Clear followup"
-msgstr ""
+msgstr "فولو ابي روون"
 
 #: read
 msgid "Read"
-msgstr ""
+msgstr "خويندن"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "سرينةوة"
 
 #: confirm_delete_message
 msgid "Are you sure you want to delete the message?"
-msgstr ""
+msgstr "تو دلنياي دةتةويت ئةم ناميةي رةش بكةي "
 
 #: confirm_delete_all_selected_messages
 msgid "Are you sure you want to delete all selected messages?"
-msgstr ""
+msgstr "دلنياي دةتةوي هةموو ئةو نامانةي هةلت بزاردوة رةش دةكةي "
 
 #: no_messages_selected
 msgid "No messages selected"
-msgstr ""
+msgstr "هيج نامةت هةلنةبزاردووة"
 
 #: unread_messages
 msgid "unread messages"
-msgstr ""
+msgstr "ةنامة نةخويندراوةكان"
 
 #: unread_message
 msgid "unread message"
-msgstr ""
+msgstr "نامةي نةخويندراو"
 
 #: messages_were_deleted
 msgid "Messages were deleted"
-msgstr ""
+msgstr "نامةكان رةشكران"
 
 #: discard
 msgid "Discard"
-msgstr ""
+msgstr "كةمدةكات"
 
 #: enter_subject
 msgid "Please enter a subject"
-msgstr ""
+msgstr "تكاية بابةت بنوسة"
 
 #: enter_text
 msgid "Please enter text"
-msgstr ""
+msgstr "تكاية دةقي نامة بنوسة"
 
 #: reply
 msgid "Reply"
-msgstr ""
+msgstr "وةلامدانةوة"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "ناوي بةكارهينةر"
 
 #: user_roles
 msgid "User roles"
-msgstr ""
+msgstr "ياساي بةكارهينةر"
 
 #: user_usergroups
 msgid "User/User Groups"
-msgstr ""
+msgstr "كؤمةلةي بةكارهينةر"
 
 #: select_one_or_more_recipients
 msgid "Select one or more recipients"
-msgstr ""
+msgstr "يةك يان زياتر لة وةركرةكان هةلبزيرة"
 
 #: meta_data
 msgid "Meta data"
-msgstr ""
+msgstr "داتاي ميتا"
 
 #: sending_message
 msgid "Sending message"
-msgstr ""
+msgstr "ناردني نامة"
 
 #: explore
 msgid "Explore"
-msgstr ""
+msgstr "ئكسبلور"
 
 #: interpretations
 msgid "Interpretations"
-msgstr ""
+msgstr "ليكدانةوة"
 
 #: share_your_own_interpretations_from
 msgid "Share your own interpretations from"
@@ -529,4 +533,4 @@ msgstr ""
 
 #: get_as_image
 msgid "Get as image"
-msgstr ""
+msgstr "گێت ئاز ئيمەج"

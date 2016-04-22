@@ -1,4 +1,4 @@
-﻿#. #-- Application name -----------------------------------------------------------#
+#. #-- Application name -----------------------------------------------------------#
 #. extracted from /home/jason/development/dhis2/dhis-2/dhis-services/dhis-service-core/src/main/resources/i18n_global.properties
 msgid ""
 msgstr ""
