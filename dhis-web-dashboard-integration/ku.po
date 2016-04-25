@@ -1,21 +1,19 @@
-#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties
+﻿#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-03-31 10:03+0000\n"
-"Last-Translator: david.huser <david.huser@swisstph.org>\n"
+"PO-Revision-Date: 2016-04-25 13:13+0000\n"
+"Last-Translator: antonia <antonia@informa.pro>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ar\n"
+"Language: ku\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1459418598.0\n"
-
+"X-POOTLE-MTIME: 1459354377.0\n"
 
 #: dashboard
 msgid "Dashboard"
@@ -161,7 +159,7 @@ msgstr "هيج نامةت هةلنةبزاردووة"
 
 #: unread_messages
 msgid "unread messages"
-msgstr "ةنامة نةخويندراوةكان"
+msgstr "نامة نةخويندراوةكان"
 
 #: unread_message
 msgid "unread message"
@@ -221,159 +219,159 @@ msgstr "ليكدانةوة"
 
 #: share_your_own_interpretations_from
 msgid "Share your own interpretations from"
-msgstr ""
+msgstr "بلاوكردنةوةي ليكدانةوةكاني خؤت"
 
 #: gis
 msgid "GIS"
-msgstr ""
+msgstr "جي اي اس"
 
 #: pivot_table
 msgid "Pivot table"
-msgstr ""
+msgstr "خشتةي تةوةري"
 
 #: add_a_comment
 msgid "Add a comment"
-msgstr ""
+msgstr "داناني تيبيني "
 
 #: new_interpretations
 msgid "new interpretations"
-msgstr ""
+msgstr "ليَكدانةوة نويكان"
 
 #: new_interpretation
 msgid "new interpretation"
-msgstr ""
+msgstr "ليكدانةوةي نوي"
 
 #: click_to_view_report_table
 msgid "Click to view report table"
-msgstr ""
+msgstr "كليك بكة بؤ بينيني خشتةي رابورت"
 
 #: click_to_view_in_data_visualizer
 msgid "Click to view in Data Visualizer"
-msgstr ""
+msgstr " كليك بكة بؤ بينيني داتا جاوةروانكراوةكان "
 
 #: click_to_view_in_gis
 msgid "Click to view in GIS"
-msgstr ""
+msgstr "كليك بكة بؤ بينيي جي اي اس "
 
 #: click_to_view_data_set_report
 msgid "Click to view data set report"
-msgstr ""
+msgstr "كليك بكة بؤ بينيني ئاميري ريبورت كةر"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "بلاوكردنةوة"
 
 #: write_your_interpretation
 msgid "Write a comment, question or interpretation"
-msgstr ""
+msgstr "تيبيني بنوسة ,برسيار يان ليكدانةوة"
 
 #: share_your_interpretation_of
 msgid "Share your interpretation of"
-msgstr ""
+msgstr "بلاوكردنةوةي ليكدانةوةي خؤت "
 
 #: interpretation_was_shared
 msgid "Interpretation was shared"
-msgstr ""
+msgstr "ليكدانةوةكةت بلاو بووةوة"
 
 #: viewing
 msgid "Viewing"
-msgstr ""
+msgstr "بينيني "
 
 #: from
 msgid "From"
-msgstr ""
+msgstr "لة"
 
 #: load_favorite_click_share
 msgid "load a favorite and click 'Share' on the top menu"
-msgstr ""
+msgstr "هةلككرتني بةسةندو كليك بكة لة بلاوكردنةوة لة سةرةوةي ليست"
 
 #: generate_pivot_table_click_share
 msgid "generate a pivot table and click 'Share' on the top menu"
-msgstr ""
+msgstr "خشتةي تةوةر دةستدةكةويت"كليك بكة لة بلاوكردنةوة لة سةرةوةي ليست 
 
 #: share_interpretation
 msgid "Share interpretation"
-msgstr ""
+msgstr "بلاوكردنةوةي ليكدانةوةكان"
 
 #: select_users_and_user_groups
 msgid "Select users and user groups"
-msgstr ""
+msgstr "هةلبزاردني بةكارهينةرةكان و كومةلةي بةكارهيتةرةكان"
 
 #: selected_more_than_200_user
 msgid "You have {userCount} recipients, please reduce to 200 or less"
-msgstr ""
+msgstr "تو {userCount}ت وةركرةكان تكاية كامبكةوة بؤ 200 يان كةمتر "
 
 #: generate_data_set_report_click_share
 msgid "generate a data set report and click 'Share' on the top menu"
-msgstr ""
+msgstr "رابورتي داتاي نيردراو دروست بك"كليك بكة لة بلاوكردنةوة لة سةرةوةي ليست
 
 #: data_visualizer
 msgid "Data visualizer"
-msgstr ""
+msgstr "داتاي جاوةروان كراو"
 
 #: data_set_report
 msgid "Data set report"
-msgstr ""
+msgstr "ئاميري دروستكردني رابورتي داتا "
 
 #: search_for_users_charts_maps_reports
 msgid "Search for users, charts, maps, reports and resources"
-msgstr ""
+msgstr "كةران بةدواي بةكارهينةرةكان , هيلكاريةكان , نةخشةكان , رابؤرتةكان و سةرجاوةكان"
 
 #: no_hits
 msgid "No hits, try again"
-msgstr ""
+msgstr "هيج ليدان نية دوبارة هةول بدة"
 
 #: profile
 msgid "Profile"
-msgstr ""
+msgstr "بروفايل"
 
 #: works_as
 msgid "Works as"
-msgstr ""
+msgstr "ئيش دةكات وةك"
 
 #: employed_at
 msgid "Employed at"
-msgstr ""
+msgstr "كاركوزار لة"
 
 #: interested_in
 msgid "Interested in"
-msgstr ""
+msgstr "داخل ئةكات لة "
 
 #: speaks
 msgid "Speaks"
-msgstr ""
+msgstr "قسة دةكات"
 
 #: email
 msgid "Email"
-msgstr ""
+msgstr "ئيميل"
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "زمارةي تةلةفون"
 
 #: org_units
 msgid "Org units"
-msgstr ""
+msgstr "يةكةي ريكخراو"
 
 #: edit_profile
 msgid "Edit profile"
-msgstr ""
+msgstr "ريكخستني بروفايل"
 
 #: inbox
 msgid "Inbox"
-msgstr ""
+msgstr "سندوقي نامة"
 
 #: follow_up
 msgid "Follow up"
-msgstr ""
+msgstr "دواي دةكةويت"
 
 #: unread
 msgid "Unread"
-msgstr ""
+msgstr "نةخويندراو"
 
 #: send_message
 msgid "Send message"
-msgstr ""
+msgstr "ناردني نامة"
 
 #: to
 msgid "To"
@@ -381,156 +379,156 @@ msgstr ""
 
 #: scroll_down
 msgid "Scroll down"
-msgstr ""
+msgstr "بؤ خوارةوة"
 
 #: scroll_up
 msgid "Scroll up"
-msgstr ""
+msgstr "بؤ سةرةوة"
 
 #: latest_interpretations
 msgid "Latest interpretations"
-msgstr ""
+msgstr "نويترين ليكدانةوةكان"
 
 #: view_full_profile
 msgid "View full profile"
-msgstr ""
+msgstr "بيشاندني تةواوي بروفايل"
 
 #: view_full_size
 msgid "View full size"
-msgstr ""
+msgstr "بيشانداني قةبارةي تةواو"
 
 #: click_to_explore
 msgid "Click to explore"
-msgstr ""
+msgstr "كليك بكة لة ئيكسبلورير "
 
 #: to_org_unit
 msgid "To org unit"
-msgstr ""
+msgstr "بو يةكةي ريكخراو"
 
 #: to_user
 msgid "To user"
-msgstr ""
+msgstr "بو بةكارهينةر"
 
 #: update_profile
 msgid "update profile!"
-msgstr ""
+msgstr "نوي كردنةوةي بروفايل"
 
 #: or
 msgid "or"
-msgstr ""
+msgstr "يان"
 
 #: groups
 msgid "Groups"
-msgstr ""
+msgstr "كؤمةل"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "كةران"
 
 #: rename_current_dashboard
 msgid "Rename current dashboard"
-msgstr ""
+msgstr "ناوكؤريني تةختةي بيوانةي ئيستا"
 
 #: delete_current_dashboard
 msgid "Delete current dashboard"
-msgstr ""
+msgstr "سرينةوةي تةختةي بيواني ئيستا"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "زيادكرني نوي"
 
 #: manage
 msgid "Manage"
-msgstr ""
+msgstr "بةريوةبردن"
 
 #: sharing
 msgid "Sharing"
-msgstr ""
+msgstr "بلاوكردنةوة"
 
 #: click_add_new_to_get_started
 msgid "Click 'Add new' to get started"
-msgstr ""
+msgstr "كليك بكة بؤ زيادكردني نوي بة دةستبيكردن"
 
 #: add_stuff_by_searching
 msgid "Add stuff by searching from the search field above"
-msgstr ""
+msgstr "زيادكردني شت بة فورمي كةران لة سةر بةشي كةران"
 
 #: arrange_dashboard_by_dragging_and_dropping
 msgid "Then arrange dashboard by dragging and dropping items"
-msgstr ""
+msgstr "باشان ريكخستني تةختةي بيوانةكان بة راكيشان و وةركرتني بركةكان"
 
 #: click_to_explore_drag_to_new_position
 msgid "Click to explore or drag to new position"
-msgstr ""
+msgstr "كليك بكة بو ئيكسيلورير يان رايبكيشة بؤ شويني نوي "
 
 #: click_and_drag_to_new_position
 msgid "Click and drag to new position"
-msgstr ""
+msgstr "كليك بكة ورايبكيشة بؤ شويني نوي "
 
 #: drag_to_new_position
 msgid "Drag to new position"
-msgstr ""
+msgstr "راي بكيشة بؤ شويني نوي "
 
 #: system_notification
 msgid "System notification"
-msgstr ""
+msgstr "سيستم نوتيفيكةيشن"
 
 #: and
 msgid "and"
-msgstr ""
+msgstr "و"
 
 #: more
 msgid "more"
-msgstr ""
+msgstr "زياتر"
 
 #: see_more_hits
 msgid "See more hits"
-msgstr ""
+msgstr "ليداني وي ببينة"
 
 #: see_fewer_hits
 msgid "See fewer hits"
-msgstr ""
+msgstr "ايداني كةمتر ببينة"
 
 #: add
 msgid "Add"
-msgstr ""
+msgstr "زاتكردن"
 
 #: resize
 msgid "Resize"
-msgstr ""
+msgstr "كوراني قةبارة"
 
 #: add_items_to_current_dashboard
 msgid "Add items to current dashboard"
-msgstr ""
+msgstr "زيادكرني شت بؤ تةختةي بيوانةكان"
 
 #: could_not_delete_interpretation
 msgid "Could not delete interpretation, please try again later"
-msgstr ""
+msgstr "ناتوانريت ليكدانةوةكان بسرينةوة دواتري هةولبدة"
 
 #: could_not_delete_interpretation_comment
 msgid "Could not delete interpretation comment, please try again later"
-msgstr ""
+msgstr "ناتوانريت تيبيني ليكدانةوةكان رةشبكريتةوة دواتر هةلبدة"
 
 #: could_not_save_interpretation
 msgid "Could not save interpretation, please try again later"
-msgstr ""
+msgstr "ناتوانريت ليكدانةوةكان تؤمار بكريت دواتر هةولبدة"
 
 #: applies_to_favorites_with_user_org_units_only
 msgid "Applies to favorites with \"user org units\" only"
-msgstr ""
+msgstr "جيبةجي بكة بة فافوريت لةكةل / " بةكارهينةري يةكةي ريكخراو/" بةس "
 
 #: user_org_unit_filter
 msgid "User organisation unit filter"
-msgstr ""
+msgstr "فلتةري بةكارهينةري يةكةي دةزكا"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "دابةزاندن"
 
 #: api_link
 msgid "API link"
-msgstr ""
+msgstr "بةستةري اي بي اي"
 
 #: get_as_image
 msgid "Get as image"
-msgstr "گێت ئاز ئيمەج"
+msgstr "دةستكةوتني وةك وينة"
