@@ -4,393 +4,390 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-04-28 10:37+0000\n"
-"Last-Translator: Antonia <antonia@informa.pro>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ku\n"
+"Language: ky\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1461839837.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
 
 #: home
 msgid "Home"
-msgstr "ماڵةوة"
+msgstr ""
 
 #: dhis2
 msgid "DHIS2"
-msgstr "دي ئيج اي س 2"
+msgstr ""
 
 #: dhis2_home
 msgid "DHIS2 Home"
-msgstr "مالةوة دي اج هي هس 2 "
+msgstr ""
 
 #: event_capture
 msgid "Event capture"
-msgstr "داخل كردني حالة"
+msgstr ""
 
 #: registering_unit
 msgid "Registering unit"
-msgstr "تؤمار كردني يةكة"
+msgstr ""
 
 #: registered_events
 msgid "Registered events"
-msgstr "رووداوي تؤماركراو"
+msgstr ""
 
 #: new_event_registration
 msgid "New event registration"
-msgstr "تؤماركردني رووداوي نوي"
+msgstr ""
 
 #: event_details
 msgid "Event details"
-msgstr "دريذةي رووداوةكان"
+msgstr ""
 
 #: no_registered_event
 msgid "There are no registered events."
-msgstr "هيج رووداويكي تؤماؤكراو نيية"
+msgstr ""
 
 #: event_registration_error
 msgid "Error in event registration"
-msgstr "هةلة هةية لة تؤماركردني رووداوةكان"
+msgstr ""
 
 #: validation_error
 msgid "Validation Error"
-msgstr "هةلة لة سةلماندن"
+msgstr ""
 
 #: help
 msgid "Help"
-msgstr "هاوكاري"
+msgstr ""
 
 #: click_for_action
 msgid "Click for more actions"
-msgstr "كليك بكة بو هةلبزاردني زياتر"
+msgstr ""
 
 #: details
 msgid "Details"
-msgstr "دريزة"
+msgstr ""
 
 #: created_by
 msgid "Registered by"
-msgstr "تؤماركراوة بة"
+msgstr ""
 
 #: date
 msgid "Date"
-msgstr "داتا"
+msgstr ""
 
 #: edit
 msgid "Edit"
-msgstr "دةستكاري"
+msgstr ""
 
 #: edit_in_grid
 msgid "Edit in grid"
-msgstr "دةستكاري كردني تؤر "
+msgstr ""
 
 #: full_edit
 msgid "Full edit"
-msgstr "دةستكاري كردني تةواو"
+msgstr ""
 
 #: update
 msgid "Update"
-msgstr "نويَ كردنةوة"
+msgstr ""
 
 #: save
 msgid "Save"
-msgstr "خةزن كردن"
+msgstr ""
 
 #: save_and_add_new
 msgid "Save and add new"
-msgstr "خةزن كردن زيادكرني نوي "
+msgstr ""
 
 #: save_and_close
 msgid "Save and close"
-msgstr "خةزن كردن و داخستن"
+msgstr ""
 
 #: save_and_back
 msgid "Save and go back"
-msgstr "خوزن كردن و جون بؤ دواوة"
+msgstr ""
 
 #: delete
 msgid "Delete"
-msgstr "سرينةوة"
+msgstr ""
 
 #: cancel
 msgid "Cancel"
-msgstr "بوجةلكردن"
+msgstr ""
 
 #: close
 msgid "Close"
-msgstr "داخستن"
+msgstr ""
 
 #: discard
 msgid "Discard"
-msgstr "فري دان"
+msgstr ""
 
 #: back
 msgid "Back"
-msgstr "كةرانةوة"
+msgstr ""
 
 #: go_back
 msgid "Go back"
-msgstr "جون بو دواوة"
+msgstr ""
 
 #: section
 msgid "Section"
-msgstr "بةش"
+msgstr ""
 
 #: form_invalid
 msgid "Form is invalid. Please check for required fields."
-msgstr "فؤرمةكة دروست نية تكاية بةشة بيويستةكان بشكنين بكة"
+msgstr ""
 
 #: required
 msgid "Required"
-msgstr "ثيويست"
+msgstr ""
 
 #: int_required
 msgid "Value must be a number"
-msgstr "بةهاكة دةبيت ذمارة بيت"
+msgstr ""
 
 #: string_required
 msgid "Value must be a text"
-msgstr "بةهاكة دةبيت نوسين بيت"
+msgstr ""
 
 #: date_required
 msgid "Value must be date"
-msgstr "بةهاكة دبيت بةروار بيت"
+msgstr ""
 
 #: bool_required
 msgid "Value must be true/false."
-msgstr "بةهاكة دبيت راست/هةلة بيت"
+msgstr ""
 
 #: option_required
 msgid "Option is required. Please select one."
-msgstr "هةلبزاردن بيوسيتة . تكاية يةكيك هةلبزيرة"
+msgstr ""
 
 #: ok
 msgid "Ok"
-msgstr "تةواو"
+msgstr ""
 
 #: find
 msgid "Find"
-msgstr "طةران"
+msgstr ""
 
 #: done
 msgid "Done"
-msgstr "تةواو كرا"
+msgstr ""
 
 #: remove
 msgid "Remove"
-msgstr "لابردن"
+msgstr ""
 
 #: are_you_sure_to_remove
 msgid "Are you sure you want to remove the selected item?"
-msgstr "دلنياي ئةو شتانةي هةلتبزاردووة ئةتةويت بسريةوة"
+msgstr ""
 
 #: empty_form
 msgid "Empty form"
-msgstr "فؤرمي بةتال"
+msgstr ""
 
 #: please_fill_at_least_one_dataelement
 msgid "Your form is empty. Please fill at least one data element."
-msgstr "فؤرمةكةت بةتالة تكاية بري بكةوة"
+msgstr ""
 
 #: use_custom_form
 msgid "Custom form"
-msgstr "فؤرمي ئاسايي"
+msgstr ""
 
 #: use_default_form
 msgid "Default form"
-msgstr "فؤرمي خؤويست"
+msgstr ""
 
 #: print_list
 msgid "Print list"
-msgstr "جابكردني ليست"
+msgstr ""
 
 #: print_form
 msgid "Print form"
-msgstr "جابكردني فؤرم"
+msgstr ""
 
 #: print_details
 msgid "Print details"
-msgstr "جابكردني دريزة"
+msgstr ""
 
 #: show_hide_columns
 msgid "Show/hide columns"
-msgstr "بشاندان/شاردني ستونةكان"
+msgstr ""
 
 #: hide_column
 msgid "Hide column"
-msgstr "شاردني ستونةكان"
+msgstr ""
 
 #: show_column
 msgid "Show column"
-msgstr "بيشانداني ستونةكان"
+msgstr ""
 
 #: show_all
 msgid "Show all"
-msgstr "بيشانداني هةمووان"
+msgstr ""
 
 #: hide
 msgid "Hide"
-msgstr "شاردنةوة"
+msgstr ""
 
 #: select_columns_to_show
 msgid "Select columns to show"
-msgstr "ستونةكان هةلبزيرة بؤ بيشاندانيان"
+msgstr ""
 
 #: show_details
 msgid "Show details"
-msgstr "بيشانداني دريزةكان"
+msgstr ""
 
 #: add_your_comment_here
 msgid "Add your comment here"
-msgstr "تيبيني خوت ليرة دابني "
+msgstr ""
 
 #: comments
 msgid "Comments"
-msgstr "تيبينيةكان"
+msgstr ""
 
 #: comment
 msgid "Comment"
-msgstr "تيبيني "
+msgstr ""
 
 #: recorded_comments
 msgid "Recorded comments"
-msgstr "تؤماركردني تيبينيةكان"
+msgstr ""
 
 #: show_comments
 msgid "Show comments"
-msgstr "ثيشانداني تيبينيةكان"
+msgstr ""
 
 #: new_event
 msgid "New Event"
-msgstr "رووداوي نوي"
+msgstr ""
 
 #: data_element
 msgid "Data element"
-msgstr "داتاي سةرةكي"
+msgstr ""
 
 #: value
 msgid "Value"
-msgstr "بةها"
+msgstr ""
 
 #: form_id
 msgid "Form id"
-msgstr "اي دي فورم"
+msgstr ""
 
 #: register_event
 msgid "Register event"
-msgstr "تؤماركردني رووداو"
+msgstr ""
 
 #: total
 msgid "Total"
-msgstr "كؤي طشتي"
+msgstr ""
 
 #: total_number_of_pages
 msgid "No. of pages"
-msgstr "ذمارةي لابةرةكان"
+msgstr ""
 
 #: rows_per_page
 msgid "No. of rows per page"
-msgstr "ستونةكان لة هة لابةرةيةك"
+msgstr ""
 
 #: jump_to_page
 msgid "Jump to page"
-msgstr "جوونةوة بؤ لابةرةي"
+msgstr ""
 
 #: page
 msgid "Page "
-msgstr "لابةرة"
+msgstr ""
 
 #: first
 msgid "First"
-msgstr "يةكةم"
+msgstr ""
 
 #: previous
 msgid "Previous"
-msgstr "ذيَشوو"
+msgstr ""
 
 #: next
 msgid "Next"
-msgstr "داهاتوو"
+msgstr ""
 
 #: last
 msgid "Last"
-msgstr "كؤتايي"
+msgstr ""
 
 #: org_units
 msgid "Organisation Units"
-msgstr " يةكةي ريكخراو "
+msgstr ""
 
 #: org_unit
 msgid "Organisation Unit"
-msgstr "يةكةي ريكخراو"
+msgstr ""
 
 #: programs
 msgid "Programs"
-msgstr "بةرنامةكان"
+msgstr ""
 
 #: program
 msgid "Program"
-msgstr "بةرنامة"
+msgstr ""
 
 #: program_stage
 msgid "Program stage"
-msgstr "قؤناغي بةرنامة"
+msgstr ""
 
 #: select_program
 msgid "Select program"
-msgstr "بةرنامة هةلبزيرة"
+msgstr ""
 
 #: select_program_stage
 msgid "Select program stage"
-msgstr "هةلبزاردني قؤناغي بةرنامة"
+msgstr ""
 
 #: period
 msgid "Period"
-msgstr "ماوة"
+msgstr ""
 
 #: periods
 msgid "Periods"
-msgstr "ماوةكان"
+msgstr ""
 
 #: start_date
 msgid "Start date"
-msgstr "دةستبيكردني داتا"
+msgstr ""
 
 #: end_date
 msgid "End date"
-msgstr "تةواو كردني داتا"
+msgstr ""
 
 #: incident_date
 msgid "Incident date"
-msgstr "بيركاري داتا"
+msgstr ""
 
 #: lower_limit
 msgid "Lower limit"
-msgstr "سنوري نزم"
+msgstr ""
 
 #: upper_limit
 msgid "Upper limit"
-msgstr "سنوري سةرةوة"
+msgstr ""
 
 #: please_select
 msgid "[Please Select]"
-msgstr "تكاية هةلبزيرة"
+msgstr ""
 
 #: not_selected
 msgid "NOT_SELECTED"
-msgstr "هةلنةبزيردراو"
+msgstr ""
 
 #: no_value
 msgid "NO_VALUE"
-msgstr "هيج بر"
+msgstr ""
 
 #: search
 msgid "Search"
-msgstr "طةران"
+msgstr ""
 
 #: locate_organisation_unit_by_name
 msgid "Locate organisation unit by name"

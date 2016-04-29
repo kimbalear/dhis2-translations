@@ -1,0 +1,117 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-apps/src/main/webapp/dhis-web-cache-cleaner/i18n/i18n_app.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: 2016-04-28 10:04+0000\n"
+"Last-Translator: Antonia <antonia@informa.pro>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1461837862.0\n"
+
+#: home
+msgid "Home"
+msgstr "ماڵةوة"
+
+#: dhis2
+msgid "DHIS 2"
+msgstr "دي ئيج اي اس 2"
+
+#: dhis2_home
+msgid "DHIS 2 Home"
+msgstr "مالةوة دي اج اي اس"
+
+#: profile
+msgid "Profile"
+msgstr "بروفايل"
+
+#: applications
+msgid "Apps"
+msgstr "بةرنامةكان"
+
+#: more_applications
+msgid "More apps"
+msgstr "بةؤنامةي زياتر"
+
+#: search_apps
+msgid "Search apps"
+msgstr "كةران بةدواي بةرنامةكان"
+
+#: settings
+msgid "Settings"
+msgstr "ريكخستن"
+
+#: account
+msgid "Account"
+msgstr "حساب"
+
+#: log_out
+msgid "Log out"
+msgstr "جونةدةرةوة"
+
+#: about_dhis2
+msgid "About DHIS 2"
+msgstr "دةربارةي دي اج اي اس 2 "
+
+#: session_storage
+msgid "Session Storage"
+msgstr "كوكردنةوي كويوونةوة"
+
+#: local_storage
+msgid "Local Storage"
+msgstr "كؤكردنةوةي ناوخؤيي"
+
+#: indexed_db
+msgid "IndexedDB"
+msgstr "ثيوانة"
+
+#: clearing_dhis2_browser_cache
+msgid "DHIS 2 browser cache cleaner"
+msgstr "باكردنةوةي زيادةي براوسيري دي اج اي اس 2"
+
+#: clears_local_cache
+msgid "This clears selected items from your browser cache"
+msgstr "ئةم خاوينكردنةوانة هةلبزيردراون لة زيادةكاني براوسةرةكةت"
+
+#: proceed_cleaning
+msgid "Are your sure you want to proceed with the cleaning?"
+msgstr "دلنايي ئةتةويت باكردنةوة ئةنجام بدةيت ؟ "
+
+#: cache_cleared
+msgid "Browser cache is cleared."
+msgstr "براوسير باك كرايةوة لة زيادةكان"
+
+#: nothing_to_clear
+msgid "Browser cache is empty. Nothing to clear."
+msgstr "براوسةرةكةت باكة هيج نية بؤ باك ردنةوة"
+
+#: clearing_cache
+msgid "Clearing cache"
+msgstr "باكردنةوةي زيادةكان"
+
+#: proceed
+msgid "Proceed"
+msgstr "ئةنجام دان"
+
+#: select_all
+msgid "Select all"
+msgstr "هةلبزاردني هةموان"
+
+#: unselect_all
+msgid "Unselect all"
+msgstr "هةلنةبزاردني هةموان"
+
+#: cancel
+msgid "Cancel"
+msgstr "لابردن"
+
+#: clear
+msgid "Clear"
+msgstr "باك"
