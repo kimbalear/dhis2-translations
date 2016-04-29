@@ -1,19 +1,18 @@
-﻿#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dashboard-integration/src/main/resources/org/hisp/dhis/dashboard/i18n_module.properties
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-04-25 13:13+0000\n"
+"PO-Revision-Date: 2016-04-29 14:26+0200\n"
 "Last-Translator: antonia <antonia@informa.pro>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ku\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Poedit 1.8.4\n"
 "X-POOTLE-MTIME: 1459354377.0\n"
+"Language-Team: \n"
 
 #: dashboard
 msgid "Dashboard"
@@ -287,7 +286,7 @@ msgstr "هةلككرتني بةسةندو كليك بكة لة بلاوكردن�
 
 #: generate_pivot_table_click_share
 msgid "generate a pivot table and click 'Share' on the top menu"
-msgstr "خشتةي تةوةر دةستدةكةويت"كليك بكة لة بلاوكردنةوة لة سةرةوةي ليست 
+msgstr "خشتةي تةوةر دةستدةكةويت\"كليك بكة لة بلاوكردنةوة لة سةرةوةي ليس"
 
 #: share_interpretation
 msgid "Share interpretation"
@@ -303,7 +302,7 @@ msgstr "تو {userCount}ت وةركرةكان تكاية كامبكةوة بؤ 2
 
 #: generate_data_set_report_click_share
 msgid "generate a data set report and click 'Share' on the top menu"
-msgstr "رابورتي داتاي نيردراو دروست بك"كليك بكة لة بلاوكردنةوة لة سةرةوةي ليست
+msgstr "رابورتي داتاي نيردراو دروست بك\"كليك بكة لة بلاوكردنةوة لة سةرةوةي ليس"
 
 #: data_visualizer
 msgid "Data visualizer"
@@ -515,7 +514,7 @@ msgstr "ناتوانريت ليكدانةوةكان تؤمار بكريت دوا
 
 #: applies_to_favorites_with_user_org_units_only
 msgid "Applies to favorites with \"user org units\" only"
-msgstr "جيبةجي بكة بة فافوريت لةكةل / " بةكارهينةري يةكةي ريكخراو/" بةس "
+msgstr "جيبةجي بكة بة فافوريت لةكةل / \" بةكارهينةري يةكةي ريكخراو/\" بةس "
 
 #: user_org_unit_filter
 msgid "User organisation unit filter"
