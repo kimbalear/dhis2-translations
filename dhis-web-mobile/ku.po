@@ -1,0 +1,66 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-mobile/src/main/resources/org/hisp/dhis/web/mobile/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: no_data_is_stored
+msgid "No data is stored"
+msgstr ""
+
+#: you_have
+msgid "You have"
+msgstr ""
+
+#: form_stored
+msgid "form stored"
+msgstr ""
+
+#: forms_stored
+msgid "forms stored"
+msgstr ""
+
+#: aggregate_reporting
+msgid "Aggregate Reporting"
+msgstr ""
+
+#: unable_to_send_reply
+msgid "Unable to send reply, please try again later"
+msgstr ""
+
+#: unable_to_get_inbox
+msgid "Unable to get inbox, please try again later"
+msgstr ""
+
+#: no_messages
+msgid "No messages"
+msgstr ""
+
+#: none_selected
+msgid "None selected"
+msgstr ""
+
+#: no_organisation_units_for_data_entry
+msgid "No organisation units available for data entry"
+msgstr ""
+
+#: change_to_invalid_page
+msgid "Tried changing to invalid page"
+msgstr ""
+
+#: logout
+msgid "Log out"
+msgstr ""
+
+#: send_and_complete
+msgid "Send and Complete"
+msgstr ""

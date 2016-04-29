@@ -1,0 +1,1526 @@
+#. #-- See module privilegies ----------------------------------------------------#
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-user/src/main/resources/org/hisp/dhis/user/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: M_dhis-web-api
+msgid "See API Module"
+msgstr ""
+
+#: M_dhis-web-api-fred
+msgid "See FRED API Module"
+msgstr ""
+
+#: M_dhis-web-exportdatamart
+msgid "See Export Data Mart Module"
+msgstr ""
+
+#: M_dhis-web-maintenance-datadictionary
+msgid "See Data Elements and Indicators Maintenance module"
+msgstr ""
+
+#: M_dhis-web-maintenance-dataset
+msgid "See Data Set Maintenance module"
+msgstr ""
+
+#: M_dhis-web-maintenance-organisationunit
+msgid "See Organisation Unit Maintenance module"
+msgstr ""
+
+#: M_dhis-web-maintenance-user
+msgid "See User Maintenance module"
+msgstr ""
+
+#: M_dhis-web-maintenance-dataadmin
+msgid "See Data Administration module"
+msgstr ""
+
+#: M_dhis-web-maintenance-settings
+msgid "See Settings Maintenance module"
+msgstr ""
+
+#: M_dhis-web-maintenance-appmanager
+msgid "See Apps Maintenance module"
+msgstr ""
+
+#: M_dhis-web-dataentry
+msgid "See Data Entry module"
+msgstr ""
+
+#: M_dhis-web-importexport
+msgid "See Import-Export module"
+msgstr ""
+
+#: M_dhis-web-datamart
+msgid "See Data Mart module"
+msgstr ""
+
+#: M_dhis-web-validationrule
+msgid "See Validation Rule module"
+msgstr ""
+
+#: M_dhis-web-gis
+msgctxt "M_dhis-web-gis"
+msgid "See GIS module"
+msgstr ""
+
+#: M_dhis-web-reporting
+msgid "See Report module"
+msgstr ""
+
+#: M_dhis-web-dashboard-integration
+msgid "See Dashboard integration module"
+msgstr ""
+
+#: M_dhis-web-dashboard
+msgid "See Dashboard module"
+msgstr ""
+
+#: M_dhis-web-dataentry-national
+msgid "See Line-listing DataEntry module"
+msgstr ""
+
+#: M_dhis-web-reports
+msgid "See NRHM Reports module"
+msgstr ""
+
+#: M_dhis-web-validationrule-local-in
+msgid "See Validation Analysis module"
+msgstr ""
+
+#: M_dhis-web-excel-reporting
+msgid "See Excel Report module"
+msgstr ""
+
+#: M_dhis-web-caseentry
+msgid "See Individual Records"
+msgstr ""
+
+#: M_dhis-web-maintenance-program
+msgid "See Tracked Entity And Programs module"
+msgstr ""
+
+#: M_dhis-web-mapping
+msgctxt "M_dhis-web-mapping"
+msgid "See GIS module"
+msgstr ""
+
+#: M_dhis-web-event-reports
+msgid "See Event Reports module"
+msgstr ""
+
+#: M_dhis-web-light
+msgid "See Light module"
+msgstr ""
+
+#: M_dhis-web-mobile
+msgid "See Smartphone module"
+msgstr ""
+
+#: M_dhis-web-visualizer
+msgid "See Data Visualizer module"
+msgstr ""
+
+#: M_dhis-web-maintenance-mobile
+msgid "See Mobile Maintenance module"
+msgstr ""
+
+#: M_dhis-web-pivot
+msgid "See Pivot Table module"
+msgstr ""
+
+#: M_dhis-web-sms
+msgid "See SMS module"
+msgstr ""
+
+#: M_dhis-web-event-capture
+msgid "See Event Capture module"
+msgstr ""
+
+#: M_dhis-web-tracker-capture
+msgid "See Tracker Capture module"
+msgstr ""
+
+#: M_dhis-web-event-visualizer
+msgid "See Event Visualizer module"
+msgstr ""
+
+#: M_dhis-web-cache-cleaner
+msgid "See Browser Cache Cleaner module"
+msgstr ""
+
+#. #-- User action privilegies ---------------------------------------------------#
+#: F_CONCEPT_ADD
+msgid "Add/Update Concept"
+msgstr ""
+
+#: F_CONCEPT_DELETE
+msgid "Delete Concept"
+msgstr ""
+
+#: F_CONCEPT_MANAGEMENT
+msgid "Concept Management"
+msgstr ""
+
+#: F_CONSTANT_ADD
+msgid "Add/Update Constant"
+msgstr ""
+
+#: F_CONSTANT_DELETE
+msgid "Delete Constant"
+msgstr ""
+
+#: F_CONSTANT_MANAGEMENT
+msgid "Constant Management"
+msgstr ""
+
+#: F_DATAADMIN_LOCK
+msgid "Data Admin Locking"
+msgstr ""
+
+#: F_DATAADMIN_UNLOCK
+msgid "Data Admin UnLocking"
+msgstr ""
+
+#: F_DATAELEMENT_PUBLIC_ADD
+msgid "Add/Update Public Data Element"
+msgstr ""
+
+#: F_DATAELEMENT_PRIVATE_ADD
+msgid "Add/Update Private Data Element"
+msgstr ""
+
+#: F_DATAELEMENT_DELETE
+msgid "Delete Data Element"
+msgstr ""
+
+#: F_CATEGORY_PUBLIC_ADD
+msgid "Add/Update Public Data Element Category"
+msgstr ""
+
+#: F_CATEGORY_PRIVATE_ADD
+msgid "Add/Update Private Data Element Category"
+msgstr ""
+
+#: F_CATEGORY_DELETE
+msgid "Delete Data Element Category"
+msgstr ""
+
+#: F_CATEGORY_OPTION_PUBLIC_ADD
+msgctxt "F_CATEGORY_OPTION_PUBLIC_ADD"
+msgid "Add/Update Public Data Element Category Option"
+msgstr ""
+
+#: F_CATEGORY_OPTION_PRIVATE_ADD
+msgid "Add/Update Private Data Element Category Option"
+msgstr ""
+
+#: F_CATEGORY_OPTION_DELETE
+msgctxt "F_CATEGORY_OPTION_DELETE"
+msgid "Add/Update Public Data Element Category Option"
+msgstr ""
+
+#: F_CATEGORY_COMBO_PUBLIC_ADD
+msgid "Add/Update Public Data Element Category Combo"
+msgstr ""
+
+#: F_CATEGORY_COMBO_PRIVATE_ADD
+msgid "Add/Update Private Data Element Category Combo"
+msgstr ""
+
+#: F_CATEGORY_COMBO_DELETE
+msgid "Delete Data Element Category Combo"
+msgstr ""
+
+#: F_CATEGORY_OPTION_GROUP_PUBLIC_ADD
+msgid "Add/Update Public Category Option Group"
+msgstr ""
+
+#: F_CATEGORY_OPTION_GROUP_PRIVATE_ADD
+msgid "Add/Update Private Category Option Group"
+msgstr ""
+
+#: F_CATEGORY_OPTION_GROUP_DELETE
+msgid "Delete Category Option Group"
+msgstr ""
+
+#: F_CATEGORY_OPTION_GROUP_SET_PUBLIC_ADD
+msgid "Add/Update Public Category Option Group Set"
+msgstr ""
+
+#: F_CATEGORY_OPTION_GROUP_SET_PRIVATE_ADD
+msgid "Add/Update Private Category Option Group Set"
+msgstr ""
+
+#: F_CATEGORY_OPTION_GROUP_SET_DELETE
+msgid "Delete Category Option Group Set"
+msgstr ""
+
+#: F_CATEGORY_OPTION_COMBO_PUBLIC_ADD
+msgid "Add/Update Public Data Element Category Option Combo"
+msgstr ""
+
+#: F_CATEGORY_OPTION_COMBO_PRIVATE_ADD
+msgid "Add/Update Private Data Element Category Option Combo"
+msgstr ""
+
+#: F_DATAELEMENTGROUP_PUBLIC_ADD
+msgid "Add/Update Public Data Element Groups"
+msgstr ""
+
+#: F_DATAELEMENTGROUP_PRIVATE_ADD
+msgid "Add/Update Private Data Element Groups"
+msgstr ""
+
+#: F_DATAELEMENTGROUP_DELETE
+msgid "Delete Data Element Groups"
+msgstr ""
+
+#: F_DATAELEMENTGROUPSET_PUBLIC_ADD
+msgid "Add/Update Public Data Element Group Sets"
+msgstr ""
+
+#: F_DATAELEMENTGROUPSET_PRIVATE_ADD
+msgid "Add/Update Private Data Element Group Sets"
+msgstr ""
+
+#: F_DATAELEMENTGROUPSET_DELETE
+msgid "Delete Data Element Group Sets"
+msgstr ""
+
+#: F_DATAELEMENT_MINMAX_ADD
+msgid "Add/Update Min/max rule"
+msgstr ""
+
+#: F_DATAELEMENT_MINMAX_DELETE
+msgid "Delete Min/max rule"
+msgstr ""
+
+#: F_DATASET_PUBLIC_ADD
+msgid "Add/Update Public Data Set"
+msgstr ""
+
+#: F_DATASET_PRIVATE_ADD
+msgid "Add/Update Private Data Set"
+msgstr ""
+
+#: F_DATASET_DELETE
+msgid "Delete Data Set"
+msgstr ""
+
+#: F_DATASET_ORDER_CHANGE
+msgid "Change order in Data Set"
+msgstr ""
+
+#: F_DATASET_LOCK
+msgid "Lock Data Set"
+msgstr ""
+
+#: F_SECTION_ADD
+msgid "Add/Update Section"
+msgstr ""
+
+#: F_SECTION_DELETE
+msgid "Delete Section"
+msgstr ""
+
+#: F_DATAVALUE_ADD
+msgid "Add/Update Data Value"
+msgstr ""
+
+#: F_DATAVALUE_DELETE
+msgid "Delete Data Value"
+msgstr ""
+
+#: F_INDICATOR_PUBLIC_ADD
+msgid "Add/Update Public Indicator"
+msgstr ""
+
+#: F_INDICATOR_PRIVATE_ADD
+msgid "Add/Update Private Indicator"
+msgstr ""
+
+#: F_INDICATOR_DELETE
+msgid "Delete Indicator"
+msgstr ""
+
+#: F_INDICATORTYPE_ADD
+msgid "Add/Update Indicator Type"
+msgstr ""
+
+#: F_INDICATORTYPE_DELETE
+msgid "Delete Indicator Type"
+msgstr ""
+
+#: F_INDICATORGROUP_PUBLIC_ADD
+msgid "Add/Update Public Indicator Group"
+msgstr ""
+
+#: F_INDICATORGROUP_PRIVATE_ADD
+msgid "Add/Update Private Indicator Group"
+msgstr ""
+
+#: F_INDICATORGROUP_DELETE
+msgid "Delete Indicator Group"
+msgstr ""
+
+#: F_INDICATORGROUPSET_PUBLIC_ADD
+msgid "Add/Update Public Indicator Group Sets"
+msgstr ""
+
+#: F_INDICATORGROUPSET_PRIVATE_ADD
+msgid "Add/Update Private Indicator Group Sets"
+msgstr ""
+
+#: F_INDICATORGROUPSET_DELETE
+msgid "Delete Indicator Group Sets"
+msgstr ""
+
+#: F_ORGANISATIONUNIT_ADD
+msgid "Add/Update Organisation Unit"
+msgstr ""
+
+#: F_ORGANISATIONUNIT_DELETE
+msgid "Delete Organisation Unit"
+msgstr ""
+
+#: F_ORGANISATIONUNIT_MOVE
+msgid "Move Organisation Unit"
+msgstr ""
+
+#: F_ORGUNITGROUP_PUBLIC_ADD
+msgid "Add/Update Public Organisation Unit Group"
+msgstr ""
+
+#: F_ORGUNITGROUP_PRIVATE_ADD
+msgid "Add/Update Private Organisation Unit Group"
+msgstr ""
+
+#: F_ORGUNITGROUP_DELETE
+msgid "Delete Organisation Unit Group"
+msgstr ""
+
+#: F_ORGUNITGROUPSET_PUBLIC_ADD
+msgid "Add/Update Public Organisation Unit Group Set"
+msgstr ""
+
+#: F_ORGUNITGROUPSET_PRIVATE_ADD
+msgid "Add/Update Private Organisation Unit Group Set"
+msgstr ""
+
+#: F_ORGUNITGROUPSET_DELETE
+msgid "Delete Organisation Unit Group Set"
+msgstr ""
+
+#: F_ORGANISATIONUNITLEVEL_UPDATE
+msgid "Update Organisation Unit Level"
+msgstr ""
+
+#: F_USERROLE_PUBLIC_ADD
+msgid "Add/Update Public User Role"
+msgstr ""
+
+#: F_USERROLE_PRIVATE_ADD
+msgid "Add/Update Private User Role"
+msgstr ""
+
+#: F_USERROLE_DELETE
+msgid "Delete User Role"
+msgstr ""
+
+#: F_USERROLE_LIST
+msgid "List User Roles"
+msgstr ""
+
+#: F_USERGROUP_PUBLIC_ADD
+msgid "Add/Update Public User Group"
+msgstr ""
+
+#: F_USERGROUP_PRIVATE_ADD
+msgid "Add/Update Private User Group"
+msgstr ""
+
+#: F_USERGROUP_DELETE
+msgid "Delete User Group"
+msgstr ""
+
+#: F_USERGROUP_LIST
+msgid "List User Groups"
+msgstr ""
+
+#: F_USERGROUP_MANAGING_RELATIONSHIPS_ADD
+msgid "Add/Update User Group Managing Relationships"
+msgstr ""
+
+#: F_USERGROUP_MANAGING_RELATIONSHIPS_VIEW
+msgid "View User Group Managing Relationships"
+msgstr ""
+
+#: F_USER_GROUPS_READ_ONLY_ADD_MEMBERS
+msgid "Add/Remove Members In Read-Only User Groups"
+msgstr ""
+
+#: F_USER_ADD
+msgid "Add/Update User"
+msgstr ""
+
+#: F_USER_DELETE
+msgid "Delete User"
+msgstr ""
+
+#: F_USER_VIEW
+msgid "View User"
+msgstr ""
+
+#: F_USER_ADD_WITHIN_MANAGED_GROUP
+msgid "Add/Update User Within Managed Group"
+msgstr ""
+
+#: F_USER_DELETE_WITHIN_MANAGED_GROUP
+msgid "Delete User Within Managed Group"
+msgstr ""
+
+#: F_USER_VIEW_WITHIN_MANAGED_GROUP
+msgid "View User Within Managed Group"
+msgstr ""
+
+#: F_VALIDATIONRULE_ADD
+msgid "Add/Update Validation Rule"
+msgstr ""
+
+#: F_VALIDATIONRULE_DELETE
+msgid "Delete Validation Rule"
+msgstr ""
+
+#: F_VALIDATIONRULEGROUP_PUBLIC_ADD
+msgid "Add/Update Public Validation Rule Group"
+msgstr ""
+
+#: F_VALIDATIONRULEGROUP_PRIVATE_ADD
+msgid "Add/Update Private Validation Rule Group"
+msgstr ""
+
+#: F_VALIDATIONRULEGROUP_DELETE
+msgid "Delete Validation Rule Group"
+msgstr ""
+
+#: F_GIS_CONFIGURATION_UPDATE
+msgid "Change GIS Configuration"
+msgstr ""
+
+#: F_REPORT_PUBLIC_ADD
+msgid "Add/Update Public Report"
+msgstr ""
+
+#: F_REPORT_PRIVATE_ADD
+msgid "Add/Update Private Report"
+msgstr ""
+
+#: F_REPORT_DELETE
+msgid "Delete Report"
+msgstr ""
+
+#: F_REPORTTABLE_PUBLIC_ADD
+msgid "Add/Update Public Report Table"
+msgstr ""
+
+#: F_REPORTTABLE_EXTERNAL
+msgid "Report Table External Access"
+msgstr ""
+
+#: F_REPORTTABLE_DELETE
+msgid "Delete Report Table"
+msgstr ""
+
+#: F_REPORT_VIEW
+msgid "View Report"
+msgstr ""
+
+#: F_CHART_PUBLIC_ADD
+msgid "Add/Update Public Chart"
+msgstr ""
+
+#: F_DASHBOARD_PUBLIC_ADD
+msgid "Add/Update Public Dashboard"
+msgstr ""
+
+#: F_CHART_EXTERNAL
+msgid "Chart External Access"
+msgstr ""
+
+#: F_CHART_ADD
+msgid "Add/Update Chart"
+msgstr ""
+
+#: F_CHART_DELETE
+msgid "Delete Chart"
+msgstr ""
+
+#: F_DOCUMENT_PUBLIC_ADD
+msgid "Add/Update Public Document"
+msgstr ""
+
+#: F_DOCUMENT_PRIVATE_ADD
+msgid "Add/Update Private Document"
+msgstr ""
+
+#: F_DOCUMENT_DELETE
+msgid "Delete Document"
+msgstr ""
+
+#: F_DASHBOARD_DOWNLOAD_BACKUP
+msgid "Create and download backup"
+msgstr ""
+
+#: F_EXCEL_REPORT_ADMINISTRATION
+msgid "Excel Reporting Administration"
+msgstr ""
+
+#: F_RELATIONSHIPTYPE_DELETE
+msgid "Delete Relationship Type"
+msgstr ""
+
+#: F_RELATIONSHIPTYPE_ADD
+msgid "Add Relationship Type"
+msgstr ""
+
+#: F_RELATIONSHIPTYPE_UPDATE
+msgid "Update Relationship Type"
+msgstr ""
+
+#: F_ORGANISATION_REGISTRATION
+msgid "Organisation Unit Registration"
+msgstr ""
+
+#: F_TRACKED_ENTITY_REMOVE_EMPTY_EVENTS
+msgid "Remove Empty Tracked Entity Events"
+msgstr ""
+
+#: F_ACCESS_TRACKED_ENTITY_ATTRIBUTES
+msgid "View and Search Tracked Entity Attributes and Identifiers"
+msgstr ""
+
+#: F_ALLOW_EDIT_TRACKED_ENTITY_ATTRIBUTES
+msgid "Add/Update Tracked Entity Attributes"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ATTRIBUTE_PUBLIC_ADD
+msgid "Add/Update Public Tracked Entity Attribute"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ATTRIBUTE_PRIVATE_ADD
+msgid "Add/Update Private Tracked Entity Attribute"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ATTRIBUTE_DELETE
+msgid "Delete Tracked Entity Attribute"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ATTRIBUTEVALUE_ADD
+msgid "Add Tracked Entity Attribute Value"
+msgstr ""
+
+#: F_ADD_PROGRAM_INDICATOR
+msgid "Add/Update Program Indicator"
+msgstr ""
+
+#: F_TRACKED_ENTITY_CHANGE_LOCATION
+msgid "Change Tracked Entity Instance Location"
+msgstr ""
+
+#: F_TRACKED_ENTITY_FORM_MANAGEMENT
+msgid "Tracked Entity Form Management"
+msgstr ""
+
+#: F_TRACKED_ENTITY_FORM_ADD
+msgid "Add Tracked Entity Form"
+msgstr ""
+
+#: F_TRACKED_ENTITY_FORM_DELETE
+msgid "Delete Tracked Entity Form"
+msgstr ""
+
+#: F_PROGRAM_INSTANCE_MANAGEMENT
+msgid "Program Event Management"
+msgstr ""
+
+#: F_PROGRAM_INSTANCE_DELETE
+msgid "Delete Program Enrollment"
+msgstr ""
+
+#: F_PROGRAM_TRACKING_MANAGEMENT
+msgid "Program Tracking Management"
+msgstr ""
+
+#: F_PROGRAM_PUBLIC_ADD
+msgid "Add/Update Public Program"
+msgstr ""
+
+#: F_PROGRAM_PRIVATE_ADD
+msgid "Add/Update Private Program"
+msgstr ""
+
+#: F_PROGRAM_DELETE
+msgid "Delete Program"
+msgstr ""
+
+#: F_PROGRAM_VALIDATION
+msgid "Manage Program Validation"
+msgstr ""
+
+#: F_PROGRAMSTAGE_ADD
+msgid "Add/Update Program Stage"
+msgstr ""
+
+#: F_PROGRAMSTAGE_DELETE
+msgid "Delete Program Stage"
+msgstr ""
+
+#: F_PROGRAMSTAGE_SECTION_MANAGEMENT
+msgid "Program Stage Section Management"
+msgstr ""
+
+#: F_PROGRAMSTAGE_SECTION_ADD
+msgid "Add/Update Program Stage Section"
+msgstr ""
+
+#: F_PROGRAMSTAGE_SECTION_DELETE
+msgid "Delete Program Stage Section"
+msgstr ""
+
+#: F_PROGRAM_ATTRIBUTE_ADD
+msgid "Add/Update Program Attribute"
+msgstr ""
+
+#: F_PROGRAM_ATTRIBUTE_DELETE
+msgid "Delete Program Attribute"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ADD
+msgid "Add/Update Tracked Entity"
+msgstr ""
+
+#: F_TRACKED_ENTITY_DELETE
+msgid "Delete Tracked Entity"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ATTRIBUTE_EDIT
+msgid "Update Tracked Entity Attribute"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ATTRIBUTE_VIEW
+msgid "View Tracked Entity Attribute"
+msgstr ""
+
+#: F_TRACKED_ENTITY_DATAVALUE_ADD
+msgid "Add/Update Tracked Entity Data Value"
+msgstr ""
+
+#: F_TRACKED_ENTITY_DATAVALUE_DELETE
+msgid "Delete Tracked Entity Data Value"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_ADD
+msgid "Add/Update Tracked Entity Instance"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_DELETE
+msgid "Delete Tracked Entity Instance"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_SEARCH
+msgid "Search Tracked Entity Instance"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_SEARCH_IN_ALL_ORGUNITS
+msgid "Search Tracked Entity Instance in All Org Units"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_LIST
+msgid "List Tracked Entity Instance"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_HISTORY
+msgid "Load Tracked Entity Instance History"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_DASHBOARD
+msgid "Tracked Entity Instance Dashboard"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_CHANGE_LOCATION
+msgid "Change Location of Tracked Entity Instance"
+msgstr ""
+
+#: F_TRACKED_ENTITY_COMMENT_ADD
+msgid "Add Tracked Entity Instance Comment"
+msgstr ""
+
+#: F_TRACKED_ENTITY_COMMENT_DELETE
+msgid "Delete Tracked Entity Instance Comment"
+msgstr ""
+
+#: F_PROGRAM_INDICATOR_MANAGEMENT
+msgid "Manage Program Indicators"
+msgstr ""
+
+#: F_PROGRAM_STAGE_COMPLETENESS
+msgid "View Program Stage Completeness Report"
+msgstr ""
+
+#: F_SCHEDULING_SEND_MESSAGE
+msgid "Scheduling send messages"
+msgstr ""
+
+#: F_SCHEDULING_CASE_AGGREGATE_QUERY_BUILDER
+msgid "Scheduling case aggregate query builder"
+msgstr ""
+
+#: F_ACTIVITY_PLAN
+msgid "Search Activity Plan"
+msgstr ""
+
+#: F_ACTIVITY_PLAN_EXPORT
+msgid "Export Activity Plan to XLS file"
+msgstr ""
+
+#: F_GENERATE_ACTIVITY_PLANS
+msgid "Generate Activity Plans"
+msgstr ""
+
+#: F_GENERATE_PROGRAM_SUMMARY_REPORT
+msgid "Generate Program Summary Report"
+msgstr ""
+
+#: F_GENERATE_STATISTICAL_PROGRAM_REPORT
+msgid "Generate Program Statistics Report"
+msgstr ""
+
+#: F_GENERATE_BENEFICIARY_TABULAR_REPORT
+msgid "Generate Tracked Entity Tabular report"
+msgstr ""
+
+#: F_TRACKED_ENTITY_AGGREGATION
+msgid "Tracked Entity Aggregation"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_MANAGEMENT
+msgid "Tracked Entity Instance Management"
+msgstr ""
+
+#: F_NAME_BASED_DATA_ENTRY
+msgid "Multiple Individual Data Entry"
+msgstr ""
+
+#: F_SINGLE_EVENT_DATA_ENTRY
+msgid "Single Event With Registration Data Entry"
+msgstr ""
+
+#: F_ANONYMOUS_DATA_ENTRY
+msgid "Single Event Without Registration Data Entry"
+msgstr ""
+
+#: F_PROGRAM_ENROLLMENT
+msgid "Program Enrollment"
+msgstr ""
+
+#: F_PROGRAM_UNENROLLMENT
+msgid "Program Un-enrollment"
+msgstr ""
+
+#: F_PROGRAM_STAGE_INSTANCE_DELETE
+msgid "Delete Tracked Entity Instance Visit"
+msgstr ""
+
+#: F_PROGRAM_STAGE_INSTANCE_REMINDER
+msgid "Load event reminder messages"
+msgstr ""
+
+#: F_PROGRAM_TRACKING_SEARCH
+msgid "Search events with registration"
+msgstr ""
+
+#: F_PROGRAM_STAGE_INSTANCE_SEARCH
+msgid "Search events without registration"
+msgstr ""
+
+#: F_RELATIONSHIP_MANAGEMENT
+msgid "Tracked Entity Relationship Management"
+msgstr ""
+
+#: F_RELATIONSHIP_ADD
+msgid "Add Tracked Entity Relationship"
+msgstr ""
+
+#: F_RELATIONSHIP_DELETE
+msgid "Delete Tracked Entity Relationship"
+msgstr ""
+
+#: F_SYSTEM_SETTING
+msgid "Change system settings"
+msgstr ""
+
+#: F_COPY_EXCEL_ITEM_ADMINISTRATION
+msgid "Copy Excel Item"
+msgstr ""
+
+#: F_EXCEL_TEMPLATE_MANAGEMENT_DELETE
+msgid "Delete Excel Template"
+msgstr ""
+
+#: F_EXCEL_TEMPLATE_MANAGEMENT_LIST
+msgid "List Excel Template"
+msgstr ""
+
+#: F_EXCEL_TEMPLATE_MAMAGEMENT_UPLOAD
+msgid "Upload Excel Template"
+msgstr ""
+
+#: F_EXCEL_TEMPLATE_MANAGEMENT_RENAME
+msgid "Rename Excel Template file"
+msgstr ""
+
+#: F_TRACKED_ENTITY_ATTRIBUTEVALUE_DELETE
+msgid "Delete Tracked Entity Attribute Value"
+msgstr ""
+
+#: F_GIS_ADMIN
+msgid "Administrate GIS"
+msgstr ""
+
+#: F_MAP_PUBLIC_ADD
+msgid "Add Public Map"
+msgstr ""
+
+#: F_MAP_EXTERNAL
+msgid "Map External Access"
+msgstr ""
+
+#: F_DATAMART_ADMIN
+msgctxt "F_DATAMART_ADMIN"
+msgid "Administrate data mart"
+msgstr ""
+
+#: F_SCHEDULING_ADMIN
+msgid "Scheduling Administration"
+msgstr ""
+
+#: F_SQLVIEW_PUBLIC_ADD
+msgid "Add/Update Public SQL View"
+msgstr ""
+
+#: F_SQLVIEW_PRIVATE_ADD
+msgid "Add/Update Private SQL View"
+msgstr ""
+
+#: F_SQLVIEW_DELETE
+msgid "Delete SQL View"
+msgstr ""
+
+#: F_SQLVIEW_EXECUTE
+msgid "Execute SQL View"
+msgstr ""
+
+#: F_SQLVIEW_MANAGEMENT
+msgid "Sql View Management"
+msgstr ""
+
+#: F_SQLVIEW_EXTERNAL
+msgid "Sql View External Access"
+msgstr ""
+
+#: F_VALIDATIONCRITERIA_ADD
+msgid "Add/Update Validation Criteria"
+msgstr ""
+
+#: F_VALIDATIONCRITERIA_DELETE
+msgid "Delete Validation Criteria"
+msgstr ""
+
+#: F_SEND_MESSAGE
+msgid "Send message"
+msgstr ""
+
+#: F_OPTIONSET_MANAGEMENT
+msgid "Option Set Management"
+msgstr ""
+
+#: F_OPTIONSET_PUBLIC_ADD
+msgid "Add/Update Public Option Set"
+msgstr ""
+
+#: F_OPTIONSET_PRIVATE_ADD
+msgid "Add/Update Private Option Set"
+msgstr ""
+
+#: F_OPTIONSET_DELETE
+msgid "Delete Option Set"
+msgstr ""
+
+#: F_DATA_MART_ADMIN
+msgctxt "F_DATA_MART_ADMIN"
+msgid "Administrate data mart"
+msgstr ""
+
+#: F_DV_ADMIN
+msgid "Administrate data vizualiser"
+msgstr ""
+
+#: F_MOBILE_SENDSMS
+msgid "Send SMS"
+msgstr ""
+
+#: F_MOBILE_SETTINGS
+msgid "Set mobile settings"
+msgstr ""
+
+#: F_MOBILE_DELETE_SMS
+msgid "Delete SMS"
+msgstr ""
+
+#: F_PERFORM_MAINTENANCE
+msgid "Perform maintenance tasks"
+msgstr ""
+
+#: F_PRUNE_ORGANISATION_UNITS
+msgid "Prune organisation units"
+msgstr ""
+
+#: F_MERGE_ORGANISATION_UNITS
+msgid "Merge organisation units"
+msgstr ""
+
+#: F_ELIMINATE_DUPLICATE_DATA_ELEMENTS
+msgid "Eliminate duplicate data elements"
+msgstr ""
+
+#: F_GENERATE_MIN_MAX_VALUES
+msgid "Generate min-max values"
+msgstr ""
+
+#: F_ARCHIVE_DATA
+msgid "Archive data"
+msgstr ""
+
+#: F_ATTRIBUTE_ADD
+msgid "Add/Update Attribute"
+msgstr ""
+
+#: F_ATTRIBUTE_DELETE
+msgid "Delete Attribute"
+msgstr ""
+
+#: F_MANAGE_INTEGRATION_ROUTES
+msgid "Manage integration routes"
+msgstr ""
+
+#: F_IMPORT_DATA
+msgid "Import data"
+msgstr ""
+
+#: F_IMPORT_EVENTS
+msgid "Import events"
+msgstr ""
+
+#: F_IMPORT_OTHER_SYSTEMS
+msgid "Import from other systems"
+msgstr ""
+
+#: F_IMPORT_GML
+msgid "Import GML"
+msgstr ""
+
+#: F_EXPORT_DATA
+msgid "Export data"
+msgstr ""
+
+#: F_EXPORT_EVENTS
+msgid "Export events"
+msgstr ""
+
+#: F_METADATA_IMPORT
+msgid "Import meta-Data"
+msgstr ""
+
+#: F_METADATA_EXPORT
+msgid "Export meta-Data"
+msgstr ""
+
+#: F_APPROVE_DATA
+msgid "Approve data"
+msgstr ""
+
+#: F_APPROVE_DATA_LOWER_LEVELS
+msgid "Approve data at lower levels"
+msgstr ""
+
+#: F_ACCEPT_DATA_LOWER_LEVELS
+msgid "Accept data at lower levels"
+msgstr ""
+
+#: F_VIEW_DATABROWSER
+msgid "View data browser"
+msgstr ""
+
+#: F_RUN_VALIDATION
+msgid "Run validation"
+msgstr ""
+
+#: F_PROGRAM_TRACKING_LIST
+msgid "View program tracking"
+msgstr ""
+
+#: F_MYDATAMART_VIEW
+msgid "Access my data mart"
+msgstr ""
+
+#: F_LOCALE_ADD
+msgid "Add Locale"
+msgstr ""
+
+#: F_LOCALE_DELETE
+msgid "Delete Locale"
+msgstr ""
+
+#: F_TRACKED_ENTITY_INSTANCE_REMINDER_MANAGEMENT
+msgid "Manage Tracked Entity Instance Reminders"
+msgstr ""
+
+#: F_TRACKED_ENTITY_MANAGEMENT
+msgid "Manage Tracked Entities"
+msgstr ""
+
+#: F_TRACKED_ENTITY_UPDATE
+msgid "Update Tracked Entities"
+msgstr ""
+
+#: F_VALIDATIONRULEGROUP_ADD
+msgid "Add Validation Rule Groups"
+msgstr ""
+
+#: F_SQLVIEW_ADD
+msgid "Add SQL View"
+msgstr ""
+
+#: F_ORGUNITGROUPSET_ADD
+msgid "Add Organisation Unit Group Set"
+msgstr ""
+
+#: F_OPTIONSET_ADD
+msgid "Add Option Set"
+msgstr ""
+
+#: F_INSERT_CUSTOM_JS_CSS
+msgid "Insert custom Java script and CSS"
+msgstr ""
+
+#: F_VIEW_UNAPPROVED_DATA
+msgid "View unapproved data"
+msgstr ""
+
+#: F_PROGRAM_RULE_MANAGEMENT
+msgid "Manage Program Rule"
+msgstr ""
+
+#: F_PROGRAM_RULE_ADD
+msgid "Add Program Rule"
+msgstr ""
+
+#: F_PROGRAM_RULE_UPDATE
+msgid "Update Program Rule"
+msgstr ""
+
+#: F_PROGRAM_DASHBOARD_CONFIG_ADMIN
+msgid "Administer program dashboard configuration"
+msgstr ""
+
+#. #-- FRED API module -----------------------------------------------------------#
+#: F_FRED_CREATE
+msgid "Add Facility"
+msgstr ""
+
+#: F_FRED_UPDATE
+msgid "Update Facility"
+msgstr ""
+
+#: F_FRED_DELETE
+msgid "Delete Facility"
+msgstr ""
+
+#. #-- User module ---------------------------------------------------------------#
+#: user_management
+msgid "User management"
+msgstr ""
+
+#: action
+msgid "Action"
+msgstr ""
+
+#: create_account_with_user_details
+msgid "Create account with user details"
+msgstr ""
+
+#: email_invitation_to_create_account
+msgid "Email invitation to create account"
+msgstr ""
+
+#: username
+msgid "Username"
+msgstr ""
+
+#: fullname
+msgid "Fullname"
+msgstr ""
+
+#: role
+msgid "Role"
+msgstr ""
+
+#: user
+msgid "User"
+msgstr ""
+
+#: self_registered_user
+msgid "Self Registered User"
+msgstr ""
+
+#: user_by_orgunit
+msgid "User by Organisation Unit"
+msgstr ""
+
+#: user_role
+msgid "User Role"
+msgstr ""
+
+#: change
+msgid "Change"
+msgstr ""
+
+#: username_in_use
+msgid "The username is already used, please specify a different username"
+msgstr ""
+
+#: openid_in_use
+msgid "The OpenID is already used, please specify a different OpenID"
+msgstr ""
+
+#: name_in_use
+msgid "The name is already in use, please specify a different name"
+msgstr ""
+
+#: everything_is_ok
+msgid "Everything is ok"
+msgstr ""
+
+#: roles
+msgid "Roles"
+msgstr ""
+
+#: unit
+msgid "Unit"
+msgstr ""
+
+#: selected_roles
+msgid "Selected roles"
+msgstr ""
+
+#: available_roles
+msgid "Available roles"
+msgstr ""
+
+#: selected_user_groups
+msgid "Selected User Groups"
+msgstr ""
+
+#: available_user_groups
+msgid "Available User Groups"
+msgstr ""
+
+#: create_new_user
+msgid "Create new user"
+msgstr ""
+
+#: password
+msgid "Password"
+msgstr ""
+
+#: firstName
+msgid "First name"
+msgstr ""
+
+#: edit_user
+msgid "Update user"
+msgstr ""
+
+#: confirm_delete_user
+msgid "Are you sure you want to delete this user?"
+msgstr ""
+
+#: retype_password
+msgid "Retype password"
+msgstr ""
+
+#: organisation_unit
+msgid "Organisation unit"
+msgstr ""
+
+#: adding_role_failed
+msgid "Adding role failed"
+msgstr ""
+
+#: members
+msgid "Members"
+msgstr ""
+
+#: data_sets
+msgid "Data sets"
+msgstr ""
+
+#: user_role_management
+msgid "User role management"
+msgstr ""
+
+#: edit_user_role
+msgid "Update user role"
+msgstr ""
+
+#: create_new_user_role
+msgid "Create new user role"
+msgstr ""
+
+#: organisation_units
+msgid "Organisation units"
+msgstr ""
+
+#: confirm_delete_role
+msgid "Are you sure you want to remove the user role?"
+msgstr ""
+
+#: authorities
+msgid "Authorities"
+msgstr ""
+
+#: intro_user
+msgid ""
+"Create, modify, delete and view all users. A user is associated with user "
+"roles and an organisation unit."
+msgstr ""
+
+#: intro_user_by_orgunit
+msgid ""
+"Create, modify, view and delete users which are assigned to a given "
+"organisation unit."
+msgstr ""
+
+#: intro_user_role
+msgid ""
+"Create, modify, view and delete user roles. A user role has a set of "
+"authorities in the system."
+msgstr ""
+
+#: intro_self_registered_user
+msgid ""
+"View and manage users who have self-registered for a personal user account "
+"in the system."
+msgstr ""
+
+#: intro_change_password
+msgid "Change the password for users."
+msgstr ""
+
+#: user_use_group
+msgid "There are user associated with this user role."
+msgstr ""
+
+#: can_not_remove_last_super_user
+msgid "Can not remove the last super user."
+msgstr ""
+
+#: can_not_remove_last_super_user_role
+msgid "Can not remove the last super user role."
+msgstr ""
+
+#: delete_current_user
+msgid "Delete Current User"
+msgstr ""
+
+#: last_login
+msgid "Last login"
+msgstr ""
+
+#: inactive_for
+msgid "Inactive for"
+msgstr ""
+
+#: month
+msgid "month"
+msgstr ""
+
+#: months
+msgid "months"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr ""
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr ""
+
+#: created
+msgid "Created"
+msgstr ""
+
+#: disabled
+msgid "Disabled"
+msgstr ""
+
+#: disable
+msgid "Disable"
+msgstr ""
+
+#: enable
+msgid "Enable"
+msgstr ""
+
+#: data_capture_maintenance_org_units
+msgid "Data capture and maintenance organisation units"
+msgstr ""
+
+#: data_output_analysis_org_units
+msgid "Data output and analysis organisation units"
+msgstr ""
+
+#: data_capture_organisation_unit_required_for_user
+msgid "User must be assigned to at least one data capture organisation unit"
+msgstr ""
+
+#: user_must_be_assigned_to_at_least_one_user_group
+msgid "User must be assigned to at least one user group"
+msgstr ""
+
+#: available_dimension_restrictions_for_data_analytics
+msgid "Available dimension restrictions for data analytics"
+msgstr ""
+
+#: selected_dimension_restrictions_for_data_analytics
+msgid "Selected dimension restrictions for data analytics"
+msgstr ""
+
+#: show_more_options
+msgid "Show more options"
+msgstr ""
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: intro_user_group
+msgid ""
+"Create user groups for functionality that should work on a group of users, "
+"like notifications."
+msgstr ""
+
+#: user_group_management
+msgid "User group management"
+msgstr ""
+
+#: join_group
+msgid "Join group"
+msgstr ""
+
+#: leave_group
+msgid "Leave group"
+msgstr ""
+
+#: user_group_details
+msgid "User group details"
+msgstr ""
+
+#: edit_user_group
+msgid "Edit user group"
+msgstr ""
+
+#: confirm_delete
+msgid "Are you sure you want to delete this user group ?"
+msgstr ""
+
+#: add_user_group
+msgid "Add user group"
+msgstr ""
+
+#: no_of_Users
+msgid "Number of users"
+msgstr ""
+
+#: user_group
+msgid "User Group"
+msgstr ""
+
+#: available_users
+msgid "Available users"
+msgstr ""
+
+#: group_members
+msgid "Group members"
+msgstr ""
+
+#: available_managed_user_groups
+msgid "Available user groups"
+msgstr ""
+
+#: managed_user_groups
+msgid "Managed user groups"
+msgstr ""
+
+#: show_by_inactivity
+msgid "Show by inactivity"
+msgstr ""
+
+#: show_invitations
+msgid "Show invitations"
+msgstr ""
+
+#: all_invitations
+msgid "All invitations"
+msgstr ""
+
+#: expired_invitations
+msgid "Expired invitations"
+msgstr ""
+
+#: show_self_registrations
+msgid "Show self-registrations"
+msgstr ""
+
+#: self_registered_users
+msgid "Self-registered users"
+msgstr ""
+
+#: replicate
+msgid "Replicate"
+msgstr ""
+
+#: resend_invitation
+msgid "Resend invitation"
+msgstr ""
+
+#: invitation_sent
+msgid "Invitation sent"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""

@@ -1,0 +1,488 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataset/src/main/resources/org/hisp/dhis/dataset/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: available_for_mobile_reporting
+msgid "Available for mobile reporting"
+msgstr ""
+
+#: please_select_dataset
+msgid "Please select a data set"
+msgstr ""
+
+#: greying_area
+msgid "Greying area"
+msgstr ""
+
+#: section_grey_field_managment
+msgid "Section grey field management"
+msgstr ""
+
+#: disable
+msgid "Disable"
+msgstr ""
+
+#: enable
+msgid "Enable"
+msgstr ""
+
+#: nr
+msgid "No"
+msgstr ""
+
+#: data_element
+msgid "Data element"
+msgstr ""
+
+#: data_elements
+msgid "Data elements"
+msgstr ""
+
+#: indicators
+msgid "Indicators"
+msgstr ""
+
+#: select_categorycombo
+msgid "Select category combo"
+msgstr ""
+
+#: title
+msgid "Title"
+msgstr ""
+
+#: category_combo
+msgid "Combination of categories"
+msgstr ""
+
+#: add_dataset
+msgid "Add data set"
+msgstr ""
+
+#: dataset_details
+msgid "Data set details"
+msgstr ""
+
+#: multiorg_dataset_details
+msgid "Multi-organisation unit entry details"
+msgstr ""
+
+#: frequency
+msgid "Frequency"
+msgstr ""
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr ""
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr ""
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr ""
+
+#: available_indicators
+msgid "Available indicators"
+msgstr ""
+
+#: define_associations
+msgid "Assign to organisation units"
+msgstr ""
+
+#: number_of_data_elements
+msgid "Number of data elements"
+msgstr ""
+
+#: define_dataset_associations
+msgid "Assign data set to organisation units"
+msgstr ""
+
+#: assign
+msgid "Assign"
+msgstr ""
+
+#: edit_dataset
+msgid "Edit data set"
+msgstr ""
+
+#: confirm_delete
+msgid "Are you sure you want to delete this data set?"
+msgstr ""
+
+#: duplicate_names
+msgid "This name is already registered"
+msgstr ""
+
+#: duplicate_short_names
+msgid "This short name is already registered"
+msgstr ""
+
+#: duplicate_codes
+msgid "This code is already registered"
+msgstr ""
+
+#: level
+msgid "Level"
+msgstr ""
+
+#: dataentryform
+msgid "Data entry form"
+msgstr ""
+
+#: dataentryform_management
+msgid "Data entry form management"
+msgstr ""
+
+#: dataentryform_details
+msgid "Data entry form details"
+msgstr ""
+
+#: dataentryform_design
+msgctxt "dataentryform_design"
+msgid "Design data entry form"
+msgstr ""
+
+#: delete
+msgid "Delete this form"
+msgstr ""
+
+#: dataset
+msgid "Data Set"
+msgstr ""
+
+#: dataentryform_confirm_delete
+msgid "Are you sure you want to delete this data entry form?"
+msgstr ""
+
+#: insert
+msgid "Insert"
+msgstr ""
+
+#: select_dataset
+msgid "Select data set"
+msgstr ""
+
+#: sort_section
+msgid "Sort section"
+msgstr ""
+
+#: dataset_section
+msgid "Data Set Section"
+msgstr ""
+
+#: label
+msgid "Label"
+msgstr ""
+
+#: group
+msgid "Group"
+msgstr ""
+
+#: add_section
+msgid "Add section"
+msgstr ""
+
+#: section_details
+msgid "Section Details"
+msgstr ""
+
+#: edit_section
+msgid "Edit section"
+msgstr ""
+
+#: sort
+msgid "Sort"
+msgstr ""
+
+#: data_set_sort_order
+msgid "Data set sort order"
+msgstr ""
+
+#: design_data_entry_form
+msgctxt "design_data_entry_form"
+msgid "Design data entry form"
+msgstr ""
+
+#: dataset_management
+msgid "Data set management"
+msgstr ""
+
+#: section_management
+msgid "Data set section management"
+msgstr ""
+
+#: intro_dataset
+msgid ""
+"Create, update, view and delete data sets and custom forms. A data set is a "
+"collection of data elements for which data is entered."
+msgstr ""
+
+#: intro_dataset_assignment_editor
+msgid ""
+"Assign data sets to organisation units in a grid based layout for faster "
+"operations when working with a high number of items."
+msgstr ""
+
+#: edit_compulsory_data_elements
+msgid "Edit compulsory data elements"
+msgstr ""
+
+#: dataset_assignment_editor
+msgid "Data Set Assignment Editor"
+msgstr ""
+
+#: new
+msgid "Add new"
+msgstr ""
+
+#: delete_success
+msgid "Delete successfully"
+msgstr ""
+
+#: select
+msgid "[Select]"
+msgstr ""
+
+#: save_success
+msgid "Saved successfully"
+msgstr ""
+
+#: save_close
+msgid "Save and close"
+msgstr ""
+
+#: period_type
+msgid "Period type"
+msgstr ""
+
+#: datasets
+msgid "DataSets"
+msgstr ""
+
+#: data
+msgid "Data"
+msgstr ""
+
+#: pivot
+msgid "Pivot"
+msgstr ""
+
+#: please_select_dataset_or_categorycombo
+msgid "Please select data set and category combination"
+msgstr ""
+
+#: indicator_already_inserted
+msgid "Indicator already inserted"
+msgstr ""
+
+#: no_indicator_was_selected
+msgid "No indicator was selected"
+msgstr ""
+
+#: dataelement_already_inserted
+msgid "Data element already inserted"
+msgstr ""
+
+#: no_dataelement_was_selected
+msgid "No data element was selected"
+msgstr ""
+
+#: done
+msgid "Done"
+msgstr ""
+
+#: section_sort_order
+msgid "Section sort order"
+msgstr ""
+
+#: confirm_delete_section
+msgid "Are you sure you want to delete this section?"
+msgstr ""
+
+#: specify_name
+msgid "Please specify a name"
+msgstr ""
+
+#: select_org_unit
+msgid "Select organisation unit"
+msgstr ""
+
+#: assigned
+msgid "Assigned"
+msgstr ""
+
+#: unassigned
+msgid "Unassigned"
+msgstr ""
+
+#: show_selection_box
+msgid "Show selection box"
+msgstr ""
+
+#: grey_field
+msgid "Grey field"
+msgstr ""
+
+#: totals
+msgid "Totals"
+msgstr ""
+
+#: expiry_days
+msgid "Expiry days"
+msgstr ""
+
+#: timely_days
+msgid "Days after period to qualify for timely submission"
+msgstr ""
+
+#: insert_data_elements_totals_indicators
+msgid "Insert data elements, totals and indicators"
+msgstr ""
+
+#: style
+msgid "Style"
+msgstr ""
+
+#: comfortable
+msgid "Comfortable"
+msgstr ""
+
+#: regular
+msgid "Regular"
+msgstr ""
+
+#: compact
+msgid "Compact"
+msgstr ""
+
+#: none
+msgid "None"
+msgstr ""
+
+#: allow_future_periods
+msgid "Allow future periods"
+msgstr ""
+
+#: skip_aggregation
+msgid "Skip data mart aggregation"
+msgstr ""
+
+#: insert_data_elements
+msgid "Insert data elements"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr ""
+
+#: cat_option_combo_not_exist
+msgid "Category option combo does not exist"
+msgstr ""
+
+#: data_element_not_exist
+msgid "Data element does not exist"
+msgstr ""
+
+#: indicator_not_exist
+msgid "Indicator does not exist"
+msgstr ""
+
+#: cat_combo_not_exist
+msgid "Category combo does not exist"
+msgstr ""
+
+#: all_fields_for_data_element_required
+msgid "All fields for data elements required"
+msgstr ""
+
+#: form_details
+msgid "Form details"
+msgstr ""
+
+#: complete_allowed_only_if_validation_passes
+msgid "Complete allowed only if validation passes"
+msgstr ""
+
+#: notification_recipients
+msgid "Complete notification recipients"
+msgstr ""
+
+#: no_value_requires_comment
+msgid "Missing value requires comment on complete"
+msgstr ""
+
+#: skip_offline
+msgid "Skip offline"
+msgstr ""
+
+#: render_as_tabs
+msgid "Render sections as tabs"
+msgstr ""
+
+#: render_horizontally
+msgid "Render Vertically"
+msgstr ""
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr ""
+
+#: auto_save_data_entry_forms
+msgid "Auto-save data entry forms"
+msgstr ""
+
+#: notify_completing_user
+msgid "Send notification to completing user"
+msgstr ""
+
+#: approve_data
+msgid "Approve data"
+msgstr ""
+
+#: insert_images
+msgid "Insert images"
+msgstr ""
+
+#: dataelementdecoration
+msgid "Data element decoration"
+msgstr ""
+
+#: pdf_data_entry_form
+msgid "Get PDF for Data Entry"
+msgstr ""
+
+#: select_symbol
+msgid "Select symbol"
+msgstr ""
+
+#: symbol
+msgid "Symbol"
+msgstr ""
+
+#: legend_set
+msgid "Legend set"
+msgstr ""
+
+#: enable_for_java_mobile_client
+msgid "Enable for Java mobile client"
+msgstr ""
+
+#: view_sections
+msgid "View sections"
+msgstr ""
+
+#: open_future_periods_for_data_entry
+msgid "Open future periods for data entry"
+msgstr ""

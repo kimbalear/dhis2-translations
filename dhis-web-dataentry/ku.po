@@ -1,0 +1,485 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-dataentry/src/main/resources/org/hisp/dhis/de/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: dataelement_comment
+msgid "Comment"
+msgstr ""
+
+#: history_not_valid
+msgid "No history for this data element"
+msgstr ""
+
+#: data_element
+msgid "Data element"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: entry
+msgid "Entry"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: timestamp
+msgid "Timestamp"
+msgstr ""
+
+#: stored_by
+msgid "Stored by"
+msgstr ""
+
+#: stored_date
+msgid "Stored date"
+msgstr ""
+
+#: last_updated
+msgid "Last updated"
+msgstr ""
+
+#: update
+msgid "Update"
+msgstr ""
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: no_value
+msgid "No value"
+msgstr ""
+
+#: maximum
+msgid "Maximum"
+msgstr ""
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr ""
+
+#: data_set
+msgid "Data Set"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr ""
+
+#: period
+msgid "Period"
+msgstr ""
+
+#: form_field
+msgid "Form field"
+msgstr ""
+
+#: filter_on_section
+msgid "Filter on section"
+msgstr ""
+
+#: filter_in_section
+msgid "Filter in section"
+msgstr ""
+
+#: show_all_sections
+msgid "Show all sections"
+msgstr ""
+
+#: show_all_items
+msgid "Show all items"
+msgstr ""
+
+#: earlier_periods
+msgid "Earlier periods"
+msgstr ""
+
+#: later_periods
+msgid "Later periods"
+msgstr ""
+
+#: value_of_data_element_less
+msgid ""
+"The value of the following data element is less than the specified minimum "
+"value."
+msgstr ""
+
+#: value_of_data_element_greater
+msgid ""
+"The value of the following data element is greater than the specified "
+"maximum value."
+msgstr ""
+
+#: saving_value_failed_status_code
+msgid "Saving value failed with status code"
+msgstr ""
+
+#: saving_value_failed_dataset_is_locked
+msgid "Data set is locked, please contact admin"
+msgstr ""
+
+#: saving_comment_failed_status_code
+msgid "Saving comment failed with status code"
+msgstr ""
+
+#: saving_comment_failed_error_code
+msgid "Saving comment failed with error code"
+msgstr ""
+
+#: saving_minmax_failed_error_code
+msgid "Saving min/max values failed with error code"
+msgstr ""
+
+#: move
+msgid "Move"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr ""
+
+#: min_limit
+msgid "Min limit"
+msgstr ""
+
+#: max_limit
+msgid "Max limit"
+msgstr ""
+
+#: dataelement_history
+msgid "Data element history"
+msgstr ""
+
+#: audit_trail
+msgid "Audit trail"
+msgstr ""
+
+#: nr
+msgid "Nr"
+msgstr ""
+
+#: min_max_limits
+msgid "Min-max limits"
+msgstr ""
+
+#: run_validation
+msgid "Run validation"
+msgstr ""
+
+#: validation_result
+msgid "Validation Result"
+msgstr ""
+
+#: expression
+msgid "Expression"
+msgstr ""
+
+#: successful_validation
+msgid "The data entry screen successfully passed validation"
+msgstr ""
+
+#: data_entry_screen_has_following_errors
+msgid ""
+"The data entry screen has the following validation errors, please correct"
+msgstr ""
+
+#: the_following_values_are_outliers
+msgid ""
+"The following values are considered as outliers (min-max or std dev), please "
+"correct"
+msgstr ""
+
+#: the_following_fields_require_comment
+msgid "The following input fields require a comment, please enter"
+msgstr ""
+
+#: the_following_values_violate_rules
+msgid "The following values violate validation rules"
+msgstr ""
+
+#: operator
+msgid "Operator"
+msgstr ""
+
+#: no_organisationunit_selected
+msgid "No Organisation Unit Selected"
+msgstr ""
+
+#: no_period_selected
+msgid "No Period Selected"
+msgstr ""
+
+#: no_dataelement_selected
+msgid "No Data Element Selected"
+msgstr ""
+
+#: dataset_is_locked
+msgid "Data set is locked"
+msgstr ""
+
+#: complete
+msgid "Complete"
+msgstr ""
+
+#: incomplete
+msgid "Incomplete"
+msgstr ""
+
+#: confirm_complete
+msgid "Are you sure this data set is complete?"
+msgstr ""
+
+#: confirm_undo
+msgid "Are you sure you will undo the registration?"
+msgstr ""
+
+#: data_entry
+msgid "Data Entry"
+msgstr ""
+
+#: followup
+msgid "Follow-up"
+msgstr ""
+
+#: validation_rule
+msgid "Validation rule"
+msgstr ""
+
+#: register_complete_dataset_success
+msgid "Registered complete data set"
+msgstr ""
+
+#: register_complete_dataset_failed
+msgid "Register complete data set failed"
+msgstr ""
+
+#: undo_register_complete_dataset_success
+msgid "Undo register complete data set success"
+msgstr ""
+
+#: enter_digits
+msgid "Enter digit only."
+msgstr ""
+
+#: value_is_too_long
+msgid "Value is too long"
+msgstr ""
+
+#: field_unallowed_save_zero
+msgid ""
+"This element does not permit 0 values. The original value will not be "
+"affected."
+msgstr ""
+
+#: datavalue_history
+msgid "Data value history"
+msgstr ""
+
+#: max_must_be_greater_than_min
+msgid "Max must be greater than min"
+msgstr ""
+
+#: next
+msgid "Next"
+msgstr ""
+
+#: prev
+msgid "Prev"
+msgstr ""
+
+#: select_from_tree
+msgid "Select from tree on the left side"
+msgstr ""
+
+#: select_data_set
+msgid "Select data set"
+msgstr ""
+
+#: select_period
+msgid "Select period"
+msgstr ""
+
+#: select_option
+msgid "Select option"
+msgstr ""
+
+#: change_from
+msgid "change from"
+msgstr ""
+
+#: modification
+msgid "Modification"
+msgstr ""
+
+#: modified_by
+msgid "Modified by"
+msgstr ""
+
+#: to
+msgid "to"
+msgstr ""
+
+#: on
+msgid "On"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: no_response_from_server
+msgid "No response from server, please check connectivity and try again"
+msgstr ""
+
+#: save
+msgid "Save"
+msgstr ""
+
+#: save_comment
+msgid "Save comment"
+msgstr ""
+
+#: operation_not_available_offline
+msgid "This operation is not available in off-line mode"
+msgstr ""
+
+#: mark_value_for_followup
+msgid "Mark value for follow-up"
+msgstr ""
+
+#: unmark_value_for_followup
+msgid "Un-mark value for follow-up"
+msgstr ""
+
+#: completed_by
+msgid "Completed by"
+msgstr ""
+
+#: at
+msgid "at"
+msgstr ""
+
+#: prev_year
+msgid "Prev year"
+msgstr ""
+
+#: next_year
+msgid "Next year"
+msgstr ""
+
+#: see_details
+msgid "See details"
+msgstr ""
+
+#: username
+msgid "Username"
+msgstr ""
+
+#: user_roles
+msgid "User roles"
+msgstr ""
+
+#: register_complete_failed_dataset_is_locked
+msgid "Data set is locked, registration failed, please contact admin"
+msgstr ""
+
+#: unregister_complete_failed_dataset_is_locked
+msgid "Data set is locked, un-registration failed, please contact admin"
+msgstr ""
+
+#: dataelement_with_id
+msgid "Data element with identifier"
+msgstr ""
+
+#: category_option_combo_with_id
+msgid "Category option combination identifier"
+msgstr ""
+
+#: does_not_exist
+msgid "does not exist"
+msgstr ""
+
+#: does_not_exist_in_data_set
+msgid "does not exist in data set"
+msgstr ""
+
+#: insert_input_fields_into_the_form
+msgid "Insert input fields into the form"
+msgstr ""
+
+#: select_data_element
+msgid "Select data element"
+msgstr ""
+
+#: all_values_for_data_element_must_be_filled
+msgid ""
+"This form requires that all fields for a data element must be filled, please "
+"correct this before continuing."
+msgstr ""
+
+#: childrens_forms
+msgid "Sub Organisation Units"
+msgstr ""
+
+#: left_side
+msgid "Left side"
+msgstr ""
+
+#: right_side
+msgid "Right side"
+msgstr ""
+
+#: no_periods_click_prev_year_button
+msgid "No periods, click \"Prev year\" button"
+msgstr ""
+
+#: print
+msgid "Print"
+msgstr ""
+
+#: view_comment
+msgid "View comment"
+msgstr ""
+
+#: no_orgunits
+msgid "No organisation unit attached to current user, no data entry possible"
+msgstr ""
+
+#: validation_rules_are_being_processed_please_wait
+msgid "Validation rules are being processed, please wait"
+msgstr ""
+
+#: section
+msgid "Section"
+msgstr ""
+
+#: print_form
+msgid "Print form"
+msgstr ""
+
+#: print_blank_form
+msgid "Print blank form"
+msgstr ""
+
+#: instruction
+msgid "Instruction"
+msgstr ""
+
+#: there_is_no_audit_trail_for_this_value
+msgid "There is no audit trail for this value"
+msgstr ""

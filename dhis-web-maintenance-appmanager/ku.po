@@ -1,0 +1,106 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-appmanager/src/main/resources/org/hisp/dhis/appmanager/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: appmanager_list_app
+msgid "Installed Apps"
+msgstr ""
+
+#: appmanager_settings
+msgid "Settings"
+msgstr ""
+
+#: appmanager_app_store
+msgid "App Store"
+msgstr ""
+
+#: appmanager_saved_settings
+msgid "Saved Settings "
+msgstr ""
+
+#: appmanager_installation_folder
+msgid "App installation folder"
+msgstr ""
+
+#: appmanager_absolute_server_path
+msgid "absolute path on server for uploaded apps"
+msgstr ""
+
+#: appmanager_baseurl
+msgid "App base URL"
+msgstr ""
+
+#: appmanager_where_apps_can_be_found
+msgid "location of where apps can be found on the Web"
+msgstr ""
+
+#: appmanager_store_url
+msgid "App store URL"
+msgstr ""
+
+#: appmanager_upload_app_package
+msgid "Upload App package (ZIP)"
+msgstr ""
+
+#: appmanager_install_success
+msgid "App installed successfully"
+msgstr ""
+
+#: appmanager_manifest_not_found
+msgid "Manifest file not found in app"
+msgstr ""
+
+#: appmanager_not_zip
+msgid "App is not a valid ZIP archive"
+msgstr ""
+
+#: appmanager_confirm_delete
+msgid "Are you sure you want to delete this app?"
+msgstr ""
+
+#: appmanager_invalid_json
+msgid "Invalid JSON syntax in manifest file"
+msgstr ""
+
+#: appmanager_could_not_read_file_check_server_permissions
+msgid "Could not read app files, check server permissions"
+msgstr ""
+
+#: appmanager_delete_success
+msgid "App deleted successfully"
+msgstr ""
+
+#: appmanager_management
+msgid "Manage Installed Apps"
+msgstr ""
+
+#: appmanager_appname
+msgid "App name"
+msgstr ""
+
+#: appmanager_you_have_no_apps_installed
+msgid "You have no apps installed at the moment"
+msgstr ""
+
+#: appmanager_author
+msgid "Author"
+msgstr ""
+
+#: appmanager_version
+msgid "Version"
+msgstr ""
+
+#: appmanager_set_to_default
+msgid "Set to default"
+msgstr ""

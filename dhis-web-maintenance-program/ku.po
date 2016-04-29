@@ -1,0 +1,2250 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-program/src/main/resources/org/hisp/dhis/trackedentity/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: groupBy
+msgid "Group by"
+msgstr ""
+
+#: equal_to
+msgctxt "equal_to"
+msgid "="
+msgstr ""
+
+#: greater_than
+msgctxt "greater_than"
+msgid ">"
+msgstr ""
+
+#: greater_than_or_equal_to
+msgid ">="
+msgstr ""
+
+#: less_than
+msgctxt "less_than"
+msgid "<"
+msgstr ""
+
+#: less_than_or_equal_to
+msgid "<="
+msgstr ""
+
+#: is_equal_to_tracked_entity_domain
+msgid "Is equal to tracked entity domain"
+msgstr ""
+
+#: group
+msgid "Group"
+msgstr ""
+
+#: duplicate_names
+msgid "Name is already in use"
+msgstr ""
+
+#: hide_details
+msgid "Hide details"
+msgstr ""
+
+#: please_select
+msgid "Please select"
+msgstr ""
+
+#: is
+msgid "is"
+msgstr ""
+
+#: confirm_delete_relationship_type
+msgid "Are you sure you want to delete relationship type?"
+msgstr ""
+
+#: relationship_description
+msgid "Relationship (e.g. Mother-Child)"
+msgstr ""
+
+#: relationship_type
+msgid "Relationship type"
+msgstr ""
+
+#: relationship_type_details
+msgid "Relationship type details"
+msgstr ""
+
+#: a_is_to_b
+msgid "A is to B"
+msgstr ""
+
+#: b_is_to_a
+msgid "B is to A"
+msgstr ""
+
+#: edit_relationship_type
+msgid "Edit relationship type"
+msgstr ""
+
+#: create_new_relationship_type
+msgid "Create new relationship type"
+msgstr ""
+
+#: relationship_type_management
+msgid "Relationship type management"
+msgstr ""
+
+#: or
+msgid "or"
+msgstr ""
+
+#: age_days
+msgid "Age (days)"
+msgstr ""
+
+#: value_must_integer
+msgid "Value must be an integer"
+msgstr ""
+
+#: program_stage
+msgid "Program Stage"
+msgstr ""
+
+#: section_details
+msgid "Section details"
+msgstr ""
+
+#: close
+msgid "Close"
+msgstr ""
+
+#: edit_tracked_entity_attribute
+msgid "Edit tracked entity attribute"
+msgstr ""
+
+#: attribute
+msgctxt "attribute"
+msgid "Attribute"
+msgstr ""
+
+#: value_type
+msgid "Value type"
+msgstr ""
+
+#: legend_set
+msgid "Legend set"
+msgstr ""
+
+#: create_new_tracked_entity_attribute
+msgid "Create new tracked entity attribute"
+msgstr ""
+
+#: confirm_delete_tracked_entity_attribute
+msgid "Are you sure you want to delete this tracked entity attribute?"
+msgstr ""
+
+#: tracked_entity_attribute_management
+msgid "Tracked entity attribute management"
+msgstr ""
+
+#: name_in_use
+msgid "Name is in use"
+msgstr ""
+
+#: short_name_in_use
+msgid "Short name in use"
+msgstr ""
+
+#: code_in_use
+msgid "Code is in use"
+msgstr ""
+
+#: sort
+msgid "Sort"
+msgstr ""
+
+#: value_must_positive
+msgid "Value must be a positive number"
+msgstr ""
+
+#: invalid_min_max_days
+msgid "Invalid min-max days combination"
+msgstr ""
+
+#: please_select_program
+msgid "Please select a program"
+msgstr ""
+
+#: program_stage_management
+msgid "Program stage management"
+msgstr ""
+
+#: view_program_stages
+msgid "View program stages"
+msgstr ""
+
+#: assign_program_to_orgunits
+msgid "Assign program to organisation units"
+msgstr ""
+
+#: programs
+msgid "Programs"
+msgstr ""
+
+#: no_of_dataelements
+msgid "Number of data elements to be collected"
+msgstr ""
+
+#: adding_program_stage_failed
+msgid "Adding program stage failed"
+msgstr ""
+
+#: updating_program_stage_failed
+msgid "Updating program stage failed"
+msgstr ""
+
+#: confirm_delete_prorgam_stage
+msgid "Are you sure you want to delete this program stage?"
+msgstr ""
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr ""
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr ""
+
+#: program_stage_details
+msgid "Program stage details"
+msgstr ""
+
+#: edit_program_stage
+msgid "Edit program stage"
+msgstr ""
+
+#: create_new_program_stage
+msgid "Create new program stage"
+msgstr ""
+
+#: order
+msgid "Order in program"
+msgstr ""
+
+#: program_details
+msgid "Program details"
+msgstr ""
+
+#: edit_program
+msgid "Edit program"
+msgstr ""
+
+#: confirm_delete_prorgam
+msgid "Are you sure you want to delete this program?"
+msgstr ""
+
+#: create_new_program
+msgid "Create new program"
+msgstr ""
+
+#: search
+msgid "Search"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr ""
+
+#: organisation_unit
+msgctxt "organisation_unit"
+msgid "Organisation unit"
+msgstr ""
+
+#: add
+msgid "Add"
+msgstr ""
+
+#: program_management
+msgid "Program management"
+msgstr ""
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr ""
+
+#: tracked_entity_attribute
+msgctxt "tracked_entity_attribute"
+msgid "Attribute"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: aggregation_query_builder
+msgid "Aggregation Query Builder"
+msgstr ""
+
+#: tracked_entity_aggregation_query_builder_management
+msgid "Aggregation query builder management"
+msgstr ""
+
+#: dataelements
+msgid "Data elements"
+msgstr ""
+
+#: tracked_entity_attributes
+msgctxt "tracked_entity_attributes"
+msgid "Attributes"
+msgstr ""
+
+#: operator
+msgid "Operator"
+msgstr ""
+
+#: dataentryform_management_for_program_stage
+msgid "Data entry form management for program stage"
+msgstr ""
+
+#: choose_existing_dataentry
+msgid "Choose existing data entry form"
+msgstr ""
+
+#: dataentryform_details
+msgid "Data entry form details"
+msgstr ""
+
+#: data_entry_form
+msgid "Data entry form"
+msgstr ""
+
+#: blood_group
+msgid "Blood group"
+msgstr ""
+
+#: attribute_options
+msgid "Attribute options"
+msgstr ""
+
+#: add_more_option
+msgid "Add Option"
+msgstr ""
+
+#: mandatory
+msgid "Mandatory"
+msgstr ""
+
+#: tracked_entity_attribute_group_management
+msgid "Tracked entity attribute group management"
+msgstr ""
+
+#: move_selected
+msgid "Move selected items"
+msgstr ""
+
+#: remove_selected
+msgid "Remove selected items"
+msgstr ""
+
+#: availableAttribute
+msgctxt "availableAttribute"
+msgid "Available attributes"
+msgstr ""
+
+#: selectedAttribute
+msgid "Selected attributes"
+msgstr ""
+
+#: tracked_entity_attribute_group_deltails
+msgid "Tracked entity attribute group details"
+msgstr ""
+
+#: tracked_entity_attribute_group
+msgctxt "tracked_entity_attribute_group"
+msgid "Attribute Group"
+msgstr ""
+
+#: edit_tracked_entity_attribute_group
+msgid "Edit tracked entity attribute group"
+msgstr ""
+
+#: create_new_tracked_entity_attribute_group
+msgid "Create new tracked entity attribute group"
+msgstr ""
+
+#: delete_successfull
+msgid "Deleted successfully"
+msgstr ""
+
+#: warning_delete_tracked_entity_attribute_option
+msgid "This option has relationship with tracked entity attribute values"
+msgstr ""
+
+#: success_delete_tracked_entity_attribute_option
+msgid "Deleted tracked entity attribute option successfully"
+msgstr ""
+
+#: error_delete_tracked_entity_attribute_option
+msgid "Can not find tracked entity attribute option to delete"
+msgstr ""
+
+#: combo
+msgid "Predefined value"
+msgstr ""
+
+#: related
+msgid "Related"
+msgstr ""
+
+#: validation_criteria
+msgid "Validation Criteria"
+msgstr ""
+
+#: edit_validation_criteria
+msgid "Edit validation criteria"
+msgstr ""
+
+#: attribute_group
+msgctxt "attribute_group"
+msgid "Attribute Group"
+msgstr ""
+
+#: attribute_visit_schedule
+msgctxt "attribute_visit_schedule"
+msgid "Attribute Visit Schedule"
+msgstr ""
+
+#: create_validation_criteria
+msgid "Create validation criteria"
+msgstr ""
+
+#: intro_attribute
+msgid ""
+"Create, modify and view tracked entity attributes. An attribute can be used "
+"to register extra information for a tracked entity."
+msgstr ""
+
+#: intro_attribute_group
+msgid ""
+"Create, modify and view tracked entity attribute groups. Groups makes it "
+"more convenient to add attributes to a tracked entity."
+msgstr ""
+
+#: intro_attribute_visit_schedule
+msgid ""
+"Define which attributes to use in messages sent to clients regarding "
+"scheduled visits."
+msgstr ""
+
+#: intro_relationship_type
+msgid ""
+"Create, modify and view relationship types. A relationship is typically wife "
+"and husband or mother and child."
+msgstr ""
+
+#: intro_program
+msgid ""
+"Create, modify and view programs. A program has program stages and defines "
+"which actions should be taken at each stage."
+msgstr ""
+
+#: intro_aggregation_query_builder
+msgid ""
+"Set up aggregation rules for the process of aggregating tracked entity data "
+"to statistical data."
+msgstr ""
+
+#: intro_schedule_automated_message_reminder
+msgid ""
+"Set reminders to be automatically sent to enrolled tracked entity instances "
+"before scheduled appointments and after missed visits."
+msgstr ""
+
+#: intro_program_attribute
+msgid ""
+"Create, modify and view program attributes. A program can have any number of "
+"attributes."
+msgstr ""
+
+#: intro_configuration
+msgid ""
+"Set the Excel XML template file used for automatically importing tracked "
+"entity instance data."
+msgstr ""
+
+#: intro_tracked_entity
+msgid ""
+"Define types of entities which can be tracked through the system, which can "
+"be anything from persons to commodities."
+msgstr ""
+
+#: inheritable
+msgid "Inheritable"
+msgstr ""
+
+#: tracked_entity_attribute_details
+msgid "Tracked entity attribute details"
+msgstr ""
+
+#: search_result
+msgid "Search result"
+msgstr ""
+
+#: criteria
+msgid "Criteria"
+msgstr ""
+
+#: operator_less_then
+msgctxt "operator_less_then"
+msgid "<"
+msgstr ""
+
+#: operator_equal_to
+msgctxt "operator_equal_to"
+msgid "="
+msgstr ""
+
+#: operator_greater_then
+msgctxt "operator_greater_then"
+msgid ">"
+msgstr ""
+
+#: left_side
+msgid "Left side"
+msgstr ""
+
+#: right_side
+msgid "Right side"
+msgstr ""
+
+#: validation
+msgid "Validation"
+msgstr ""
+
+#: field_is_required
+msgid "This field is required"
+msgstr ""
+
+#: number_of_attribute
+msgid "Number of attributes"
+msgstr ""
+
+#: available_program
+msgid "Available programs"
+msgstr ""
+
+#: selected_program
+msgid "Selected programs"
+msgstr ""
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr ""
+
+#: confirm_delete_validation_criteria
+msgid "Are you sure you want to delete this validation criteria?"
+msgstr ""
+
+#: specify_dataelememt
+msgid "Please specify a data element"
+msgstr ""
+
+#: processing
+msgid "Processing"
+msgstr ""
+
+#: done
+msgid "Done"
+msgstr ""
+
+#: decimals_in_data_output
+msgid "Decimals in data output"
+msgstr ""
+
+#: other_program_stage_data_element
+msgid "Other program stage data element"
+msgstr ""
+
+#: load_existed_form
+msgid "Load existing form"
+msgstr ""
+
+#: design_dataentry_form
+msgctxt "design_dataentry_form"
+msgid "Design data entry form"
+msgstr ""
+
+#: dataelement_is_inserted
+msgid "This data element is inserted in form"
+msgstr ""
+
+#: compulsory
+msgid "Compulsory"
+msgstr ""
+
+#: design_data_entry_form
+msgctxt "design_data_entry_form"
+msgid "Design data entry form"
+msgstr ""
+
+#: no_of_char
+msgid "Number of characters"
+msgstr ""
+
+#: letter_only
+msgid "Letter Only"
+msgstr ""
+
+#: program_attribute
+msgid "Program Attribute"
+msgstr ""
+
+#: program_attribute_management
+msgid "Program attribute management"
+msgstr ""
+
+#: create_new_program_attribute
+msgid "Create new program attribute"
+msgstr ""
+
+#: edit_program_attribute
+msgid "Edit program attribute"
+msgstr ""
+
+#: import
+msgid "Import"
+msgstr ""
+
+#: import_data
+msgid "Import Data"
+msgstr ""
+
+#: configuration
+msgid "Configuration"
+msgstr ""
+
+#: row
+msgid "Row"
+msgstr ""
+
+#: duplicate
+msgid "Duplicate"
+msgstr ""
+
+#: option_combo
+msgid "Option combination"
+msgstr ""
+
+#: case_aggregation_query_builder_detail
+msgid "Aggregation query builder details"
+msgstr ""
+
+#: create_new_aggregation_query_builder
+msgid "Create new aggregation query builder"
+msgstr ""
+
+#: condition_detail
+msgid "Condition details"
+msgstr ""
+
+#: edit_aggregation_query_builder
+msgid "Edit aggregation query builder"
+msgstr ""
+
+#: program_properties
+msgid "Program properties"
+msgstr ""
+
+#: validation_criteria_details
+msgid "Validation criteria details"
+msgstr ""
+
+#: program_attribute_details
+msgid "Program attribute details"
+msgstr ""
+
+#: select_program
+msgid "Select program"
+msgstr ""
+
+#: create_new_program_validation_rule
+msgid "Create new program validation rule"
+msgstr ""
+
+#: add_multi_program_validation_rule
+msgid "Add multi-program validation rule"
+msgstr ""
+
+#: program_validation_rule_details
+msgid "Program validation rule details"
+msgstr ""
+
+#: view_validation_rules
+msgid "View validation rules"
+msgstr ""
+
+#: scheduled_days_from_start
+msgid "Scheduled days from start"
+msgstr ""
+
+#: success_delete_program_attribute_option
+msgid "Deleted program attribute option successfully"
+msgstr ""
+
+#: validation_criteria_management
+msgid "Validation criteria management"
+msgstr ""
+
+#: aggregation_data_element
+msgid "Aggregation data element"
+msgstr ""
+
+#: aggregation_expression
+msgid "Aggregation expression"
+msgstr ""
+
+#: aggregation_data_element_in_use
+msgid "Aggregation data element is in use"
+msgstr ""
+
+#: delete_program_data_entry_confirm
+msgid "Are you sure you want to delete this program data entry form?"
+msgstr ""
+
+#: save
+msgid "Save"
+msgstr ""
+
+#: must_select_one_dataelement
+msgid "Please select one data element"
+msgstr ""
+
+#: single_event
+msgid "Single event"
+msgstr ""
+
+#: tracked_entity_instances
+msgid "Tracked entity instances"
+msgstr ""
+
+#: dob_type
+msgid "DOB type"
+msgstr ""
+
+#: date_of_enrollment_description
+msgid "Description of enrollment date"
+msgstr ""
+
+#: date_of_incident_description
+msgid "Description of incident date"
+msgstr ""
+
+#: date_of_enrollment
+msgid "Date of enrollment"
+msgstr ""
+
+#: date_of_incident
+msgid "Date of incident"
+msgstr ""
+
+#: male
+msgid "Male"
+msgstr ""
+
+#: female
+msgid "Female"
+msgstr ""
+
+#: transgender
+msgid "Trans-gender"
+msgstr ""
+
+#: verified
+msgid "Verified"
+msgstr ""
+
+#: declared
+msgid "Declared"
+msgstr ""
+
+#: approximated
+msgid "Approximated"
+msgstr ""
+
+#: others
+msgid "Others"
+msgstr ""
+
+#: test_condition
+msgid "Test condition"
+msgstr ""
+
+#: run_success
+msgid "Run successful"
+msgstr ""
+
+#: run_fail
+msgid "Run failed"
+msgstr ""
+
+#: total_of_tracked_entity_registration
+msgid "Total of tracked entity instance registration"
+msgstr ""
+
+#: repeatable
+msgid "Repeatable"
+msgstr ""
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr ""
+
+#: anonymous
+msgid "Anonymous"
+msgstr ""
+
+#: edit_program_validation_rule
+msgctxt "edit_program_validation_rule"
+msgid "Edit program validation rule"
+msgstr ""
+
+#: age
+msgctxt "age"
+msgid "Age(years)"
+msgstr ""
+
+#: assign_validation_for_programs
+msgid "Assign validation for programs"
+msgstr ""
+
+#: validation_for_date_data_elements
+msgid "Validation for date date elements"
+msgstr ""
+
+#: before_current_date
+msgid "Before current date"
+msgstr ""
+
+#: before_or_equals_to_current_date
+msgid "Before or equal to current date"
+msgstr ""
+
+#: after_current_date
+msgid "After current date"
+msgstr ""
+
+#: after_or_equals_to_current_date
+msgid "After or equal to current date"
+msgstr ""
+
+#: before_due_date
+msgid "Before due date"
+msgstr ""
+
+#: before_or_equals_to_due_date
+msgid "Before or equal to due date"
+msgstr ""
+
+#: after_due_date
+msgid "After due date"
+msgstr ""
+
+#: after_or_equals_to_due_date
+msgid "After or equal to due date"
+msgstr ""
+
+#: in_range_due_date
+msgid "In range due date"
+msgstr ""
+
+#: data_element
+msgid "Data element"
+msgstr ""
+
+#: condition
+msgid "Condition"
+msgstr ""
+
+#: no_date_data_element_in_selected_program_stage
+msgid "No data elements of type date in the selected program stage"
+msgstr ""
+
+#: shown_on_reports
+msgid "Shown on reports"
+msgstr ""
+
+#: show_provided_provided_elsewhere
+msgid "Show provided elsewhere"
+msgstr ""
+
+#: available_values
+msgid "Available values"
+msgstr ""
+
+#: insert_selected_values
+msgid "Insert selected values"
+msgstr ""
+
+#: display_provided_other_facility_column
+msgid "Display provided other facility column"
+msgstr ""
+
+#: tracked_entity_org_unit_registration
+msgid "Tracked entity org unit registration"
+msgstr ""
+
+#: dataset
+msgid "Data set"
+msgstr ""
+
+#: filter_by_data_set
+msgid "Filter by data set"
+msgstr ""
+
+#: show_all_item
+msgid "Show all items"
+msgstr ""
+
+#: with_registration
+msgid "With registration"
+msgstr ""
+
+#: without_registration
+msgid "Without registration"
+msgstr ""
+
+#: for
+msgid "for"
+msgstr ""
+
+#: standard_interval_days
+msgid "Standard interval days"
+msgstr ""
+
+#: program_enrollment
+msgid "Program enrollment"
+msgstr ""
+
+#: due_date
+msgid "Due date"
+msgstr ""
+
+#: stage_visited
+msgid "Stage visited"
+msgstr ""
+
+#: report_date
+msgid "Report date"
+msgstr ""
+
+#: program_stage_properties
+msgid "Program stage properties"
+msgstr ""
+
+#: allow_provided_elsewhere
+msgid "Allow provided elsewhere"
+msgstr ""
+
+#: save_success
+msgid "Saved successful"
+msgstr ""
+
+#: sort_by_scheduled_days
+msgid "Sort by scheduled days"
+msgstr ""
+
+#: assign_program_to_orgunits_for_registering
+msgid "Assign program to organisation units for registering"
+msgstr ""
+
+#: visited_program_stage
+msgid "Visited program stage"
+msgstr ""
+
+#: number_of_tracked_entity_instances
+msgid "Number of tracked entity instances"
+msgstr ""
+
+#: number_of_visits
+msgid "Number of visits"
+msgstr ""
+
+#: insert
+msgid "Insert "
+msgstr ""
+
+#: visit_selected_program_stage
+msgid "Visited selected program stage"
+msgstr ""
+
+#: intro_tracked_entity_aggregation_query_builder
+msgid ""
+"Define formulas, expressions, rules for aggregation data from name-based to "
+"aggregation system"
+msgstr ""
+
+#: show_incident_date
+msgid "Show incidence date"
+msgstr ""
+
+#: display_date_of_incident
+msgid "Display date of incident"
+msgstr ""
+
+#: tracked_entity_attribute_group_sort_order
+msgid "Tracked entity attribute group sort order"
+msgstr ""
+
+#: visit_selected_program_stage_x_th_time
+msgid "Visit selected program stage n(th) time"
+msgstr ""
+
+#: program_stage_section
+msgid "Program stage section"
+msgstr ""
+
+#: create_new_program_stage_section
+msgid "Create new program stage section"
+msgstr ""
+
+#: update_program_stage_section
+msgid "Update program stage section"
+msgstr ""
+
+#: section_management
+msgid "Section management"
+msgstr ""
+
+#: program_stage_section_sort_order
+msgid "Program stage section sort order"
+msgstr ""
+
+#: add_selected
+msgid "Add selected"
+msgstr ""
+
+#: add_all
+msgid "Add all"
+msgstr ""
+
+#: available_attributes
+msgctxt "available_attributes"
+msgid "Available attributes"
+msgstr ""
+
+#: select_attributes
+msgid "Select attributes"
+msgstr ""
+
+#: displayed_in_list
+msgid "Display in list"
+msgstr ""
+
+#: report_date_description
+msgid "Description of report date"
+msgstr ""
+
+#: reminder_message_template
+msgid "Reminder message templates"
+msgstr ""
+
+#: message
+msgid "Message"
+msgstr ""
+
+#: params
+msgid "Parameters"
+msgstr ""
+
+#: program_name
+msgid "Program name"
+msgstr ""
+
+#: program_stage_name
+msgid "Program stage name"
+msgstr ""
+
+#: orgunit_name
+msgid "Organisation unit name"
+msgstr ""
+
+#: days_since_due_date
+msgid "Days since due date"
+msgstr ""
+
+#: scheduling
+msgid "Scheduling"
+msgstr ""
+
+#: schedule_automated_message_reminder
+msgid "Automated Message Reminder"
+msgstr ""
+
+#: schedule
+msgid "Schedule"
+msgstr ""
+
+#: start
+msgid "Start"
+msgstr ""
+
+#: stop
+msgid "Stop"
+msgstr ""
+
+#: scheduling_is
+msgid "Scheduling is"
+msgstr ""
+
+#: not_started
+msgid "not started"
+msgstr ""
+
+#: running
+msgid "active"
+msgstr ""
+
+#: gateway_type
+msgid "Gateway type"
+msgstr ""
+
+#: execute
+msgid "Execute"
+msgstr ""
+
+#: time_for_sending_message
+msgid "Time for sending message"
+msgstr ""
+
+#: number_of_attributes
+msgid "The number of attributes"
+msgstr ""
+
+#: reminder
+msgid "Reminder"
+msgstr ""
+
+#: remove_reminder
+msgid "Remove reminder"
+msgstr ""
+
+#: add_more
+msgid "Add more"
+msgstr ""
+
+#: inherit
+msgid "Inherit"
+msgstr ""
+
+#: auto_generate_event
+msgid "Auto-generate event"
+msgstr ""
+
+#: generate_events_based_on_enrollment_date
+msgid "Generate events based on enrollment date"
+msgstr ""
+
+#: not_incident_date
+msgid "not incident date"
+msgstr ""
+
+#: execute_success
+msgid "Executed successfully"
+msgstr ""
+
+#: plus
+msgid "Plus"
+msgstr ""
+
+#: diff_from
+msgid "Different from"
+msgstr ""
+
+#: not_null
+msgid "Not null"
+msgstr ""
+
+#: confirm_delete_prorgam_stage_section
+msgid "Are you sure you want to delete this program stage section ?"
+msgstr ""
+
+#: form_details
+msgid "Form details"
+msgstr ""
+
+#: enrollment_details
+msgctxt "enrollment_details"
+msgid "Enrollment"
+msgstr ""
+
+#: repeatable_program_stage_details
+msgid "Repeatable program stage details"
+msgstr ""
+
+#: schedule_automated_aggregation
+msgid "Automated Aggregation"
+msgstr ""
+
+#: schedule_automated_aggregation_form
+msgid "Schedule automated aggregation"
+msgstr ""
+
+#: intro_schedule_automated_aggregation
+msgid ""
+"Schedule an automated tracked entity aggregation process, e.g. to run all "
+"pre-defined aggregation queries every midnight."
+msgstr ""
+
+#: execute_tasks_confirmation
+msgid ""
+"Are you sure you want to execute all tasks now? Task processing might fully "
+"utilize your system resources and slow down other operations."
+msgstr ""
+
+#: executing
+msgid "Executing"
+msgstr ""
+
+#: add_single_rule
+msgid "Add single rule"
+msgstr ""
+
+#: add_multi_rule
+msgid "Add multi rule"
+msgstr ""
+
+#: no_aggregation
+msgid "No aggregation"
+msgstr ""
+
+#: age_at_visit_days_since_birth
+msgid "Age at visit (days since birth)"
+msgstr ""
+
+#: formula
+msgid "Formula"
+msgstr ""
+
+#: schedule_automated_message_reminder_form
+msgid "Schedule automated message reminder"
+msgstr ""
+
+#: display_in_reports
+msgid "Display in reports"
+msgstr ""
+
+#: edit_left_side
+msgid "Edit left side"
+msgstr ""
+
+#: edit_right_side
+msgid "Edit right side"
+msgstr ""
+
+#: update_program_validation_rule
+msgctxt "update_program_validation_rule"
+msgid "Edit program validation rule"
+msgstr ""
+
+#: description_not_null
+msgid "Description is not null"
+msgstr ""
+
+#: expression_not_null
+msgid "Expression is not null"
+msgstr ""
+
+#: complete_allowed_only_if_validation_passes
+msgid "Complete allowed only if validation passes"
+msgstr ""
+
+#: skip_to_generate_overdue_events
+msgid "Skip generation of events that are overdue (before enrollment date)"
+msgstr ""
+
+#: display_generate_event_box_after_completed
+msgid "Display generate event box after completed"
+msgstr ""
+
+#: pre_generate_event_uid
+msgid "Pre-generate event UID"
+msgstr ""
+
+#: calculated
+msgid "Calculated"
+msgstr ""
+
+#: display_name
+msgid "Display name"
+msgstr ""
+
+#: code_and_name
+msgid "Code and Name"
+msgstr ""
+
+#: sort_by
+msgid "Sort by"
+msgstr ""
+
+#: block_entry_form_after_completed
+msgid "Block entry form after completed"
+msgstr ""
+
+#: select_operator_number_of_visits_for_this_condition
+msgid "Please select operator number of visit for this condition"
+msgstr ""
+
+#: design_prorgam_entry_form
+msgid "Design program entry form"
+msgstr ""
+
+#: intro_tracked_entity_form
+msgid ""
+"Create custom tracked entity data capture forms with tracked entity "
+"attributes."
+msgstr ""
+
+#: properties
+msgid "Properties"
+msgstr ""
+
+#: full_name
+msgid "Full name"
+msgstr ""
+
+#: birth_date
+msgid "Date of birth"
+msgstr ""
+
+#: death_date
+msgid "Date of death"
+msgstr ""
+
+#: registration_date
+msgctxt "registration_date"
+msgid "Registration date"
+msgstr ""
+
+#: is_dead
+msgid "Is dead"
+msgstr ""
+
+#: phone_number
+msgid "Phone number"
+msgstr ""
+
+#: email
+msgid "Email"
+msgstr ""
+
+#: prorgam_entry_form_details
+msgid "Program entry form details"
+msgstr ""
+
+#: design_prorgam_entry_form_form
+msgid "Design program entry form  form"
+msgstr ""
+
+#: confirm_delete_prorgam_entry_form_form
+msgid "Are you sure you want to delete program entry form?"
+msgstr ""
+
+#: fixed_attributes
+msgid "Fixed attributes"
+msgstr ""
+
+#: attributes
+msgctxt "attributes"
+msgid "Attributes"
+msgstr ""
+
+#: left_side_expression
+msgid "Left side expression"
+msgstr ""
+
+#: right_side_expression
+msgid "Right side expression"
+msgstr ""
+
+#: sum_dataelement_value
+msgid "Sum of data element values"
+msgstr ""
+
+#: data_element_for_sum_avg_min_max
+msgid "Data element for sum/average/min/max"
+msgstr ""
+
+#: avg_dataelement_value
+msgid "Average of data element values"
+msgstr ""
+
+#: min_dataelement_value
+msgid "Minimum of data element values"
+msgstr ""
+
+#: max_dataelement_value
+msgid "Maximum of data element values"
+msgstr ""
+
+#: property_is_inserted
+msgid "Property already exists in form"
+msgstr ""
+
+#: please_insert_all_required_fields
+msgid "Please insert all required fields"
+msgstr ""
+
+#: required_fields_valivation
+msgid "Required fields validation"
+msgstr ""
+
+#: insert_properties
+msgid "Insert properties"
+msgstr ""
+
+#: insert_images
+msgid "Insert images"
+msgstr ""
+
+#: insert_data_elements
+msgid "Insert data elements"
+msgstr ""
+
+#: only_enroll_once
+msgid "Only enroll once (per tracked entity instance lifetime)"
+msgstr ""
+
+#: insert_a_due_date
+msgid "Please insert a due-date"
+msgstr ""
+
+#: capture_coordinates
+msgid "Capture coordinates"
+msgstr ""
+
+#: task_stragely
+msgid "Task strategy"
+msgstr ""
+
+#: last_month
+msgid "Last month"
+msgstr ""
+
+#: pdf_data_entry_form
+msgid "Get PDF for Data Entry"
+msgstr ""
+
+#: last_3_month
+msgid "Last 3 months"
+msgstr ""
+
+#: last_6_month
+msgid "Last 6 months"
+msgstr ""
+
+#: last_12_month
+msgid "Last 12 months"
+msgstr ""
+
+#: auto_save_data_entry_forms
+msgid "Auto save data entry forms"
+msgstr ""
+
+#: save_and_close
+msgid "Save and close"
+msgstr ""
+
+#: delete_this_form
+msgid "Delete this form"
+msgstr ""
+
+#: auto_save_tracked_entity_forms
+msgid "Auto save tracked entity forms"
+msgstr ""
+
+#: enter_a_name
+msgid "Please enter a name between 4 and 150 characters long"
+msgstr ""
+
+#: save_unsuccess
+msgid "Save unsuccessfully"
+msgstr ""
+
+#: validate_form
+msgid "Validate form"
+msgstr ""
+
+#: validate_success
+msgid "The registration form passed validation successfully"
+msgstr ""
+
+#: ask_user_to_complete_program_when_stage_complete
+msgid "Ask user to complete program when stage is complete"
+msgstr ""
+
+#: days_since_enrollment_date
+msgid "Days since enrollment date"
+msgstr ""
+
+#: date_to_compare
+msgid "Date to compare"
+msgstr ""
+
+#: program_indicator_management
+msgid "Program Indicator Management"
+msgstr ""
+
+#: view_program_indicators
+msgid "View program indicators"
+msgstr ""
+
+#: confirm_delete_prorgam_indicator
+msgid "Are you sure you want to delete this program indicator?"
+msgstr ""
+
+#: program_indicator_details
+msgid "Program indicator details"
+msgstr ""
+
+#: date_for_calculating
+msgid "Date for calculating"
+msgstr ""
+
+#: create_new_program_indicator
+msgid "Create new program indicator"
+msgstr ""
+
+#: update_program_indicator
+msgid "Edit program indicator"
+msgstr ""
+
+#: disable_registration_fields
+msgid "Disable registration fields"
+msgstr ""
+
+#: data_entry
+msgid "Data entry"
+msgstr ""
+
+#: combine
+msgid "Combine"
+msgstr ""
+
+#: completed
+msgid "Completed"
+msgstr ""
+
+#: events
+msgid "Events"
+msgstr ""
+
+#: allow_enrollment_at_all_orgunits
+msgid "Allow enrollment at all org units"
+msgstr ""
+
+#: other_program_stages
+msgid "Other program stages"
+msgstr ""
+
+#: minus
+msgid "Minus"
+msgstr ""
+
+#: and_operator
+msgid "AND"
+msgstr ""
+
+#: or_operator
+msgid "OR"
+msgstr ""
+
+#: combine_operator
+msgid "COMBINE"
+msgstr ""
+
+#: filter_by_type
+msgid "Filter by type"
+msgstr ""
+
+#: orgunit_group
+msgid "Organisation unit group"
+msgstr ""
+
+#: enrollement_date
+msgid "Enrollment date"
+msgstr ""
+
+#: days_since_incident_date
+msgid "Days since incident date"
+msgstr ""
+
+#: view_all
+msgid "View all"
+msgstr ""
+
+#: tracked_entity_attribute_visit_schedule
+msgctxt "tracked_entity_attribute_visit_schedule"
+msgid "Attribute Visit Schedule"
+msgstr ""
+
+#: tracked_entity_attribute_visit_schedule_form
+msgid "Tracked entity attribute visit schedule"
+msgstr ""
+
+#: intro_tracked_entity_attribute_visit_schedule
+msgid ""
+"Configure which tracked entity attributes are added to the visit schedule. "
+"Gives better overview when used for tracking."
+msgstr ""
+
+#: selected_program_stages
+msgid "Selected program stages"
+msgstr ""
+
+#: orgunit_registered
+msgid "Organisation unit phone number"
+msgstr ""
+
+#: all_users_in_orgunit_registered
+msgid "All users in organisation unit registered"
+msgstr ""
+
+#: date_in_future
+msgid "Date in future"
+msgstr ""
+
+#: age_years
+msgctxt "age_years"
+msgid "Age(years)"
+msgstr ""
+
+#: complete_event
+msgid "Complete event"
+msgstr ""
+
+#: send_to
+msgid "Send to"
+msgstr ""
+
+#: complete_program
+msgid "Complete program"
+msgstr ""
+
+#: complete_program_stage
+msgid "Complete program stage"
+msgstr ""
+
+#: user_group
+msgid "User group"
+msgstr ""
+
+#: from_the_day_set
+msgid "From the day set"
+msgstr ""
+
+#: orgunit_count
+msgid "Organisation unit count"
+msgstr ""
+
+#: default_registration_form
+msgid "Default registration form"
+msgstr ""
+
+#: available_dynamic_attributes
+msgid "Available dynamic attributes"
+msgstr ""
+
+#: selected_dynamic_attributes
+msgid "Selected dynamic attributes"
+msgstr ""
+
+#: registrationDate
+msgctxt "registrationDate"
+msgid "Registration date"
+msgstr ""
+
+#: create_default_registration_form
+msgid "Create default registration form"
+msgstr ""
+
+#: use_birth_date_as_incident_date
+msgid "Set incidence date to date of birth"
+msgstr ""
+
+#: use_birth_date_as_enrollment_date
+msgid "Set enrollment date to date of birth"
+msgstr ""
+
+#: default_form_name
+msgid "Default form name"
+msgstr ""
+
+#: custom_form_name
+msgid "Custom form name"
+msgstr ""
+
+#: allow_select_enrollment_dates_in_future
+msgid "Allow selecting enrollment dates in future"
+msgstr ""
+
+#: allow_select_enrollment_date_in_future
+msgid "Allow future enrollment dates"
+msgstr ""
+
+#: allow_select_incident_date_in_future
+msgid "Allow future incidence dates"
+msgstr ""
+
+#: relationship_text
+msgid "Relationship text"
+msgstr ""
+
+#: relationship_details
+msgid "Relationship details"
+msgstr ""
+
+#: program_related
+msgid "Program related"
+msgstr ""
+
+#: no_program
+msgid "No program"
+msgstr ""
+
+#: display_as_radio_button
+msgid "Display as radio button"
+msgstr ""
+
+#: days_scheduled
+msgid "Days scheduled"
+msgstr ""
+
+#: tracked_entity_sms_only
+msgid "Tracked entity instance (SMS only)"
+msgstr ""
+
+#: orgunit_phone_number_sms_only
+msgid "Organisation unit phone number (SMS only)"
+msgstr ""
+
+#: health_worker_assigned_to_tracked_entity
+msgid "Health worker assigned to tracked entity instance"
+msgstr ""
+
+#: all_users_at_orgunit
+msgid "All users at organisation unit"
+msgstr ""
+
+#: send_base_on
+msgid "Send base on"
+msgstr ""
+
+#: characters_without_params
+msgid "Characters without params"
+msgstr ""
+
+#: scheduled_date
+msgid "scheduled date"
+msgstr ""
+
+#: send_message
+msgid "Send message"
+msgstr ""
+
+#: message_is_sent
+msgid "Message is sent"
+msgstr ""
+
+#: recipients
+msgid "Recipients"
+msgstr ""
+
+#: message_type
+msgid "Message type"
+msgstr ""
+
+#: both
+msgid "Both"
+msgstr ""
+
+#: direct_sms
+msgid "Direct SMS"
+msgstr ""
+
+#: ask_user_to_create_new_event_when_stage_complete
+msgid "Ask user to create new event when stage is complete"
+msgstr ""
+
+#: data_entry_method
+msgid "Data entry method"
+msgstr ""
+
+#: local_identifier
+msgid "Local identifier"
+msgstr ""
+
+#: scope
+msgid "Scope"
+msgstr ""
+
+#: drop_down_lists
+msgid "Drop-down lists"
+msgstr ""
+
+#: radio_buttons
+msgid "Radio buttons"
+msgstr ""
+
+#: open_data_entry_form_after_enrolment
+msgid "Open data entry form after enrollment"
+msgstr ""
+
+#: report_date_to_use
+msgid "Report date to use"
+msgstr ""
+
+#: the_properties_to_open_data_entry_form_after_enrolment_is_active_in_the_stage
+msgid ""
+"The properties to open data entry form after enrollment is active in the "
+"stage"
+msgstr ""
+
+#: add_relative
+msgid "Add relative"
+msgstr ""
+
+#: who_is_the_new_relative_to_the_existing_tracked_entity_instance
+msgid "Who is the new relative to the existing tracked entity instance?"
+msgstr ""
+
+#: program_for_new_relative_to_be_enrolled_in
+msgid "Program for new relative to be enrolled in"
+msgstr ""
+
+#: health_worker
+msgid "Health worker"
+msgstr ""
+
+#: is_hidden
+msgid "Is hidden ?"
+msgstr ""
+
+#: default_value
+msgid "Default value"
+msgstr ""
+
+#: dashboard_shortcut_to_add_relative
+msgid "Shortcut link to add a relative"
+msgstr ""
+
+#: shortcut_link_label_eg_add_child
+msgid "Shortcut link label (e.g. Add child)"
+msgstr ""
+
+#: relationship
+msgid "Relationship"
+msgstr ""
+
+#: select_at_least_one_scope
+msgid "Select at least one scope for local id"
+msgstr ""
+
+#: scheduling_of_events
+msgid "Scheduling of events"
+msgstr ""
+
+#: tracker_associate
+msgid "Tracker associate"
+msgstr ""
+
+#: view_validation_criteria
+msgid "View validation criteria"
+msgstr ""
+
+#: define_registration_form
+msgid "Define registration form"
+msgstr ""
+
+#: reminder_message_template_details
+msgid "Reminder message template details"
+msgstr ""
+
+#: edit_reminder_message_template
+msgid "Edit reminder message template"
+msgstr ""
+
+#: create_new_reminder_message_template
+msgid "Create new reminder message template"
+msgstr ""
+
+#: confirm_delete_reminder_message_template
+msgid "Are you sure you want to delete reminder message template?"
+msgstr ""
+
+#: days_before
+msgid "day(s) before"
+msgstr ""
+
+#: days_after
+msgid "day(s) after"
+msgstr ""
+
+#: data_entry_method_for_option_sets
+msgid "Data entry method for option sets"
+msgstr ""
+
+#: users
+msgid "Users"
+msgstr ""
+
+#: attribute_users
+msgid "Attribute users"
+msgstr ""
+
+#: view_reminder_message_templates
+msgid "View reminder message templatess"
+msgstr ""
+
+#: display_in_list_no_program
+msgid "Display in list without program"
+msgstr ""
+
+#: manage_attributes_with_no_program
+msgid "Manage attributes with no program"
+msgstr ""
+
+#: manage_attributes_for_visit_schedule
+msgid "Manage attributes for visit schedule"
+msgstr ""
+
+#: tracked_entity_attributes_displayed_in_list
+msgid "Tracked entity attributes displayed in list"
+msgstr ""
+
+#: unique
+msgid "Unique"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked Entity"
+msgstr ""
+
+#: tracked_entity_management
+msgid "Tracked entity management"
+msgstr ""
+
+#: create_new_tracked_entity
+msgid "Create new tracked entity"
+msgstr ""
+
+#: tracked_entity_details
+msgid "Tracked entity details"
+msgstr ""
+
+#: edit_tracked_entity
+msgid "Edit tracked entity"
+msgstr ""
+
+#: confirm_delete_tracked_entity
+msgid "Are you sure you want to delete this tracked entity?"
+msgstr ""
+
+#: option_set
+msgid "Option set"
+msgstr ""
+
+#: number_of_tracked_entities
+msgid "Number of tracked entities"
+msgstr ""
+
+#: incident_date
+msgid "Incident Date"
+msgstr ""
+
+#: enrollment_date
+msgid "Enrollment Date"
+msgstr ""
+
+#: please_select_at_least_attribute_for_displaying_in_list
+msgid "Please select at least one attribute to display in list"
+msgstr ""
+
+#: in
+msgid "in"
+msgstr ""
+
+#: whole_system
+msgid "Whole system"
+msgstr ""
+
+#: orgunit
+msgctxt "orgunit"
+msgid "Organisation unit"
+msgstr ""
+
+#: program_within_orgunit
+msgid "Program within organisation unit"
+msgstr ""
+
+#: auto_save_registration_forms
+msgid "Auto save registration form "
+msgstr ""
+
+#: show_advanced_options
+msgid "Show advanced options"
+msgstr ""
+
+#: hide_advanced_options
+msgid "Hide advanced options"
+msgstr ""
+
+#: program_validation_rule_management
+msgid "Program validation rule management"
+msgstr ""
+
+#: confidential
+msgid "Confidential"
+msgstr ""
+
+#: available_indicators
+msgid "Available indicators"
+msgstr ""
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr ""
+
+#: program_indicator_management_form
+msgid "Program indicator management form"
+msgstr ""
+
+#: auto_save_prorgam_entry_form_forms
+msgid "Auto-save program entry forms"
+msgstr ""
+
+#: filter_by_program
+msgid "Filter by program "
+msgstr ""
+
+#: enter_an_attribute
+msgid "Enter an attribute"
+msgstr ""
+
+#: enter_a_key
+msgid "Enter a key"
+msgstr ""
+
+#: date_diff
+msgid "Date diff"
+msgstr ""
+
+#: program_stage_sort_order
+msgid "Program stage sort order"
+msgstr ""
+
+#: sort_order
+msgid "Sort order"
+msgstr ""
+
+#: expression_is_not_well_formed
+msgid "Expression is not well-formed"
+msgstr ""
+
+#: program_variables
+msgid "Program variables"
+msgstr ""
+
+#: custom_standard_interval
+msgid "Custom standard interval"
+msgstr ""
+
+#: period_type
+msgid "Period type"
+msgstr ""
+
+#: source_fields
+msgid "Source fields"
+msgstr ""
+
+#: expression_evaluate_the_source_fields
+msgid "Expression - evaluate the source fields"
+msgstr ""
+
+#: actions_that_is_executed_when_expression_is_true
+msgid "Actions that is executed when expression is true"
+msgstr ""
+
+#: display_text
+msgid "Display text"
+msgstr ""
+
+#: shows_a_key_data_box
+msgid "Shows a key data box"
+msgstr ""
+
+#: hide_field
+msgid "Hide field"
+msgstr ""
+
+#: assign_variable
+msgid "Assign variable"
+msgstr ""
+
+#: show_warning
+msgid "Show warning"
+msgstr ""
+
+#: show_error
+msgid "Show error"
+msgstr ""
+
+#: view_program_rule
+msgid "View program rules"
+msgstr ""
+
+#: program_rule_management
+msgid "Program rule management"
+msgstr ""
+
+#: create_new_program_rule
+msgid "Create new program rule"
+msgstr ""
+
+#: program_rule_details
+msgid "Program rule details"
+msgstr ""
+
+#: source_program_stage
+msgid "Source program stage"
+msgstr ""
+
+#: source_dataElement
+msgid "Source DataElement"
+msgstr ""
+
+#: variable_name
+msgid "Variable name"
+msgstr ""
+
+#: data_element_newest_event_program_stage
+msgid "Data element newest event program stage"
+msgstr ""
+
+#: data_element_newest_event_program
+msgid "Data element newest event program"
+msgstr ""
+
+#: add_source_field
+msgid "Add source field"
+msgstr ""
+
+#: add_more_action
+msgid "Add more action"
+msgstr ""
+
+#: source_type
+msgid "Source type"
+msgstr ""
+
+#: confirm_delete_program_rule
+msgid "Are you sure you want to delete program rule?"
+msgstr ""
+
+#: edit_program_rule
+msgid "Edit program rule"
+msgstr ""
+
+#: please_enter_error_message
+msgid "Please enter error message"
+msgstr ""
+
+#: please_enter_warning_message
+msgid "Please enter warning message"
+msgstr ""
+
+#: please_enter_alert_message_when_hiding_a_field_that_contains_value
+msgid "Please enter alert message when hiding a field that contains value"
+msgstr ""
+
+#: please_enter_alert_message_when_hiding_a_section_that_contains_values
+msgid "Please enter alert message when hiding a section that contains values"
+msgstr ""
+
+#: hide_section
+msgid "Hide section"
+msgstr ""
+
+#: reminder_message_template_management
+msgid "Reminder message template management"
+msgstr ""
+
+#: expression_description
+msgid "Expression description"
+msgstr ""
+
+#: expression_items
+msgid "Expression items"
+msgstr ""
+
+#: filter_items
+msgid "Filter items"
+msgstr ""
+
+#: filter_description
+msgid "Filter description"
+msgstr ""
+
+#: select_program_stage
+msgid "Select program stage"
+msgstr ""
+
+#: tei_attribute
+msgid "Tracked entity attribute"
+msgstr ""
+
+#: design_custom_registration_form
+msgid "Design custom registration form"
+msgstr ""
+
+#: program_registration_form
+msgid "Program registration form"
+msgstr ""
+
+#: aggregation_type
+msgid "Aggregation type"
+msgstr ""
+
+#: display_in_form
+msgid "Display in form"
+msgstr ""
+
+#: event
+msgid "Event"
+msgstr ""
+
+#: enrollment
+msgctxt "enrollment"
+msgid "Enrollment"
+msgstr ""
+
+#: tracked_entity_instance
+msgid "Tracked entity instance"
+msgstr ""
+
+#: event_output_type
+msgid "Event output type"
+msgstr ""
+
+#: category_combo
+msgid "Combination of categories"
+msgstr ""
+
+#: missing_value_replacement
+msgid "Missing value replacement"
+msgstr ""

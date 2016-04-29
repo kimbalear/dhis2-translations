@@ -1,0 +1,937 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-datadictionary/src/main/resources/org/hisp/dhis/dd/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: aggregate
+msgid "Aggregate"
+msgstr ""
+
+#: tracker
+msgid "Tracker"
+msgstr ""
+
+#: no_option_assigned
+msgid "Use of category with an empty option is not allowed!"
+msgstr ""
+
+#: number_of_category_options
+msgid "Number of category options"
+msgstr ""
+
+#: number_of_categories
+msgid "Number of categories"
+msgstr ""
+
+#: sort
+msgid "Sort"
+msgstr ""
+
+#: create_new_data_element_category
+msgid "Create new data element category"
+msgstr ""
+
+#: selected_categories
+msgid "Selected categories"
+msgstr ""
+
+#: available_categories
+msgid "Available categories"
+msgstr ""
+
+#: data_element_category_management
+msgid "Data element category management"
+msgstr ""
+
+#: data_element_category_combo_management
+msgid "Data element category combination management"
+msgstr ""
+
+#: create_new_data_element_category_combo
+msgid "Create new data element category combination"
+msgstr ""
+
+#: confirm_delete_data_element_category_option
+msgid "Are you sure you want to delete this data element category option?"
+msgstr ""
+
+#: confirm_delete_data_element_category
+msgid "Are you sure you want to delete this data element category?"
+msgstr ""
+
+#: confirm_delete_data_element_category_combo
+msgid "Are you sure you want to delete this data element category combo?"
+msgstr ""
+
+#: edit_data_element_category
+msgid "Edit data element category"
+msgstr ""
+
+#: edit_data_element_category_combo
+msgid "Edit data element category combination"
+msgstr ""
+
+#: category_combination
+msgctxt "category_combination"
+msgid "Category Combination"
+msgstr ""
+
+#: data_element_category_combo_details
+msgid "Data element category combo details"
+msgstr ""
+
+#: data_element_category
+msgid "Data Element Category"
+msgstr ""
+
+#: data_element_category_combo
+msgid "Data Element Category Combination"
+msgstr ""
+
+#: select
+msgid "Select"
+msgstr ""
+
+#: data_element
+msgid "Data Element"
+msgstr ""
+
+#: data_element_group
+msgid "Data Element Group"
+msgstr ""
+
+#: data_element_groups
+msgid "Data Element Groups"
+msgstr ""
+
+#: data_elements
+msgid "Data elements"
+msgstr ""
+
+#: indicator
+msgid "Indicator"
+msgstr ""
+
+#: indicator_group
+msgid "Indicator Group"
+msgstr ""
+
+#: indicator_groups
+msgid "Indicator Groups"
+msgstr ""
+
+#: create_new_data_element
+msgid "Create new data element"
+msgstr ""
+
+#: domain_type
+msgid "Domain Type"
+msgstr ""
+
+#: create_new_data_element_group
+msgid "Create new data element group"
+msgstr ""
+
+#: group_members
+msgid "Group members"
+msgstr ""
+
+#: available_data_elements
+msgid "Available data elements"
+msgstr ""
+
+#: create_new_indicator
+msgid "Create new indicator"
+msgstr ""
+
+#: create_new_indicator_group
+msgid "Create new indicator group"
+msgstr ""
+
+#: create_new_indicator_type
+msgid "Create new indicator type"
+msgstr ""
+
+#: factor
+msgid "Factor"
+msgstr ""
+
+#: data_element_management
+msgid "Data element management"
+msgstr ""
+
+#: data_element_group_management
+msgid "Data element group management"
+msgstr ""
+
+#: number_of_members
+msgid "Number of members"
+msgstr ""
+
+#: export
+msgid "Export"
+msgstr ""
+
+#: import
+msgid "Import"
+msgstr ""
+
+#: indicator_management
+msgid "Indicator management"
+msgstr ""
+
+#: indicator_group_management
+msgid "Indicator group management"
+msgstr ""
+
+#: indicator_type_management
+msgid "Indicator type management"
+msgstr ""
+
+#: edit_data_element
+msgid "Edit data element"
+msgstr ""
+
+#: edit_data_element_group
+msgid "Edit data element group"
+msgstr ""
+
+#: edit_indicator
+msgid "Edit indicator"
+msgstr ""
+
+#: edit_indicator_group
+msgid "Edit indicator group"
+msgstr ""
+
+#: edit_indicator_type
+msgid "Edit indicator type"
+msgstr ""
+
+#: edit_numerator
+msgid "Edit numerator"
+msgstr ""
+
+#: edit_denominator
+msgid "Edit denominator"
+msgstr ""
+
+#: confirm_delete_data_element
+msgid "Are you sure you want to delete this data element?"
+msgstr ""
+
+#: confirm_delete_data_element_group
+msgid "Are you sure you want to delete this data element group?"
+msgstr ""
+
+#: confirm_delete_indicator_group
+msgid "Are you sure you want to delete this indicator group?"
+msgstr ""
+
+#: confirm_delete_indicator_type
+msgid "Are you sure you want to delete this indicator type?"
+msgstr ""
+
+#: confirm_delete_data_dictionary
+msgid "Are you sure you want to delete this data dictionary?"
+msgstr ""
+
+#: everything_is_ok
+msgid "Everything is OK"
+msgstr ""
+
+#: adding_data_element_group_failed
+msgid "Adding the data element group failed with the following message"
+msgstr ""
+
+#: saving_data_element_group_failed
+msgid "Saving the data element group failed with the following message"
+msgstr ""
+
+#: adding_indicator_group_failed
+msgid "Adding the indicator group failed with the following message"
+msgstr ""
+
+#: saving_indicator_group_failed
+msgid "Saving the indicator group failed with the following message"
+msgstr ""
+
+#: adding_indicator_type_failed
+msgid "Adding the indicator type failed with the following message"
+msgstr ""
+
+#: saving_indicator_type_failed
+msgid "Saving the indicator type failed with the following message"
+msgstr ""
+
+#: calculated
+msgid "Calculated"
+msgstr ""
+
+#: available_dataelements
+msgid "Available Data Elements"
+msgstr ""
+
+#: selected_dataelements
+msgid "Selected Data Elements"
+msgstr ""
+
+#: add_selected
+msgid "Add selected"
+msgstr ""
+
+#: remove_all
+msgid "Remove all"
+msgstr ""
+
+#: create_new_data_dictionary
+msgid "Create new data dictionary"
+msgstr ""
+
+#: region
+msgid "Region"
+msgstr ""
+
+#: select_domain_type
+msgid "Select domain type"
+msgstr ""
+
+#: current
+msgid "Current"
+msgstr ""
+
+#: date
+msgid "Date"
+msgstr ""
+
+#: selected_data_elements
+msgid "Selected data elements"
+msgstr ""
+
+#: selected_indicators
+msgid "Selected indicators"
+msgstr ""
+
+#: available_indicators
+msgid "Available indicators"
+msgstr ""
+
+#: item_deleted_successfully
+msgid "Item deleted successfully"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: confirm_delete_indicator
+msgid "Do you want to delete indicator?"
+msgstr ""
+
+#: adding_indicator_failed
+msgid "Adding indicator failed"
+msgstr ""
+
+#: saving_indicator_failed
+msgid "Saving indicator failed"
+msgstr ""
+
+#: translation_translate
+msgid "Translate"
+msgstr ""
+
+#: select_indicator
+msgid "Please select indicator"
+msgstr ""
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr ""
+
+#: hide_warning
+msgid "Hide warning"
+msgstr ""
+
+#: update_dataelement_group_members
+msgid "Update Data Element Group Member"
+msgstr ""
+
+#: update_success
+msgid "Update was successful"
+msgstr ""
+
+#: member_of
+msgid "Member of"
+msgstr ""
+
+#: data_element_group_editor
+msgid "Data Element Group Editor"
+msgstr ""
+
+#: move_up
+msgid "Move up"
+msgstr ""
+
+#: move_down
+msgid "Move down"
+msgstr ""
+
+#: move_to_top
+msgid "Move to top"
+msgstr ""
+
+#: move_to_bottom
+msgid "Move to bottom"
+msgstr ""
+
+#: indicator_sort_order
+msgid "Indicator sort order"
+msgstr ""
+
+#: data_element_sort_order
+msgid "Data element sort order"
+msgstr ""
+
+#: indicator_group_editor
+msgid "Indicator Group Editor"
+msgstr ""
+
+#: update_indicator_group_member
+msgid "Update Indicator Member"
+msgstr ""
+
+#: factor_cannot_be_zero
+msgid "Factor cannot be zero"
+msgstr ""
+
+#: url
+msgid "URL"
+msgstr ""
+
+#: aggregation_levels
+msgid "Aggregation levels"
+msgstr ""
+
+#: available_aggregation_levels
+msgid "Available aggregation levels"
+msgstr ""
+
+#: selected_aggregation_levels
+msgid "Selected aggregation levels"
+msgstr ""
+
+#: remove_selected
+msgid "Remove selected"
+msgstr ""
+
+#: category_options
+msgid "Category options"
+msgstr ""
+
+#: add_category_option
+msgid "Add category option"
+msgstr ""
+
+#: must_include_category_option
+msgid "Please include one or more category options"
+msgstr ""
+
+#: specify_category_option_name
+msgid "Please specify a category option name"
+msgstr ""
+
+#: category_option_name_already_exists
+msgid "The category option name already exists"
+msgstr ""
+
+#: data_element_group_set
+msgid "Data Element Group Set"
+msgstr ""
+
+#: indicator_group_set
+msgid "Indicator Group Set"
+msgstr ""
+
+#: name_aldready_exists
+msgid "Name already exists !"
+msgstr ""
+
+#: available_dataelementgroup
+msgid "Available Data Element Groups"
+msgstr ""
+
+#: selected_dataelementgroup
+msgid "Selected Data Element Groups"
+msgstr ""
+
+#: add_dataelementgroupset
+msgid "Add Data Element Group Set"
+msgstr ""
+
+#: update_dataelementgroupset
+msgid "Update Data Element Group Set"
+msgstr ""
+
+#: add_indicatorgroupset
+msgid "Add Indicator Group Set"
+msgstr ""
+
+#: update_indicatorgroupset
+msgid "Update Indicator Group Set"
+msgstr ""
+
+#: available_indicatorgroup
+msgid "Available Indicator Groups"
+msgstr ""
+
+#: selected_indicatorgroup
+msgid "Selected Indicator Groups"
+msgstr ""
+
+#: last_updated
+msgid "Last updated"
+msgstr ""
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr ""
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr ""
+
+#: data_element_does_not_exist
+msgid "Identifier does not reference a data element"
+msgstr ""
+
+#: category_option_combo_does_not_exist
+msgid "Identifier does not reference a category option combo"
+msgstr ""
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr ""
+
+#: intro_data_element
+msgid ""
+"Create, modify, view and delete data elements. Data elements are phenomena "
+"for which will be captured and analyzed."
+msgstr ""
+
+#: intro_data_element_group
+msgid ""
+"Create, modify, view and delete data element groups. Groups are used for "
+"improved analysis."
+msgstr ""
+
+#: intro_data_element_group_editor
+msgid ""
+"Easily add or remove data elements to and from data element groups, as well "
+"as deleted data elements."
+msgstr ""
+
+#: intro_data_element_group_set
+msgid ""
+"Create, modify, view and delete data element group sets. Group sets are used "
+"for improved analysis."
+msgstr ""
+
+#: intro_category_option
+msgid ""
+"Create, modify, view and delete data element category options. Category "
+"options are options with in category."
+msgstr ""
+
+#: intro_category
+msgid ""
+"Create, modify, view and delete data element categories. Categories are used "
+"for disaggregation of data elements."
+msgstr ""
+
+#: intro_category_combo
+msgid "Create, modify, view and delete data element category combinations."
+msgstr ""
+
+#: intro_category_option_group
+msgid ""
+"Create, modify, view and delete category option groups, which can be used to "
+"classify category options."
+msgstr ""
+
+#: intro_category_option_group_set
+msgid ""
+"Create, modify, view and delete category option group sets, which can be "
+"used for improved data analysis."
+msgstr ""
+
+#: intro_indicator
+msgid ""
+"Create, modify, view and delete indicators. An indicator is a formula "
+"consisting of data elements and numbers."
+msgstr ""
+
+#: intro_indicator_type
+msgid ""
+"Create, modify, view and delete indicator types. An indicator type is a "
+"factor for an indicator, like percentage."
+msgstr ""
+
+#: intro_indicator_group
+msgid ""
+"Create, modify, view and delete indicator groups. Groups are used for "
+"improved analysis."
+msgstr ""
+
+#: intro_indicator_group_editor
+msgid ""
+"Easily add or remove indicators to and from indicator groups, as well as "
+"delete indicators."
+msgstr ""
+
+#: intro_indicator_group_set
+msgid ""
+"Create, modify, view and delete indicator group sets. Group sets are used "
+"for improved analysis."
+msgstr ""
+
+#: intro_data_dictionary
+msgid ""
+"Create, modify, view and delete data dictionaries. A data dictionary is a "
+"set of meta-data."
+msgstr ""
+
+#: intro_concept
+msgid ""
+"Create, modify, view and delete concepts. A concept can be used by a "
+"category."
+msgstr ""
+
+#: available_data_element_group_sets
+msgid "Available data element group sets"
+msgstr ""
+
+#: selected_data_element_group_sets
+msgid "Selected data element group sets"
+msgstr ""
+
+#: available_groups
+msgid "Available Groups"
+msgstr ""
+
+#: selected_groups
+msgid "Selected Groups"
+msgstr ""
+
+#: assign_groups_for_dataelement
+msgid "Assign Groups for Data Element"
+msgstr ""
+
+#: select_dataelement
+msgid "Please select data element"
+msgstr ""
+
+#: option_rename_successfully
+msgid "Category option renamed successfully"
+msgstr ""
+
+#: create_new_concept
+msgid "Create new concept"
+msgstr ""
+
+#: edit_concept
+msgid "Edit concept"
+msgstr ""
+
+#: concept_name
+msgid "Concept name"
+msgstr ""
+
+#: confirm_delete_concept
+msgid "Are you sure you want to delete this concept?"
+msgstr ""
+
+#: adding_concept_failed
+msgid "Adding concept failed"
+msgstr ""
+
+#: saving_concept_failed
+msgid "Saving concept failed"
+msgstr ""
+
+#: regex_add_edit_concept
+msgid ""
+"Enter alphabet (a-z A-Z), number (0-9) and underscore (_) characters only."
+msgstr ""
+
+#: concept_management
+msgid "Concept management"
+msgstr ""
+
+#: concept
+msgid "Concept"
+msgstr ""
+
+#: selected_name
+msgid "Selected name"
+msgstr ""
+
+#: update_category_option
+msgid "Update category option"
+msgstr ""
+
+#: move_selected
+msgid "Move selected"
+msgstr ""
+
+#: number_value_type
+msgid "Number type"
+msgstr ""
+
+#: number
+msgid "Number"
+msgstr ""
+
+#: int
+msgid "Integer"
+msgstr ""
+
+#: view_1
+msgid "View 1"
+msgstr ""
+
+#: view_2
+msgid "View 2"
+msgstr ""
+
+#: store_zero_data_values
+msgid "Store zero data values"
+msgstr ""
+
+#: form_name
+msgid "Form name"
+msgstr ""
+
+#: compulsory
+msgid "Compulsory"
+msgstr ""
+
+#: data_dimension
+msgid "Data Dimension"
+msgstr ""
+
+#: select_group
+msgid "Select group"
+msgstr ""
+
+#: option_set
+msgid "Option set"
+msgstr ""
+
+#: please_select
+msgid "Please select"
+msgstr ""
+
+#: formula
+msgid "Formula"
+msgstr ""
+
+#: legend_set
+msgid "Legend set"
+msgstr ""
+
+#: skip_total_in_reports
+msgid "Skip category total in reports"
+msgstr ""
+
+#: data_element_category_option
+msgid "Data Element Category Option"
+msgstr ""
+
+#: data_element_category_option_management
+msgid "Data element category option management"
+msgstr ""
+
+#: data_element_category_option_combination_management
+msgid "Data element category option combination management"
+msgstr ""
+
+#: create_new_data_element_category_option
+msgid "Create new data element category option"
+msgstr ""
+
+#: edit_data_element_category_option
+msgid "Edit data element category option"
+msgstr ""
+
+#: available_category_options
+msgid "Available category options"
+msgstr ""
+
+#: selected_category_options
+msgid "Selected category options"
+msgstr ""
+
+#: use_as_data_dimension
+msgid "Use as data dimension"
+msgstr ""
+
+#: tip
+msgid "Tip"
+msgstr ""
+
+#: use
+msgid "use"
+msgstr ""
+
+#: dimension_type
+msgid "Dimension type"
+msgstr ""
+
+#: disaggregation
+msgid "Disaggregation"
+msgstr ""
+
+#: attribute
+msgid "Attribute"
+msgstr ""
+
+#: option_set_for_data_values
+msgid "Option set for data values"
+msgstr ""
+
+#: option_set_for_comments
+msgid "Option set for comments"
+msgstr ""
+
+#: organisation_unit_counts
+msgid "Organisation unit counts"
+msgstr ""
+
+#: category_option
+msgid "Category Option"
+msgstr ""
+
+#: category
+msgid "Category"
+msgstr ""
+
+#: category_combo
+msgctxt "category_combo"
+msgid "Category Combination"
+msgstr ""
+
+#: category_option_group
+msgid "Category Option Group"
+msgstr ""
+
+#: category_option_group_management
+msgid "Category option group management"
+msgstr ""
+
+#: create_new_category_option_group
+msgid "Create new category option group"
+msgstr ""
+
+#: edit_category_option_group
+msgid "Edit category option group"
+msgstr ""
+
+#: confirm_delete_category_option_group
+msgid "Are you sure you want to delete this category option group?"
+msgstr ""
+
+#: category_option_group_set
+msgid "Category Option Group Set"
+msgstr ""
+
+#: category_option_group_set_management
+msgid "Category option group set management"
+msgstr ""
+
+#: create_new_category_option_group_set
+msgid "Create new category option group set"
+msgstr ""
+
+#: edit_category_option_group_set
+msgid "Edit category option group set"
+msgstr ""
+
+#: available_category_option_groups
+msgid "Available category option groups"
+msgstr ""
+
+#: selected_category_option_groups
+msgid "Selected category option groups"
+msgstr ""
+
+#: confirm_delete_category_option_group_set
+msgid "Are you sure you want to delete this category option group set?"
+msgstr ""
+
+#: show_more_options
+msgid "Show more options"
+msgstr ""
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: id
+msgid "Id"
+msgstr ""
+
+#: min
+msgid "Min"
+msgstr ""
+
+#: max
+msgid "Max"
+msgstr ""
+
+#: category_option_combo
+msgid "Category Option Combination"
+msgstr ""
+
+#: intro_category_option_combo
+msgid ""
+"View and edit data element category option combinations. Category option "
+"combinations are break-downs of category."
+msgstr ""
+
+#: edit_data_element_category_option_combo
+msgid "Edit data element category option combo"
+msgstr ""
+
+#: average_sum_in_org_unit_hierarchy
+msgid "Average (sum in org unit hierarchy)"
+msgstr ""
+
+#: approve_data
+msgid "Approve data"
+msgstr ""
+
+#: decimals_in_data_output
+msgid "Decimals in data output"
+msgstr ""
+
+#: categories
+msgid "Categories"
+msgstr ""
+
+#: ignore_data_approval
+msgid "Ignore data approval"
+msgstr ""
+
+#: data_dimension_type
+msgid "Data dimension type"
+msgstr ""

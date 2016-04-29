@@ -1,0 +1,628 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-mobile/src/main/resources/org/hisp/dhis/mobile/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: intro_sms_service_configuration
+msgid "Configure SMS service"
+msgstr ""
+
+#: intro_view_sent_sms
+msgid "List and delete SMS which were sent or scheduled in the system."
+msgstr ""
+
+#: intro_show_receive_sms_form
+msgid "List and delete SMS which the system received from other system."
+msgstr ""
+
+#: intro_sms_command_form
+msgid "Create, ppdate, view and delete command of SMS received."
+msgstr ""
+
+#: intro_j2me_client_update
+msgid "J2ME Client Update Configuration "
+msgstr ""
+
+#: patient_mobile_setting
+msgid "Person Mobile Settings"
+msgstr ""
+
+#: gender
+msgid "Gender"
+msgstr ""
+
+#: dob_type
+msgid "DoB Type"
+msgstr ""
+
+#: date_of_birth
+msgid "Date of Birth"
+msgstr ""
+
+#: blood_group
+msgid "Blood Group"
+msgstr ""
+
+#: registration_date
+msgid "Registration Date"
+msgstr ""
+
+#: activity_grouping_attribute
+msgid "Activity Grouping Attribute"
+msgstr ""
+
+#: available_patient_attributes
+msgid "Available Patient Attributes"
+msgstr ""
+
+#: filter
+msgid "Filter"
+msgstr ""
+
+#: selected_patient_attributes
+msgid "Selected Patient Attributes"
+msgstr ""
+
+#: available_datasets
+msgid "Available DataSets"
+msgstr ""
+
+#: mobile_configuration
+msgid "Mobile Configuration"
+msgstr ""
+
+#: sms_service_configuration
+msgid "SMS Service Configuration"
+msgstr ""
+
+#: service_status
+msgid "Service Status"
+msgstr ""
+
+#: status
+msgid "Status"
+msgstr ""
+
+#: no.
+msgid "No."
+msgstr ""
+
+#: delete
+msgid "Delete"
+msgstr ""
+
+#: check_all
+msgid "Click Here To Check All"
+msgstr ""
+
+#: error_delete
+msgid "Please check before delete"
+msgstr ""
+
+#: required_data_error
+msgid "Please fill in required fields (*)"
+msgstr ""
+
+#: new_message
+msgid "You have new messages, press F5 to view them"
+msgstr ""
+
+#: sms_service_is_runnning
+msgid "SMS Service is running"
+msgstr ""
+
+#: sms_service_is_stopped
+msgctxt "sms_service_is_stopped"
+msgid "SMS Service is stopped"
+msgstr ""
+
+#: reload_configuration
+msgid "Reload Configuration"
+msgstr ""
+
+#: stop_sms_service
+msgid "Stop SMS Service"
+msgstr ""
+
+#: configuration
+msgid "Configuration"
+msgstr ""
+
+#: polling_interval_in_seconds
+msgid "Polling interval in seconds"
+msgstr ""
+
+#: server_phone_number
+msgid "Server Phone Number"
+msgstr ""
+
+#: gateways
+msgid "Gateways"
+msgstr ""
+
+#: operation
+msgid "Operation"
+msgstr ""
+
+#: gateway_type
+msgid "Gateway Type"
+msgstr ""
+
+#: list_sent_SMS
+msgid "List of Sent SMS"
+msgstr ""
+
+#: sent
+msgid "Sent"
+msgstr ""
+
+#: all
+msgid "All"
+msgstr ""
+
+#: filter_by_status
+msgid "Filter by Status"
+msgstr ""
+
+#: add_gateway
+msgid "Add Gateway"
+msgstr ""
+
+#: type
+msgid "Type"
+msgstr ""
+
+#: gateway_configuration
+msgid "Gateway Configuration"
+msgstr ""
+
+#: gateway_name
+msgid "Gateway Name"
+msgstr ""
+
+#: username
+msgid "User name"
+msgstr ""
+
+#: password
+msgid "Password"
+msgstr ""
+
+#: port
+msgid "Port"
+msgstr ""
+
+#: baudrate
+msgid "BaudRate"
+msgstr ""
+
+#: manufacturer
+msgid "Manufacturer"
+msgstr ""
+
+#: model
+msgid "Model"
+msgstr ""
+
+#: pin
+msgid "PIN"
+msgstr ""
+
+#: inbound
+msgid "Inbound"
+msgstr ""
+
+#: outbound
+msgid "Outbound"
+msgstr ""
+
+#: api_id
+msgid "API ID"
+msgstr ""
+
+#: outboundsms_saved
+msgid "The gateway details have been saved, but no message was sent."
+msgstr ""
+
+#: save_settings
+msgid "Save Settings"
+msgstr ""
+
+#: add_gw
+msgid "Add gateway"
+msgstr ""
+
+#: start_sms_service
+msgid "Start SMS Service"
+msgstr ""
+
+#: show_send_sms_form
+msgid "Send SMS"
+msgstr ""
+
+#: bulk_gw
+msgid "BulkSMS Gateway"
+msgstr ""
+
+#: clickatell_gw
+msgid "Clickatell Gateway"
+msgstr ""
+
+#: generic_http_gw
+msgid "Generic HTTP Gateway"
+msgstr ""
+
+#: url_template
+msgid "URL Template"
+msgstr ""
+
+#: modem_gw
+msgid "Modem Gateway"
+msgstr ""
+
+#: add_update_gateway_success
+msgid "The gateway was added/updated successfully."
+msgstr ""
+
+#: add_update_gateway_management
+msgid "Gateway Configuration Management"
+msgstr ""
+
+#: confirm_delete_gateway
+msgid "Do you want to delete this gateway configuration?"
+msgstr ""
+
+#: confirm_delete_sms
+msgid "Do you want to delete this SMS?"
+msgstr ""
+
+#: confirm_delete_items
+msgid "Do you want to delete those items?"
+msgstr ""
+
+#: smsconfiguration_not_available
+msgid "SMS Configuration is not available"
+msgstr ""
+
+#: outboundsmsservice_is_null_or_unable
+msgid "SMS Service is not available or unable to be started."
+msgstr ""
+
+#: service_started
+msgid "SMS Service is started"
+msgstr ""
+
+#: service_starting
+msgid "SMS Service is starting"
+msgstr ""
+
+#: service_stopped
+msgctxt "service_stopped"
+msgid "SMS Service is stopped"
+msgstr ""
+
+#: service_stopping
+msgid "SMS Service is stopping"
+msgstr ""
+
+#: message
+msgid "Message"
+msgstr ""
+
+#: show_receive_sms_form
+msgid "View Received SMS"
+msgstr ""
+
+#: update_success
+msgid "Update Successfully"
+msgstr ""
+
+#: config_my_gateway
+msgid "Configure My Gateway"
+msgstr ""
+
+#: delete_checked_option
+msgid "Delete Checked Options"
+msgstr ""
+
+#: import
+msgid "Import"
+msgstr ""
+
+#: unable_load_gateway
+msgid "Unable to load gateway"
+msgstr ""
+
+#: unable_start_smslib_service
+msgid "Unable to start smsLib service"
+msgstr ""
+
+#: unable_stop_smslib_service
+msgid "Unable to stop smsLib service"
+msgstr ""
+
+#: sms_unable_or_there_is_no_gateway_service_not_started
+msgid ""
+"SMS Service is not enabled or no gateway has been specified.\n"
+"SMS Service will not be started."
+msgstr ""
+
+#: unable_load_configuration_cause_of_there_is_no_gateway
+msgid "Unable to load the configuration because there is no gateway."
+msgstr ""
+
+#: sms_configuration_not_initialized
+msgid ""
+"SMS Service is not initialized.\n"
+"Please fill in two fields as below then click \"Save Settings\"."
+msgstr ""
+
+#: sms_command_form
+msgid "SMS Commands"
+msgstr ""
+
+#: add_command
+msgid "Add command"
+msgstr ""
+
+#: command_details
+msgid "Command Details"
+msgstr ""
+
+#: region
+msgid "Region"
+msgstr ""
+
+#: international
+msgid "International"
+msgstr ""
+
+#: uk
+msgid "United Kingdom"
+msgstr ""
+
+#: south_africa
+msgid "South Africa"
+msgstr ""
+
+#: spain
+msgid "Spain"
+msgstr ""
+
+#: usa
+msgid "USA"
+msgstr ""
+
+#: germany
+msgid "Germany"
+msgstr ""
+
+#: j2me_client_update
+msgid "J2ME Client Update"
+msgstr ""
+
+#: j2me_client_update_config
+msgid "J2ME Client Update Configuration"
+msgstr ""
+
+#: auto_update_client
+msgid "Automatic update for J2ME clients"
+msgstr ""
+
+#: client_older_than
+msgid "Update to clients older than version"
+msgstr ""
+
+#: smpp_gw
+msgid "SMPP gateway"
+msgstr ""
+
+#: processing
+msgid "Processing"
+msgstr ""
+
+#: mark_as_default
+msgid "Mark as default"
+msgstr ""
+
+#: view_sent_sms
+msgid "View Sent SMS"
+msgstr ""
+
+#: receipient
+msgid "Recipient"
+msgstr ""
+
+#: action
+msgid "Action"
+msgstr ""
+
+#: incoming
+msgid "Incoming"
+msgstr ""
+
+#: processed
+msgid "Processed"
+msgstr ""
+
+#: failed
+msgid "Failed"
+msgstr ""
+
+#: unhandled
+msgid "Unhandled"
+msgstr ""
+
+#: reimport_confirm
+msgid "Are you sure you want to re-import this SMS?"
+msgstr ""
+
+#: edit_command
+msgid "Edit SMS command"
+msgstr ""
+
+#: data_element_category_combination
+msgid "Data Element Category Combination"
+msgstr ""
+
+#: sms_command_validation_alert
+msgid "Fix validation problems before you save"
+msgstr ""
+
+#: command_management
+msgid "Command management"
+msgstr ""
+
+#: dataset
+msgid "Data set"
+msgstr ""
+
+#: parser
+msgid "Parser"
+msgstr ""
+
+#: userGroup
+msgid "User Group"
+msgstr ""
+
+#: selected_dataset
+msgid "Selected data set"
+msgstr ""
+
+#: code_value_separator
+msgid "Code and value Separator"
+msgstr ""
+
+#: no_codes_message
+msgid "Reply message if no codes are sent (only the command)"
+msgstr ""
+
+#: validation_error_space
+msgid "*White space not allowed"
+msgstr ""
+
+#: key_value_parser
+msgctxt "key_value_parser"
+msgid "Key Value Parser"
+msgstr ""
+
+#: j2me_parser
+msgctxt "j2me_parser"
+msgid "J2ME Parser"
+msgstr ""
+
+#: mobile_phones_pattern
+msgid "Mobile Phones Pattern"
+msgstr ""
+
+#: phone_number
+msgid "Phone Number"
+msgstr ""
+
+#: filter_by_phone_number
+msgid "Filter by Phone Number"
+msgstr ""
+
+#: total_number_of_result
+msgid "Total Number of Result"
+msgstr ""
+
+#: special_characters
+msgid "Special Characters"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: add_more
+msgid "Add More"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: KEY_VALUE_PARSER
+msgctxt "KEY_VALUE_PARSER"
+msgid "Key Value Parser"
+msgstr ""
+
+#: J2ME_PARSER
+msgctxt "J2ME_PARSER"
+msgid "J2ME Parser"
+msgstr ""
+
+#: ALERT_PARSER
+msgid "Alert Parser"
+msgstr ""
+
+#: UNREGISTERED_PARSER
+msgid "Unregistered Parser"
+msgstr ""
+
+#: ANONYMOUS_PROGRAM_PARSER
+msgid "Anonymous Program Parser"
+msgstr ""
+
+#: wrong_format_message
+msgid "Wrong format message"
+msgstr ""
+
+#: no_user_message
+msgid "No user message"
+msgstr ""
+
+#: more_than_one_orgunit_message
+msgid "User belong to more than one OrgUnit message"
+msgstr ""
+
+#: completeness_method
+msgid "Completeness method"
+msgstr ""
+
+#: receive_at_least_one_datavalue
+msgid "Receive at least one data value"
+msgstr ""
+
+#: do_not_mark_complete
+msgid "Do not mark as complete"
+msgstr ""
+
+#: receive_all_datavalue
+msgid "Receive all data value"
+msgstr ""
+
+#: success_message
+msgid "Success Message"
+msgstr ""
+
+#: confirm_delete_command
+msgid "Are you sure you want to delete this command?"
+msgstr ""
+
+#: confirm_message
+msgid "Confirm Message"
+msgstr ""
+
+#: TRACKED_ENTITY_REGISTRATION_PARSER
+msgid "Tracked entity registration parser"
+msgstr ""
+
+#: tracked_entity_attribute
+msgid "Tracked entity attribute"
+msgstr ""
+
+#: name_in_used
+msgid "Name is in use"
+msgstr ""

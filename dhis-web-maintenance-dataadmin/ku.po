@@ -1,0 +1,1590 @@
+#. extracted from /home/jason/development/dhis2/dhis-2/dhis-web/dhis-web-maintenance/dhis-web-maintenance-dataadmin/src/main/resources/org/hisp/dhis/dataadmin/i18n_module.properties
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-26 17:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+
+#: remove_all
+msgid "Remove All Locks"
+msgstr ""
+
+#: optional
+msgid "Optional"
+msgstr ""
+
+#: data_administration
+msgid "Data Administration"
+msgstr ""
+
+#: period_type
+msgid "Period Type"
+msgstr ""
+
+#: select_options
+msgid "Please select at least one option"
+msgstr ""
+
+#: performing_maintenance
+msgid "Performing maintenance"
+msgstr ""
+
+#: maintenance_performed
+msgid "Maintenance performed"
+msgstr ""
+
+#: generating_resource_tables
+msgid "Generating resource tables"
+msgstr ""
+
+#: resource_tables_generated
+msgid "Resource tables generated"
+msgstr ""
+
+#: clear_analytics_tables
+msgid "Clear analytics tables"
+msgstr ""
+
+#: maintenance
+msgid "Maintenance"
+msgstr ""
+
+#: resource_table
+msgid "Resource Table"
+msgstr ""
+
+#: clear_dataset_completeness
+msgid "Clear data set completeness"
+msgstr ""
+
+#: clear_zero_values
+msgid "Clear zero values"
+msgstr ""
+
+#: group_set_structure
+msgid "Organisation unit group set structure normalized"
+msgstr ""
+
+#: organisation_unit_structure
+msgid "Organisation unit structure"
+msgstr ""
+
+#: data_element_category_option_combo_name
+msgid "Data element category option combo name"
+msgstr ""
+
+#: generate_resource_tables
+msgid "Generate tables"
+msgstr ""
+
+#: perform_maintenance
+msgid "Perform maintenance"
+msgstr ""
+
+#: prune_periods
+msgid "Prune periods"
+msgstr ""
+
+#: cache_statistics
+msgid "Cache Statistics"
+msgstr ""
+
+#: second_level_cache_statistics
+msgid "Second Level Cache Statistics"
+msgstr ""
+
+#: region_name
+msgid "Region name"
+msgstr ""
+
+#: mem_count
+msgid "Mem count"
+msgstr ""
+
+#: disk_count
+msgid "Disk count"
+msgstr ""
+
+#: mem_size
+msgid "Mem size"
+msgstr ""
+
+#: total_second_level_cache
+msgid "Total Second Level Cache"
+msgstr ""
+
+#: total_query_cache
+msgid "Total Query Cache"
+msgstr ""
+
+#: query_cache_statistics
+msgid "Query Cache Statistics"
+msgstr ""
+
+#: query_name
+msgid "Query name"
+msgstr ""
+
+#: put_count
+msgid "Put count"
+msgstr ""
+
+#: hit_count
+msgid "Hit count"
+msgstr ""
+
+#: miss_count
+msgid "Miss count"
+msgstr ""
+
+#: exec_count
+msgid "Exec count"
+msgstr ""
+
+#: exec_avg_time
+msgid "Exec avg time"
+msgstr ""
+
+#: exec_max_time
+msgid "Exec max time"
+msgstr ""
+
+#: exec_min_time
+msgid "Exec min time"
+msgstr ""
+
+#: exec_row_count
+msgid "Exec row count"
+msgstr ""
+
+#: clear_cache
+msgid "Clear cache"
+msgstr ""
+
+#: data_statistics
+msgid "Data Statistics"
+msgstr ""
+
+#: indicator_types
+msgid "Indicator types"
+msgstr ""
+
+#: data_dictionaries
+msgid "Data dictionaries"
+msgstr ""
+
+#: periods
+msgid "Periods"
+msgstr ""
+
+#: data_values
+msgid "Data values"
+msgstr ""
+
+#: number_of_objects
+msgid "Number of objects"
+msgstr ""
+
+#: data_browser
+msgid "Data Browser"
+msgstr ""
+
+#: from_date
+msgid "From date"
+msgstr ""
+
+#: to_date
+msgid "To date"
+msgstr ""
+
+#: browse_by
+msgid "Browse by"
+msgstr ""
+
+#: select_mode
+msgid "Select mode"
+msgstr ""
+
+#: select_parent_organisation_unit
+msgid "Select parent organisation unit"
+msgstr ""
+
+#: no_data_found
+msgid "No data found"
+msgstr ""
+
+#: browse
+msgid "Browse"
+msgstr ""
+
+#: select_period_type
+msgid "Select Period Type"
+msgstr ""
+
+#: data_integrity
+msgid "Data Integrity"
+msgstr ""
+
+#: data_elements_without_data_set
+msgid "Data elements without a data set"
+msgstr ""
+
+#: data_elements_without_groups
+msgid "Data elements without groups"
+msgstr ""
+
+#: data_sets_not_assigned_to_organisation_units
+msgid "Data sets not assigned to organisation units"
+msgstr ""
+
+#: indicators_with_identical_formulas
+msgid "Indicators with identical formulas"
+msgstr ""
+
+#: indicators_without_groups
+msgid "Indicators without groups"
+msgstr ""
+
+#: organisation_units_with_cyclic_references
+msgid "Organisation units with cyclic references"
+msgstr ""
+
+#: orphaned_organisation_units
+msgid "Orphaned organisation units"
+msgstr ""
+
+#: organisation_units_without_groups
+msgid "Organisation units without groups"
+msgstr ""
+
+#: organisation_units_violating_compulsory_group_sets
+msgid "Organisation units violating compulsory group sets"
+msgstr ""
+
+#: organisation_units_violation_exclusive_group_sets
+msgid "Organisation units violating exclusive group sets"
+msgstr ""
+
+#: organisation_unit_groups_without_group_sets
+msgid "Organisation unit groups without group sets"
+msgstr ""
+
+#: category_option_combos_not_in_data_element_category_combo
+msgid ""
+"Category option combos not in data element category combo in data entry form"
+msgstr ""
+
+#: data_integrity_checks_performed
+msgid "Data integrity checks performed"
+msgstr ""
+
+#: data_elements_assigned_to_period_types_with_different_period_types
+msgid "Data elements assigned to data sets with different period types"
+msgstr ""
+
+#: category_option_group_set_structure
+msgid "Category option group set structure"
+msgstr ""
+
+#: data_element_group_set_structure
+msgid "Data element group set structure"
+msgstr ""
+
+#: indicator_group_set_structure
+msgid "Indicator group set structure"
+msgstr ""
+
+#: organisation_unit_group_set_structure
+msgid "Organisation unit group set structure"
+msgstr ""
+
+#: period
+msgid "Period"
+msgstr ""
+
+#: value
+msgid "Value"
+msgstr ""
+
+#: found
+msgid "Found"
+msgstr ""
+
+#: values
+msgid "values"
+msgstr ""
+
+#: data_element
+msgctxt "data_element"
+msgid "Data element"
+msgstr ""
+
+#: data_element_group
+msgid "Data element Group"
+msgstr ""
+
+#: validation_rules_without_groups
+msgid "Validation rules without groups"
+msgstr ""
+
+#: aggregated_data_values
+msgid "Aggregated data values"
+msgstr ""
+
+#: aggregated_indicator_values
+msgid "Aggregated indicator values"
+msgstr ""
+
+#: organisation_unit_pruning
+msgid "Organisation Unit Pruning"
+msgstr ""
+
+#: min_max_value_generation
+msgid "Min-Max Value Generation"
+msgstr ""
+
+#: intro_lock_exception
+msgid ""
+"Add or remove exceptions to the the standard rules for locking of data entry "
+"forms."
+msgstr ""
+
+#: intro_data_browser
+msgid ""
+"Browse the database and get an overview of where data exists. View and "
+"export counts of data elements as well as raw data."
+msgstr ""
+
+#: intro_data_integrity
+msgid ""
+"Run data integrity checks and unveil anomalies and problems in the meta data "
+"setup."
+msgstr ""
+
+#: intro_data_archive
+msgid ""
+"Archive data which is not currently relevant to your system in order to "
+"improve performance. Data can also be unarchived."
+msgstr ""
+
+#: intro_patient_data_archive
+msgid ""
+"Archive person data which is not currently relevant to your system. Data can "
+"also be unarchived."
+msgstr ""
+
+#: intro_maintenance
+msgid ""
+"Perform maintenance tasks such as pruning of data values and periods and "
+"clearing of database resource tables."
+msgstr ""
+
+#: intro_resource_table
+msgid ""
+"Generate resource database tables for the organisation unit hierarchy and "
+"group set structure among others."
+msgstr ""
+
+#: intro_locale
+msgid ""
+"Create and manage locales for database content. A locale is a combination of "
+"language and country."
+msgstr ""
+
+#: intro_organisation_unit_merge
+msgid ""
+"Merge two organisation units and their data values. Data is merged depending "
+"on existence and date of last modification."
+msgstr ""
+
+#: intro_data_statistics
+msgid ""
+"Browse the number of objects in the database, like data elements, "
+"indicators, data sets and data values."
+msgstr ""
+
+#: intro_cache_statistics
+msgid ""
+"Monitor and clear the system database cache status. Provides information on "
+"object and query caches."
+msgstr ""
+
+#: intro_min_max_value_generation
+msgid ""
+"Generate min-max values which can be used for data validation during data "
+"entry and validation processes."
+msgstr ""
+
+#: intro_organisation_unit_pruning
+msgid ""
+"Remove sub-trees from the organisation unit tree. Useful when creating and "
+"deploying local databases."
+msgstr ""
+
+#: intro_zero_storage_management
+msgid ""
+"Define which data elements for which zero values should be stored or "
+"ignored. Useful for reducing database size."
+msgstr ""
+
+#: intro_duplicate_data_elimination
+msgid ""
+"Eliminate data registered for duplicate data elements. Useful when data has "
+"been entered for identical data elements."
+msgstr ""
+
+#: intro_sql_view
+msgid ""
+"Create SQL database views. These views will typically use the resource "
+"tables to provide convenient views for third-party tools."
+msgstr ""
+
+#: intro_constant
+msgid ""
+"Create constants which can be included in expressions of indicator and "
+"validation rules."
+msgstr ""
+
+#: intro_attribute
+msgid ""
+"Create and update dynamic attributes. Attributes can be used for data "
+"elements, indicators, organisation units and users."
+msgstr ""
+
+#: intro_option_set
+msgid ""
+"Create option sets which can be included in data elements and produce drop-"
+"down lists in data entry forms."
+msgstr ""
+
+#: intro_scheduling
+msgid ""
+"Manage scheduled tasks such as data mart exports, where you can set period "
+"types, aggregation level and frequency."
+msgstr ""
+
+#: expression_is_empty
+msgid "Expression is empty"
+msgstr ""
+
+#: dataelement_id_not_numeric
+msgid "Data element identifier must be a number"
+msgstr ""
+
+#: category_option_combo_id_not_numeric
+msgid "Category option combo identifier must be a number"
+msgstr ""
+
+#: expression_not_well_formed
+msgid "Expression is not well formed"
+msgstr ""
+
+#: invalid_indicator_denominators
+msgid "Invalid indicator denominators"
+msgstr ""
+
+#: invalid_indicator_numerators
+msgid "Invalid indicator numerators"
+msgstr ""
+
+#: invalid_validation_rule_left_side_expressions
+msgid "Invalid validation rule left side expressions"
+msgstr ""
+
+#: invalid_validation_rule_right_side_expressions
+msgid "Invalid validation rule right side expressions"
+msgstr ""
+
+#: category_structure
+msgid "Category structure"
+msgstr ""
+
+#: zero_storage_management
+msgid "Zero Value Storage"
+msgstr ""
+
+#: ignore_zero_data_values
+msgid "Ignore zero data values"
+msgstr ""
+
+#: store_zero_data_values
+msgid "Store zero data values"
+msgstr ""
+
+#: all
+msgid "Select/ALL"
+msgstr ""
+
+#: organisation_unit_merge
+msgid "Organisation Unit Merge"
+msgstr ""
+
+#: select_the_org_unit_to_eliminate
+msgid "Select the organisation unit to eliminate"
+msgstr ""
+
+#: not_selected
+msgid "Not selected"
+msgstr ""
+
+#: select_the_org_unit_to_keep
+msgid "Select the organisation unit to keep"
+msgstr ""
+
+#: create_sql_views
+msgid "Create SQL views"
+msgstr ""
+
+#: merge
+msgid "Merge"
+msgstr ""
+
+#: reset
+msgid "Reset"
+msgstr ""
+
+#: confirm
+msgid "Confirm"
+msgstr ""
+
+#: merging
+msgid "Merging"
+msgstr ""
+
+#: merging_done
+msgid "Merging done"
+msgstr ""
+
+#: eliminating
+msgid "Eliminating"
+msgstr ""
+
+#: elimination_done
+msgid "Elimination done"
+msgstr ""
+
+#: select_the_data_element_to_eliminate
+msgid "Select the data element to eliminate"
+msgstr ""
+
+#: select_the_data_element_to_keep
+msgid "Select the data element to keep"
+msgstr ""
+
+#: eliminate
+msgid "Eliminate"
+msgstr ""
+
+#: move_all
+msgid "Move All"
+msgstr ""
+
+#: drop_sql_views
+msgid "Drop SQL views"
+msgstr ""
+
+#: move_selected
+msgid "Move Selected"
+msgstr ""
+
+#: duplicate_data_elimination
+msgid "Duplicate Data Elimination"
+msgstr ""
+
+#: select_different_org_units
+msgid "Please select two different organisation units"
+msgstr ""
+
+#: select_different_data_elements
+msgid "Please select two different data elements"
+msgstr ""
+
+#: filter
+msgid "Filter"
+msgstr ""
+
+#: data_archive
+msgid "Data Archive"
+msgstr ""
+
+#: there_are
+msgid "There are"
+msgstr ""
+
+#: overlapping_values
+msgid "overlapping data values in the archive."
+msgstr ""
+
+#: there_are_no_overlapping_values
+msgid "There are no overlapping data in the archive."
+msgstr ""
+
+#: eliminate_oldest
+msgid "Eliminate the oldest duplicates"
+msgstr ""
+
+#: eliminate_from_archive
+msgid "Eliminate duplicates from archive source"
+msgstr ""
+
+#: eliminate_from_regular
+msgid "Eliminate duplicates from regular source"
+msgstr ""
+
+#: start_date
+msgid "Start date"
+msgstr ""
+
+#: end_date
+msgid "End date"
+msgstr ""
+
+#: archive
+msgid "Archive"
+msgstr ""
+
+#: unarchive
+msgid "Unarchive"
+msgstr ""
+
+#: archiving
+msgid "Archiving"
+msgstr ""
+
+#: unarchiving
+msgid "Unarchiving"
+msgstr ""
+
+#: done_number_of_values
+msgid "done. Number of archived values is now"
+msgstr ""
+
+#: prune
+msgid "Prune"
+msgstr ""
+
+#: pruning
+msgid "Pruning"
+msgstr ""
+
+#: pruning_done
+msgid "Pruning done"
+msgstr ""
+
+#: browser
+msgid "Data browser"
+msgstr ""
+
+#: drilldown_choose_period_type
+msgid "Please choose a period type"
+msgstr ""
+
+#: drilldown_enddate_invalid
+msgid "Please enter a valid End date"
+msgstr ""
+
+#: drilldown_select_browse_mode
+msgid "Please select a browser mode"
+msgstr ""
+
+#: drilldown_select_org_unit
+msgid "Please select an organization unit"
+msgstr ""
+
+#: drilldown_orgunit
+msgid "Organisation unit"
+msgstr ""
+
+#: drilldown_orgunit_group
+msgid "Organisation unit group"
+msgstr ""
+
+#: drilldown_data_element
+msgctxt "drilldown_data_element"
+msgid "Data element"
+msgstr ""
+
+#: drilldown_data_element_group
+msgid "Data element group"
+msgstr ""
+
+#: drilldown_data_set
+msgid "Data set"
+msgstr ""
+
+#: counts_of_aggregated_values
+msgid "Number of recorded values"
+msgstr ""
+
+#: browse_data_at_this_level
+msgid "Browse data at this level only"
+msgstr ""
+
+#: view_data_at_descendant_levels
+msgid "Summary drill down"
+msgstr ""
+
+#: view_data_at_this_level
+msgid "View raw data at this level"
+msgstr ""
+
+#: click_on_this_orgunit
+msgid "Click on this organisation unit"
+msgstr ""
+
+#: earliest
+msgid "earliest"
+msgstr ""
+
+#: latest
+msgid "latest"
+msgstr ""
+
+#: available_dataset
+msgid "Available data sets"
+msgstr ""
+
+#: loading
+msgid "Loading"
+msgstr ""
+
+#: level_must_be_int
+msgid "Level must be a number"
+msgstr ""
+
+#: not_choose_dataset
+msgctxt "not_choose_dataset"
+msgid "Please select a data set"
+msgstr ""
+
+#: not_choose_organisation
+msgctxt "not_choose_organisation"
+msgid "Please select an organisation unit"
+msgstr ""
+
+#: generate
+msgid "Generate"
+msgstr ""
+
+#: sql_view_management
+msgid "SQL View Management"
+msgstr ""
+
+#: sql_view
+msgid "SQL View"
+msgstr ""
+
+#: sql_type
+msgid "SQL type"
+msgstr ""
+
+#: sql_view_type
+msgid "SQL view"
+msgstr ""
+
+#: materialized_sql_view_type
+msgid "Materialized SQL view"
+msgstr ""
+
+#: sql_query_type
+msgid "SQL query"
+msgstr ""
+
+#: created_in_database
+msgid "created in database"
+msgstr ""
+
+#: materialized_in_database
+msgid "materialized in database"
+msgstr ""
+
+#: allows_for_variables
+msgid "allows for variables"
+msgstr ""
+
+#: sql_statement
+msgid "SQL Statement"
+msgstr ""
+
+#: run
+msgid "Execute query"
+msgstr ""
+
+#: hide_warning
+msgid "Hide warning"
+msgstr ""
+
+#: add_new_sql_view
+msgid "Add new SQL view"
+msgstr ""
+
+#: update_sql_view
+msgid "Update SQL view"
+msgstr ""
+
+#: name_is_null
+msgid "Name is not allowed to be null"
+msgstr ""
+
+#: name_in_use
+msgid "Name is in use"
+msgstr ""
+
+#: code_in_use
+msgid "Code is in use"
+msgstr ""
+
+#: language_country_in_use
+msgid "The language and country set is already in use"
+msgstr ""
+
+#: sqlquery_is_empty
+msgid "SQL statement cannot be null"
+msgstr ""
+
+#: sqlquery_is_invalid
+msgid "This SQL statement is invalid"
+msgstr ""
+
+#: sqlquery_invalid_note
+msgid "Note: Only SELECT query is allowed (without INTO keyword)"
+msgstr ""
+
+#: sql_view_instance_invalid
+msgid "This resource viewer is invalid or does not exist"
+msgstr ""
+
+#: sql_view_table_name
+msgid "SQL view table with name"
+msgstr ""
+
+#: is_created
+msgid "is created"
+msgstr ""
+
+#: sql_view_table_is_not_created_yet
+msgid "Please execute query to create View table before viewing"
+msgstr ""
+
+#: data_elements_violating_exclusive_group_sets
+msgid "Data elements violating exclusive group sets"
+msgstr ""
+
+#: indicators_violating_exclusive_group_sets
+msgid "Indicators violating exclusive group sets"
+msgstr ""
+
+#: view_data_for
+msgid "View data for"
+msgstr ""
+
+#: failed_to_create_view_table_for
+msgid "Failed to create view table for"
+msgstr ""
+
+#: show
+msgid "Show"
+msgstr ""
+
+#: sort
+msgid "Sort"
+msgstr ""
+
+#: lock
+msgid "Lock"
+msgstr ""
+
+#: locked
+msgid "Locked"
+msgstr ""
+
+#: unlock
+msgid "Unlock"
+msgstr ""
+
+#: append
+msgid "Append"
+msgstr ""
+
+#: organisation_unit_groups
+msgid "Organisation unit groups"
+msgstr ""
+
+#: users
+msgid "Users"
+msgstr ""
+
+#: remove_values_success
+msgid "Removed values successfully"
+msgstr ""
+
+#: no_hits
+msgid "Recorded values"
+msgstr ""
+
+#: earliest_date_used_if_no_date_selected
+msgid "Earliest date will be used if no date is selected"
+msgstr ""
+
+#: latest_date_used_if_no_date_selected
+msgid "Latest date will be used if no date is selected"
+msgstr ""
+
+#: generate_values_success
+msgid "Generated values successfully"
+msgstr ""
+
+#: start
+msgid "Start"
+msgstr ""
+
+#: data_set_list
+msgid "Data Set list"
+msgstr ""
+
+#: data_element_group_list
+msgid "Data Element Group list"
+msgstr ""
+
+#: orgunit_group_list
+msgid "Organisation Unit Group list"
+msgstr ""
+
+#: patient_data_archive
+msgid "Person Data Archive"
+msgstr ""
+
+#: intro__patient_data_archive
+msgid ""
+"Archive person data which is not currently relevant to your system in order "
+"to improve performance. Data can also be unarchived."
+msgstr ""
+
+#: pruning_interrupted
+msgid ""
+"You must choose the organisation unit has parent to prune. Please try again!"
+msgstr ""
+
+#: sqlquery_is_not_allowed
+msgid "Restricted user tables cannot be referenced in query"
+msgstr ""
+
+#: sections_with_invalid_category_combinations
+msgid "Sections with invalid category combinations"
+msgstr ""
+
+#: confirm_delete_sqlview
+msgid "Do you want to delete this SQL view object ?"
+msgstr ""
+
+#: clear_data_mart
+msgid "Clear data mart"
+msgstr ""
+
+#: rebuild_data_mart_index
+msgid "Rebuild data mart index"
+msgstr ""
+
+#: allow_show_zero
+msgid "Display zeros"
+msgstr ""
+
+#: raw_data
+msgid "Raw data"
+msgstr ""
+
+#: get_report_as_xls
+msgid "Download as Excel"
+msgstr ""
+
+#: get_report_as_csv
+msgid "Download as CSV"
+msgstr ""
+
+#: get_report_as_pdf
+msgid "Download as PDF"
+msgstr ""
+
+#: get_report_as_html
+msgid "Download as HTML"
+msgstr ""
+
+#: get_report_as_xml
+msgid "Download as XML"
+msgstr ""
+
+#: get_report_as_json
+msgid "Download as JSON"
+msgstr ""
+
+#: data_element_structure
+msgid "Data element structure"
+msgstr ""
+
+#: constant
+msgid "Constant"
+msgstr ""
+
+#: constant_management
+msgid "Constant Management"
+msgstr ""
+
+#: create_new_constant
+msgid "Add Constant"
+msgstr ""
+
+#: edit_constant
+msgid "Edit Constant"
+msgstr ""
+
+#: value_must_be_double
+msgid "Value must be an number"
+msgstr ""
+
+#: confirm_delete_constant
+msgid "Do you want to delete this constant?"
+msgstr ""
+
+#: object_type
+msgid "Object type"
+msgstr ""
+
+#: users_logged_in
+msgid "Users logged in"
+msgstr ""
+
+#: today
+msgid "Today"
+msgstr ""
+
+#: yesterday
+msgid "Yesterday"
+msgstr ""
+
+#: last_2_days
+msgid "Last 2 days"
+msgstr ""
+
+#: last_7_days
+msgid "Last 7 days"
+msgstr ""
+
+#: last_30_days
+msgid "Last 30 days"
+msgstr ""
+
+#: dynamic_attributes
+msgid "Dynamic Attributes"
+msgstr ""
+
+#: attribute
+msgid "Attribute"
+msgstr ""
+
+#: attribute_management
+msgid "Attribute Management"
+msgstr ""
+
+#: value_type
+msgid "Value Type"
+msgstr ""
+
+#: mandatory
+msgid "Mandatory"
+msgstr ""
+
+#: indicator
+msgid "Indicator"
+msgstr ""
+
+#: indicator_group
+msgid "Indicator Group"
+msgstr ""
+
+#: organisation_unit
+msgid "Organisation Unit"
+msgstr ""
+
+#: organisation_unit_group
+msgid "Organisation Unit Group"
+msgstr ""
+
+#: organisation_unit_group_set
+msgid "Organisation Unit Group Set"
+msgstr ""
+
+#: user
+msgid "User"
+msgstr ""
+
+#: user_group
+msgid "User Group"
+msgstr ""
+
+#: program
+msgid "Program"
+msgstr ""
+
+#: program_stage
+msgid "Program Stage"
+msgstr ""
+
+#: tracked_entity
+msgid "Tracked Entity"
+msgstr ""
+
+#: tracked_entity_attribute
+msgid "Tracked Entity Attribute"
+msgstr ""
+
+#: integer
+msgid "Integer"
+msgstr ""
+
+#: positive_integer
+msgid "Positive Integer"
+msgstr ""
+
+#: negative_integer
+msgid "Negative Integer"
+msgstr ""
+
+#: create_new_attribute
+msgid "Add Attribute"
+msgstr ""
+
+#: edit_attribute
+msgid "Edit Attribute"
+msgstr ""
+
+#: assigned_to
+msgid "Assigned to"
+msgstr ""
+
+#: attribute_sort_order
+msgid "Attribute sort order"
+msgstr ""
+
+#: data_element_does_not_exist
+msgid "Data element does not exist"
+msgstr ""
+
+#: category_option_combo_does_not_exist
+msgid "Category option combo does not exist"
+msgstr ""
+
+#: scheduling_is
+msgid "Scheduling is"
+msgstr ""
+
+#: scheduling
+msgid "Scheduling"
+msgstr ""
+
+#: scheduling_management
+msgid "Scheduling management"
+msgstr ""
+
+#: stop
+msgid "Stop"
+msgstr ""
+
+#: refresh
+msgid "Refresh"
+msgstr ""
+
+#: aggregation_period_types
+msgid "Aggregation period types"
+msgstr ""
+
+#: running
+msgid "active"
+msgstr ""
+
+#: resource_tables
+msgid "Resource tables"
+msgstr ""
+
+#: data_mart
+msgid "Data mart"
+msgstr ""
+
+#: analytics_tables
+msgid "Analytics tables"
+msgstr ""
+
+#: analytics_tables_task_strategy
+msgid "Analytics tables task strategy"
+msgstr ""
+
+#: last_2_years_daily
+msgid "Last 2 years daily"
+msgstr ""
+
+#: last_3_years_daily
+msgid "Last 3 years daily"
+msgstr ""
+
+#: all_daily
+msgid "All daily"
+msgstr ""
+
+#: all_every_15_min
+msgid "All every 15 minutes"
+msgstr ""
+
+#: resource_table_task_strategy
+msgid "Resource tables task strategy"
+msgstr ""
+
+#: data_mart_task_strategy
+msgid "Data mart task strategy"
+msgstr ""
+
+#: never
+msgid "Never"
+msgstr ""
+
+#: last_12_months_daily
+msgid "Last 12 months daily"
+msgstr ""
+
+#: last_6_months_daily_6_to_12_months_weekly
+msgid "Last 6 months daily + 6 to 12 months weekly"
+msgstr ""
+
+#: daily
+msgid "Daily"
+msgstr ""
+
+#: organisation_unit_group_set_aggregation_level
+msgid "Organisation unit group set aggregation level"
+msgstr ""
+
+#: aggregated_org_unit_data_values
+msgid "Aggregated org unit data values"
+msgstr ""
+
+#: aggregated_org_unit_indicator_values
+msgid "Aggregated org unit indicator values"
+msgstr ""
+
+#: execute_now
+msgid "Execute now"
+msgstr ""
+
+#: execute_tasks_confirmation
+msgid ""
+"Are you sure you want to execute all tasks now? Task processing might fully "
+"utilize your system resources and slow down other operations."
+msgstr ""
+
+#: no_aggregation
+msgid "No aggregation"
+msgstr ""
+
+#: data_elements_in_data_set_not_in_form
+msgid "Data elements in data set but not in form or sections"
+msgstr ""
+
+#: option_set
+msgid "Option set"
+msgstr ""
+
+#: option_set_management
+msgid "Option set management"
+msgstr ""
+
+#: add_option_set
+msgid "Add option set"
+msgstr ""
+
+#: options
+msgid "Options"
+msgstr ""
+
+#: option
+msgid "Option"
+msgstr ""
+
+#: edit_option_set
+msgid "Edit option set"
+msgstr ""
+
+#: number_of_members
+msgid "The number of members"
+msgstr ""
+
+#: object_not_deleted_associated_by_objects
+msgid "Object not deleted because it is associated by objects of type"
+msgstr ""
+
+#: lock_exception_management
+msgid "Lock Exception Management"
+msgstr ""
+
+#: lock_exception
+msgid "Lock Exception"
+msgstr ""
+
+#: confirm_delete_lock_exception
+msgid "Do you want to delete this lock exception?"
+msgstr ""
+
+#: confirm_delete_lock_exceptions
+msgid "Do you want to delete lock exceptions with this configuration?"
+msgstr ""
+
+#: create_new_lock_exception
+msgid "Create new lock exception"
+msgstr ""
+
+#: edit_lock_exception
+msgid "Edit lock exception"
+msgstr ""
+
+#: lock_exception_batch_removal
+msgid "Lock exception batch removal"
+msgstr ""
+
+#: back_to_lock_exceptions
+msgid "Back to lock exception"
+msgstr ""
+
+#: batch_delete
+msgid "Batch deletion"
+msgstr ""
+
+#: deleting_lock_exceptions
+msgid "Deleting lock exceptions"
+msgstr ""
+
+#: error_at
+msgid "Error at"
+msgstr ""
+
+#: not_started
+msgid "not started"
+msgstr ""
+
+#: aggregated_data_set_completeness
+msgid "Aggregated data set completeness"
+msgstr ""
+
+#: show_sql_view
+msgid "Show SQL view"
+msgstr ""
+
+#: financial_yearly
+msgid "Financial Yearly"
+msgstr ""
+
+#: update_option
+msgid "Update option"
+msgstr ""
+
+#: removing_min_max_values
+msgid "Removing min-max values"
+msgstr ""
+
+#: generating_min_max_values
+msgid "Generating min-max values"
+msgstr ""
+
+#: done
+msgid "Done"
+msgstr ""
+
+#: period_structure
+msgid "Period structure"
+msgstr ""
+
+#: data_element_category_option_combo
+msgid "Data element category option combinations"
+msgstr ""
+
+#: update_category_option_combos
+msgid "Update category option combinations"
+msgstr ""
+
+#: update_organisation_unit_paths
+msgid "Update organisation unit paths"
+msgstr ""
+
+#: date_period_structure
+msgid "Date period structure"
+msgstr ""
+
+#: locale
+msgid "Locale"
+msgstr ""
+
+#: locale_management
+msgid "Locale Management"
+msgstr ""
+
+#: create_new_locale
+msgid "Create New Locale"
+msgstr ""
+
+#: locale_details
+msgid "Locale Details"
+msgstr ""
+
+#: edit_locale
+msgid "Edit Locale"
+msgstr ""
+
+#: confirm_delete_locale
+msgid "Are you sure you want to delete this locale?"
+msgstr ""
+
+#: language
+msgid "Language"
+msgstr ""
+
+#: country
+msgid "Country"
+msgstr ""
+
+#: locale_language_no_translation
+msgid "Please select a language"
+msgstr ""
+
+#: locale_country_no_translation
+msgid "Please select a country"
+msgstr ""
+
+#: data_monitoring
+msgid "Data monitoring"
+msgstr ""
+
+#: data_monitoring_strategy
+msgid "Data monitoring strategy"
+msgstr ""
+
+#: last_hour
+msgid "Last hour"
+msgstr ""
+
+#: data_set
+msgid "Data Set"
+msgstr ""
+
+#: last_year_daily
+msgid "Last year daily"
+msgstr ""
+
+#: show_fewer_options
+msgid "Show fewer options"
+msgstr ""
+
+#: show_more_options
+msgid "Show more options"
+msgstr ""
+
+#: disabled
+msgid "Disabled"
+msgstr ""
+
+#: data_synchronization
+msgid "Data synchronization"
+msgstr ""
+
+#: data_synchronization_strategy
+msgid "Data synchronization strategy"
+msgstr ""
+
+#: enabled
+msgid "Enabled"
+msgstr ""
+
+#: last_success
+msgid "Last success"
+msgstr ""
+
+#: option_management
+msgid "Option management"
+msgstr ""
+
+#: add_option
+msgid "Add option"
+msgstr ""
+
+#: edit_option
+msgid "Edit option"
+msgstr ""
+
+#: sort_options
+msgid "Sort options"
+msgstr ""
+
+#: available_options
+msgid "Available options"
+msgstr ""
+
+#: please_select_a_dataset
+msgctxt "please_select_a_dataset"
+msgid "Please select a data set"
+msgstr ""
+
+#: please_select_an_organisation_unit
+msgctxt "please_select_an_organisation_unit"
+msgid "Please select an organisation unit"
+msgstr ""
+
+#: prev_year
+msgid "Prev year"
+msgstr ""
+
+#: next_year
+msgid "Next year"
+msgstr ""
+
+#: update_the_data_elements_and_option_combos_in_expression
+msgid "Update the data elements and option combos in expression"
+msgstr ""
+
+#: org_unit_group_does_not_exist
+msgid "Org unit group does not exist"
+msgstr ""
+
+#: duplicate_periods
+msgid "Duplicate periods"
+msgstr ""
+
+#: remove_expired_invitations
+msgid "Remove expired invitations"
+msgstr ""
+
+#: view_name
+msgid "View name"
+msgstr ""
+
+#: user_account_invitations
+msgid "User account invitations"
+msgstr ""
+
+#: pending_invitations
+msgid "Pending invitations"
+msgstr ""
+
+#: expired_invitations
+msgid "Expired invitations"
+msgstr ""
+
+#: category_option
+msgid "Category Option"
+msgstr ""
+
+#: category_option_group
+msgid "Category Option Group"
+msgstr ""
