@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-04-28 10:37+0000\n"
+"PO-Revision-Date: 2016-05-02 10:42+0000\n"
 "Last-Translator: Antonia <antonia@informa.pro>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ckb\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1461839837.0\n"
+"X-POOTLE-MTIME: 1462185775.0\n"
 
 #: home
 msgid "Home"
@@ -394,115 +394,115 @@ msgstr "طةران"
 
 #: locate_organisation_unit_by_name
 msgid "Locate organisation unit by name"
-msgstr ""
+msgstr "شويني يةكةي ريكخراو بة ثيَي ناو"
 
 #: register_new
 msgid "Register New"
-msgstr ""
+msgstr "تؤمار كردني نوي "
 
 #: empty_event_list
 msgid "There are no events"
-msgstr ""
+msgstr "هيج رووداويَك نية"
 
 #: empty_search_result
 msgid "Empty Search Result"
-msgstr ""
+msgstr "ئةنجامي طةران بةتال"
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "نةخير"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "بةلئ"
 
 #: offline_notification
 msgid "You are offline, data will be stored locally"
-msgstr ""
+msgstr "تو اوفلاني داتا تومار دةبيت "
 
 #: online_nofification
 msgid "You are online"
-msgstr ""
+msgstr "تو اونلايني "
 
 #: latitude
 msgid "Latitude"
-msgstr ""
+msgstr "ثانةهيل"
 
 #: longitude
 msgid "Longitude"
-msgstr ""
+msgstr "دريزة هيَل"
 
 #: lat_lng
 msgid "[Latitude Longitude]"
-msgstr ""
+msgstr "ثانةهيل دريذة هيَل"
 
 #: get_from_map
 msgid "Get from map"
-msgstr ""
+msgstr "دةستكةوتن لة نةخشة"
 
 #: capture
 msgid "Capture"
-msgstr ""
+msgstr "داخل كردن"
 
 #: zoom_in
 msgid "Zoom in"
-msgstr ""
+msgstr "كةورةكردن"
 
 #: zoom_out
 msgid "Zoom out"
-msgstr ""
+msgstr "بجوك كردن"
 
 #: center_map
 msgid "Center map"
-msgstr ""
+msgstr "لة سةر نةخشة"
 
 #: set_coordinate
 msgid "Set coordinate"
-msgstr ""
+msgstr "ريكخستني كوردينيت"
 
 #: point_and_click_for_coordinate
 msgid "Point and click for coordinate"
-msgstr ""
+msgstr "خال و كليك بؤ كوردينيت"
 
 #: profile
 msgid "Profile"
-msgstr ""
+msgstr "بروفايل"
 
 #: applications
 msgid "Apps"
-msgstr ""
+msgstr "بةرنامة"
 
 #: more_applications
 msgid "More apps"
-msgstr ""
+msgstr "بةرنامةي زياتر"
 
 #: search_apps
 msgid "Search apps"
-msgstr ""
+msgstr "طةران بةدواي بةرنامة"
 
 #: settings
 msgid "Settings"
-msgstr ""
+msgstr "ريكخستنةكان"
 
 #: account
 msgid "Account"
-msgstr ""
+msgstr "حساب"
 
 #: log_out
 msgid "Log out"
-msgstr ""
+msgstr "دةرجون"
 
 #: about_dhis2
 msgid "About DHIS 2 "
-msgstr ""
+msgstr "دةربارةي دي اج اي اس 2 "
 
 #: update_event
 msgid "Update Event"
-msgstr ""
+msgstr "داخل كردني رووداو"
 
 #: missing_translation_file
 msgid "Missing Translation File"
-msgstr ""
+msgstr "نةبووني وةرطيران بؤ ئةم فايلة"
 
 #: missing_translation_using_default
 msgid ""
@@ -512,63 +512,63 @@ msgstr ""
 
 #: value_must_be
 msgid "Value must be"
-msgstr ""
+msgstr "برةكة بيويستة"
 
 #: number
 msgid "Number"
-msgstr ""
+msgstr "ذمارة"
 
 #: value_must_be_number
 msgid "Value must be number"
-msgstr ""
+msgstr "برةكة بيويستة زمارة بيت"
 
 #: value_must_be_posInt
 msgid "Value must be positive integer"
-msgstr ""
+msgstr "برةكة بيويتة زمارةي تةواوي موجةب  بيت"
 
 #: value_must_be_negInt
 msgid "Value must be negative integer"
-msgstr ""
+msgstr "برةكة بيويستة زمارةي تةواوي سالب بيت "
 
 #: value_must_be_zeroPositiveInt
 msgid "Value must be zero or positive integer"
-msgstr ""
+msgstr "برةكة بيويستة سفر يان زمارةي تةواوي موجةب بيت"
 
 #: value_must_be_int
 msgid "Value must be integer "
-msgstr ""
+msgstr "برةكة بيويتة زمارةي تةواو بيت"
 
 #: posInt
 msgid "Positive Integer"
-msgstr ""
+msgstr "زمارة تةواوي مووجةب"
 
 #: negInt
 msgid "Negative Integer"
-msgstr ""
+msgstr "زمارةي تةواوي سالب"
 
 #: zeroPositiveInt
 msgid "Zero or Positive Integer"
-msgstr ""
+msgstr "سفر يان زمارةي تةواوي موجةب"
 
 #: latitude_required
 msgid "Value must be between [-90 ... 90]"
-msgstr ""
+msgstr "برةكة بيويستة لة نيوان (90... 90-) بيت "
 
 #: longitude_required
 msgid "Value must be between [-180 ... 180]"
-msgstr ""
+msgstr "برةكة بيويستة لة نيوان (180 ... -180 ) بيت"
 
 #: loading_tree
 msgid "Loading orgunit tree"
-msgstr ""
+msgstr "جاوةرواني زنجيرةي ريكخراوةكان"
 
 #: loading_metadata
 msgid "Loading meta-data"
-msgstr ""
+msgstr "جاوةرواني داتاي سةرةكي"
 
 #: future_date_not_allowed
 msgid "Future date is not allowed"
-msgstr ""
+msgstr "بةرواري ئايندة نابيت "
 
 #: validation_warnings
 msgctxt "validation_warnings"
@@ -577,36 +577,36 @@ msgstr ""
 
 #: unsaved_data_exists_proceed
 msgid "Unsaved data exists. Do you want to proceed?"
-msgstr ""
+msgstr "داتا خزن نةكراوة ئتةوي جي بةجي بكةي"
 
 #: proceed
 msgid "Proceed"
-msgstr ""
+msgstr "جيَ بةجيَ كردن"
 
 #: lacking_required_authority_to_add_update_event
 msgid "Lacking required authority to add/update event."
-msgstr ""
+msgstr "دةسةلاتي بيويستت نبية بؤ زيادكردني /نوي كردني رووداو."
 
 #: select_or_search
 msgid "Select or search from the list"
-msgstr ""
+msgstr "هةلبزاردن يان كةران لة ليست"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "بيشاندةرةركان"
 
 #: hide_menu
 msgid "Hide menu"
-msgstr ""
+msgstr "شاردنةوةي ليست"
 
 #: extend_menu
 msgid "Extend menu"
-msgstr ""
+msgstr "كردنةوةي ليست"
 
 #: show_main_menu
 msgid "Show main menu"
-msgstr ""
+msgstr "بيشانداني ليستي سةرةكي"
 
 #: close_editing
 msgid "Close editing"
-msgstr ""
+msgstr "داخستني دةستكاري كردن"

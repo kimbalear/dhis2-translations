@@ -4,103 +4,105 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-05 01:11+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1462410664.0\n"
 
 #: appmanager_list_app
 msgid "Installed Apps"
-msgstr ""
+msgstr "Installed Apps"
 
 #: appmanager_settings
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: appmanager_app_store
 msgid "App Store"
-msgstr ""
+msgstr "App Store"
 
 #: appmanager_saved_settings
 msgid "Saved Settings "
-msgstr ""
+msgstr "Saved Settings "
 
 #: appmanager_installation_folder
 msgid "App installation folder"
-msgstr ""
+msgstr "App installation folder"
 
 #: appmanager_absolute_server_path
 msgid "absolute path on server for uploaded apps"
-msgstr ""
+msgstr "absolute path on server for uploaded apps"
 
 #: appmanager_baseurl
 msgid "App base URL"
-msgstr ""
+msgstr "App base URL"
 
 #: appmanager_where_apps_can_be_found
 msgid "location of where apps can be found on the Web"
-msgstr ""
+msgstr "location of where apps can be found on the Web"
 
 #: appmanager_store_url
 msgid "App store URL"
-msgstr ""
+msgstr "App store URL"
 
 #: appmanager_upload_app_package
 msgid "Upload App package (ZIP)"
-msgstr ""
+msgstr "Upload App package (ZIP)"
 
 #: appmanager_install_success
 msgid "App installed successfully"
-msgstr ""
+msgstr "App installed successfully"
 
 #: appmanager_manifest_not_found
 msgid "Manifest file not found in app"
-msgstr ""
+msgstr "Manifest file not found in app"
 
 #: appmanager_not_zip
 msgid "App is not a valid ZIP archive"
-msgstr ""
+msgstr "App is not a valid ZIP archive"
 
 #: appmanager_confirm_delete
 msgid "Are you sure you want to delete this app?"
-msgstr ""
+msgstr "Are you sure you want to delete this app?"
 
 #: appmanager_invalid_json
 msgid "Invalid JSON syntax in manifest file"
-msgstr ""
+msgstr "Invalid JSON syntax in manifest file"
 
 #: appmanager_could_not_read_file_check_server_permissions
 msgid "Could not read app files, check server permissions"
-msgstr ""
+msgstr "Could not read app files, check server permissions"
 
 #: appmanager_delete_success
 msgid "App deleted successfully"
-msgstr ""
+msgstr "App deleted successfully"
 
 #: appmanager_management
 msgid "Manage Installed Apps"
-msgstr ""
+msgstr "Manage Installed Apps"
 
 #: appmanager_appname
 msgid "App name"
-msgstr ""
+msgstr "App name"
 
 #: appmanager_you_have_no_apps_installed
 msgid "You have no apps installed at the moment"
-msgstr ""
+msgstr "You have no apps installed at the moment"
 
 #: appmanager_author
 msgid "Author"
-msgstr ""
+msgstr "Author"
 
 #: appmanager_version
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: appmanager_set_to_default
 msgid "Set to default"
-msgstr ""
+msgstr "Set to default"

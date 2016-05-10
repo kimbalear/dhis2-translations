@@ -344,7 +344,7 @@ msgstr "داخل كردن و وةركتني داتا لة دي اج تي اس ي
 msgid ""
 "Validate and assess data quality using validation rules or statistical "
 "methods."
-msgstr "شيتةل كردن و هةلسةنكاندني راستي داتا بة بةكارهيناني ياساي دلنيا بوون لة راستي يان ئامارةكان "شيواز"
+msgstr "شيتةل كردن و هةلسةنكاندني راستي داتا بة بةكارهيناني ياساي دلنيا بوون لة راستي يان ئامارةكان شيواز"
 
 #: intro_dhis-web-mapping
 msgid ""
@@ -369,7 +369,7 @@ msgstr "كةيشتن بة باشترين فيرزني موبايلي زيرةك 
 msgid ""
 "Get an overview of favorite charts, reports and maps and view or write "
 "messages."
-msgstr "دةست كةوتني شيوازيكي كشتي لة نةخشة بةسندةكان و رابورت و ونةخشة بة وينة يان نوسين " نامةكان "
+msgstr "دةست كةوتني شيوازيكي كشتي لة نةخشة بةسندةكان و رابورت و ونةخشة بة وينة يان نوسين  نامةكان "
 
 #: intro_dhis-web-visualizer
 msgid "Create dynamic data visualizations for data elements and indicators."

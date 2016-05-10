@@ -4,529 +4,540 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-05 03:21+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1462418466.0\n"
 
 #: dashboard
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: insert
 msgid "Insert"
-msgstr ""
+msgstr "Insert"
 
 #: close
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
 #: clear
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #: rss_health
 msgid "RSS Health"
-msgstr ""
+msgstr "RSS Health"
 
 #: rss_diseases
 msgid "RSS Diseases"
-msgstr ""
+msgstr "RSS Diseases"
 
 #: report
 msgid "Reports"
-msgstr ""
+msgstr "Reports"
 
 #: document
 msgid "Resources"
-msgstr ""
+msgstr "Resources"
 
 #: report_table
 msgid "Report tables"
-msgstr ""
+msgstr "Report tables"
 
 #: map_view
+#, fuzzy
 msgctxt "map_view"
 msgid "Maps"
-msgstr ""
+msgstr "Maps"
 
 #: map
+#, fuzzy
 msgctxt "map"
 msgid "Maps"
-msgstr ""
+msgstr "Maps"
 
 #: this_is_a_link_area
 msgid "This is a link area"
-msgstr ""
+msgstr "This is a link area"
 
 #: click_insert_and_select_link
 msgid "Click insert and select links"
-msgstr ""
+msgstr "Click insert and select links"
 
 #: this_is_a_chart_area
 msgid "This is a chart area"
-msgstr ""
+msgstr "This is a chart area"
 
 #: click_insert_and_select_chart
 msgid "Click Insert and select a chart"
-msgstr ""
+msgstr "Click Insert and select a chart"
 
 #: insert_links_by_going_to
+#, fuzzy
 msgid "Insert links by going to"
-msgstr ""
+msgstr "Insert links by going to"
 
 #: messages
 msgid "Messages"
-msgstr ""
+msgstr "Messages"
 
 #: sender
 msgid "Sender"
-msgstr ""
+msgstr "Sender"
 
 #: date
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: subject
 msgid "Subject"
-msgstr ""
+msgstr "Subject"
 
 #: remove
 msgid "Remove"
-msgstr ""
+msgstr "Remove"
 
 #: write_message
 msgid "Write message"
-msgstr ""
+msgstr "Write message"
 
 #: write_feedback
 msgid "Write feedback"
-msgstr ""
+msgstr "Write feedback"
 
 #: write_new_message
 msgid "Write new message"
-msgstr ""
+msgstr "Write new message"
 
 #: write_new_feedback
 msgid "Write new feedback"
-msgstr ""
+msgstr "Write new feedback"
 
 #: recipients
 msgid "Recipients"
-msgstr ""
+msgstr "Recipients"
 
 #: mark_unread
 msgid "Mark as unread"
-msgstr ""
+msgstr "Mark as unread"
 
 #: mark_read
 msgid "Mark as read"
-msgstr ""
+msgstr "Mark as read"
 
 #: mark_followup
 msgid "Mark for followup"
-msgstr ""
+msgstr "Mark for followup"
 
 #: clear_followup
 msgid "Clear followup"
-msgstr ""
+msgstr "Clear followup"
 
 #: read
 msgid "Read"
-msgstr ""
+msgstr "Read"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: confirm_delete_message
 msgid "Are you sure you want to delete the message?"
-msgstr ""
+msgstr "Are you sure you want to delete the message?"
 
 #: confirm_delete_all_selected_messages
 msgid "Are you sure you want to delete all selected messages?"
-msgstr ""
+msgstr "Are you sure you want to delete all selected messages?"
 
 #: no_messages_selected
 msgid "No messages selected"
-msgstr ""
+msgstr "No messages selected"
 
 #: unread_messages
 msgid "unread messages"
-msgstr ""
+msgstr "unread messages"
 
 #: unread_message
 msgid "unread message"
-msgstr ""
+msgstr "unread message"
 
 #: messages_were_deleted
 msgid "Messages were deleted"
-msgstr ""
+msgstr "Messages were deleted"
 
 #: discard
 msgid "Discard"
-msgstr ""
+msgstr "Discard"
 
 #: enter_subject
 msgid "Please enter a subject"
-msgstr ""
+msgstr "Please enter a subject"
 
 #: enter_text
 msgid "Please enter text"
-msgstr ""
+msgstr "Please enter text"
 
 #: reply
 msgid "Reply"
-msgstr ""
+msgstr "Reply"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: user_roles
 msgid "User roles"
-msgstr ""
+msgstr "User roles"
 
 #: user_usergroups
 msgid "User/User Groups"
-msgstr ""
+msgstr "User/User Groups"
 
 #: select_one_or_more_recipients
 msgid "Select one or more recipients"
-msgstr ""
+msgstr "Select one or more recipients"
 
 #: meta_data
 msgid "Meta data"
-msgstr ""
+msgstr "Meta data"
 
 #: sending_message
 msgid "Sending message"
-msgstr ""
+msgstr "Sending message"
 
 #: explore
 msgid "Explore"
-msgstr ""
+msgstr "Explore"
 
 #: interpretations
 msgid "Interpretations"
-msgstr ""
+msgstr "Interpretations"
 
 #: share_your_own_interpretations_from
+#, fuzzy
 msgid "Share your own interpretations from"
-msgstr ""
+msgstr "Share your own interpretations from"
 
 #: gis
 msgid "GIS"
-msgstr ""
+msgstr "GIS"
 
 #: pivot_table
 msgid "Pivot table"
-msgstr ""
+msgstr "Pivot table"
 
 #: add_a_comment
 msgid "Add a comment"
-msgstr ""
+msgstr "Add a comment"
 
 #: new_interpretations
 msgid "new interpretations"
-msgstr ""
+msgstr "new interpretations"
 
 #: new_interpretation
 msgid "new interpretation"
-msgstr ""
+msgstr "new interpretation"
 
 #: click_to_view_report_table
 msgid "Click to view report table"
-msgstr ""
+msgstr "Click to view report table"
 
 #: click_to_view_in_data_visualizer
 msgid "Click to view in Data Visualizer"
-msgstr ""
+msgstr "Click to view in Data Visualizer"
 
 #: click_to_view_in_gis
 msgid "Click to view in GIS"
-msgstr ""
+msgstr "Click to view in GIS"
 
 #: click_to_view_data_set_report
 msgid "Click to view data set report"
-msgstr ""
+msgstr "Click to view data set report"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 #: write_your_interpretation
 msgid "Write a comment, question or interpretation"
-msgstr ""
+msgstr "Write a comment, question or interpretation"
 
 #: share_your_interpretation_of
+#, fuzzy
 msgid "Share your interpretation of"
-msgstr ""
+msgstr "Share your interpretation of"
 
 #: interpretation_was_shared
 msgid "Interpretation was shared"
-msgstr ""
+msgstr "Interpretation was shared"
 
 #: viewing
 msgid "Viewing"
-msgstr ""
+msgstr "Viewing"
 
 #: from
 msgid "From"
-msgstr ""
+msgstr "From"
 
 #: load_favorite_click_share
 msgid "load a favorite and click 'Share' on the top menu"
-msgstr ""
+msgstr "load a favorite and click 'Share' on the top menu"
 
 #: generate_pivot_table_click_share
 msgid "generate a pivot table and click 'Share' on the top menu"
-msgstr ""
+msgstr "generate a pivot table and click 'Share' on the top menu"
 
 #: share_interpretation
 msgid "Share interpretation"
-msgstr ""
+msgstr "Share interpretation"
 
 #: select_users_and_user_groups
 msgid "Select users and user groups"
-msgstr ""
+msgstr "Select users and user groups"
 
 #: selected_more_than_200_user
 msgid "You have {userCount} recipients, please reduce to 200 or less"
-msgstr ""
+msgstr "You have {userCount} recipients, please reduce to 200 or less"
 
 #: generate_data_set_report_click_share
 msgid "generate a data set report and click 'Share' on the top menu"
-msgstr ""
+msgstr "generate a data set report and click 'Share' on the top menu"
 
 #: data_visualizer
 msgid "Data visualizer"
-msgstr ""
+msgstr "Data visualizer"
 
 #: data_set_report
 msgid "Data set report"
-msgstr ""
+msgstr "Data set report"
 
 #: search_for_users_charts_maps_reports
 msgid "Search for users, charts, maps, reports and resources"
-msgstr ""
+msgstr "Search for users, charts, maps, reports and resources"
 
 #: no_hits
 msgid "No hits, try again"
-msgstr ""
+msgstr "No hits, try again"
 
 #: profile
 msgid "Profile"
-msgstr ""
+msgstr "Profile"
 
 #: works_as
 msgid "Works as"
-msgstr ""
+msgstr "Works as"
 
 #: employed_at
+#, fuzzy
 msgid "Employed at"
-msgstr ""
+msgstr "Employed at"
 
 #: interested_in
+#, fuzzy
 msgid "Interested in"
-msgstr ""
+msgstr "Interested in"
 
 #: speaks
 msgid "Speaks"
-msgstr ""
+msgstr "Speaks"
 
 #: email
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "Phone number"
 
 #: org_units
 msgid "Org units"
-msgstr ""
+msgstr "Org units"
 
 #: edit_profile
 msgid "Edit profile"
-msgstr ""
+msgstr "Edit profile"
 
 #: inbox
 msgid "Inbox"
-msgstr ""
+msgstr "Inbox"
 
 #: follow_up
 msgid "Follow up"
-msgstr ""
+msgstr "Follow up"
 
 #: unread
 msgid "Unread"
-msgstr ""
+msgstr "Unread"
 
 #: send_message
 msgid "Send message"
-msgstr ""
+msgstr "Send message"
 
 #: to
 msgid "To"
-msgstr ""
+msgstr "To"
 
 #: scroll_down
 msgid "Scroll down"
-msgstr ""
+msgstr "Scroll down"
 
 #: scroll_up
 msgid "Scroll up"
-msgstr ""
+msgstr "Scroll up"
 
 #: latest_interpretations
 msgid "Latest interpretations"
-msgstr ""
+msgstr "Latest interpretations"
 
 #: view_full_profile
 msgid "View full profile"
-msgstr ""
+msgstr "View full profile"
 
 #: view_full_size
 msgid "View full size"
-msgstr ""
+msgstr "View full size"
 
 #: click_to_explore
 msgid "Click to explore"
-msgstr ""
+msgstr "Click to explore"
 
 #: to_org_unit
 msgid "To org unit"
-msgstr ""
+msgstr "To org unit"
 
 #: to_user
 msgid "To user"
-msgstr ""
+msgstr "To user"
 
 #: update_profile
 msgid "update profile!"
-msgstr ""
+msgstr "update profile!"
 
 #: or
+#, fuzzy
 msgid "or"
-msgstr ""
+msgstr "or"
 
 #: groups
 msgid "Groups"
-msgstr ""
+msgstr "Groups"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "Search"
 
 #: rename_current_dashboard
 msgid "Rename current dashboard"
-msgstr ""
+msgstr "Rename current dashboard"
 
 #: delete_current_dashboard
 msgid "Delete current dashboard"
-msgstr ""
+msgstr "Delete current dashboard"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "Add new"
 
 #: manage
 msgid "Manage"
-msgstr ""
+msgstr "Manage"
 
 #: sharing
 msgid "Sharing"
-msgstr ""
+msgstr "Sharing"
 
 #: click_add_new_to_get_started
 msgid "Click 'Add new' to get started"
-msgstr ""
+msgstr "Click 'Add new' to get started"
 
 #: add_stuff_by_searching
 msgid "Add stuff by searching from the search field above"
-msgstr ""
+msgstr "Add stuff by searching from the search field above"
 
 #: arrange_dashboard_by_dragging_and_dropping
 msgid "Then arrange dashboard by dragging and dropping items"
-msgstr ""
+msgstr "Then arrange dashboard by dragging and dropping items"
 
 #: click_to_explore_drag_to_new_position
 msgid "Click to explore or drag to new position"
-msgstr ""
+msgstr "Click to explore or drag to new position"
 
 #: click_and_drag_to_new_position
 msgid "Click and drag to new position"
-msgstr ""
+msgstr "Click and drag to new position"
 
 #: drag_to_new_position
 msgid "Drag to new position"
-msgstr ""
+msgstr "Drag to new position"
 
 #: system_notification
 msgid "System notification"
-msgstr ""
+msgstr "System notification"
 
 #: and
+#, fuzzy
 msgid "and"
-msgstr ""
+msgstr "and"
 
 #: more
 msgid "more"
-msgstr ""
+msgstr "more"
 
 #: see_more_hits
 msgid "See more hits"
-msgstr ""
+msgstr "See more hits"
 
 #: see_fewer_hits
 msgid "See fewer hits"
-msgstr ""
+msgstr "See fewer hits"
 
 #: add
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 #: resize
 msgid "Resize"
-msgstr ""
+msgstr "Resize"
 
 #: add_items_to_current_dashboard
 msgid "Add items to current dashboard"
-msgstr ""
+msgstr "Add items to current dashboard"
 
 #: could_not_delete_interpretation
 msgid "Could not delete interpretation, please try again later"
-msgstr ""
+msgstr "Could not delete interpretation, please try again later"
 
 #: could_not_delete_interpretation_comment
 msgid "Could not delete interpretation comment, please try again later"
-msgstr ""
+msgstr "Could not delete interpretation comment, please try again later"
 
 #: could_not_save_interpretation
 msgid "Could not save interpretation, please try again later"
-msgstr ""
+msgstr "Could not save interpretation, please try again later"
 
 #: applies_to_favorites_with_user_org_units_only
 msgid "Applies to favorites with \"user org units\" only"
-msgstr ""
+msgstr "Applies to favorites with \"user org units\" only"
 
 #: user_org_unit_filter
 msgid "User organisation unit filter"
-msgstr ""
+msgstr "User organisation unit filter"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #: api_link
 msgid "API link"
-msgstr ""
+msgstr "API link"
 
 #: get_as_image
 msgid "Get as image"
-msgstr ""
+msgstr "Get as image"

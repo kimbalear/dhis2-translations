@@ -4,111 +4,113 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-05 01:06+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1462410401.0\n"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: dhis2
 msgid "DHIS 2"
-msgstr ""
+msgstr "DHIS 2"
 
 #: dhis2_home
 msgid "DHIS 2 Home"
-msgstr ""
+msgstr "DHIS 2 Home"
 
 #: profile
 msgid "Profile"
-msgstr ""
+msgstr "Profile"
 
 #: applications
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 #: more_applications
 msgid "More apps"
-msgstr ""
+msgstr "More apps"
 
 #: search_apps
 msgid "Search apps"
-msgstr ""
+msgstr "Search apps"
 
 #: settings
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: account
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 #: log_out
 msgid "Log out"
-msgstr ""
+msgstr "Log out"
 
 #: about_dhis2
 msgid "About DHIS 2"
-msgstr ""
+msgstr "About DHIS 2"
 
 #: session_storage
 msgid "Session Storage"
-msgstr ""
+msgstr "Session Storage"
 
 #: local_storage
 msgid "Local Storage"
-msgstr ""
+msgstr "Local Storage"
 
 #: indexed_db
 msgid "IndexedDB"
-msgstr ""
+msgstr "IndexedDB"
 
 #: clearing_dhis2_browser_cache
 msgid "DHIS 2 browser cache cleaner"
-msgstr ""
+msgstr "DHIS 2 browser cache cleaner"
 
 #: clears_local_cache
 msgid "This clears selected items from your browser cache"
-msgstr ""
+msgstr "This clears selected items from your browser cache"
 
 #: proceed_cleaning
 msgid "Are your sure you want to proceed with the cleaning?"
-msgstr ""
+msgstr "Are your sure you want to proceed with the cleaning?"
 
 #: cache_cleared
 msgid "Browser cache is cleared."
-msgstr ""
+msgstr "Browser cache is cleared."
 
 #: nothing_to_clear
 msgid "Browser cache is empty. Nothing to clear."
-msgstr ""
+msgstr "Browser cache is empty. Nothing to clear."
 
 #: clearing_cache
 msgid "Clearing cache"
-msgstr ""
+msgstr "Clearing cache"
 
 #: proceed
 msgid "Proceed"
-msgstr ""
+msgstr "Proceed"
 
 #: select_all
 msgid "Select all"
-msgstr ""
+msgstr "Select all"
 
 #: unselect_all
 msgid "Unselect all"
-msgstr ""
+msgstr "Unselect all"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: clear
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
