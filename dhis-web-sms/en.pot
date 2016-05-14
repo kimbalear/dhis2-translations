@@ -62,7 +62,7 @@ msgid "Data Entry"
 msgstr ""
 
 #: namebased_data_entry
-msgid "Namebased Data Entry"
+msgid "Name-based Data Entry"
 msgstr ""
 
 #: data_entry_overview
@@ -421,11 +421,11 @@ msgid "Please type your message before sending"
 msgstr ""
 
 #: do_not_send_patient_confidential_messages_using_sms
-msgid "Do not send person confidential messages using sms"
+msgid "Do not send person confidential messages using SMS"
 msgstr ""
 
 #: please_select_a_gateway_type_to_send_sms
-msgid "Please select a default gateway (Maintenance -> ) to send sms"
+msgid "Please select a default gateway (Maintenance -> ) to send SMS"
 msgstr ""
 
 #: there_is_no_user_assigned_to_selected_units
