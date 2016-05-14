@@ -1852,7 +1852,7 @@ msgid "Relationship"
 msgstr ""
 
 #: select_at_least_one_scope
-msgid "Select at least one scope for local id"
+msgid "Select at least one scope for local ID"
 msgstr ""
 
 #: scheduling_of_events
@@ -1908,7 +1908,7 @@ msgid "Attribute users"
 msgstr ""
 
 #: view_reminder_message_templates
-msgid "View reminder message templatess"
+msgid "View reminder message templates"
 msgstr ""
 
 #: display_in_list_no_program
