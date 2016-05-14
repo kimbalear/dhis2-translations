@@ -927,7 +927,7 @@ msgid "Monthly"
 msgstr ""
 
 #: BiMonthly
-msgid "Bimonthly"
+msgid "Bi-monthly"
 msgstr ""
 
 #: Quarterly
