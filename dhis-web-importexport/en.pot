@@ -845,7 +845,7 @@ msgid "XLS"
 msgstr ""
 
 #: url
-msgid "Url"
+msgid "URL"
 msgstr ""
 
 #: table_name
