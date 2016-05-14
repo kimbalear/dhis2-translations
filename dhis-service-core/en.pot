@@ -801,7 +801,7 @@ msgid "Minus"
 msgstr ""
 
 #: no_of_days
-msgid "No of days"
+msgid "Number of days"
 msgstr ""
 
 #: variables
@@ -927,7 +927,7 @@ msgid "Monthly"
 msgstr ""
 
 #: BiMonthly
-msgid "Bimonthly"
+msgid "Bi-monthly"
 msgstr ""
 
 #: Quarterly
@@ -1511,7 +1511,7 @@ msgid "Save"
 msgstr ""
 
 #: translation_label_id
-msgid "Id"
+msgid "ID"
 msgstr ""
 
 #: translation_label_name
@@ -1608,7 +1608,7 @@ msgid ""
 msgstr ""
 
 #: translation_shortname_length
-msgid "Shortname's maximum length of 25 charaters"
+msgid "Shortname's maximum length of 25 characters"
 msgstr ""
 
 #: translation_duplicated_name_with
@@ -1976,7 +1976,7 @@ msgstr ""
 
 #: intro_user_message_settings
 msgid ""
-"Customize the system with user specific settings for message email and sms "
+"Customize the system with user specific settings for message email and SMS"
 "notification."
 msgstr ""
 
@@ -2366,7 +2366,7 @@ msgid "Please enter a value greater than or equal to {0}."
 msgstr ""
 
 #: please_enter_a_different_value_to_above
-msgid "Please enter a different value to above."
+msgid "Please enter a different value than above."
 msgstr ""
 
 #: digits_decimal_only_please
@@ -2467,7 +2467,7 @@ msgid "The ClosedDate field should be greater than the OpenDate field."
 msgstr ""
 
 #: please_unicode_chars_only
-msgid "Valid unicode charaters only are allowed."
+msgid "Valid Unicode charaters only are allowed."
 msgstr ""
 
 #: unrecognized_coordinate_string

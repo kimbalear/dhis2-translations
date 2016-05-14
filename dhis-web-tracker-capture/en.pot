@@ -278,11 +278,11 @@ msgid "Total"
 msgstr ""
 
 #: total_number_of_pages
-msgid "No. of pages"
+msgid "Number of pages"
 msgstr ""
 
 #: rows_per_page
-msgid "No. of rows per page"
+msgid "Number of rows per page"
 msgstr ""
 
 #: jump_to_page

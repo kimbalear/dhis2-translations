@@ -933,11 +933,11 @@ msgid "Execute SQL View"
 msgstr ""
 
 #: F_SQLVIEW_MANAGEMENT
-msgid "Sql View Management"
+msgid "SQL View Management"
 msgstr ""
 
 #: F_SQLVIEW_EXTERNAL
-msgid "Sql View External Access"
+msgid "SQL View External Access"
 msgstr ""
 
 #: F_VALIDATIONCRITERIA_ADD
@@ -974,7 +974,7 @@ msgid "Administrate data mart"
 msgstr ""
 
 #: F_DV_ADMIN
-msgid "Administrate data vizualiser"
+msgid "Administrate data visualizer"
 msgstr ""
 
 #: F_MOBILE_SENDSMS
@@ -1220,7 +1220,7 @@ msgid "The name is already in use, please specify a different name"
 msgstr ""
 
 #: everything_is_ok
-msgid "Everything is ok"
+msgid "Everything is OK"
 msgstr ""
 
 #: roles
@@ -1340,7 +1340,7 @@ msgid "Change the password for users."
 msgstr ""
 
 #: user_use_group
-msgid "There are user associated with this user role."
+msgid "There are users associated with this user role."
 msgstr ""
 
 #: can_not_remove_last_super_user

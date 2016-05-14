@@ -786,11 +786,11 @@ msgid "Leaf organisation units"
 msgstr ""
 
 #: reporting_bimonth
-msgid "Reporting bimonth"
+msgid "Reporting bi-month"
 msgstr ""
 
 #: last_6_bimonths
-msgid "Last 6 bimonths"
+msgid "Last 6 bi-months"
 msgstr ""
 
 #: reporting_quarter
