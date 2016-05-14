@@ -62,7 +62,7 @@ msgid "Data Entry"
 msgstr ""
 
 #: namebased_data_entry
-msgid "Namebased Data Entry"
+msgid "Name-based Data Entry"
 msgstr ""
 
 #: data_entry_overview
