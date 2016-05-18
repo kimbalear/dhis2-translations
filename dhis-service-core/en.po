@@ -5,980 +5,1021 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 04:15+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462853756.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
-msgstr ""
+msgstr "District Health Information Software 2"
 
 #: dhis2
+#, fuzzy
 msgid "DHIS 2"
-msgstr ""
+msgstr "DHIS 2"
 
 #. #-- dhis-wp --------------------------------------------------------------------#
 #: no_page_specified
 msgid "No page specified"
-msgstr ""
+msgstr "No page specified"
 
 #: an_exception_occured
 msgid "An exception occurred"
-msgstr ""
+msgstr "An exception occurred"
 
 #: exception_explanation_text
 msgid ""
 "Sorry! The system failed to execute the operation. Usually, no data is lost "
 "and you can continue working by going back to the previous page."
 msgstr ""
+"Sorry! The system failed to execute the operation. Usually, no data is lost "
+"and you can continue working by going back to the previous page."
 
 #: exception
 msgid "Exception"
-msgstr ""
+msgstr "Exception"
 
 #: caused_by
 msgid "Caused by"
-msgstr ""
+msgstr "Caused by"
 
 #: unknown_source
 msgid "Unknown source"
-msgstr ""
+msgstr "Unknown source"
 
 #: logged_in
 msgid "Logged in"
-msgstr ""
+msgstr "Logged in"
 
 #: not_logged_in
 msgid "Not logged in"
-msgstr ""
+msgstr "Not logged in"
 
 #: log_out
 msgid "Log out"
-msgstr ""
+msgstr "Log out"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: access_denied
 msgid "Access denied"
-msgstr ""
+msgstr "Access denied"
 
 #: access_denied_message
 msgid "You don't have sufficient authority to view this page"
-msgstr ""
+msgstr "You don't have sufficient authority to view this page"
 
 #: create_access_denied_message
 msgid "You don't have create access to object"
-msgstr ""
+msgstr "You don't have create access to object"
 
 #: read_access_denied_message
 msgid "You don't have read access to object"
-msgstr ""
+msgstr "You don't have read access to object"
 
 #: update_access_denied_message
 msgid "You don't have update access to object"
-msgstr ""
+msgstr "You don't have update access to object"
 
 #: delete_access_denied_message
 msgid "You don't have delete access to object"
-msgstr ""
+msgstr "You don't have delete access to object"
 
 #: go_back
 msgid "Go back"
-msgstr ""
+msgstr "Go back"
 
 #: main_menu
 msgid "Main menu"
-msgstr ""
+msgstr "Main menu"
 
 #: maintenance
 msgid "Maintenance"
-msgstr ""
+msgstr "Maintenance"
 
 #: services
 msgid "Services"
-msgstr ""
+msgstr "Services"
 
 #. #-- dhis-ouwt ------------------------------------------------------------------#
 #: org_unit_tree
 msgid "Organisation Unit Tree"
-msgstr ""
+msgstr "Organisation Unit Tree"
 
 #: specify_organisationunit
 msgid "Please specify an organisation unit"
-msgstr ""
+msgstr "Please specify an organisation unit"
 
 #: cannot_clear_selected_orgunits
 msgid "Cannot clear the selected organisation units"
-msgstr ""
+msgstr "Cannot clear the selected organisation units"
 
 #: locate_organisation_unit_by_name
 msgid "Locate organisation unit by name"
-msgstr ""
+msgstr "Locate organisation unit by name"
 
 #: error_occurred
 msgid "An error has occurred."
-msgstr ""
+msgstr "An error has occurred."
 
 #: select_organisationunit
+#, fuzzy
 msgid "You must select an OrganisationUnit from the tree."
-msgstr ""
+msgstr "You must select an Organisation Unit from the tree."
 
 #. #-- Modules --------------------------------------------------------------------#
 #: dhis-web-maintenance-datadictionary
 msgid "Data Elements / Indicators"
-msgstr ""
+msgstr "Data Elements / Indicators"
 
 #: dhis-web-maintenance-dataset
 msgid "Data Sets"
-msgstr ""
+msgstr "Data Sets"
 
 #: dhis-web-maintenance-organisationunit
 msgid "Organisation Units"
-msgstr ""
+msgstr "Organisation Units"
 
 #: dhis-web-maintenance-user
 msgctxt "dhis-web-maintenance-user"
 msgid "Users"
-msgstr ""
+msgstr "Users"
 
 #: dhis-web-maintenance-dataadmin
 msgid "Data Administration"
-msgstr ""
+msgstr "Data Administration"
 
 #: dhis-web-maintenance-settings
 msgctxt "dhis-web-maintenance-settings"
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: dhis-web-maintenance-program
 msgid "Programs / Attributes"
-msgstr ""
+msgstr "Programs / Attributes"
 
 #: dhis-web-maintenance-mobile
 msgid "Mobile Configuration"
-msgstr ""
+msgstr "Mobile Configuration"
 
 #: dhis-web-maintenance-appmanager
 msgid "App Management"
-msgstr ""
+msgstr "App Management"
 
 #: dhis-web-caseentry
 msgid "Individual Records"
-msgstr ""
+msgstr "Individual Records"
 
 #: dhis-web-dataentry
 msgid "Data Entry"
-msgstr ""
+msgstr "Data Entry"
 
 #: dhis-web-importexport
 msgid "Import-Export"
-msgstr ""
+msgstr "Import-Export"
 
 #: dhis-web-validationrule
 msgid "Data Quality"
-msgstr ""
+msgstr "Data Quality"
 
 #: dhis-web-mapping
 msgid "GIS"
-msgstr ""
+msgstr "GIS"
 
 #: dhis-web-event-capture
 msgid "Event Capture"
-msgstr ""
+msgstr "Event Capture"
 
 #: dhis-web-event-reports
 msgid "Event Reports"
-msgstr ""
+msgstr "Event Reports"
 
 #: dhis-web-event-visualizer
 msgid "Event Visualizer"
-msgstr ""
+msgstr "Event Visualizer"
 
 #: dhis-web-tracker-capture
 msgid "Tracker Capture"
-msgstr ""
+msgstr "Tracker Capture"
 
 #: dhis-web-cache-cleaner
 msgid "Browser Cache Cleaner"
-msgstr ""
+msgstr "Browser Cache Cleaner"
 
 #: dhis-web-reporting
 msgid "Reports"
-msgstr ""
+msgstr "Reports"
 
 #: dhis-web-light
 msgid "Mobile (Light)"
-msgstr ""
+msgstr "Mobile (Light)"
 
 #: dhis-web-mobile
 msgid "Mobile (Smartphone)"
-msgstr ""
+msgstr "Mobile (Smartphone)"
 
 #: dhis-web-dashboard-integration
 msgctxt "dhis-web-dashboard-integration"
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: dhis-web-visualizer
 msgid "Data Visualizer"
-msgstr ""
+msgstr "Data Visualizer"
 
 #: dhis-web-pivot
 msgid "Pivot Table"
-msgstr ""
+msgstr "Pivot Table"
 
 #: dhis-web-dashboard
+#, fuzzy
 msgid "Data Analyser"
-msgstr ""
+msgstr "Data Analyser"
 
 #: dhis-web-integration
 msgid "NHRM Integration"
-msgstr ""
+msgstr "NHRM Integration"
 
 #: dhis-web-reports
 msgid "NRHM Reports"
-msgstr ""
+msgstr "NRHM Reports"
 
 #: dhis-web-dataentry-national
+#, fuzzy
 msgid "Linelisting Data Entry"
-msgstr ""
+msgstr "Linelisting Data Entry"
 
 #: dhis-web-validationrule-local-in
 msgid "Validation Analysis"
-msgstr ""
+msgstr "Validation Analysis"
 
 #: dhis-web-survey
 msgid "Survey - Target"
-msgstr ""
+msgstr "Survey - Target"
 
 #: dhis-web-spreadsheet-reporting
 msgid "Spreadsheet Reports"
-msgstr ""
+msgstr "Spreadsheet Reports"
 
 #: dhis-web-sms
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: dhis-web-maintenance-in
 msgid "Configuration"
-msgstr ""
+msgstr "Configuration"
 
 #: dhis-web-linelisting-mp
 msgid "Manpower"
-msgstr ""
+msgstr "Manpower"
 
 #: dhis-web-maintenance-rbf
 msgid "Maintenance RBF"
-msgstr ""
+msgstr "Maintenance RBF"
 
 #. #-- Intro modules -------------------------------------------------------------#
 #: intro_dhis-web-maintenance-datadictionary
 msgid "Maintain data elements, indicators, categories and groups."
-msgstr ""
+msgstr "Maintain data elements, indicators, categories and groups."
 
 #: intro_dhis-web-maintenance-dataset
 msgid ""
 "Maintain data sets, custom forms, sections and compulsory data elements."
 msgstr ""
+"Maintain data sets, custom forms, sections and compulsory data elements."
 
 #: intro_dhis-web-maintenance-organisationunit
 msgid "Maintain organisation units and its hierarchy, groups and group sets."
-msgstr ""
+msgstr "Maintain organisation units and its hierarchy, groups and group sets."
 
 #: intro_dhis-web-maintenance-user
 msgid ""
 "Maintain users in terms of authorities and passwords, user roles and groups."
 msgstr ""
+"Maintain users in terms of authorities and passwords, user roles and groups."
 
 #: intro_dhis-web-maintenance-dataadmin
 msgid ""
 "Maintain resource tables, check data integrity, see statistics and more."
 msgstr ""
+"Maintain resource tables, check data integrity, see statistics and more."
 
 #: intro_dhis-web-maintenance-settings
 msgid ""
 "Maintain user and system settings related to appearance, notifications and "
 "more."
 msgstr ""
+"Maintain user and system settings related to appearance, notifications and "
+"more."
 
 #: intro_dhis-web-maintenance-program
 msgid ""
 "Maintain tracked entities and programs including attributes and identifiers."
 msgstr ""
+"Maintain tracked entities and programs including attributes and identifiers."
 
 #: intro_dhis-web-maintenance-mobile
 msgid ""
 "Maintain data sets plus settings for mobile reporting and SMS configuration."
 msgstr ""
+"Maintain data sets plus settings for mobile reporting and SMS configuration."
 
 #: intro_dhis-web-maintenance-appmanager
 msgid ""
 "Access and upload apps, which are extensions to the standard user interface."
 msgstr ""
+"Access and upload apps, which are extensions to the standard user interface."
 
 #: intro_dhis-web-caseentry
 msgid ""
 "Register beneficiaries, enter data for encounters and events and view "
 "reports."
 msgstr ""
+"Register beneficiaries, enter data for encounters and events and view "
+"reports."
 
 #: intro_dhis-web-dataentry
 msgid ""
 "Enter data for forms either on-line or off-line, validate data and view data "
 "trends."
 msgstr ""
+"Enter data for forms either on-line or off-line, validate data and view data "
+"trends."
 
 #: intro_dhis-web-importexport
 msgid ""
 "Import and export data from DHIS or third-party systems on various formats."
 msgstr ""
+"Import and export data from DHIS or third-party systems on various formats."
 
 #: intro_dhis-web-validationrule
 msgid ""
 "Validate and assess data quality using validation rules or statistical "
 "methods."
 msgstr ""
+"Validate and assess data quality using validation rules or statistical "
+"methods."
 
 #: intro_dhis-web-mapping
 msgid ""
 "Visualize data on maps using polygons, points, symbols in multiple layers."
 msgstr ""
+"Visualize data on maps using polygons, points, symbols in multiple layers."
 
 #: intro_dhis-web-reporting
 msgid ""
 "Analyse data and reporting rates using predefined and dynamic report tools."
 msgstr ""
+"Analyse data and reporting rates using predefined and dynamic report tools."
 
 #: intro_dhis-web-light
 msgid "Access a mobile device optimized version of data entry and analysis."
-msgstr ""
+msgstr "Access a mobile device optimized version of data entry and analysis."
 
 #: intro_dhis-web-mobile
 msgid ""
 "Access a smartphone optimized version of data entry, settings, messages."
 msgstr ""
+"Access a smartphone optimized version of data entry, settings, messages."
 
 #: intro_dhis-web-dashboard-integration
 msgid ""
 "Get an overview of favorite charts, reports and maps and view or write "
 "messages."
 msgstr ""
+"Get an overview of favorite charts, reports and maps and view or write "
+"messages."
 
 #: intro_dhis-web-visualizer
 msgid "Create dynamic data visualizations for data elements and indicators."
-msgstr ""
+msgstr "Create dynamic data visualizations for data elements and indicators."
 
 #: intro_dhis-web-pivot
 msgid "Generate flexible pivot tables with data aggregated in all dimensions."
-msgstr ""
+msgstr "Generate flexible pivot tables with data aggregated in all dimensions."
 
 #: intro_dhis-web-sms
 msgid "Send SMS reminders and notifications manually or as scheduled tasks."
-msgstr ""
+msgstr "Send SMS reminders and notifications manually or as scheduled tasks."
 
 #: intro_dhis-web-spreadsheet-reporting
 msgid "Generate and import data based on predefined Excel templates."
-msgstr ""
+msgstr "Generate and import data based on predefined Excel templates."
 
 #: intro_dhis-web-event-reports
 msgid "Query for events and create aggregated, dimensional analysis of events."
-msgstr ""
+msgstr "Query for events and create aggregated, dimensional analysis of events."
 
 #: intro_dhis-web-event-capture
 msgid "Capture information about single events."
-msgstr ""
+msgstr "Capture information about single events."
 
 #: intro_dhis-web-tracker-capture
 msgid "Capture information about trackable entities."
-msgstr ""
+msgstr "Capture information about trackable entities."
 
 #. #-- Intro functions -------------------------------------------------------------#
 #: intro_help_center
 msgid ""
 "Get help on a various of topics related to setting up and using the DHIS 2."
 msgstr ""
+"Get help on a various of topics related to setting up and using the DHIS 2."
 
 #: intro_supportive_software
 msgid ""
 "Get an overview of useful software like report designers mobile clients."
 msgstr ""
+"Get an overview of useful software like report designers mobile clients."
 
 #: intro_system_overview
 msgid "Visit the system overview page to get a complete list of modules."
-msgstr ""
+msgstr "Visit the system overview page to get a complete list of modules."
 
 #: intro_web_api
 msgid ""
 "Go to the Web API entry point, which is an interface for other computer "
 "systems."
 msgstr ""
+"Go to the Web API entry point, which is an interface for other computer "
+"systems."
 
 #: intro_about_dhis2
 msgid "Get information about the system version and runtime environment."
-msgstr ""
+msgstr "Get information about the system version and runtime environment."
 
 #: intro_settings
 msgid ""
 "Set your personal preferences for interface language, style and email "
 "settings."
 msgstr ""
+"Set your personal preferences for interface language, style and email "
+"settings."
 
 #: intro_profile
 msgid ""
 "Set up your personal profile with information like job title and interests."
 msgstr ""
+"Set up your personal profile with information like job title and interests."
 
 #: intro_account
 msgid "Manage your user account including name, password, email and mobile."
-msgstr ""
+msgstr "Manage your user account including name, password, email and mobile."
 
 #: intro_log_out
 msgid ""
 "Go here to log out of the system and deny others to access your user account."
 msgstr ""
+"Go here to log out of the system and deny others to access your user account."
 
 #. #-- Common ---------------------------------------------------------------------#
 #: offline
 msgid "Offline"
-msgstr ""
+msgstr "Offline"
 
 #: online
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 #: previous
 msgid "Previous"
-msgstr ""
+msgstr "Previous"
 
 #: online_notification
 msgid "You are online"
-msgstr ""
+msgstr "You are online"
 
 #: offline_notification
 msgid "You are offline, data will be stored locally"
-msgstr ""
+msgstr "You are offline, data will be stored locally"
 
 #: need_to_sync_notification
 msgid "There is data stored locally, please upload to server"
-msgstr ""
+msgstr "There is data stored locally, please upload to server"
 
 #: uploading_data_notification
 msgid "Uploading locally stored data to the server"
-msgstr ""
+msgstr "Uploading locally stored data to the server"
 
 #: sync_now
 msgid "Upload"
-msgstr ""
+msgstr "Upload"
 
 #: discard
 msgid "Discard"
-msgstr ""
+msgstr "Discard"
 
 #: remove_local_data
 msgid "Are you sure you want to remove the locally stored data?"
-msgstr ""
+msgstr "Are you sure you want to remove the locally stored data?"
 
 #: sync_success
 msgid "Upload to server was successful"
-msgstr ""
+msgstr "Upload to server was successful"
 
 #: sync_failed
 msgid "Upload to server failed, please try again later"
-msgstr ""
+msgstr "Upload to server failed, please try again later"
 
 #: year
 msgid "Year"
-msgstr ""
+msgstr "Year"
 
 #: details
 msgctxt "details"
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 #: show_details
 msgid "Show details"
-msgstr ""
+msgstr "Show details"
 
 #: hide_details
 msgid "Hide details"
-msgstr ""
+msgstr "Hide details"
 
 #: change_password
 msgid "Change password"
-msgstr ""
+msgstr "Change password"
 
 #: expired_password
 msgid "Your password has expired, please change"
-msgstr ""
+msgstr "Your password has expired, please change"
 
 #: date_selector
 msgid "Choose a date"
-msgstr ""
+msgstr "Choose a date"
 
 #: hide_menu
 msgid "Hide menu"
-msgstr ""
+msgstr "Hide menu"
 
 #: extend_menu
 msgid "Extend menu"
-msgstr ""
+msgstr "Extend menu"
 
 #: show_menu
 msgid "Show menu"
-msgstr ""
+msgstr "Show menu"
 
 #: show_main_menu
 msgid "Show main menu"
-msgstr ""
+msgstr "Show main menu"
 
 #: view_home_page
 msgid "View home page"
-msgstr ""
+msgstr "View home page"
 
 #: view_intepretations
 msgid "View interpretations"
-msgstr ""
+msgstr "View interpretations"
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "Organisation unit"
 
 #: dataelement
 msgid "Data element"
-msgstr ""
+msgstr "Data element"
 
 #: start_date
 msgid "Start date"
-msgstr ""
+msgstr "Start date"
 
 #: end_date
 msgid "End date"
-msgstr ""
+msgstr "End date"
 
 #: entry
 msgid "Entry"
-msgstr ""
+msgstr "Entry"
 
 #: comment
 msgctxt "comment"
 msgid "Comment"
-msgstr ""
+msgstr "Comment"
 
 #: operations
 msgid "Operations"
-msgstr ""
+msgstr "Operations"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "Add new"
 
 #: rename
 msgid "Rename"
-msgstr ""
+msgstr "Rename"
 
 #: move
 msgid "Move"
-msgstr ""
+msgstr "Move"
 
 #: remove
 msgid "Remove"
-msgstr ""
+msgstr "Remove"
 
 #: required
 msgid "Required"
-msgstr ""
+msgstr "Required"
 
 #: all
 msgid "All"
-msgstr ""
+msgstr "All"
 
 #: save
 msgctxt "save"
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #: new
 msgid "New"
-msgstr ""
+msgstr "New"
 
 #: back
 msgid "Back"
-msgstr ""
+msgstr "Back"
 
 #: ok
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: cancel
 msgctxt "cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: clone
 msgid "Clone"
-msgstr ""
+msgstr "Clone"
 
 #: add
 msgctxt "add"
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 #: edit
 msgid "Edit"
-msgstr ""
+msgstr "Edit"
 
 #: reply
 msgid "Reply"
-msgstr ""
+msgstr "Reply"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: deleting
 msgid "Deleting"
-msgstr ""
+msgstr "Deleting"
 
 #: close
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
 #: gender_male
 msgctxt "gender_male"
 msgid "Male"
-msgstr ""
+msgstr "Male"
 
 #: gender_female
 msgctxt "gender_female"
 msgid "Female"
-msgstr ""
+msgstr "Female"
 
 #: gender_other
 msgctxt "gender_other"
 msgid "Other"
-msgstr ""
+msgstr "Other"
 
 #: password
 msgctxt "password"
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: confirm_password
 msgid "Confirm password"
-msgstr ""
+msgstr "Confirm password"
 
 #: mobile_phone
 msgid "Mobile phone"
-msgstr ""
+msgstr "Mobile phone"
 
 #: create_new_account
 msgid "Create a new account"
-msgstr ""
+msgstr "Create a new account"
 
 #: prove_you_are_not_a_robot
 msgid "Prove you are not a robot"
-msgstr ""
+msgstr "Prove you are not a robot"
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "Create"
 
 #: cant_read_the_words_try_another_one
 msgid "Can't read the words? Try another one"
-msgstr ""
+msgstr "Can't read the words? Try another one"
 
 #: restore
 msgid "Restore"
-msgstr ""
+msgstr "Restore"
 
 #: restore_account
 msgid "Restore account"
-msgstr ""
+msgstr "Restore account"
 
 #: account_recovery
 msgid "Account recovery"
-msgstr ""
+msgstr "Account recovery"
 
 #: recover
 msgid "Recover"
-msgstr ""
+msgstr "Recover"
 
 #: code_from_email
 msgid "Code from email"
-msgstr ""
+msgstr "Code from email"
 
 #: password_hint
 msgid "Minimum 8 characters, 1 upper-case and 1 digit"
-msgstr ""
+msgstr "Minimum 8 characters, 1 upper-case and 1 digit"
 
 #: optional
 msgid "Optional"
-msgstr ""
+msgstr "Optional"
 
 #: object_not_deleted_associated_by_objects
 msgid "Object was not deleted because it is used by other objects:"
-msgstr ""
+msgstr "Object was not deleted because it is used by other objects:"
 
 #: id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: name_in_use
 msgid "The name is already in use. Please choose a different name"
-msgstr ""
+msgstr "The name is already in use. Please choose a different name"
 
 #: code_in_use
 msgid "The code is already in use. Please choose a different code"
-msgstr ""
+msgstr "The code is already in use. Please choose a different code"
 
 #: short_name_in_use
 msgid "The short name is already in use. Please choose a different short name"
-msgstr ""
+msgstr "The short name is already in use. Please choose a different short name"
 
 #: unsupported_browser
 msgid ""
 "Please upgrade your browser. Internet Explorer version 8 and earlier is not "
 "supported."
 msgstr ""
+"Please upgrade your browser. Internet Explorer version 8 and earlier is not "
+"supported."
 
 #: email_not_configured_for_system
 msgid "Email is not configured for the system"
-msgstr ""
+msgstr "Email is not configured for the system"
 
 #: no_user_credentials
 msgid "No user credentials"
-msgstr ""
+msgstr "No user credentials"
 
 #: user_does_not_have_valid_email
 msgid "User does not have a valid email"
-msgstr ""
+msgstr "User does not have a valid email"
 
 #: user_has_critical_authorities
 msgid "User has critical authorities"
-msgstr ""
+msgstr "User has critical authorities"
 
 #: default
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 #: left_brackets
 msgid "Left brackets"
-msgstr ""
+msgstr "Left brackets"
 
 #: right_brackets
 msgid "Right brackets"
-msgstr ""
+msgstr "Right brackets"
 
 #: multiply
 msgid "Multiply"
-msgstr ""
+msgstr "Multiply"
 
 #: divide
 msgid "Divide"
-msgstr ""
+msgstr "Divide"
 
 #: plus
 msgid "Plus"
-msgstr ""
+msgstr "Plus"
 
 #: minus
 msgid "Minus"
-msgstr ""
+msgstr "Minus"
 
 #: no_of_days
+#, fuzzy
 msgid "No of days"
-msgstr ""
+msgstr "No of days"
 
 #: variables
 msgid "Variables"
-msgstr ""
+msgstr "Variables"
 
 #: open
 msgid "Open"
-msgstr ""
+msgstr "Open"
 
 #: normal
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. #-- Relative periods -----------------------------------------------------------#
 #: LAST_MONTH
 msgid "Last month"
-msgstr ""
+msgstr "Last month"
 
 #: LAST_BIMONTH
 msgid "Last bi-month"
-msgstr ""
+msgstr "Last bi-month"
 
 #: LAST_QUARTER
 msgid "Last quarter"
-msgstr ""
+msgstr "Last quarter"
 
 #: LAST_SIX_MONTH
 msgid "Last six-month"
-msgstr ""
+msgstr "Last six-month"
 
 #: MONTHS_THIS_YEAR
 msgid "Months this year"
-msgstr ""
+msgstr "Months this year"
 
 #: QUARTERS_THIS_YEAR
 msgid "Quarters this year"
-msgstr ""
+msgstr "Quarters this year"
 
 #: THIS_YEAR
 msgid "This year"
-msgstr ""
+msgstr "This year"
 
 #: MONTHS_LAST_YEAR
 msgid "Months last year"
-msgstr ""
+msgstr "Months last year"
 
 #: QUARTERS_LAST_YEAR
 msgid "Quarters last year"
-msgstr ""
+msgstr "Quarters last year"
 
 #: LAST_YEAR
 msgid "Last year"
-msgstr ""
+msgstr "Last year"
 
 #: LAST_5_YEARS
 msgid "Last 5 years"
-msgstr ""
+msgstr "Last 5 years"
 
 #: LAST_12_MONTHS
 msgid "Last 12 months"
-msgstr ""
+msgstr "Last 12 months"
 
 #: LAST_6_MONTHS
 msgid "Last 6 months"
-msgstr ""
+msgstr "Last 6 months"
 
 #: LAST_3_MONTHS
 msgid "Last 3 months"
-msgstr ""
+msgstr "Last 3 months"
 
 #: LAST_6_BIMONTHS
 msgid "Last 6 bi-months"
-msgstr ""
+msgstr "Last 6 bi-months"
 
 #: LAST_4_QUARTERS
 msgid "Last 4 quarters"
-msgstr ""
+msgstr "Last 4 quarters"
 
 #: LAST_2_SIXMONTHS
 msgid "Last 2 six-months"
-msgstr ""
+msgstr "Last 2 six-months"
 
 #: THIS_FINANCIAL_YEAR
 msgid "This financial year"
-msgstr ""
+msgstr "This financial year"
 
 #: LAST_FINANCIAL_YEAR
 msgid "Last financial year"
-msgstr ""
+msgstr "Last financial year"
 
 #: LAST_5_FINANCIAL_YEARS
 msgid "Last 5 financial years"
-msgstr ""
+msgstr "Last 5 financial years"
 
 #: LAST_WEEK
 msgid "Last week"
-msgstr ""
+msgstr "Last week"
 
 #: LAST_4_WEEKS
 msgid "Last 4 weeks"
-msgstr ""
+msgstr "Last 4 weeks"
 
 #: LAST_12_WEEKS
 msgid "Last 12 weeks"
-msgstr ""
+msgstr "Last 12 weeks"
 
 #: LAST_52_WEEKS
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "Last 52 weeks"
 
 #. #-- PeriodTypes ----------------------------------------------------------------#
 #: Daily
 msgid "Daily"
-msgstr ""
+msgstr "Daily"
 
 #: Weekly
 msgid "Weekly"
-msgstr ""
+msgstr "Weekly"
 
 #: Monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Monthly"
 
 #: BiMonthly
+#, fuzzy
 msgid "Bimonthly"
-msgstr ""
+msgstr "Bi-monthly"
 
 #: Quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Quarterly"
 
 #: SixMonthly
 msgid "Six-monthly"
-msgstr ""
+msgstr "Six-monthly"
 
 #: SixMonthlyApril
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Six-monthly April"
 
 #: Yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Yearly"
 
 #: TwoYearly
 msgid "Two-yearly"
-msgstr ""
+msgstr "Two-yearly"
 
 #: OnChange
 msgid "On-change"
-msgstr ""
+msgstr "On-change"
 
 #: Survey
 msgid "Survey"
-msgstr ""
+msgstr "Survey"
 
 #: Relative
 msgid "Relative"
-msgstr ""
+msgstr "Relative"
 
 #: FinancialApril
 msgid "Financial-April"
-msgstr ""
+msgstr "Financial-April"
 
 #: FinancialJuly
 msgid "Financial-July"
-msgstr ""
+msgstr "Financial-July"
 
 #: FinancialOct
 msgid "Financial-Oct"
-msgstr ""
+msgstr "Financial-Oct"
 
 #. #-- Period formats - Should not be translated ----------------------------------#
 #: format.Daily.startDate
+#, fuzzy
 msgctxt "format.Daily.startDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.Daily.endDate
 msgctxt "format.Daily.endDate"
@@ -986,8 +1027,9 @@ msgid ""
 msgstr ""
 
 #: format.Weekly.startDate
+#, fuzzy
 msgid "yyyy 'W' w"
-msgstr ""
+msgstr "yyyy 'W' w"
 
 #: format.Weekly.endDate
 msgctxt "format.Weekly.endDate"
@@ -995,8 +1037,9 @@ msgid ""
 msgstr ""
 
 #: format.Monthly.startDate
+#, fuzzy
 msgid "MMMM yyyy"
-msgstr ""
+msgstr "MMMM yyyy"
 
 #: format.Monthly.endDate
 msgctxt "format.Monthly.endDate"
@@ -1004,49 +1047,58 @@ msgid ""
 msgstr ""
 
 #: format.BiMonthly.startDate
+#, fuzzy
 msgctxt "format.BiMonthly.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'to '"
 
 #: format.BiMonthly.endDate
+#, fuzzy
 msgctxt "format.BiMonthly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.Quarterly.startDate
+#, fuzzy
 msgctxt "format.Quarterly.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'to '"
 
 #: format.Quarterly.endDate
+#, fuzzy
 msgctxt "format.Quarterly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.SixMonthly.startDate
+#, fuzzy
 msgctxt "format.SixMonthly.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'to '"
 
 #: format.SixMonthly.endDate
+#, fuzzy
 msgctxt "format.SixMonthly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.SixMonthlyApril.startDate
+#, fuzzy
 msgctxt "format.SixMonthlyApril.startDate"
 msgid "MMM 'to '"
-msgstr ""
+msgstr "MMM 'to '"
 
 #: format.SixMonthlyApril.endDate
+#, fuzzy
 msgctxt "format.SixMonthlyApril.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.Yearly.startDate
+#, fuzzy
 msgctxt "format.Yearly.startDate"
 msgid "yyyy"
-msgstr ""
+msgstr "yyyy"
 
 #: format.Yearly.endDate
 msgctxt "format.Yearly.endDate"
@@ -1054,28 +1106,29 @@ msgid ""
 msgstr ""
 
 #: format.TwoYearly.startDate
+#, fuzzy
 msgid "yyyy 'and '"
-msgstr ""
+msgstr "yyyy 'and '"
 
 #: format.TwoYearly.endDate
 msgctxt "format.TwoYearly.endDate"
 msgid "yyyy"
-msgstr ""
+msgstr "yyyy"
 
 #: format.OnChange.startDate
 msgctxt "format.OnChange.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr ""
+msgstr "yyyy-MM-dd '- '"
 
 #: format.OnChange.endDate
 msgctxt "format.OnChange.endDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.Survey.startDate
 msgctxt "format.Survey.startDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.Survey.endDate
 msgctxt "format.Survey.endDate"
@@ -1085,2431 +1138,2455 @@ msgstr ""
 #: format.Relative.startDate
 msgctxt "format.Relative.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr ""
+msgstr "yyyy-MM-dd '- '"
 
 #: format.Relative.endDate
+#, fuzzy
 msgctxt "format.Relative.endDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "yyyy-MM-dd"
 
 #: format.FinancialApril.startDate
+#, fuzzy
 msgctxt "format.FinancialApril.startDate"
 msgid "MMM yyyy 'to '"
-msgstr ""
+msgstr "MMM yyyy 'to '"
 
 #: format.FinancialApril.endDate
+#, fuzzy
 msgctxt "format.FinancialApril.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.FinancialJuly.startDate
+#, fuzzy
 msgctxt "format.FinancialJuly.startDate"
 msgid "MMM yyyy 'to '"
-msgstr ""
+msgstr "MMM yyyy 'to '"
 
 #: format.FinancialJuly.endDate
+#, fuzzy
 msgctxt "format.FinancialJuly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #: format.FinancialOct.startDate
+#, fuzzy
 msgctxt "format.FinancialOct.startDate"
 msgid "MMM yyyy 'to '"
-msgstr ""
+msgstr "MMM yyyy 'to '"
 
 #: format.FinancialOct.endDate
+#, fuzzy
 msgctxt "format.FinancialOct.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM yyyy"
 
 #. #-- Months and weeks -----------------------------------------------------------#
 #: month.january
 msgid "January"
-msgstr ""
+msgstr "January"
 
 #: month.february
 msgid "February"
-msgstr ""
+msgstr "February"
 
 #: month.march
 msgid "March"
-msgstr ""
+msgstr "March"
 
 #: month.april
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #: month.may
 msgctxt "month.may"
 msgid "May"
-msgstr ""
+msgstr "May"
 
 #: month.june
 msgid "June"
-msgstr ""
+msgstr "June"
 
 #: month.july
 msgid "July"
-msgstr ""
+msgstr "July"
 
 #: month.august
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #: month.september
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #: month.october
 msgid "October"
-msgstr ""
+msgstr "October"
 
 #: month.november
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #: month.december
 msgid "December"
-msgstr ""
+msgstr "December"
 
 #: month.short.january
 msgid "Jan"
-msgstr ""
+msgstr "Jan"
 
 #: month.short.february
 msgid "Feb"
-msgstr ""
+msgstr "Feb"
 
 #: month.short.march
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 #: month.short.april
 msgid "Apr"
-msgstr ""
+msgstr "Apr"
 
 #: month.short.may
 msgctxt "month.short.may"
 msgid "May"
-msgstr ""
+msgstr "May"
 
 #: month.short.june
 msgid "Jun"
-msgstr ""
+msgstr "Jun"
 
 #: month.short.july
 msgid "Jul"
-msgstr ""
+msgstr "Jul"
 
 #: month.short.august
 msgid "Aug"
-msgstr ""
+msgstr "Aug"
 
 #: month.short.september
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #: month.short.october
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 #: month.short.november
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #: month.short.december
 msgid "Dec"
-msgstr ""
+msgstr "Dec"
 
 #: weekday.monday
 msgctxt "weekday.monday"
 msgid "Monday"
-msgstr ""
+msgstr "Monday"
 
 #: weekday.tuesday
 msgctxt "weekday.tuesday"
 msgid "Tuesday"
-msgstr ""
+msgstr "Tuesday"
 
 #: weekday.wednesday
 msgctxt "weekday.wednesday"
 msgid "Wednesday"
-msgstr ""
+msgstr "Wednesday"
 
 #: weekday.thursday
 msgctxt "weekday.thursday"
 msgid "Thursday"
-msgstr ""
+msgstr "Thursday"
 
 #: weekday.friday
 msgctxt "weekday.friday"
 msgid "Friday"
-msgstr ""
+msgstr "Friday"
 
 #: weekday.saturday
 msgctxt "weekday.saturday"
 msgid "Saturday"
-msgstr ""
+msgstr "Saturday"
 
 #: weekday.sunday
 msgctxt "weekday.sunday"
 msgid "Sunday"
-msgstr ""
+msgstr "Sunday"
 
 #: weekday.short.monday
 msgctxt "weekday.short.monday"
 msgid "Mon"
-msgstr ""
+msgstr "Mon"
 
 #: weekday.short.tuesday
 msgctxt "weekday.short.tuesday"
 msgid "Tue"
-msgstr ""
+msgstr "Tue"
 
 #: weekday.short.wednesday
 msgctxt "weekday.short.wednesday"
 msgid "Wed"
-msgstr ""
+msgstr "Wed"
 
 #: weekday.short.thursday
 msgctxt "weekday.short.thursday"
 msgid "Thu"
-msgstr ""
+msgstr "Thu"
 
 #: weekday.short.friday
 msgctxt "weekday.short.friday"
 msgid "Fri"
-msgstr ""
+msgstr "Fri"
 
 #: weekday.short.saturday
 msgctxt "weekday.short.saturday"
 msgid "Sat"
-msgstr ""
+msgstr "Sat"
 
 #: weekday.short.sunday
 msgctxt "weekday.short.sunday"
 msgid "Sun"
-msgstr ""
+msgstr "Sun"
 
 #. #-- Nepali Calendar Month/Day names -------------------------------------------#
 #. # The keys for months are still based on ISO 8601, the ordering is correct, but the key names are not. Jan-Dec -> 1-12. #
 #: nepali.month.january
 msgctxt "nepali.month.january"
 msgid "Baishak"
-msgstr ""
+msgstr "Baishak"
 
 #: nepali.month.february
 msgctxt "nepali.month.february"
 msgid "Jestha"
-msgstr ""
+msgstr "Jestha"
 
 #: nepali.month.march
 msgctxt "nepali.month.march"
 msgid "Asar"
-msgstr ""
+msgstr "Asar"
 
 #: nepali.month.april
 msgctxt "nepali.month.april"
 msgid "Shrawan"
-msgstr ""
+msgstr "Shrawan"
 
 #: nepali.month.may
 msgctxt "nepali.month.may"
 msgid "Bhadra"
-msgstr ""
+msgstr "Bhadra"
 
 #: nepali.month.june
 msgctxt "nepali.month.june"
 msgid "Ashwin"
-msgstr ""
+msgstr "Ashwin"
 
 #: nepali.month.july
 msgctxt "nepali.month.july"
 msgid "Kartik"
-msgstr ""
+msgstr "Kartik"
 
 #: nepali.month.august
 msgctxt "nepali.month.august"
 msgid "Mangsir"
-msgstr ""
+msgstr "Mangsir"
 
 #: nepali.month.september
 msgctxt "nepali.month.september"
 msgid "Poush"
-msgstr ""
+msgstr "Poush"
 
 #: nepali.month.october
 msgctxt "nepali.month.october"
 msgid "Magh"
-msgstr ""
+msgstr "Magh"
 
 #: nepali.month.november
 msgctxt "nepali.month.november"
 msgid "Falgun"
-msgstr ""
+msgstr "Falgun"
 
 #: nepali.month.december
 msgctxt "nepali.month.december"
 msgid "Chaitra"
-msgstr ""
+msgstr "Chaitra"
 
 #: nepali.month.short.january
 msgctxt "nepali.month.short.january"
 msgid "Baishak"
-msgstr ""
+msgstr "Baishak"
 
 #: nepali.month.short.february
 msgctxt "nepali.month.short.february"
 msgid "Jestha"
-msgstr ""
+msgstr "Jestha"
 
 #: nepali.month.short.march
 msgctxt "nepali.month.short.march"
 msgid "Asar"
-msgstr ""
+msgstr "Asar"
 
 #: nepali.month.short.april
 msgctxt "nepali.month.short.april"
 msgid "Shrawan"
-msgstr ""
+msgstr "Shrawan"
 
 #: nepali.month.short.may
 msgctxt "nepali.month.short.may"
 msgid "Bhadra"
-msgstr ""
+msgstr "Bhadra"
 
 #: nepali.month.short.june
 msgctxt "nepali.month.short.june"
 msgid "Ashwin"
-msgstr ""
+msgstr "Ashwin"
 
 #: nepali.month.short.july
 msgctxt "nepali.month.short.july"
 msgid "Kartik"
-msgstr ""
+msgstr "Kartik"
 
 #: nepali.month.short.august
 msgctxt "nepali.month.short.august"
 msgid "Mangsir"
-msgstr ""
+msgstr "Mangsir"
 
 #: nepali.month.short.september
 msgctxt "nepali.month.short.september"
 msgid "Poush"
-msgstr ""
+msgstr "Poush"
 
 #: nepali.month.short.october
 msgctxt "nepali.month.short.october"
 msgid "Magh"
-msgstr ""
+msgstr "Magh"
 
 #: nepali.month.short.november
 msgctxt "nepali.month.short.november"
 msgid "Falgun"
-msgstr ""
+msgstr "Falgun"
 
 #: nepali.month.short.december
 msgctxt "nepali.month.short.december"
 msgid "Chaitra"
-msgstr ""
+msgstr "Chaitra"
 
 #: nepali.weekday.monday
 msgctxt "nepali.weekday.monday"
 msgid "Monday"
-msgstr ""
+msgstr "Monday"
 
 #: nepali.weekday.tuesday
 msgctxt "nepali.weekday.tuesday"
 msgid "Tuesday"
-msgstr ""
+msgstr "Tuesday"
 
 #: nepali.weekday.wednesday
 msgctxt "nepali.weekday.wednesday"
 msgid "Wednesday"
-msgstr ""
+msgstr "Wednesday"
 
 #: nepali.weekday.thursday
 msgctxt "nepali.weekday.thursday"
 msgid "Thursday"
-msgstr ""
+msgstr "Thursday"
 
 #: nepali.weekday.friday
 msgctxt "nepali.weekday.friday"
 msgid "Friday"
-msgstr ""
+msgstr "Friday"
 
 #: nepali.weekday.saturday
 msgctxt "nepali.weekday.saturday"
 msgid "Saturday"
-msgstr ""
+msgstr "Saturday"
 
 #: nepali.weekday.sunday
 msgctxt "nepali.weekday.sunday"
 msgid "Sunday"
-msgstr ""
+msgstr "Sunday"
 
 #: nepali.weekday.short.monday
 msgctxt "nepali.weekday.short.monday"
 msgid "Mon"
-msgstr ""
+msgstr "Mon"
 
 #: nepali.weekday.short.tuesday
 msgctxt "nepali.weekday.short.tuesday"
 msgid "Tue"
-msgstr ""
+msgstr "Tue"
 
 #: nepali.weekday.short.wednesday
 msgctxt "nepali.weekday.short.wednesday"
 msgid "Wed"
-msgstr ""
+msgstr "Wed"
 
 #: nepali.weekday.short.thursday
 msgctxt "nepali.weekday.short.thursday"
 msgid "Thu"
-msgstr ""
+msgstr "Thu"
 
 #: nepali.weekday.short.friday
 msgctxt "nepali.weekday.short.friday"
 msgid "Fri"
-msgstr ""
+msgstr "Fri"
 
 #: nepali.weekday.short.saturday
 msgctxt "nepali.weekday.short.saturday"
 msgid "Sat"
-msgstr ""
+msgstr "Sat"
 
 #: nepali.weekday.short.sunday
 msgctxt "nepali.weekday.short.sunday"
 msgid "Sun"
-msgstr ""
+msgstr "Sun"
 
 #. #-- Translation page ------------------------------------------------------#
 #: translation_translate
 msgid "Translate"
-msgstr ""
+msgstr "Translate"
 
 #: translation_addlocale
 msgid "Add locale"
-msgstr ""
+msgstr "Add locale"
 
 #: translation_details
 msgctxt "translation_details"
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 #: translation_select_locale
+#, fuzzy
 msgid "[ Select locale ]"
-msgstr ""
+msgstr "[ Select locale ]"
 
 #: translation_select_ref
+#, fuzzy
 msgid "[ Select reference ]"
-msgstr ""
+msgstr "[ Select reference ]"
 
 #: translation_save
 msgctxt "translation_save"
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #: translation_label_id
+#, fuzzy
 msgid "Id"
-msgstr ""
+msgstr "ID"
 
 #: translation_label_name
 msgctxt "translation_label_name"
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: translation_label_shortName
 msgctxt "translation_label_shortName"
 msgid "Short name"
-msgstr ""
+msgstr "Short name"
 
 #: translation_label_description
 msgctxt "translation_label_description"
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: translation_label_comment
 msgctxt "translation_label_comment"
 msgid "Comment"
-msgstr ""
+msgstr "Comment"
 
 #: translation_label_region
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 #: translation_label_title
 msgid "Title"
-msgstr ""
+msgstr "Title"
 
 #: translation_variant
 msgid "Variant"
-msgstr ""
+msgstr "Variant"
 
 #: translation_countrycode
 msgid "Country code"
-msgstr ""
+msgstr "Country code"
 
 #: translation_languagecode
 msgid "Language code"
-msgstr ""
+msgstr "Language code"
 
 #: translation_label_numerator_description
 msgctxt "translation_label_numerator_description"
 msgid "Numerator description"
-msgstr ""
+msgstr "Numerator description"
 
 #: translation_label_denominator_description
 msgctxt "translation_label_denominator_description"
 msgid "Denominator description"
-msgstr ""
+msgstr "Denominator description"
 
 #: translation_locale_added
 msgid "Added locale"
-msgstr ""
+msgstr "Added locale"
 
 #: translation_cancel
 msgctxt "translation_cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: translation_add
 msgctxt "translation_add"
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 #: translation_locale
 msgid "Locale"
-msgstr ""
+msgstr "Locale"
 
 #: translation_reference
 msgid "Reference"
-msgstr ""
+msgstr "Reference"
 
 #: translation_language_must_be_two_chars
 msgid "Language must be two characters"
-msgstr ""
+msgstr "Language must be two characters"
 
 #: translation_country_must_be_two_chars
 msgid "Country must be two characters"
-msgstr ""
+msgstr "Country must be two characters"
 
 #: translation_variant_must_be_specified
 msgid "Variant must be specified"
-msgstr ""
+msgstr "Variant must be specified"
 
 #: translation_locale_already_exists
 msgid "Locale already exists"
-msgstr ""
+msgstr "Locale already exists"
 
 #: translation_shortname_wellformed
 msgid ""
 "Please verify Letters, Numbers, Underscore and Spaces for short name only"
 msgstr ""
+"Please verify Letters, Numbers, Underscore and Spaces for short name only"
 
 #: translation_shortname_length
 msgid "Shortname's maximum length of 25 charaters"
-msgstr ""
+msgstr "Shortname's maximum length of 25 characters"
 
 #: translation_duplicated_name_with
 msgid "Sorry! You entered a duplicated name with"
-msgstr ""
+msgstr "Sorry! You entered a duplicated name with"
 
 #: translation_duplicated_shortname_with
 msgid "Sorry! You entered a duplicated short name with"
-msgstr ""
+msgstr "Sorry! You entered a duplicated short name with"
 
 #: translation_label_formName
 msgid "Form name"
-msgstr ""
+msgstr "Form name"
 
 #. #-- About ----------------------------------------------------------------------#
 #: name_exists
 msgid "Warning, name already exists"
-msgstr ""
+msgstr "Warning, name already exists"
 
 #: name_is_required
 msgid "Error, name is required"
-msgstr ""
+msgstr "Error, name is required"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: build_revision
 msgid "Build revision"
-msgstr ""
+msgstr "Build revision"
 
 #: build_date
 msgid "Build date"
-msgstr ""
+msgstr "Build date"
 
 #: user_agent
 msgid "User agent"
-msgstr ""
+msgstr "User agent"
 
 #: external_configuration_directory
 msgid "External configuration directory"
-msgstr ""
+msgstr "External configuration directory"
 
 #: environment_variable
 msgid "Environment variable"
-msgstr ""
+msgstr "Environment variable"
 
 #: database_type
 msgid "Database type"
-msgstr ""
+msgstr "Database type"
 
 #: database_name
 msgid "Database name"
-msgstr ""
+msgstr "Database name"
 
 #: database_user
 msgid "Database user"
-msgstr ""
+msgstr "Database user"
 
 #: not_set
 msgid "Not set"
-msgstr ""
+msgstr "Not set"
 
 #: current_user
 msgid "Current user"
-msgstr ""
+msgstr "Current user"
 
 #: dhis2_online
 msgid "DHIS 2 Online"
-msgstr ""
+msgstr "DHIS 2 Online"
 
 #: home_page
 msgid "Home Page"
-msgstr ""
+msgstr "Home Page"
 
 #: launchpad_site
 msgid "Launchpad Site"
-msgstr ""
+msgstr "Launchpad Site"
 
 #: message_to_the_dhis2_development_team
 msgid "Message to the DHIS 2 development team"
-msgstr ""
+msgstr "Message to the DHIS 2 development team"
 
 #: error_message_stack_trace
 msgid "Error message / Stack trace"
-msgstr ""
+msgstr "Error message / Stack trace"
 
 #: enter_message
 msgid "Enter a message"
-msgstr ""
+msgstr "Enter a message"
 
 #: send
 msgid "Send"
-msgstr ""
+msgstr "Send"
 
 #: help
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 #: send_feedback
 msgid "Send feedback"
-msgstr ""
+msgstr "Send feedback"
 
 #: status
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: system_status
 msgid "System status"
-msgstr ""
+msgstr "System status"
 
 #: feedback
 msgid "Feedback"
-msgstr ""
+msgstr "Feedback"
 
 #: intro
 msgid "Intro"
-msgstr ""
+msgstr "Intro"
 
 #: help_contents
 msgid "Help Contents"
-msgstr ""
+msgstr "Help Contents"
 
 #: about_dhis2
 msgid "About DHIS 2"
-msgstr ""
+msgstr "About DHIS 2"
 
 #: last_name
 msgid "Last name"
-msgstr ""
+msgstr "Last name"
 
 #: unknown
 msgid "Unknown"
-msgstr ""
+msgstr "Unknown"
 
 #: java_opts
 msgid "Java opts"
-msgstr ""
+msgstr "Java opts"
 
 #: java_home
 msgid "Java home"
-msgstr ""
+msgstr "Java home"
 
 #: java_tmp_dir
 msgid "Java temporary directory"
-msgstr ""
+msgstr "Java temporary directory"
 
 #: java_version
 msgid "Java version"
-msgstr ""
+msgstr "Java version"
 
 #: java_vendor
 msgid "Java vendor"
-msgstr ""
+msgstr "Java vendor"
 
 #: os_name
 msgid "OS name"
-msgstr ""
+msgstr "OS name"
 
 #: os_architecture
 msgid "OS architecture"
-msgstr ""
+msgstr "OS architecture"
 
 #: os_version
 msgid "OS version"
-msgstr ""
+msgstr "OS version"
 
 #: supportive_software
 msgid "Supportive Software"
-msgstr ""
+msgstr "Supportive Software"
 
 #: chrome_description
 msgid "Super fast web browser for all platforms"
-msgstr ""
+msgstr "Super fast web browser for all platforms"
 
 #: foxit_description
 msgid "Free and simple PDF reader for Windows"
-msgstr ""
+msgstr "Free and simple PDF reader for Windows"
 
 #: web_browser
 msgid "Web browser"
-msgstr ""
+msgstr "Web browser"
 
 #: pdf_reader
 msgid "PDF reader"
-msgstr ""
+msgstr "PDF reader"
 
 #: ireport_description
 msgid "Report designer for standard reports"
-msgstr ""
+msgstr "Report designer for standard reports"
 
 #: report_designer
 msgid "Report designer"
-msgstr ""
+msgstr "Report designer"
 
 #: my_datamart
 msgid "MyDatamart"
-msgstr ""
+msgstr "MyDatamart"
 
 #: my_datamart_description
 msgid "Local data mart for off-line data analysis"
-msgstr ""
+msgstr "Local data mart for off-line data analysis"
 
 #: mobile_client
 msgid "Mobile client"
-msgstr ""
+msgstr "Mobile client"
 
 #: mobile_client_description
 msgid "Client for data capture on mobile devices"
-msgstr ""
+msgstr "Client for data capture on mobile devices"
 
 #: web_api
 msgid "Web API"
-msgstr ""
+msgstr "Web API"
 
 #: system_overview
 msgid "System Overview"
-msgstr ""
+msgstr "System Overview"
 
 #: server_date
 msgid "Server date"
-msgstr ""
+msgstr "Server date"
 
 #: last_analytics_table_generation
 msgid "Last analytics table generation"
-msgstr ""
+msgstr "Last analytics table generation"
 
 #: last_analytics_table_runtime
 msgid "Last analytics table runtime"
-msgstr ""
+msgstr "Last analytics table runtime"
 
 #: time_since_last_analytics_table_generation
 msgid "Time since last analytics table generation"
-msgstr ""
+msgstr "Time since last analytics table generation"
 
 #: online_release_page
 msgctxt "online_release_page"
 msgid "online release page"
-msgstr ""
+msgstr "online release page"
 
 #: edit_profile
 msgid "Edit profile"
-msgstr ""
+msgstr "Edit profile"
 
 #: view_profile
 msgid "View profile"
-msgstr ""
+msgstr "View profile"
 
 #: profile_details
 msgid "Profile details"
-msgstr ""
+msgstr "Profile details"
 
 #: job_title
 msgid "Job title"
-msgstr ""
+msgstr "Job title"
 
 #: introduction
 msgid "Introduction"
-msgstr ""
+msgstr "Introduction"
 
 #: gender
 msgid "Gender"
-msgstr ""
+msgstr "Gender"
 
 #: male
 msgctxt "male"
 msgid "Male"
-msgstr ""
+msgstr "Male"
 
 #: female
 msgctxt "female"
 msgid "Female"
-msgstr ""
+msgstr "Female"
 
 #: other
 msgctxt "other"
 msgid "Other"
-msgstr ""
+msgstr "Other"
 
 #: birthday
 msgid "Birthday"
-msgstr ""
+msgstr "Birthday"
 
 #: nationality
 msgid "Nationality"
-msgstr ""
+msgstr "Nationality"
 
 #: employer
 msgid "Employer"
-msgstr ""
+msgstr "Employer"
 
 #: education
 msgid "Education"
-msgstr ""
+msgstr "Education"
 
 #: interests
 msgid "Interests"
-msgstr ""
+msgstr "Interests"
 
 #: languages
 msgid "Languages"
-msgstr ""
+msgstr "Languages"
 
 #: update_user_profile_success
 msgid "Profile was updated"
-msgstr ""
+msgstr "Profile was updated"
 
 #: settings
 msgctxt "settings"
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: property_to_display_in_analysis_modules
 msgid "Property to display in analysis modules"
-msgstr ""
+msgstr "Property to display in analysis modules"
 
 #: user_settings
 msgid "User settings"
-msgstr ""
+msgstr "User settings"
 
 #: general
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: message
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: db_language
 msgid "Database language"
-msgstr ""
+msgstr "Database language"
 
 #: language
 msgid "Interface language"
-msgstr ""
+msgstr "Interface language"
 
 #: use_db_locale_no_translation
 msgid "Use database locale / no translation"
-msgstr ""
+msgstr "Use database locale / no translation"
 
 #: style
 msgid "Style"
-msgstr ""
+msgstr "Style"
 
 #: user_general_settings
 msgid "User General Settings"
-msgstr ""
+msgstr "User General Settings"
 
 #: user_message_settings
 msgid "User Message Settings"
-msgstr ""
+msgstr "User Message Settings"
 
 #: enable_message_email_notifications
 msgid "Enable message email notifications"
-msgstr ""
+msgstr "Enable message email notifications"
 
 #: enable_message_sms_notifications
 msgid "Enable message SMS notifications"
-msgstr ""
+msgstr "Enable message SMS notifications"
 
 #: intro_user_general_settings
 msgid ""
 "Customize the system with user specific settings for locale, style and more."
 msgstr ""
+"Customize the system with user specific settings for locale, style and more."
 
 #: intro_user_message_settings
+#, fuzzy
 msgid ""
 "Customize the system with user specific settings for message email and sms "
 "notification."
 msgstr ""
+"Customize the system with user specific settings for message email and SMS "
+"notification."
 
 #: light_blue
 msgid "Light Blue"
-msgstr ""
+msgstr "Light Blue"
 
 #: green
 msgid "Green"
-msgstr ""
+msgstr "Green"
 
 #: settings_updated
 msgid "Settings were updated"
-msgstr ""
+msgstr "Settings were updated"
 
 #: dashboard
 msgctxt "dashboard"
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: messages
 msgid "Messages"
-msgstr ""
+msgstr "Messages"
 
 #: interpretations
 msgid "Interpretations"
-msgstr ""
+msgstr "Interpretations"
 
 #: interface_style
 msgid "Interface style"
-msgstr ""
+msgstr "Interface style"
 
 #: server_memory
 msgid "Server memory"
-msgstr ""
+msgstr "Server memory"
 
 #: cpu_cores
 msgid "CPU cores"
-msgstr ""
+msgstr "CPU cores"
 
 #: please_select
 msgid "Please select"
-msgstr ""
+msgstr "Please select"
 
 #: browse_it_here
 msgid "Browse it here"
-msgstr ""
+msgstr "Browse it here"
 
 #. #-- Change Log------------------------------------------------------------------#
 #: change_log
 msgid "Change Log"
-msgstr ""
+msgstr "Change Log"
 
 #: release
 msgid "Release"
-msgstr ""
+msgstr "Release"
 
 #: release_page
 msgctxt "release_page"
 msgid "online release page"
-msgstr ""
+msgstr "online release page"
 
 #. #-- Macros ---------------------------------------------------------------------#
 #: yes
 msgctxt "yes"
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: no
 msgctxt "no"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: true
 msgctxt "true"
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: false
 msgctxt "false"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: sum
 msgid "Sum"
-msgstr ""
+msgstr "Sum"
 
 #: count
 msgid "Count"
-msgstr ""
+msgstr "Count"
 
 #: average
 msgid "Average"
-msgstr ""
+msgstr "Average"
 
 #: stddev
 msgid "Standard deviation"
-msgstr ""
+msgstr "Standard deviation"
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "Variance"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: text
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: long_text
 msgid "Long text"
-msgstr ""
+msgstr "Long text"
 
 #: string
 msgid "String"
-msgstr ""
+msgstr "String"
 
 #: int
 msgctxt "int"
 msgid "Number"
-msgstr ""
+msgstr "Number"
 
 #: number
 msgctxt "number"
 msgid "Number"
-msgstr ""
+msgstr "Number"
 
 #: positive_integer
 msgid "Positive Integer"
-msgstr ""
+msgstr "Positive Integer"
 
 #: zero_positive_int
 msgid "Positive or Zero Integer"
-msgstr ""
+msgstr "Positive or Zero Integer"
 
 #: negative_integer
 msgid "Negative Integer"
-msgstr ""
+msgstr "Negative Integer"
 
 #: unit_interval
 msgid "Unit interval"
-msgstr ""
+msgstr "Unit interval"
 
 #: percentage
 msgid "Percentage"
-msgstr ""
+msgstr "Percentage"
 
 #: date
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: date_time
 msgid "Date & Time"
-msgstr ""
+msgstr "Date & Time"
 
 #: yes_no
 msgctxt "yes_no"
 msgid "Yes/No"
-msgstr ""
+msgstr "Yes/No"
 
 #: bool
 msgctxt "bool"
 msgid "Yes/No"
-msgstr ""
+msgstr "Yes/No"
 
 #: none
 msgctxt "none"
 msgid "None"
-msgstr ""
+msgstr "None"
 
 #: yes_only
 msgid "Yes Only"
-msgstr ""
+msgstr "Yes Only"
 
 #: custom
 msgid "Custom"
-msgstr ""
+msgstr "Custom"
 
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
 msgid "Value must be an integer"
-msgstr ""
+msgstr "Value must be an integer"
 
 #: value_must_number
 msgid "Value must be a number"
-msgstr ""
+msgstr "Value must be a number"
 
 #: value_must_positive_integer
 msgid "Value must be a positive integer"
-msgstr ""
+msgstr "Value must be a positive integer"
 
 #: value_must_negative_integer
 msgid "Value must be a negative integer"
-msgstr ""
+msgstr "Value must be a negative integer"
 
 #: value_must_zero_or_positive_integer
 msgid "Value must be zero or a positive integer"
-msgstr ""
+msgstr "Value must be zero or a positive integer"
 
 #: value_must_unit_interval
 msgid "Value must be a unit interval (between 0 and 1)"
-msgstr ""
+msgstr "Value must be a unit interval (between 0 and 1)"
 
 #: value_must_percentage
 msgid "Value must be a percentage (between 0 and 100)"
-msgstr ""
+msgstr "Value must be a percentage (between 0 and 100)"
 
 #. #-- User account --------------------------------------------------------------#
 #: profile
 msgid "Profile"
-msgstr ""
+msgstr "Profile"
 
 #: account
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 #: update_user
 msgid "Update user"
-msgstr ""
+msgstr "Update user"
 
 #: user_account
 msgid "User account"
-msgstr ""
+msgstr "User account"
 
 #: user_name
 msgctxt "user_name"
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: old_password
 msgid "Old password"
-msgstr ""
+msgstr "Old password"
 
 #: new_password
 msgid "New password"
-msgstr ""
+msgstr "New password"
 
 #: retype_new_password
 msgid "Retype new password"
-msgstr ""
+msgstr "Retype new password"
 
 #: surname
+#, fuzzy
 msgid "Surname"
-msgstr ""
+msgstr "Surname"
 
 #: first_name
 msgid "First name"
-msgstr ""
+msgstr "First name"
 
 #: email
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #: openid
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: username
 msgctxt "username"
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: phone_number
 msgid "Mobile phone number"
-msgstr ""
+msgstr "Mobile phone number"
 
 #: user_roles
 msgid "User roles"
-msgstr ""
+msgstr "User roles"
 
 #: update_user_success
 msgid "Account was updated"
-msgstr ""
+msgstr "Account was updated"
 
 #: wrong_password
 msgid "Wrong password"
-msgstr ""
+msgstr "Wrong password"
 
 #: help_center
 msgid "Help Center"
-msgstr ""
+msgstr "Help Center"
 
 #: help_intro_header
 msgid "Welcome to the DHIS 2 Help Center"
-msgstr ""
+msgstr "Welcome to the DHIS 2 Help Center"
 
 #: help_intro_text
 msgid "Please select an item from the menu to the left."
-msgstr ""
+msgstr "Please select an item from the menu to the left."
 
 #: please_wait_while_the_system_is_processing
 msgid "Please wait while the system is processing"
-msgstr ""
+msgstr "Please wait while the system is processing"
 
 #: organisation_unit_required_for_user
 msgid "User must be assigned to at least one organisation unit"
-msgstr ""
+msgstr "User must be assigned to at least one organisation unit"
 
 #. #-- Contact info ---------------------------------------------------------------#
 #: address
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
 #: contact_details
 msgid "Contact information"
-msgstr ""
+msgstr "Contact information"
 
 #: contact_person
 msgid "Contact person"
-msgstr ""
+msgstr "Contact person"
 
 #. #-- Form validation messages --------------------------------------------------#
 #: this_field_is_required
 msgid "This field is required."
-msgstr ""
+msgstr "This field is required."
 
 #: please_fix_this_field
 msgid "Please fix this field."
-msgstr ""
+msgstr "Please fix this field."
 
 #: please_enter_a_valid_email_address
 msgid "Please enter a valid email address."
-msgstr ""
+msgstr "Please enter a valid email address."
 
 #: please_enter_a_valid_url
 msgid "Please enter a valid URL."
-msgstr ""
+msgstr "Please enter a valid URL."
 
 #: please_enter_a_valid_date
 msgid "Please enter a valid date."
-msgstr ""
+msgstr "Please enter a valid date."
 
 #: please_enter_a_valid_date_iso
 msgid "Please enter a valid date (e.g. 1990-01-01)."
-msgstr ""
+msgstr "Please enter a valid date (e.g. 1990-01-01)."
 
 #: please_enter_a_valid_number
 msgctxt "please_enter_a_valid_number"
 msgid "Please enter a valid number."
-msgstr ""
+msgstr "Please enter a valid number."
 
 #: please_enter_a_valid_digits
 msgid "Please enter only digits."
-msgstr ""
+msgstr "Please enter only digits."
 
 #: please_enter_the_equal_values_again
 msgid "The entered values do not match. Please re-enter the values."
-msgstr ""
+msgstr "The entered values do not match. Please re-enter the values."
 
 #: please_enter_a_value_with_a_valid_expression
 msgid "Please enter a value with a valid extension."
-msgstr ""
+msgstr "Please enter a value with a valid extension."
 
 #: first_character_must_be_alphabetical
 msgid "The first character must be a letter."
-msgstr ""
+msgstr "The first character must be a letter."
 
 #: please_enter_no_more_than_n_character
 msgid "Please enter no more than {0} characters."
-msgstr ""
+msgstr "Please enter no more than {0} characters."
 
 #: please_enter_at_least_than_n_character
 msgctxt "please_enter_at_least_than_n_character"
 msgid "Please enter at least {0} characters."
-msgstr ""
+msgstr "Please enter at least {0} characters."
 
 #: please_enter_a_value_between_n_character
 msgid "Please enter a value between {0} and {1} characters long."
-msgstr ""
+msgstr "Please enter a value between {0} and {1} characters long."
 
 #: please_enter_a_value_between_a_and_b
 msgid "Please enter a value between {0} and {1}."
-msgstr ""
+msgstr "Please enter a value between {0} and {1}."
 
 #: please_enter_a_value_less_than_or_equal_to_n
 msgid "Please enter a value less than or equal to {0}."
-msgstr ""
+msgstr "Please enter a value less than or equal to {0}."
 
 #: please_enter_a_value_greater_than_or_equal_to_n
 msgid "Please enter a value greater than or equal to {0}."
-msgstr ""
+msgstr "Please enter a value greater than or equal to {0}."
 
 #: please_enter_a_different_value_to_above
+#, fuzzy
 msgid "Please enter a different value to above."
-msgstr ""
+msgstr "Please enter a different value than above."
 
 #: digits_decimal_only_please
 msgid ""
 "Please enter digits only. Three digits before decimal point and two after "
 "the decimal point are allowed."
 msgstr ""
+"Please enter digits only. Three digits before decimal point and two after "
+"the decimal point are allowed."
 
 #: please_letters_numbers_spaces_underscores_only
 msgid "Only letters, numbers, spaces and underscores are allowed."
-msgstr ""
+msgstr "Only letters, numbers, spaces and underscores are allowed."
 
 #: please_letters_numbers_spaces_or_some_special_chars_only
 msgid ""
 "Only letters, numbers, spaces and the characters \n"
 " .,-,(,) are allowed."
 msgstr ""
+"Only letters, numbers, spaces and the characters \n"
+".,-,(,) are allowed."
 
 #: please_enter_a_value_less_than_or_equal_to
 msgid "Please enter a value less than or equal to {1}"
-msgstr ""
+msgstr "Please enter a value less than or equal to {1}"
 
 #: please_enter_a_value_greater_than_or_equal_to
 msgid "Please enter a value greater than or equal to {1}"
-msgstr ""
+msgstr "Please enter a value greater than or equal to {1}"
 
 #: please_do_not_enter_same_values
 msgid "Please do not enter same values."
-msgstr ""
+msgstr "Please do not enter same values."
 
 #: letters_or_punctuation_only_please
 msgid "Letters or punctuation only please."
-msgstr ""
+msgstr "Letters or punctuation only please."
 
 #: please_enter_n_words_or_less
 msgid "Please enter {0} words or less."
-msgstr ""
+msgstr "Please enter {0} words or less."
 
 #: please_enter_at_least_n_words
 msgid "Please enter at least {0} words."
-msgstr ""
+msgstr "Please enter at least {0} words."
 
 #: please_enter_betwwen_a_and_b_words
 msgid "Please enter between {0} and {1} words."
-msgstr ""
+msgstr "Please enter between {0} and {1} words."
 
 #: letters_only_please
 msgid "Letters only please."
-msgstr ""
+msgstr "Letters only please."
 
 #: no_white_space_please
 msgid "No white space please"
-msgstr ""
+msgstr "No white space please"
 
 #: no_start_white_space_please
 msgid "This field cannot start with a space."
-msgstr ""
+msgstr "This field cannot start with a space."
 
 #: ZIP_code_must_be_in_the_range
 msgid "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
-msgstr ""
+msgstr "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx"
 
 #: please_enter_valid_time
 msgid "Please enter a valid time, between 00:00 and 23:59."
-msgstr ""
+msgstr "Please enter a valid time, between 00:00 and 23:59."
 
 #: please_enter_valid_phone_number
 msgid "Please specify a valid phone number."
-msgstr ""
+msgstr "Please specify a valid phone number."
 
 #: please_enter_at_least_n_character
 msgctxt "please_enter_at_least_n_character"
 msgid "Please enter at least {0} characters."
-msgstr ""
+msgstr "Please enter at least {0} characters."
 
 #: this_date_can_not_be_after_today
 msgid "This date can not be after today."
-msgstr ""
+msgstr "This date can not be after today."
 
 #: please_fill_out_at_least_one_of_these_fields
 msgid "Please fill out at least one of these fields."
-msgstr ""
+msgstr "Please fill out at least one of these fields."
 
 #: please_select_at_least_one_option_for_these_fields
 msgid "Please select at least one option for these fields."
-msgstr ""
+msgstr "Please select at least one option for these fields."
 
 #: password_must_contain_at_least_one_capital_letter_and_one_digit
 msgid "Password must contain at least one capital letter and one digit."
-msgstr ""
+msgstr "Password must contain at least one capital letter and one digit."
 
 #: only_digits_are_not_allowed
 msgid "Only digits are not allowed"
-msgstr ""
+msgstr "Only digits are not allowed"
 
 #: closedDate_should_be_greater_than_openDate
 msgid "The ClosedDate field should be greater than the OpenDate field."
-msgstr ""
+msgstr "The ClosedDate field should be greater than the OpenDate field."
 
 #: please_unicode_chars_only
+#, fuzzy
 msgid "Valid unicode charaters only are allowed."
-msgstr ""
+msgstr "Valid Unicode charaters only are allowed."
 
 #: unrecognized_coordinate_string
 msgid "Unrecognized coordinate string"
-msgstr ""
+msgstr "Unrecognized coordinate string"
 
 #: please_enter_a_letters_or_digits
 msgid "Please enter letters or digits."
-msgstr ""
+msgstr "Please enter letters or digits."
 
 #: please_enter_valid_number
 msgctxt "please_enter_valid_number"
 msgid "Please enter a valid number."
-msgstr ""
+msgstr "Please enter a valid number."
 
 #: please_enter_valid_integer
 msgid "Please enter a valid integer."
-msgstr ""
+msgstr "Please enter a valid integer."
 
 #: please_enter_valid_positive_integer
 msgid "Please enter a valid positive integer."
-msgstr ""
+msgstr "Please enter a valid positive integer."
 
 #: please_enter_valid_negative_integer
 msgid "Please enter a valid negative integer."
-msgstr ""
+msgstr "Please enter a valid negative integer."
 
 #: please_enter_name
 msgid "Please enter name!"
-msgstr ""
+msgstr "Please enter name!"
 
 #: please_select_period
 msgid "Please select period!"
-msgstr ""
+msgstr "Please select period!"
 
 #: please_select_dataset
 msgid "Please select dataset!"
-msgstr ""
+msgstr "Please select dataset!"
 
 #: please_select_dataelement
 msgid "Please select data element!"
-msgstr ""
+msgstr "Please select data element!"
 
 #: please_select_indicator
 msgid "Please select indicator!"
-msgstr ""
+msgstr "Please select indicator!"
 
 #: please_enter_description
 msgid "Please enter description!"
-msgstr ""
+msgstr "Please enter description!"
 
 #: delete_confirm
 msgid "Do you want to delete?"
-msgstr ""
+msgstr "Do you want to delete?"
 
 #: available
 msgid "Available"
-msgstr ""
+msgstr "Available"
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "Selected"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "Warning"
 
 #: success
 msgid "Success"
-msgstr ""
+msgstr "Success"
 
 #: waiting
 msgid "Please wait"
-msgstr ""
+msgstr "Please wait"
 
 #: invalid_identifiers_in_expression
 msgid "Invalid identifiers in expression"
-msgstr ""
+msgstr "Invalid identifiers in expression"
 
 #: filter_not_evaluating_to_true_or_false
 msgid "Filter is not evaluating to true or false"
-msgstr ""
+msgstr "Filter is not evaluating to true or false"
 
 #: locate_by_code
 msgid "Locate by code"
-msgstr ""
+msgstr "Locate by code"
 
 #: select_at_level
 msgid "Select at level"
-msgstr ""
+msgstr "Select at level"
 
 #: unselect_at_level
 msgid "Un-select at level"
-msgstr ""
+msgstr "Un-select at level"
 
 #: unselect_all
 msgid "Un-select all"
-msgstr ""
+msgstr "Un-select all"
 
 #: select_all
 msgid "Select all"
-msgstr ""
+msgstr "Select all"
 
 #: select_in_group
 msgid "Select in group"
-msgstr ""
+msgstr "Select in group"
 
 #: unselect_in_group
 msgid "Un-select in group"
-msgstr ""
+msgstr "Un-select in group"
 
 #: select_children
 msgid "Select children"
-msgstr ""
+msgstr "Select children"
 
 #: unselect_children
 msgid "Un-select children"
-msgstr ""
+msgstr "Un-select children"
 
 #: organisation_unit_selection_tree
 msgid "Organisation Unit Selection"
-msgstr ""
+msgstr "Organisation Unit Selection"
 
 #: move_selected
 msgid "Move selected"
-msgstr ""
+msgstr "Move selected"
 
 #: remove_selected
 msgid "Remove selected"
-msgstr ""
+msgstr "Remove selected"
 
 #: move_all
 msgid "Move all"
-msgstr ""
+msgstr "Move all"
 
 #: remove_all
 msgid "Remove all"
-msgstr ""
+msgstr "Remove all"
 
 #: move_up
 msgid "Move up"
-msgstr ""
+msgstr "Move up"
 
 #: move_down
 msgid "Move down"
-msgstr ""
+msgstr "Move down"
 
 #: move_to_top
 msgid "Move to top"
-msgstr ""
+msgstr "Move to top"
 
 #: move_to_bottom
 msgid "Move to bottom"
-msgstr ""
+msgstr "Move to bottom"
 
 #. #-- Paging messages -----------------------------------------------------------#
 #: no_of_pages
+#, fuzzy
 msgid "No. of pages"
-msgstr ""
+msgstr "Number of pages"
 
 #: rows_in_page
+#, fuzzy
 msgid "No. of rows per page"
-msgstr ""
+msgstr "Number of rows per page"
 
 #: jump_to_page
 msgid "Jump to page"
-msgstr ""
+msgstr "Jump to page"
 
 #: go
 msgid "Go"
-msgstr ""
+msgstr "Go"
 
 #: filter_by_name
 msgid "Filter by name"
-msgstr ""
+msgstr "Filter by name"
 
 #: filter
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: clear
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #: find
 msgid "Find"
-msgstr ""
+msgstr "Find"
 
 #: delete_success
 msgid "Object deleted"
-msgstr ""
+msgstr "Object deleted"
 
 #: process
 msgid "Processing..."
-msgstr ""
+msgstr "Processing..."
 
 #. #-- Export PDF messages -------------------------------------------------------#
 #: get_pdf
 msgid "Get PDF"
-msgstr ""
+msgstr "Get PDF"
 
 #: no_item_to_export
 msgid "There is no item to export"
-msgstr ""
+msgstr "There is no item to export"
 
 #: name
 msgctxt "name"
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: short_name
 msgctxt "short_name"
 msgid "Short name"
-msgstr ""
+msgstr "Short name"
 
 #: alternative_name
 msgid "Alternative name"
-msgstr ""
+msgstr "Alternative name"
 
 #: code
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: description
 msgctxt "description"
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: opening_date
 msgid "Opening date"
-msgstr ""
+msgstr "Opening date"
 
 #: closed_date
 msgid "Closed date"
-msgstr ""
+msgstr "Closed date"
 
 #: active
 msgid "Active"
-msgstr ""
+msgstr "Active"
 
 #: type
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: value_type
 msgid "Value Type"
-msgstr ""
+msgstr "Value Type"
 
 #: actual
 msgid "Actual"
-msgstr ""
+msgstr "Actual"
 
 #: target
 msgid "Target"
-msgstr ""
+msgstr "Target"
 
 #: percent
 msgid "Percent"
-msgstr ""
+msgstr "Percent"
 
 #: on_time
 msgid "On time"
-msgstr ""
+msgstr "On time"
 
 #: data_dictionary
 msgid "Data Dictionary"
-msgstr ""
+msgstr "Data Dictionary"
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
+msgstr "Data elements"
 
 #: data_sets
 msgid "Data sets"
-msgstr ""
+msgstr "Data sets"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "Indicators"
 
 #: indicator_groups
 msgid "Indicator groups"
-msgstr ""
+msgstr "Indicator groups"
 
 #: data_element_groups
 msgid "Data element groups"
-msgstr ""
+msgstr "Data element groups"
 
 #: data_element_concepts
 msgid "Data element concepts"
-msgstr ""
+msgstr "Data element concepts"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "Organisation units"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
-msgstr ""
+msgstr "Organisation unit groups"
 
 #: organisation_unit_hierarchy
 msgid "Organisation unit hierarchy"
-msgstr ""
+msgstr "Organisation unit hierarchy"
 
 #: validation_rules
 msgid "Validation rules"
-msgstr ""
+msgstr "Validation rules"
 
 #: period_type
 msgid "Period Type"
-msgstr ""
+msgstr "Period Type"
 
 #: users
 msgctxt "users"
 msgid "Users"
-msgstr ""
+msgstr "Users"
 
 #: user_groups
 msgid "User groups"
-msgstr ""
+msgstr "User groups"
 
 #: pivot_tables
 msgid "Pivot tables"
-msgstr ""
+msgstr "Pivot tables"
 
 #: charts
 msgid "Charts"
-msgstr ""
+msgstr "Charts"
 
 #: maps
 msgid "Maps"
-msgstr ""
+msgstr "Maps"
 
 #: dashboards
 msgid "Dashboards"
-msgstr ""
+msgstr "Dashboards"
 
 #: programs
 msgid "Programs"
-msgstr ""
+msgstr "Programs"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Events"
 
 #. #-- Indicator -----------------------------------------------------------------#
 #: expression
 msgid "Expression"
-msgstr ""
+msgstr "Expression"
 
 #: left_expression
 msgid "Left Expression"
-msgstr ""
+msgstr "Left Expression"
 
 #: right_expression
 msgid "Right Expression"
-msgstr ""
+msgstr "Right Expression"
 
 #: indicator_type
 msgid "Indicator Type"
-msgstr ""
+msgstr "Indicator Type"
 
 #: annualized
 msgid "Annualized"
-msgstr ""
+msgstr "Annualized"
 
 #: aggregation_operator
 msgid "Aggregation operator"
-msgstr ""
+msgstr "Aggregation operator"
 
 #: numerator
 msgid "Numerator"
-msgstr ""
+msgstr "Numerator"
 
 #: numerator_formula
 msgid "Numerator formula"
-msgstr ""
+msgstr "Numerator formula"
 
 #: numerator_description
 msgctxt "numerator_description"
 msgid "Numerator description"
-msgstr ""
+msgstr "Numerator description"
 
 #: numerator_aggregation_operator
 msgid "Numerator aggregation operator"
-msgstr ""
+msgstr "Numerator aggregation operator"
 
 #: denominator
 msgid "Denominator"
-msgstr ""
+msgstr "Denominator"
 
 #: denominator_formula
 msgid "Denominator formula"
-msgstr ""
+msgstr "Denominator formula"
 
 #: denominator_description
 msgctxt "denominator_description"
 msgid "Denominator description"
-msgstr ""
+msgstr "Denominator description"
 
 #: denominator_aggregation_operator
 msgid "Denominator aggregation operator"
-msgstr ""
+msgstr "Denominator aggregation operator"
 
 #: expression_is_empty
 msgid "Expression is empty"
-msgstr ""
+msgstr "Expression is empty"
 
 #: category_option_combo_does_not_exist
 msgid "Category option combo does not exist"
-msgstr ""
+msgstr "Category option combo does not exist"
 
 #: data_element_does_not_exist
 msgid "Data element does not exist"
-msgstr ""
+msgstr "Data element does not exist"
 
 #: constant_does_not_exist
 msgid "Constant does not exist"
-msgstr ""
+msgstr "Constant does not exist"
 
 #: org_unit_group_does_not_exist
 msgid "Organisation unit group does not exist"
-msgstr ""
+msgstr "Organisation unit group does not exist"
 
 #: id_not_numeric
 msgid "Identifier is not numeric"
-msgstr ""
+msgstr "Identifier is not numeric"
 
 #: expression_not_well_formed
 msgid "Expression is not well-formed"
-msgstr ""
+msgstr "Expression is not well-formed"
 
 #: valid
 msgid "Valid"
-msgstr ""
+msgstr "Valid"
 
 #. #-- Validation Rule -----------------------------------------------------------#
 #: absolute
 msgid "Absolute"
-msgstr ""
+msgstr "Absolute"
 
 #: statistical
 msgid "Statistical"
-msgstr ""
+msgstr "Statistical"
 
 #: left_side_description
 msgid "Left side description"
-msgstr ""
+msgstr "Left side description"
 
 #: right_side_description
 msgid "Right side description"
-msgstr ""
+msgstr "Right side description"
 
 #: left_side_of_expression
 msgid "Left side of Expression"
-msgstr ""
+msgstr "Left side of Expression"
 
 #: right_side_of_expression
 msgid "Right side of Expression"
-msgstr ""
+msgstr "Right side of Expression"
 
 #: operator
 msgid "Operator"
-msgstr ""
+msgstr "Operator"
 
 #: equal_to_symbol
 msgctxt "equal_to_symbol"
 msgid "=="
-msgstr ""
+msgstr "=="
 
 #: not_equal_to_symbol
 msgctxt "not_equal_to_symbol"
 msgid "!="
-msgstr ""
+msgstr "!="
 
 #: greater_than_symbol
 msgctxt "greater_than_symbol"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: greater_than_or_equal_to_symbol
 msgctxt "greater_than_or_equal_to_symbol"
 msgid ">="
-msgstr ""
+msgstr ">="
 
 #: less_than_symbol
 msgctxt "less_than_symbol"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: less_than_or_equal_to_symbol
 msgctxt "less_than_or_equal_to_symbol"
 msgid "<="
-msgstr ""
+msgstr "<="
 
 #: equal_to
 msgctxt "equal_to"
 msgid "=="
-msgstr ""
+msgstr "=="
 
 #: not_equal_to
 msgctxt "not_equal_to"
 msgid "!="
-msgstr ""
+msgstr "!="
 
 #: greater_than
 msgctxt "greater_than"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: greater_than_or_equal_to
 msgctxt "greater_than_or_equal_to"
 msgid ">="
-msgstr ""
+msgstr ">="
 
 #: less_than
 msgctxt "less_than"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: less_than_or_equal_to
 msgctxt "less_than_or_equal_to"
 msgid "<="
-msgstr ""
+msgstr "<="
 
 #: and_title
 msgid "And"
-msgstr ""
+msgstr "And"
 
 #: or_title
 msgid "Or"
-msgstr ""
+msgstr "Or"
 
 #: equal_to_title
 msgid "Equal to"
-msgstr ""
+msgstr "Equal to"
 
 #: not_equal_to_title
 msgid "Not equal to"
-msgstr ""
+msgstr "Not equal to"
 
 #: less_than_title
 msgid "Less than"
-msgstr ""
+msgstr "Less than"
 
 #: less_than_or_equal_to_title
 msgid "Less than or equal to"
-msgstr ""
+msgstr "Less than or equal to"
 
 #: greater_than_title
 msgid "Greater than"
-msgstr ""
+msgstr "Greater than"
 
 #: greater_than_or_equal_to_title
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Greater than or equal to"
 
 #. #-- Constant ------------------------------------------------------------------#
 #: constant
 msgid "Constant"
-msgstr ""
+msgstr "Constant"
 
 #: constants
 msgid "Constants"
-msgstr ""
+msgstr "Constants"
 
 #: no_constant_to_select
 msgid "No constants to select"
-msgstr ""
+msgstr "No constants to select"
 
 #. #-- Dynamic Attributes --------------------------------------------------------#
 #: multiple_choice
 msgid "Multiple Choice"
-msgstr ""
+msgstr "Multiple Choice"
 
 #. #-- Sharing  ------------------------------------------------------------------#
 #: public_access
 msgid "Public access (with login)"
-msgstr ""
+msgstr "Public access (with login)"
 
 #: external_access
 msgid "External access (without login)"
-msgstr ""
+msgstr "External access (without login)"
 
 #: user_group_access
 msgid "User group access"
-msgstr ""
+msgstr "User group access"
 
 #: ajax_login_failed
 msgid "Login failed, check your username and password and try again"
-msgstr ""
+msgstr "Login failed, check your username and password and try again"
 
 #: group_name
 msgid "Group name"
-msgstr ""
+msgstr "Group name"
 
 #: sharing_settings
 msgid "Sharing settings"
-msgstr ""
+msgstr "Sharing settings"
 
 #: no_access
 msgctxt "no_access"
 msgid "None"
-msgstr ""
+msgstr "None"
 
 #: read_only
 msgid "Read only"
-msgstr ""
+msgstr "Read only"
 
 #: read_write
 msgid "Read and write"
-msgstr ""
+msgstr "Read and write"
 
 #: can_edit_and_view
 msgid "Can edit and view"
-msgstr ""
+msgstr "Can edit and view"
 
 #: can_view
 msgid "Can view"
-msgstr ""
+msgstr "Can view"
 
 #: search_for_user_groups
 msgid "Search for user groups"
-msgstr ""
+msgstr "Search for user groups"
 
 #: object_will_created_public
 msgid "This object will be created with public edit and view rights"
-msgstr ""
+msgstr "This object will be created with public edit and view rights"
 
 #: object_will_created_private
 msgid "This object will be private to yourself"
-msgstr ""
+msgstr "This object will be private to yourself"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Created by"
 
 #. #-- Countries / flags ---------------------------------------------------------#
 #: afghanistan
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afghanistan"
 
 #: africare
 msgid "Africare"
-msgstr ""
+msgstr "Africare"
 
 #: akros
 msgid "Akros"
-msgstr ""
+msgstr "Akros"
 
 #: algeria
 msgid "Algeria"
-msgstr ""
+msgstr "Algeria"
 
 #: armenia
 msgid "Armenia"
-msgstr ""
+msgstr "Armenia"
 
 #: bangladesh
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bangladesh"
 
 #: benin
 msgid "Benin"
-msgstr ""
+msgstr "Benin"
 
 #: bhutan
 msgid "Bhutan"
-msgstr ""
+msgstr "Bhutan"
 
 #: botswana
 msgid "Botswana"
-msgstr ""
+msgstr "Botswana"
 
 #: burkina_faso
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkina Faso"
 
 #: burkina_faso_coat_of_arms
 msgid "Burkina Faso Coat of Arms"
-msgstr ""
+msgstr "Burkina Faso Coat of Arms"
 
 #: burundi
 msgid "Burundi"
-msgstr ""
+msgstr "Burundi"
 
 #: cambodia
 msgid "Cambodia"
-msgstr ""
+msgstr "Cambodia"
 
 #: cameroon
 msgid "Cameroon"
-msgstr ""
+msgstr "Cameroon"
 
 #: china
 msgid "China"
-msgstr ""
+msgstr "China"
 
 #: colombia
 msgid "Colombia"
-msgstr ""
+msgstr "Colombia"
 
 #: demoland
 msgid "Demoland"
-msgstr ""
+msgstr "Demoland"
 
 #: congo_brazzaville
 msgid "Republic of the Congo"
-msgstr ""
+msgstr "Republic of the Congo"
 
 #: congo_kinshasa
 msgid "Democratic Republic of the Congo"
-msgstr ""
+msgstr "Democratic Republic of the Congo"
 
 #: east_africa_community
 msgid "East Africa Community"
-msgstr ""
+msgstr "East Africa Community"
 
 #: ecowas
 msgid "ECOWAS"
-msgstr ""
+msgstr "ECOWAS"
 
 #: ecuador
 msgid "Ecuador"
-msgstr ""
+msgstr "Ecuador"
 
 #: egypt
 msgid "Egypt"
-msgstr ""
+msgstr "Egypt"
 
 #: engender_health
 msgid "Engender Health"
-msgstr ""
+msgstr "Engender Health"
 
 #: ethiopia
 msgid "Ethiopia"
-msgstr ""
+msgstr "Ethiopia"
 
 #: fhi360
 msgid "FHI360"
-msgstr ""
+msgstr "FHI360"
 
 #: forut
 msgid "FORUT"
-msgstr ""
+msgstr "FORUT"
 
 #: gambia
 msgid "Gambia"
-msgstr ""
+msgstr "Gambia"
 
 #: ghana
 msgid "Ghana"
-msgstr ""
+msgstr "Ghana"
 
 #: global_fund
 msgid "Global Fund"
-msgstr ""
+msgstr "Global Fund"
 
 #: guinea
 msgid "Guinea"
-msgstr ""
+msgstr "Guinea"
 
 #: guinea_bissau
 msgid "Guinea Bissau"
-msgstr ""
+msgstr "Guinea Bissau"
 
 #: haiti
 msgid "Haiti"
-msgstr ""
+msgstr "Haiti"
 
 #: icap
 msgid "ICAP"
-msgstr ""
+msgstr "ICAP"
 
 #: ippf
 msgid "IPPF"
-msgstr ""
+msgstr "IPPF"
 
 #: india
 msgid "India"
-msgstr ""
+msgstr "India"
 
 #: indonesia
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesia"
 
 #: iraq
 msgid "Iraq"
-msgstr ""
+msgstr "Iraq"
 
 #: irc
 msgid "International Rescue Committee"
-msgstr ""
+msgstr "International Rescue Committee"
 
 #: ivory_coast
 msgid "Ivory Coast"
-msgstr ""
+msgstr "Ivory Coast"
 
 #: jhpiego
 msgid "JHPIEGO"
-msgstr ""
+msgstr "JHPIEGO"
 
 #: kenya
 msgid "Kenya"
-msgstr ""
+msgstr "Kenya"
 
 #: laos
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "Lao People's Democratic Republic"
 
 #: lesotho
 msgid "Lesotho"
-msgstr ""
+msgstr "Lesotho"
 
 #: liberia
 msgid "Liberia"
-msgstr ""
+msgstr "Liberia"
 
 #: malawi
 msgid "Malawi"
-msgstr ""
+msgstr "Malawi"
 
 #: mali
 msgid "Mali"
-msgstr ""
+msgstr "Mali"
 
 #: mongolia
 msgid "Mongolia"
-msgstr ""
+msgstr "Mongolia"
 
 #: mozambique
 msgid "Mozambique"
-msgstr ""
+msgstr "Mozambique"
 
 #: myanmar
 msgid "Myanmar"
-msgstr ""
+msgstr "Myanmar"
 
 #: msf
 msgid "MSF"
-msgstr ""
+msgstr "MSF"
 
 #: msi
 msgid "MSI"
-msgstr ""
+msgstr "MSI"
 
 #: namibia
 msgid "Namibia"
-msgstr ""
+msgstr "Namibia"
 
 #: nepal
 msgid "Nepal"
-msgstr ""
+msgstr "Nepal"
 
 #: nicaragua
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nicaragua"
 
 #: niger
 msgid "Niger"
-msgstr ""
+msgstr "Niger"
 
 #: nigeria
 msgid "Nigeria"
-msgstr ""
+msgstr "Nigeria"
 
 #: norway
 msgid "Norway"
-msgstr ""
+msgstr "Norway"
 
 #: pakistan
 msgid "Pakistan"
-msgstr ""
+msgstr "Pakistan"
 
 #: palestine
 msgid "Palestine"
-msgstr ""
+msgstr "Palestine"
 
 #: paraguay
 msgid "Paraguay"
-msgstr ""
+msgstr "Paraguay"
 
 #: pepfar
 msgid "PEPFAR"
-msgstr ""
+msgstr "PEPFAR"
 
 #: peru
 msgid "Peru"
-msgstr ""
+msgstr "Peru"
 
 #: philippines
 msgid "Philippines"
-msgstr ""
+msgstr "Philippines"
 
 #: psi
 msgid "PSI"
-msgstr ""
+msgstr "PSI"
 
 #: republic_of_trinidad_and_tobago
 msgid "Republic of Trinidad & Tobago"
-msgstr ""
+msgstr "Republic of Trinidad & Tobago"
 
 #: rwanda
 msgid "Rwanda"
-msgstr ""
+msgstr "Rwanda"
 
 #: senegal
 msgid "Senegal"
-msgstr ""
+msgstr "Senegal"
 
 #: sierra_leone
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Sierra Leone"
 
 #: sierra_leone_coat_of_arms
 msgid "Sierra Leone Coat of Arms"
-msgstr ""
+msgstr "Sierra Leone Coat of Arms"
 
 #: solomon_islands
 msgid "Solomon Islands"
-msgstr ""
+msgstr "Solomon Islands"
 
 #: south_africa
 msgid "South Africa"
-msgstr ""
+msgstr "South Africa"
 
 #: south_africa_department_of_health
 msgid "South Africa Department of Health"
-msgstr ""
+msgstr "South Africa Department of Health"
 
 #: south_sudan
 msgid "South Sudan"
-msgstr ""
+msgstr "South Sudan"
 
 #: sri_lanka
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Sri Lanka"
 
 #: sudan
 msgid "Sudan"
-msgstr ""
+msgstr "Sudan"
 
 #: swaziland
 msgid "Swaziland"
-msgstr ""
+msgstr "Swaziland"
 
 #: tajikistan
 msgid "Tajikistan"
-msgstr ""
+msgstr "Tajikistan"
 
 #: tanzania
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #: timor_leste
 msgid "Timor-Leste"
-msgstr ""
+msgstr "Timor-Leste"
 
 #: togo
 msgid "Togo"
-msgstr ""
+msgstr "Togo"
 
 #: uganda
 msgid "Uganda"
-msgstr ""
+msgstr "Uganda"
 
 #: usaid
 msgid "USAID"
-msgstr ""
+msgstr "USAID"
 
 #: vanuatu
 msgid "Vanuatu"
-msgstr ""
+msgstr "Vanuatu"
 
 #: vietnam
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 #: who
 msgid "WHO"
-msgstr ""
+msgstr "WHO"
 
 #: zambia
 msgid "Zambia"
-msgstr ""
+msgstr "Zambia"
 
 #: zanzibar
 msgid "Zanzibar"
-msgstr ""
+msgstr "Zanzibar"
 
 #: zimbabwe
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Zimbabwe"
 
 #. #-- Login page ----------------------------------------------------------------#
 #: create_an_account
 msgid "Create an account"
-msgstr ""
+msgstr "Create an account"
 
 #: login_password
 msgctxt "login_password"
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: login_username
 msgctxt "login_username"
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: forgot_password
 msgid "Forgot password?"
-msgstr ""
+msgstr "Forgot password?"
 
 #: wrong_username_or_password
 msgid "Wrong username or password"
-msgstr ""
+msgstr "Wrong username or password"
 
 #: powered_by
 msgid "Powered by"
-msgstr ""
+msgstr "Powered by"
 
 #: sign_in
 msgid "Sign in"
-msgstr ""
+msgstr "Sign in"
 
 #. #-- New User Account page -----------------------------------------------------#
 #: new_user_account_name
 msgctxt "new_user_account_name"
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: new_user_account_first_name
 msgid "First"
-msgstr ""
+msgstr "First"
 
 #: new_user_account_last_name
 msgid "Last"
-msgstr ""
+msgstr "Last"
 
 #. #-- Recovery page -------------------------------------------------------------#
 #: recover_success_message
@@ -3517,6 +3594,8 @@ msgid ""
 "Please check the email account which you registered for this username. We "
 "have sent you instructions on how to restore your password."
 msgstr ""
+"Please check the email account which you registered for this username. We "
+"have sent you instructions on how to restore your password."
 
 #: recover_error_message
 msgid ""
@@ -3524,154 +3603,161 @@ msgid ""
 "invalid, your account might not permit restore or you might have entered an "
 "invalid email address for your account."
 msgstr ""
+"Sorry, we were not able to restore your account. The username might be "
+"invalid, your account might not permit restore or you might have entered an "
+"invalid email address for your account."
 
 #. #-- App Menu ------------------------------------------------------------------#
 #: applications
 msgctxt "applications"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 #: more_applications
 msgid "More apps"
-msgstr ""
+msgstr "More apps"
 
 #: app_manager
 msgctxt "app_manager"
 msgid "Apps"
-msgstr ""
+msgstr "Apps"
 
 #: app_favorite_description
 msgid ""
 "This icon indicates an app that will be displayed in your dropdown menu."
 msgstr ""
+"This icon indicates an app that will be displayed in your dropdown menu."
 
 #: app_draggable_description
 msgid ""
 "Items are draggable to change their order, so it's easy to customize your "
 "favorite apps."
 msgstr ""
+"Items are draggable to change their order, so it's easy to customize your "
+"favorite apps."
 
 #: app_order_custom
 msgid "My own order"
-msgstr ""
+msgstr "My own order"
 
 #: app_order_name_alpha
 msgid "Alphabetical"
-msgstr ""
+msgstr "Alphabetical"
 
 #: app_search_placeholder
 msgid "Search apps"
-msgstr ""
+msgstr "Search apps"
 
 #. #-- Data value error codes ----------------------------------------------------#
 #: data_element_or_type_null_or_empty
 msgid "Data element or type is null or empty"
-msgstr ""
+msgstr "Data element or type is null or empty"
 
 #: value_length_greater_than_max_length
 msgid "Data value is greater than max length"
-msgstr ""
+msgstr "Data value is greater than max length"
 
 #: value_not_numeric
 msgid "Data value is not numeric"
-msgstr ""
+msgstr "Data value is not numeric"
 
 #: value_not_unit_interval
 msgid "Data value is not a unit interval"
-msgstr ""
+msgstr "Data value is not a unit interval"
 
 #: value_not_percentage
 msgid "Data value is not a percentage"
-msgstr ""
+msgstr "Data value is not a percentage"
 
 #: value_not_integer
 msgid "Data value is not an integer"
-msgstr ""
+msgstr "Data value is not an integer"
 
 #: value_not_positive_integer
 msgid "Data value is not a positive integer"
-msgstr ""
+msgstr "Data value is not a positive integer"
 
 #: value_not_negative_integer
 msgid "Data value is not a negative integer"
-msgstr ""
+msgstr "Data value is not a negative integer"
 
 #: value_is_zero_and_not_zero_significant
 msgid "Data value is zero and not zero significant"
-msgstr ""
+msgstr "Data value is zero and not zero significant"
 
 #: value_not_bool
 msgid "Data value is not a boolean"
-msgstr ""
+msgstr "Data value is not a boolean"
 
 #: value_not_true_only
 msgid "Data value is not true"
-msgstr ""
+msgstr "Data value is not true"
 
 #: value_not_valid_date
 msgid "Data value is not a valid date"
-msgstr ""
+msgstr "Data value is not a valid date"
 
 #: stored_by_length_greater_than_max_length
 msgid "Stored by is greater than max length"
-msgstr ""
+msgstr "Stored by is greater than max length"
 
 #: comment_length_greater_than_max_length
 msgid "Comment is greater than max length"
-msgstr ""
+msgstr "Comment is greater than max length"
 
 #. #-- calendars -----------------------------------------------------------------#
 #: islamic
 msgid "Islamic"
-msgstr ""
+msgstr "Islamic"
 
 #: nepali
 msgid "Nepali"
-msgstr ""
+msgstr "Nepali"
 
 #: julian
 msgid "Julian"
-msgstr ""
+msgstr "Julian"
 
 #: gregorian
 msgid "Gregorian"
-msgstr ""
+msgstr "Gregorian"
 
 #: ethiopian
 msgid "Ethiopian"
-msgstr ""
+msgstr "Ethiopian"
 
 #: thai
 msgid "Thai"
-msgstr ""
+msgstr "Thai"
 
 #: iso8601
 msgid "ISO 8601"
-msgstr ""
+msgstr "ISO 8601"
 
 #: coptic
 msgid "Coptic"
-msgstr ""
+msgstr "Coptic"
 
 #. #-- Email message footer ------------------------------------------------------#
 #: respond_to_this_message
 msgid "Respond to this message"
-msgstr ""
+msgstr "Respond to this message"
 
 #. #-- Restore emails ------------------------------------------------------------#
 #: email_restore_subject
 msgid "User account restore confirmation at"
-msgstr ""
+msgstr "User account restore confirmation at"
 
 #: email_restore_1_1st_paragraph_before_application_title
+#, fuzzy
 msgctxt "email_restore_1_1st_paragraph_before_application_title"
 msgid "Someone, probably you, has asked us to restore your"
-msgstr ""
+msgstr "Someone, probably you, has asked us to restore your"
 
 #: email_restore_1_1st_paragraph_after_application_title
 msgctxt "email_restore_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "user account."
 
 #: email_restore_1_2nd_paragraph
 msgctxt "email_restore_1_2nd_paragraph"
@@ -3680,6 +3766,9 @@ msgid ""
 "the link below. In the next step you will be asked to enter a code which has "
 "been sent to you in the other email."
 msgstr ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
 
 #: email_restore_1_3rd_paragraph
 msgctxt "email_restore_1_3rd_paragraph"
@@ -3688,16 +3777,21 @@ msgid ""
 "your account will not be restored. If you did not request this restore, "
 "please disregard this message."
 msgstr ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
 
 #: email_restore_2_1st_paragraph_before_application_title
+#, fuzzy
 msgctxt "email_restore_2_1st_paragraph_before_application_title"
 msgid "Someone, probably you, has asked us to restore your"
-msgstr ""
+msgstr "Someone, probably you, has asked us to restore your"
 
 #: email_restore_2_1st_paragraph_after_application_title
+#, fuzzy
 msgctxt "email_restore_2_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "user account."
 
 #: email_restore_2_2nd_paragraph
 msgctxt "email_restore_2_2nd_paragraph"
@@ -3706,6 +3800,9 @@ msgid ""
 "first email and follow the instructions. Please use the code below to "
 "complete the new account form."
 msgstr ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
 
 #: email_restore_2_3rd_paragraph
 msgctxt "email_restore_2_3rd_paragraph"
@@ -3714,21 +3811,26 @@ msgid ""
 "your account will not be restored. If you did not request this restore, "
 "please disregard this message."
 msgstr ""
+"You must complete the restore process within 1 hour. If you take no action, "
+"your account will not be restored. If you did not request this restore, "
+"please disregard this message."
 
 #. #-- Invite emails -------------------------------------------------------------#
 #: email_invite_subject
 msgid "Invitation to create user account at"
-msgstr ""
+msgstr "Invitation to create user account at"
 
 #: email_invite_1_1st_paragraph_before_application_title
+#, fuzzy
 msgctxt "email_invite_1_1st_paragraph_before_application_title"
 msgid "This is an invitation to create a"
-msgstr ""
+msgstr "This is an invitation to create a"
 
 #: email_invite_1_1st_paragraph_after_application_title
+#, fuzzy
 msgctxt "email_invite_1_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "user account."
 
 #: email_invite_1_2nd_paragraph
 msgctxt "email_invite_1_2nd_paragraph"
@@ -3737,6 +3839,9 @@ msgid ""
 "the link below. In the next step you will be asked to enter a code which has "
 "been sent to you in the other email."
 msgstr ""
+"You have been sent two emails, where this is the first one. Please follow "
+"the link below. In the next step you will be asked to enter a code which has "
+"been sent to you in the other email."
 
 #: email_invite_1_3rd_paragraph
 msgctxt "email_invite_1_3rd_paragraph"
@@ -3744,16 +3849,20 @@ msgid ""
 "You must respond to this invitation within 3 months. If you take no action, "
 "the invitation will expire at that time."
 msgstr ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
 
 #: email_invite_2_1st_paragraph_before_application_title
+#, fuzzy
 msgctxt "email_invite_2_1st_paragraph_before_application_title"
 msgid "This is an invitation to create a"
-msgstr ""
+msgstr "This is an invitation to create a"
 
 #: email_invite_2_1st_paragraph_after_application_title
+#, fuzzy
 msgctxt "email_invite_2_1st_paragraph_after_application_title"
 msgid "user account."
-msgstr ""
+msgstr "user account."
 
 #: email_invite_2_2nd_paragraph
 msgctxt "email_invite_2_2nd_paragraph"
@@ -3762,6 +3871,9 @@ msgid ""
 "first email and follow the instructions. Please use the code below to "
 "complete the new account form."
 msgstr ""
+"You have been sent two emails, where this is the second one. Please read the "
+"first email and follow the instructions. Please use the code below to "
+"complete the new account form."
 
 #: email_invite_2_3rd_paragraph
 msgctxt "email_invite_2_3rd_paragraph"
@@ -3769,69 +3881,71 @@ msgid ""
 "You must respond to this invitation within 3 months. If you take no action, "
 "the invitation will expire at that time."
 msgstr ""
+"You must respond to this invitation within 3 months. If you take no action, "
+"the invitation will expire at that time."
 
 #. #-- Cache strategy display strings --------------------------------------------#
 #: cache_strategy
 msgid "Cache strategy"
-msgstr ""
+msgstr "Cache strategy"
 
 #: respect_system_setting
 msgid "Respect system setting"
-msgstr ""
+msgstr "Respect system setting"
 
 #: no_cache
 msgid "No cache"
-msgstr ""
+msgstr "No cache"
 
 #: cache_until_6am_tomorrow
 msgid "Cache until 6 AM tomorrow"
-msgstr ""
+msgstr "Cache until 6 AM tomorrow"
 
 #: cache_for_two_weeks
 msgid "Cache for two weeks"
-msgstr ""
+msgstr "Cache for two weeks"
 
 #: cache_for_one_hour
 msgid "Cache for one hour"
-msgstr ""
+msgstr "Cache for one hour"
 
 #. #-- Program indicators --------------------------------------------------------#
 #: execution_date
 msgid "Execution date"
-msgstr ""
+msgstr "Execution date"
 
 #: due_date
 msgid "Due date"
-msgstr ""
+msgstr "Due date"
 
 #: incident_date
 msgid "Incident date"
-msgstr ""
+msgstr "Incident date"
 
 #: enrollment_date
 msgid "Enrollment date"
-msgstr ""
+msgstr "Enrollment date"
 
 #: current_date
 msgid "Current date"
-msgstr ""
+msgstr "Current date"
 
 #: value_count
 msgid "Value count"
-msgstr ""
+msgstr "Value count"
 
 #: zero_pos_value_count
 msgid "Zero or positive value count"
-msgstr ""
+msgstr "Zero or positive value count"
 
 #: event_count
 msgid "Event count"
-msgstr ""
+msgstr "Event count"
 
 #: enrollment_count
 msgid "Enrollment count"
-msgstr ""
+msgstr "Enrollment count"
 
 #: tei_count
 msgid "Tracked entity instance count"
-msgstr ""
+msgstr "Tracked entity instance count"

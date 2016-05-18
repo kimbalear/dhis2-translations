@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-05-05 02:46+0000\n"
+"PO-Revision-Date: 2016-05-10 04:44+0000\n"
 "Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -12,20 +12,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1462416409.0\n"
+"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462855475.0\n"
 
 #: home
 msgid "Home"
 msgstr "Home"
 
 #: dhis2
+#, fuzzy
 msgid "DHIS2"
-msgstr "DHIS2"
+msgstr "DHIS 2"
 
 #: dhis2_home
+#, fuzzy
 msgid "DHIS2 Home"
-msgstr "DHIS2 Home"
+msgstr "DHIS 2 Home"
 
 #: event_capture
 msgid "Event capture"
@@ -168,8 +170,9 @@ msgid "Option is required. Please select one."
 msgstr "Option is required. Please select one."
 
 #: ok
+#, fuzzy
 msgid "Ok"
-msgstr "Ok"
+msgstr "OK"
 
 #: find
 msgid "Find"
@@ -276,8 +279,9 @@ msgid "Value"
 msgstr "Value"
 
 #: form_id
+#, fuzzy
 msgid "Form id"
-msgstr ""
+msgstr "Form ID"
 
 #: register_event
 msgid "Register event"
@@ -288,20 +292,23 @@ msgid "Total"
 msgstr "Total"
 
 #: total_number_of_pages
+#, fuzzy
 msgid "No. of pages"
-msgstr ""
+msgstr "Number of pages"
 
 #: rows_per_page
+#, fuzzy
 msgid "No. of rows per page"
-msgstr ""
+msgstr "Number of rows per page"
 
 #: jump_to_page
 msgid "Jump to page"
 msgstr "Jump to page"
 
 #: page
+#, fuzzy
 msgid "Page "
-msgstr "Page "
+msgstr "Page"
 
 #: first
 msgid "First"
@@ -536,8 +543,9 @@ msgid "Value must be zero or positive integer"
 msgstr "Value must be zero or positive integer"
 
 #: value_must_be_int
+#, fuzzy
 msgid "Value must be integer "
-msgstr "Value must be integer "
+msgstr "Value must be integer"
 
 #: posInt
 msgid "Positive Integer"

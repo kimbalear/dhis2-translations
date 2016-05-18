@@ -4,1087 +4,1113 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 03:49+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462852184.0\n"
 
 #: please_select_org_unit
 msgctxt "please_select_org_unit"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "Please select an organisation unit"
 
 #: please_select_period
 msgctxt "please_select_period"
 msgid "Please select a period"
-msgstr ""
+msgstr "Please select a period"
 
 #: please_select_group_set
 msgid "Please select a group set"
-msgstr ""
+msgstr "Please select a group set"
 
 #: reporting_unit
 msgid "Reporting unit"
-msgstr ""
+msgstr "Reporting unit"
 
 #: report_period
 msgid "Report period"
-msgstr ""
+msgstr "Report period"
 
 #: select_data_set
 msgid "Please select a data set"
-msgstr ""
+msgstr "Please select a data set"
 
 #: select_period
 msgctxt "select_period"
 msgid "Please select a period"
-msgstr ""
+msgstr "Please select a period"
 
 #: select_organisation_unit
 msgctxt "select_organisation_unit"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "Please select an organisation unit"
 
 #: report_organisation_unit
 msgid "Report organisation unit"
-msgstr ""
+msgstr "Report organisation unit"
 
 #: dataset_report
 msgid "Data Set Report"
-msgstr ""
+msgstr "Data Set Report"
 
 #: data_approval
 msgid "Data Approval"
-msgstr ""
+msgstr "Data Approval"
 
 #: add_selected
 msgid "Add selected"
-msgstr ""
+msgstr "Add selected"
 
 #: add_all
 msgid "Add all"
-msgstr ""
+msgstr "Add all"
 
 #: add
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 #: create_report_table
 msgid "Create report table"
-msgstr ""
+msgstr "Create report table"
 
 #: available_indicators
 msgid "Available indicators"
-msgstr ""
+msgstr "Available indicators"
 
 #: select_indicatorgroup_all
 msgid "Select indicator group / View all"
-msgstr ""
+msgstr "Select indicator group / View all"
 
 #: selected_indicators
 msgid "Selected indicators"
-msgstr ""
+msgstr "Selected indicators"
 
 #: select_organisationunit_level_all
 msgid "Select organsation unit level / View all"
-msgstr ""
+msgstr "Select organsation unit level / View all"
 
 #: select_option_view_all
 msgid "Select option / View all"
-msgstr ""
+msgstr "Select option / View all"
 
 #: level
 msgid "Level"
-msgstr ""
+msgstr "Level"
 
 #: available_organisationunits
 msgid "Available organisation units"
-msgstr ""
+msgstr "Available organisation units"
 
 #: selected_organisationunits
 msgid "Selected organisation units"
-msgstr ""
+msgstr "Selected organisation units"
 
 #: available_periods
 msgid "Available periods"
-msgstr ""
+msgstr "Available periods"
 
 #: selected_periods
 msgid "Selected periods"
-msgstr ""
+msgstr "Selected periods"
 
 #: add_children
 msgid "Add children"
-msgstr ""
+msgstr "Add children"
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "Create"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "Indicators"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "Organisation units"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "Periods"
 
 #: relative_periods
 msgid "Relative periods"
-msgstr ""
+msgstr "Relative periods"
 
 #: reporting_month
 msgid "Reporting month"
-msgstr ""
+msgstr "Reporting month"
 
 #: this_year
 msgid "This year"
-msgstr ""
+msgstr "This year"
 
 #: reporting_sixmonth
 msgid "Reporting six-month"
-msgstr ""
+msgstr "Reporting six-month"
 
 #: last_2_sixmonths
 msgid "Last 2 six-months"
-msgstr ""
+msgstr "Last 2 six-months"
 
 #: last_week
 msgid "Last week"
-msgstr ""
+msgstr "Last week"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr ""
+msgstr "Last 4 weeks"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
-msgstr ""
+msgstr "Last 12 weeks"
 
 #: months_last_year
 msgid "Months last year"
-msgstr ""
+msgstr "Months last year"
 
 #: quarters_last_year
 msgid "Quarters last year"
-msgstr ""
+msgstr "Quarters last year"
 
 #: last_year
 msgid "Last year"
-msgstr ""
+msgstr "Last year"
 
 #: report_table
 msgid "Report Table"
-msgstr ""
+msgstr "Report Table"
 
 #: crosstab_dimensions
 msgid "Crosstab dimensions"
-msgstr ""
+msgstr "Crosstab dimensions"
 
 #: confirm_delete_table
 msgid "Are you sure you want to remove table?"
-msgstr ""
+msgstr "Are you sure you want to remove table?"
 
 #: operations
 msgid "Operations"
-msgstr ""
+msgstr "Operations"
 
 #: done
 msgid "Done"
-msgstr ""
+msgstr "Done"
 
 #: crosstab_indicators
 msgid "Crosstab indicators"
-msgstr ""
+msgstr "Crosstab indicators"
 
 #: crosstab_periods
 msgid "Crosstab periods"
-msgstr ""
+msgstr "Crosstab periods"
 
 #: crosstab_organisation_units
 msgid "Crosstab organisation units"
-msgstr ""
+msgstr "Crosstab organisation units"
 
 #: must_select_at_least_one_indictor_data_element_data_set
 msgid "Please select at least one indicator, data element or data set"
-msgstr ""
+msgstr "Please select at least one indicator, data element or data set"
 
 #: must_select_at_least_one_unit
 msgid "Please select at least one organisation unit"
-msgstr ""
+msgstr "Please select at least one organisation unit"
 
 #: must_select_at_least_one_period
 msgid "Please select at least one period"
-msgstr ""
+msgstr "Please select at least one period"
 
 #: cannot_include_more_organisation_unit_regression
 msgid "Cannot include more that one organisation unit with regression"
-msgstr ""
+msgstr "Cannot include more that one organisation unit with regression"
 
 #: cannot_select_orgunit_and_parent_orgunit_param
 msgid "Cannot select both current and parent organisation unit parameter"
-msgstr ""
+msgstr "Cannot select both current and parent organisation unit parameter"
 
 #: must_enter_name
 msgid "Please enter a name"
-msgstr ""
+msgstr "Please enter a name"
 
 #: specify_name
 msgid "Please specify a name"
-msgstr ""
+msgstr "Please specify a name"
 
 #: name_in_use
 msgid "The name is already in use"
-msgstr ""
+msgstr "The name is already in use"
 
 #: design
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: directory
 msgid "Directory"
-msgstr ""
+msgstr "Directory"
 
 #: create_new_report
 msgid "Create new report"
-msgstr ""
+msgstr "Create new report"
 
 #: create_report
 msgid "Create report"
-msgstr ""
+msgstr "Create report"
 
 #: standard_report
 msgid "Standard Report"
-msgstr ""
+msgstr "Standard Report"
 
 #: confirm_remove_report
 msgid "Are you sure you will delete the report?"
-msgstr ""
+msgstr "Are you sure you will delete the report?"
 
 #: report
 msgid "Report"
-msgstr ""
+msgstr "Report"
 
 #: completed
 msgid "completed"
-msgstr ""
+msgstr "completed"
 
 #: remove_report
 msgid "Remove report"
-msgstr ""
+msgstr "Remove report"
 
 #: submit
 msgid "Submit"
-msgstr ""
+msgstr "Submit"
 
 #: edit_report
 msgid "Edit report"
-msgstr ""
+msgstr "Edit report"
 
 #: processing
 msgid "Processing"
-msgstr ""
+msgstr "Processing"
 
 #: indicators_data_elements_data_sets
 msgid "Indicators / data elements / data sets"
-msgstr ""
+msgstr "Indicators / data elements / data sets"
 
 #: dataset
 msgid "Data set"
-msgstr ""
+msgstr "Data set"
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "Organisation unit"
 
 #: select_dataset_all
 msgid "Select data set / View all"
-msgstr ""
+msgstr "Select data set / View all"
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Monthly"
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Quarterly"
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Yearly"
 
 #: omit_report_table_explanation
 msgid ""
 "If selecting no report table, the user is responsible for providing the data "
 "source"
 msgstr ""
+"If selecting no report table, the user is responsible for providing the data "
+"source"
 
 #: dataset_completeness
 msgid "Data set Completeness"
-msgstr ""
+msgstr "Data set Completeness"
 
 #: report_parameters
 msgid "Report parameters"
-msgstr ""
+msgstr "Report parameters"
 
 #: parent_organisation_unit
 msgid "Parent organisation unit"
-msgstr ""
+msgstr "Parent organisation unit"
 
 #: available_dataelements
 msgid "Available data elements"
-msgstr ""
+msgstr "Available data elements"
 
 #: select_dataelementgroup_all
 msgid "Select data element group / View all"
-msgstr ""
+msgstr "Select data element group / View all"
 
 #: selected_dataelements
 msgid "Selected data elements"
-msgstr ""
+msgstr "Selected data elements"
 
 #: dataelements
 msgid "Data elements"
-msgstr ""
+msgstr "Data elements"
 
 #: report_table_parameters
 msgid "Report table parameters"
-msgstr ""
+msgstr "Report table parameters"
 
 #: months_this_year
 msgid "Months this year"
-msgstr ""
+msgstr "Months this year"
 
 #: quarters_this_year
 msgid "Quarters this year"
-msgstr ""
+msgstr "Quarters this year"
 
 #: add_report_table
 msgid "Add Report Table"
-msgstr ""
+msgstr "Add Report Table"
 
 #: add_dataelement_dimension_table
+#, fuzzy
 msgid "Add Dataelement Dimension Table"
-msgstr ""
+msgstr "Add Dataelement Dimension Table"
 
 #: generate
 msgid "Generate"
-msgstr ""
+msgstr "Generate"
 
 #: process_completed
 msgid "Process completed"
-msgstr ""
+msgstr "Process completed"
 
 #: view
 msgid "View"
-msgstr ""
+msgstr "View"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "Chart"
 
 #: dimension
 msgid "Dimension"
-msgstr ""
+msgstr "Dimension"
 
 #: pivot_table
 msgid "Pivot Table"
-msgstr ""
+msgstr "Pivot Table"
 
 #: indicator_group
 msgid "Indicator group"
-msgstr ""
+msgstr "Indicator group"
 
 #: period_type
 msgid "Period type"
-msgstr ""
+msgstr "Period type"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
-msgstr ""
+msgstr "Organisation unit level"
 
 #: select_period_type
 msgid "Select period type"
-msgstr ""
+msgstr "Select period type"
 
 #: org_units
 msgid "Org units"
-msgstr ""
+msgstr "Org units"
 
 #: get_data
 msgid "Get data"
-msgstr ""
+msgstr "Get data"
 
 #: pivot
 msgid "Pivot"
-msgstr ""
+msgstr "Pivot"
 
 #: data
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: select
 msgid "Select"
-msgstr ""
+msgstr "Select"
 
 #: criteria
 msgid "Criteria"
-msgstr ""
+msgstr "Criteria"
 
 #: this_indicator_and_periods
 msgid "This indicator and periods"
-msgstr ""
+msgstr "This indicator and periods"
 
 #: this_indicator_and_orgunits
 msgid "This indicator and orgunits"
-msgstr ""
+msgstr "This indicator and orgunits"
 
 #: all_indicator_and_periods
 msgid "All indicators and periods"
-msgstr ""
+msgstr "All indicators and periods"
 
 #: all_indicator_and_orgunits
 msgid "All indicators and orgunits"
-msgstr ""
+msgstr "All indicators and orgunits"
 
 #: generating_report
 msgid "Generating report"
-msgstr ""
+msgstr "Generating report"
 
 #: use_data_for_selected_unit_only
 msgid "Use data for selected unit only"
-msgstr ""
+msgstr "Use data for selected unit only"
 
 #: add_to_dashboard
 msgid "Add to dashboard"
-msgstr ""
+msgstr "Add to dashboard"
 
 #: confirm_add_to_dashboard
 msgid "Are you sure want to add this report to the dashboard?"
-msgstr ""
+msgstr "Are you sure want to add this report to the dashboard?"
 
 #: resource
 msgid "Resource"
-msgstr ""
+msgstr "Resource"
 
 #: view_report
 msgid "View report"
-msgstr ""
+msgstr "View report"
 
 #: create_new_resource
 msgid "Create new resource"
-msgstr ""
+msgstr "Create new resource"
 
 #: external_url
 msgid "External URL"
-msgstr ""
+msgstr "External URL"
 
 #: upload_file
 msgid "Upload file"
-msgstr ""
+msgstr "Upload file"
 
 #: file
 msgid "File"
-msgstr ""
+msgstr "File"
 
 #: attachment
 msgid "Attachment"
-msgstr ""
+msgstr "Attachment"
 
 #: url
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: display
 msgid "Display"
-msgstr ""
+msgstr "Display"
 
 #: visible
 msgid "Visible"
-msgstr ""
+msgstr "Visible"
 
 #: column
 msgid "Column"
-msgstr ""
+msgstr "Column"
 
 #: confirm_add_report_table_to_dashboard
 msgid "Are you sure you want to add this report table to dashboard?"
-msgstr ""
+msgstr "Are you sure you want to add this report table to dashboard?"
 
 #: continue
 msgid "Continue"
-msgstr ""
+msgstr "Continue"
 
 #: display_facility_name
 msgid "Display Facility Name"
-msgstr ""
+msgstr "Display Facility Name"
 
 #: use_a3_format
 msgid "Use A3 format"
-msgstr ""
+msgstr "Use A3 format"
 
 #: tally_sheet_name
 msgid "Tally Sheet Name"
-msgstr ""
+msgstr "Tally Sheet Name"
 
 #: data_element
 msgid "Data element"
-msgstr ""
+msgstr "Data element"
 
 #: clear
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 #: prev
 msgid "Prev"
-msgstr ""
+msgstr "Prev"
 
 #: prev_year
 msgid "Prev year"
-msgstr ""
+msgstr "Prev year"
 
 #: next_year
 msgid "Next year"
-msgstr ""
+msgstr "Next year"
 
 #: none
 msgid "None"
-msgstr ""
+msgstr "None"
 
 #: facility
 msgid "Facility"
-msgstr ""
+msgstr "Facility"
 
 #: month
 msgid "Month"
-msgstr ""
+msgstr "Month"
 
 #: year
 msgid "Year"
-msgstr ""
+msgstr "Year"
 
 #: method
 msgid "Method"
-msgstr ""
+msgstr "Method"
 
 #: show_more_options
 msgid "Show more options"
-msgstr ""
+msgstr "Show more options"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Show fewer options"
 
 #: generate_before_export
 msgid "Please generate table before exporting"
-msgstr ""
+msgstr "Please generate table before exporting"
 
 #: based_on_registration
 msgid "Based on complete data set registrations"
-msgstr ""
+msgstr "Based on complete data set registrations"
 
 #: based_on_compulsory
 msgid "Based on compulsory data elements"
-msgstr ""
+msgstr "Based on compulsory data elements"
 
 #: based_on_ratio
 msgid "Based on number of registered data values"
-msgstr ""
+msgstr "Based on number of registered data values"
 
 #: intro_standard_report
 msgid ""
 "View and add reports based on the JasperReports library. These can be based "
 "on report tables and can be designed in iReport."
 msgstr ""
+"View and add reports based on the JasperReports library. These can be based "
+"on report tables and can be designed in iReport."
 
 #: intro_dataset_report
 msgid ""
 "View data set reports. These reports are based on data entry screens and "
 "will produce a report with aggregated data."
 msgstr ""
+"View data set reports. These reports are based on data entry screens and "
+"will produce a report with aggregated data."
 
 #: intro_resource
 msgid ""
 "View and add resources. These resources can be uploaded documents or URLs on "
 "the web."
 msgstr ""
+"View and add resources. These resources can be uploaded documents or URLs on "
+"the web."
 
 #: intro_tally_sheet_generator
 msgid ""
 "Generate tally sheets, which can be printed and used to collect data in the "
 "field."
 msgstr ""
+"Generate tally sheets, which can be printed and used to collect data in the "
+"field."
 
 #: intro_pivot_table
 msgid ""
 "Browse pivot tables, which can be pivoted on any of the indicator, "
 "organisation unit and period dimensions."
 msgstr ""
+"Browse pivot tables, which can be pivoted on any of the indicator, "
+"organisation unit and period dimensions."
 
 #: intro_report_table
 msgid ""
 "Add and generate report tables. Report tables are customizable database "
 "tables which can be used as basis for reports."
 msgstr ""
+"Add and generate report tables. Report tables are customizable database "
+"tables which can be used as basis for reports."
 
 #: intro_reporting_rate_summary
 msgid ""
 "Browse the reporting rates of data sets by organisation unit and period "
 "based on various criteria for submission."
 msgstr ""
+"Browse the reporting rates of data sets by organisation unit and period "
+"based on various criteria for submission."
 
 #: intro_orgunit_distribution_report
 msgid ""
 "Browse the organisation unit distribution report based on the organisation "
 "unit group sets and its groups."
 msgstr ""
+"Browse the organisation unit distribution report based on the organisation "
+"unit group sets and its groups."
 
 #: intro_data_approval
 msgid ""
 "View data and manage data approval by approving or unapproving, accepting or "
 "unaccepting data."
 msgstr ""
+"View data and manage data approval by approving or unapproving, accepting or "
+"unaccepting data."
 
 #: orgunit_distribution_report
 msgid "Organisation Unit Distribution Report"
-msgstr ""
+msgstr "Organisation Unit Distribution Report"
 
 #: get_current_design
 msgid "Get current design"
-msgstr ""
+msgstr "Get current design"
 
 #: organisation_unit_report
 msgid "Organisation Unit Report"
-msgstr ""
+msgstr "Organisation Unit Report"
 
 #: select_group_set
 msgid "Select group set"
-msgstr ""
+msgstr "Select group set"
 
 #: orgunit_distribution
 msgid "Organisation unit distribution report"
-msgstr ""
+msgstr "Organisation unit distribution report"
 
 #: get_chart
 msgid "Get chart"
-msgstr ""
+msgstr "Get chart"
 
 #: group_set
 msgid "Group set"
-msgstr ""
+msgstr "Group set"
 
 #: select_org_unit
 msgid "Select organisation unit"
-msgstr ""
+msgstr "Select organisation unit"
 
 #: get_report
 msgid "Get report"
-msgstr ""
+msgstr "Get report"
 
 #: get_report_as_xls
 msgid "Download as Excel"
-msgstr ""
+msgstr "Download as Excel"
 
 #: get_report_as_csv
 msgid "Download as CSV"
-msgstr ""
+msgstr "Download as CSV"
 
 #: get_report_as_pdf
 msgid "Download as PDF"
-msgstr ""
+msgstr "Download as PDF"
 
 #: get_report_as_jasper
 msgid "Download as Report"
-msgstr ""
+msgstr "Download as Report"
 
 #: get_report_as_jrxml
 msgid "Download as JRXML"
-msgstr ""
+msgstr "Download as JRXML"
 
 #: select_category_combo
 msgid "Select category combination"
-msgstr ""
+msgstr "Select category combination"
 
 #: sort_order
 msgid "Sort order"
-msgstr ""
+msgstr "Sort order"
 
 #: ascending
 msgid "Low to high"
-msgstr ""
+msgstr "Low to high"
 
 #: descending
 msgid "High to low"
-msgstr ""
+msgstr "High to low"
 
 #: top_limit
 msgid "Top limit"
-msgstr ""
+msgstr "Top limit"
 
 #: data_type
 msgid "Data type"
-msgstr ""
+msgstr "Data type"
 
 #: indicator
 msgid "Indicator"
-msgstr ""
+msgstr "Indicator"
 
 #: data_element_group
 msgid "Data element group"
-msgstr ""
+msgstr "Data element group"
 
 #: grand_parent_organisation_unit
+#, fuzzy
 msgid "Grand parent organisation unit"
-msgstr ""
+msgstr "Grand parent organisation unit"
 
 #: available_reporting_rates
 msgid "Available reporting rates"
-msgstr ""
+msgstr "Available reporting rates"
 
 #: selected_reporting_rates
 msgid "Selected reporting rates"
-msgstr ""
+msgstr "Selected reporting rates"
 
 #: toggle_fixed_periods
 msgid "Toggle fixed periods"
-msgstr ""
+msgstr "Toggle fixed periods"
 
 #: toggle_fixed_organisation_units
 msgid "Toggle fixed organisation units"
-msgstr ""
+msgstr "Toggle fixed organisation units"
 
 #: group
 msgid "Group"
-msgstr ""
+msgstr "Group"
 
 #: groups
 msgid "Groups"
-msgstr ""
+msgstr "Groups"
 
 #: confirm_delete
 msgid "Are you sure you want to delete this object?"
-msgstr ""
+msgstr "Are you sure you want to delete this object?"
 
 #: leaf_parent_organisation_unit
 msgid "Leaf organisation units"
-msgstr ""
+msgstr "Leaf organisation units"
 
 #: reporting_bimonth
+#, fuzzy
 msgid "Reporting bimonth"
-msgstr ""
+msgstr "Reporting bi-month"
 
 #: last_6_bimonths
+#, fuzzy
 msgid "Last 6 bimonths"
-msgstr ""
+msgstr "Last 6 bi-months"
 
 #: reporting_quarter
 msgid "Reporting quarter"
-msgstr ""
+msgstr "Reporting quarter"
 
 #: include_organisation_unit_group_sets
 msgid "Include org unit group sets param"
-msgstr ""
+msgstr "Include org unit group sets param"
 
 #: last_5_years
 msgid "Last 5 years"
-msgstr ""
+msgstr "Last 5 years"
 
 #: last_12_months
 msgid "Last 12 months"
-msgstr ""
+msgstr "Last 12 months"
 
 #: last_4_quarters
 msgid "Last 4 quarters"
-msgstr ""
+msgstr "Last 4 quarters"
 
 #: reporting_rate_summary
 msgid "Reporting Rate Summary"
-msgstr ""
+msgstr "Reporting Rate Summary"
 
 #: available_organisation_unit_groups
 msgid "Available organisation unit groups"
-msgstr ""
+msgstr "Available organisation unit groups"
 
 #: selected_organisation_unit_groups
 msgid "Selected organisation unit groups"
-msgstr ""
+msgstr "Selected organisation unit groups"
 
 #: start_date
 msgid "Start date"
-msgstr ""
+msgstr "Start date"
 
 #: end_date
 msgid "End date"
-msgstr ""
+msgstr "End date"
 
 #: start_export
 msgid "Start export"
-msgstr ""
+msgstr "Start export"
 
 #: period_types
 msgid "Period types"
-msgstr ""
+msgstr "Period types"
 
 #: include_cumulative
 msgid "Include cumulative"
-msgstr ""
+msgstr "Include cumulative"
 
 #: include_regression
 msgid "Include regression"
-msgstr ""
+msgstr "Include regression"
 
 #: print
 msgid "Print"
-msgstr ""
+msgstr "Print"
 
 #: reporting_period
 msgid "Reporting period"
-msgstr ""
+msgstr "Reporting period"
 
 #: completed_by
 msgid "Completed by"
-msgstr ""
+msgstr "Completed by"
 
 #: view_resource
 msgid "View resource"
-msgstr ""
+msgstr "View resource"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "This financial year"
 
 #: last_financial_year
 msgid "Last financial year"
-msgstr ""
+msgstr "Last financial year"
 
 #: last_5_financial_years
 msgid "Last 5 financial years"
-msgstr ""
+msgstr "Last 5 financial years"
 
 #: financial_yearly
 msgid "Financial Yearly"
-msgstr ""
+msgstr "Financial Yearly"
 
 #: please_specify_file
 msgid "Please specify a design file"
-msgstr ""
+msgstr "Please specify a design file"
 
 #: jasper_design
 msgid "Jasper design"
-msgstr ""
+msgstr "Jasper design"
 
 #: write_your_interpretation
 msgid "Write a comment, question or interpretation"
-msgstr ""
+msgstr "Write a comment, question or interpretation"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 #: share_your_interpretation
 msgid "Share your interpretation"
-msgstr ""
+msgstr "Share your interpretation"
 
 #: interpretation_was_shared
 msgid "Interpretation was shared"
-msgstr ""
+msgstr "Interpretation was shared"
 
 #: last_3_months
 msgid "Last 3 months"
-msgstr ""
+msgstr "Last 3 months"
 
 #: get_report_template
 msgid "Get report template"
-msgstr ""
+msgstr "Get report template"
 
 #: actual_reports
 msgid "Actual Reports"
-msgstr ""
+msgstr "Actual Reports"
 
 #: expected_reports
 msgid "Expected Reports"
-msgstr ""
+msgstr "Expected Reports"
 
 #: percent
 msgid "Percent"
-msgstr ""
+msgstr "Percent"
 
 #: reports_on_time
 msgid "Reports On Time"
-msgstr ""
+msgstr "Reports On Time"
 
 #: percent_on_time
 msgid "Percent On Time"
-msgstr ""
+msgstr "Percent On Time"
 
 #: view_all
 msgid "View all"
-msgstr ""
+msgstr "View all"
 
 #: write_your_interpretation_of_report
 msgid "Write a comment, question or interpretation of this report"
-msgstr ""
+msgstr "Write a comment, question or interpretation of this report"
 
 #: jasper_report_report_table_data_source
 msgid "Jasper report with report table data source"
-msgstr ""
+msgstr "Jasper report with report table data source"
 
 #: jasper_report_jdbc_data_source
 msgid "Jasper report with JDBC data source"
-msgstr ""
+msgstr "Jasper report with JDBC data source"
 
 #: html_report
 msgid "HTML report"
-msgstr ""
+msgstr "HTML report"
 
 #: design_file
 msgid "Design file"
-msgstr ""
+msgstr "Design file"
 
 #: get_jasper_report_template
 msgid "Get Jasper report template"
-msgstr ""
+msgstr "Get Jasper report template"
 
 #: get_html_report_template
 msgid "Get HTML report template"
-msgstr ""
+msgstr "Get HTML report template"
 
 #: analytics_tables_management
 msgid "Analytics tables management"
-msgstr ""
+msgstr "Analytics tables management"
 
 #: analytics_tables
 msgid "Analytics tables"
-msgstr ""
+msgstr "Analytics tables"
 
 #: analytics_tables_update
 msgid "Analytics tables update"
-msgstr ""
+msgstr "Analytics tables update"
 
 #: aggregation_period_types
 msgid "Aggregation period types"
-msgstr ""
+msgstr "Aggregation period types"
 
 #: analytics
 msgid "Analytics"
-msgstr ""
+msgstr "Analytics"
 
 #: approve
 msgid "Approve"
-msgstr ""
+msgstr "Approve"
 
 #: unapprove
 msgid "Unapprove"
-msgstr ""
+msgstr "Unapprove"
 
 #: accept
 msgid "Accept"
-msgstr ""
+msgstr "Accept"
 
 #: unaccept
 msgid "Unaccept"
-msgstr ""
+msgstr "Unaccept"
 
 #: waiting_for_lower_level_approval
 msgid "Waiting for lower levels to approve"
-msgstr ""
+msgstr "Waiting for lower levels to approve"
 
 #: approved_at_a_higher_level
 msgid "Approved at a higher level"
-msgstr ""
+msgstr "Approved at a higher level"
 
 #: approved
 msgid "Approved"
-msgstr ""
+msgstr "Approved"
 
 #: approved_and_accepted
 msgid "Approved and accepted"
-msgstr ""
+msgstr "Approved and accepted"
 
 #: ready_for_approval_at_a_higher_level
 msgid "Ready for approval at a higher level"
-msgstr ""
+msgstr "Ready for approval at a higher level"
 
 #: ready_for_approval
 msgid "Ready for approval"
-msgstr ""
+msgstr "Ready for approval"
 
 #: approval_not_relevant
 msgid "Approval not relevant"
-msgstr ""
+msgstr "Approval not relevant"
 
 #: waiting_for_approval_elsewhere
 msgid "Waiting for approval elsewhere"
-msgstr ""
+msgstr "Waiting for approval elsewhere"
 
 #: approved_elsewhere
 msgid "Approved elsewhere"
-msgstr ""
+msgstr "Approved elsewhere"
 
 #: accepted_elsewhere
 msgid "Accepted elsewhere"
-msgstr ""
+msgstr "Accepted elsewhere"
 
 #: approved_for_part_of_this_period
 msgid "Approved for part of this period"
-msgstr ""
+msgstr "Approved for part of this period"
 
 #: accepted_for_part_of_this_period
 msgid "Accepted for part of this period"
-msgstr ""
+msgstr "Accepted for part of this period"
 
 #: approved_elsewhere_for_part_of_this_period
 msgid "Approved elsewhere for part of this period"
-msgstr ""
+msgstr "Approved elsewhere for part of this period"
 
 #: accepted_elsewhere_for_part_of_this_period
 msgid "Accepted elsewhere for part of this period"
-msgstr ""
+msgstr "Accepted elsewhere for part of this period"
 
 #: confirm_approval
 msgid "Are you sure you want to approve this data set?"
-msgstr ""
+msgstr "Are you sure you want to approve this data set?"
 
 #: confirm_unapproval
 msgid "Are you sure you want to unapprove this data set?"
-msgstr ""
+msgstr "Are you sure you want to unapprove this data set?"
 
 #: confirm_accept
 msgid "Are you sure you want to accept this data set approval?"
-msgstr ""
+msgstr "Are you sure you want to accept this data set approval?"
 
 #: confirm_unaccept
 msgid "Are you sure you want to unaccept this data set approval?"
-msgstr ""
+msgstr "Are you sure you want to unaccept this data set approval?"
 
 #: approval_entity
 msgid "Approval entity"
-msgstr ""
+msgstr "Approval entity"
 
 #: approval_status
 msgid "Approval status"
-msgstr ""
+msgstr "Approval status"
 
 #: please_make_selection
 msgid "Please make a selection below"
-msgstr ""
+msgstr "Please make a selection below"
 
 #: data_criteria
 msgid "Data criteria"
-msgstr ""
+msgstr "Data criteria"

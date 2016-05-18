@@ -4,1149 +4,1156 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 03:44+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462851854.0\n"
 
 #: title
 msgid "DHIS 2 Data Visualizer"
-msgstr ""
+msgstr "DHIS 2 Data Visualizer"
 
 #: chart_type
 msgid "Chart type"
-msgstr ""
+msgstr "Chart type"
 
 #: column_chart
 msgid "Column chart"
-msgstr ""
+msgstr "Column chart"
 
 #: stacked_column_chart
 msgid "Stacked column chart"
-msgstr ""
+msgstr "Stacked column chart"
 
 #: bar_chart
 msgid "Bar chart"
-msgstr ""
+msgstr "Bar chart"
 
 #: stacked_bar_chart
 msgid "Stacked bar chart"
-msgstr ""
+msgstr "Stacked bar chart"
 
 #: line_chart
 msgid "Line chart"
-msgstr ""
+msgstr "Line chart"
 
 #: area_chart
 msgid "Area chart"
-msgstr ""
+msgstr "Area chart"
 
 #: pie_chart
 msgid "Pie chart"
-msgstr ""
+msgstr "Pie chart"
 
 #: radar_chart
 msgid "Radar chart"
-msgstr ""
+msgstr "Radar chart"
 
 #: series
 msgid "Series"
-msgstr ""
+msgstr "Series"
 
 #: category
 msgid "Category"
-msgstr ""
+msgstr "Category"
 
 #: filter
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: example_chart
 msgid "Example chart"
-msgstr ""
+msgstr "Example chart"
 
 #: loading
 msgid "Loading..."
-msgstr ""
+msgstr "Loading..."
 
 #: no_data
 msgid "No data"
-msgstr ""
+msgstr "No data"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "Indicators"
 
 #: select_group
 msgid "Select group"
-msgstr ""
+msgstr "Select group"
 
 #: data_elements
 msgid "Data elements"
-msgstr ""
+msgstr "Data elements"
 
 #: all_indicator_groups
 msgid "All indicator groups"
-msgstr ""
+msgstr "All indicator groups"
 
 #: available
 msgid "Available"
-msgstr ""
+msgstr "Available"
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "Selected"
 
 #: months
 msgid "Months"
-msgstr ""
+msgstr "Months"
 
 #: last_month
 msgid "Last month"
-msgstr ""
+msgstr "Last month"
 
 #: last_12_months
 msgid "Last 12 months"
-msgstr ""
+msgstr "Last 12 months"
 
 #: quarters
 msgid "Quarters"
-msgstr ""
+msgstr "Quarters"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr ""
+msgstr "Last quarter"
 
 #: last_4_quarters
 msgid "Last 4 quarters"
-msgstr ""
+msgstr "Last 4 quarters"
 
 #: six_months
 msgid "Six months"
-msgstr ""
+msgstr "Six months"
 
 #: last_six_month
 msgctxt "last_six_month"
 msgid "Last six-month"
-msgstr ""
+msgstr "Last six-month"
 
 #: last_two_six_month
 msgctxt "last_two_six_month"
 msgid "Last 2 six-months"
-msgstr ""
+msgstr "Last 2 six-months"
 
 #: years
 msgid "Years"
-msgstr ""
+msgstr "Years"
 
 #: last_year
 msgid "Last year"
-msgstr ""
+msgstr "Last year"
 
 #: last_5_years
 msgid "Last 5 years"
-msgstr ""
+msgstr "Last 5 years"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "Organisation units"
 
 #: select_all_children
 msgid "Select all children"
-msgstr ""
+msgstr "Select all children"
 
 #: chart_options
 msgid "Chart options"
-msgstr ""
+msgstr "Chart options"
 
 #: png_only
 msgid "For the PNG version only"
-msgstr ""
+msgstr "For the PNG version only"
 
 #: trend_line
 msgid "Show trend lines"
-msgstr ""
+msgstr "Show trend lines"
 
 #: hide_subtitle
 msgid "Hide chart subtitle"
-msgstr ""
+msgstr "Hide chart subtitle"
 
 #: hide_legend
 msgid "Hide chart legend"
-msgstr ""
+msgstr "Hide chart legend"
 
 #: domain_axis_label
 msgid "Domain axis title"
-msgstr ""
+msgstr "Domain axis title"
 
 #: range_axis_label
 msgid "Range axis title"
-msgstr ""
+msgstr "Range axis title"
 
 #: target
 msgid "Target"
-msgstr ""
+msgstr "Target"
 
 #: target_line_value
 msgid "Target line value"
-msgstr ""
+msgstr "Target line value"
 
 #: target_line_label
 msgid "Target line label"
-msgstr ""
+msgstr "Target line label"
 
 #: show_hide_chart_settings
 msgid "Show/hide chart settings"
-msgstr ""
+msgstr "Show/hide chart settings"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: data_table
 msgid "Data table"
-msgstr ""
+msgstr "Data table"
 
 #: manage_favorites
 msgid "Manage favorites"
-msgstr ""
+msgstr "Manage favorites"
 
 #: save_favorite
 msgid "Save favorite"
-msgstr ""
+msgstr "Save favorite"
 
 #: sort_by
 msgid "Sort by"
-msgstr ""
+msgstr "Sort by"
 
 #: system
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #: name
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: last_updated
 msgid "Last updated"
-msgstr ""
+msgstr "Last updated"
 
 #: rename
 msgid "Rename"
-msgstr ""
+msgstr "Rename"
 
 #: rename_favorite
 msgid "Rename favorite"
-msgstr ""
+msgstr "Rename favorite"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: name_already_in_use
 msgid "* Name already in use"
-msgstr ""
+msgstr "* Name already in use"
 
 #: delete_object
 msgctxt "delete_object"
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr ""
+msgstr "Delete favorite"
 
 #: are_you_sure
 msgid "Are you sure?"
-msgstr ""
+msgstr "Are you sure?"
 
 #: save
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #: create_chart_before_saving
 msgid "Please create a chart before saving"
-msgstr ""
+msgstr "Please create a chart before saving"
 
 #: overwrite
 msgid "Overwrite"
-msgstr ""
+msgstr "Overwrite"
 
 #: no_svg_format
 msgid "No SVG format"
-msgstr ""
+msgstr "No SVG format"
 
 #: image_png
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #: hide_data_table
 msgid "Hide data table"
-msgstr ""
+msgstr "Hide data table"
 
 #: saving
 msgid "Saving"
-msgstr ""
+msgstr "Saving"
 
 #: renaming
 msgid "Renaming"
-msgstr ""
+msgstr "Renaming"
 
 #: deleting
 msgid "Deleting"
-msgstr ""
+msgstr "Deleting"
 
 #: data
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: indicator
 msgid "Indicator"
-msgstr ""
+msgstr "Indicator"
 
 #: data_element
 msgid "Data element"
-msgstr ""
+msgstr "Data element"
 
 #: period
 msgid "Period"
-msgstr ""
+msgstr "Period"
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "Organisation unit"
 
 #: system_favorite_overwrite_not_allowed
 msgid "* You are not allowed to overwrite a system favorite"
-msgstr ""
+msgstr "* You are not allowed to overwrite a system favorite"
 
 #: favorite_no_orgunits
 msgid "Favorite has no organisation units"
-msgstr ""
+msgstr "Favorite has no organisation units"
 
 #: this_year
 msgid "This year"
-msgstr ""
+msgstr "This year"
 
 #: trend
 msgid "Trend"
-msgstr ""
+msgstr "Trend"
 
 #: dataset
 msgid "Data set"
-msgstr ""
+msgstr "Data set"
 
 #: datasets
+#, fuzzy
 msgctxt "datasets"
 msgid "Data sets"
-msgstr ""
+msgstr "Data sets"
 
 #: data_sets
+#, fuzzy
 msgctxt "data_sets"
 msgid "Data sets"
-msgstr ""
+msgstr "Data sets"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr ""
+msgstr "Reporting rates"
 
 #: base_line_value
 msgid "Base line value"
-msgstr ""
+msgstr "Base line value"
 
 #: base_line_label
 msgid "Base line label"
-msgstr ""
+msgstr "Base line label"
 
 #: base
 msgid "Base"
-msgstr ""
+msgstr "Base"
 
 #: group_sets
 msgid "Group sets"
-msgstr ""
+msgstr "Group sets"
 
 #: none
 msgid "None"
-msgstr ""
+msgstr "None"
 
 #: et_no_data
 msgid "No data returned from server"
-msgstr ""
+msgstr "No data returned from server"
 
 #: em_no_data
 msgid ""
 "Please ensure that there is data stored in the database and that data mart "
 "has been run properly."
 msgstr ""
+"Please ensure that there is data stored in the database and that data mart "
+"has been run properly."
 
 #: et_invalid_dimension_setup
 msgid "Invalid dimension setup"
-msgstr ""
+msgstr "Invalid dimension setup"
 
 #: em_invalid_dimension_setup
 msgid "Please select series/category/filter dimensions."
-msgstr ""
+msgstr "Please select series/category/filter dimensions."
 
 #: et_no_indicators_dataelements_datasets
 msgid "No data units selected"
-msgstr ""
+msgstr "No data units selected"
 
 #: em_no_indicators_dataelements_datasets
 msgid "Please select at least one indicator, data element or data set."
-msgstr ""
+msgstr "Please select at least one indicator, data element or data set."
 
 #: et_no_periods
 msgid "No periods selected"
-msgstr ""
+msgstr "No periods selected"
 
 #: em_no_periods
 msgid "Please select at least one relative or fixed period."
-msgstr ""
+msgstr "Please select at least one relative or fixed period."
 
 #: et_no_orgunits
 msgid "No organisation units selected"
-msgstr ""
+msgstr "No organisation units selected"
 
 #: em_no_orgunits
 msgid "Please select at least one organisation unit."
-msgstr ""
+msgstr "Please select at least one organisation unit."
 
 #: et_no_orgunitgroups
 msgid "No organisation unit groups found"
-msgstr ""
+msgstr "No organisation unit groups found"
 
 #: em_no_orgunitgroups
 msgid "Please add at least one organisation unit group."
-msgstr ""
+msgstr "Please add at least one organisation unit group."
 
 #: et_line_area_categories
 msgid "Not enough categories selected"
-msgstr ""
+msgstr "Not enough categories selected"
 
 #: em_line_area_categories
 msgid "Please select at least two categories for line and area charts."
-msgstr ""
+msgstr "Please select at least two categories for line and area charts."
 
 #: et_invalid_uid
 msgid "Invalid ID"
-msgstr ""
+msgstr "Invalid ID"
 
 #: em_invalid_uid
 msgid "Please provide a valid chart ID."
-msgstr ""
+msgstr "Please provide a valid chart ID."
 
 #: et_svg_browser
 msgid "SVG not supported by browser"
-msgstr ""
+msgstr "SVG not supported by browser"
 
 #: em_svg_browser
 msgid "Please use Chrome, Firefox, Opera or Safari to export images."
-msgstr ""
+msgstr "Please use Chrome, Firefox, Opera or Safari to export images."
 
 #: wm_trendline_deactivated
 msgid "Trend line deactivated"
-msgstr ""
+msgstr "Trend line deactivated"
 
 #: wm_targetline_deactivated
 msgid "Target line deactivated"
-msgstr ""
+msgstr "Target line deactivated"
 
 #: wm_baseline_deactivated
 msgid "Base line deactivated"
-msgstr ""
+msgstr "Base line deactivated"
 
 #: wm_not_applicable
 msgid "not applicable for"
-msgstr ""
+msgstr "not applicable for"
 
 #: wm_stacked_chart
 msgid "stacked charts"
-msgstr ""
+msgstr "stacked charts"
 
 #: wm_pie_chart
 msgid "pie charts"
-msgstr ""
+msgstr "pie charts"
 
 #: wm_required_categories
 msgid "at least two categories required"
-msgstr ""
+msgstr "at least two categories required"
 
 #: wm_multiple_filter_ind_de_ds
 msgid "Multiple indicators/data elements/data sets selected as filter."
-msgstr ""
+msgstr "Multiple indicators/data elements/data sets selected as filter."
 
 #: wm_multiple_filter_period
 msgid "Multiple periods selected as filter."
-msgstr ""
+msgstr "Multiple periods selected as filter."
 
 #: wm_multiple_filter_orgunit
 msgid "Multiple organisation units selected as filter."
-msgstr ""
+msgstr "Multiple organisation units selected as filter."
 
 #: wm_multiple_filter_groups
 msgid "Multiple organisation unit groups selected as filter."
-msgstr ""
+msgstr "Multiple organisation unit groups selected as filter."
 
 #: wm_first_filter_used
 msgid "The first one is being used."
-msgstr ""
+msgstr "The first one is being used."
 
 #: available_attribute
 msgid "Available attribute"
-msgstr ""
+msgstr "Available attribute"
 
 #: selected_attribute
 msgid "Selected attribute"
-msgstr ""
+msgstr "Selected attribute"
 
 #: show_data
 msgid "Show series data"
-msgstr ""
+msgstr "Show series data"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 #: interpretation
 msgid "interpretation"
-msgstr ""
+msgstr "interpretation"
 
 #: interpretation_was_shared
 msgid "Interpretation was shared"
-msgstr ""
+msgstr "Interpretation was shared"
 
 #: save_load_favorite_before_sharing
 msgid "Please save or load a favorite before sharing"
-msgstr ""
+msgstr "Please save or load a favorite before sharing"
 
 #: create_chart_before_datatable
+#, fuzzy
 msgid "Please create a chart before showing the datatable"
-msgstr ""
+msgstr "Please create a chart before showing the data-table"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
-msgstr ""
+msgstr "Organisation unit groups"
 
 #: groups_replace_orgunits
 msgid "Note: Groups will replace the selected organisation units"
-msgstr ""
+msgstr "Note: Groups will replace the selected organisation units"
 
 #: fixed_periods
 msgid "Fixed periods"
-msgstr ""
+msgstr "Fixed periods"
 
 #: relative_periods
 msgid "Relative periods"
-msgstr ""
+msgstr "Relative periods"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "Periods"
 
 #: select_type
 msgid "Select type"
-msgstr ""
+msgstr "Select type"
 
 #: last_3_months
 msgid "Last 3 months"
-msgstr ""
+msgstr "Last 3 months"
 
 #: show_values
 msgid "Show values"
-msgstr ""
+msgstr "Show values"
 
 #: select_indicator_group
 msgid "Select indicator group"
-msgstr ""
+msgstr "Select indicator group"
 
 #: select_data_element_group
 msgid "Select data element group"
-msgstr ""
+msgstr "Select data element group"
 
 #: table
 msgid "Table"
-msgstr ""
+msgstr "Table"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "Chart"
 
 #: map
 msgid "Map"
-msgstr ""
+msgstr "Map"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: table_options
 msgid "Table options"
-msgstr ""
+msgstr "Table options"
 
 #: style
 msgid "Style"
-msgstr ""
+msgstr "Style"
 
 #: select_period_type
 msgid "Select period type"
-msgstr ""
+msgstr "Select period type"
 
 #: weeks
 msgid "Weeks"
-msgstr ""
+msgstr "Weeks"
 
 #: last_week
 msgid "Last week"
-msgstr ""
+msgstr "Last week"
 
 #: last_4_weeks
 msgid "Last 4 weeks"
-msgstr ""
+msgstr "Last 4 weeks"
 
 #: last_12_weeks
 msgid "Last 12 weeks"
-msgstr ""
+msgstr "Last 12 weeks"
 
 #: bimonths
 msgid "Bi-months"
-msgstr ""
+msgstr "Bi-months"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr ""
+msgstr "Last bi-month"
 
 #: last_6_bimonths
 msgid "Last 6 bi-months"
-msgstr ""
+msgstr "Last 6 bi-months"
 
 #: sixmonths
 msgid "Six-months"
-msgstr ""
+msgstr "Six-months"
 
 #: last_sixmonth
 msgctxt "last_sixmonth"
 msgid "Last six-month"
-msgstr ""
+msgstr "Last six-month"
 
 #: last_2_sixmonths
 msgctxt "last_2_sixmonths"
 msgid "Last 2 six-months"
-msgstr ""
+msgstr "Last 2 six-months"
 
 #: financial_years
 msgid "Financial years"
-msgstr ""
+msgstr "Financial years"
 
 #: last_financial_year
 msgid "Last financial year"
-msgstr ""
+msgstr "Last financial year"
 
 #: last_5_financial_years
 msgid "Last 5 financial years"
-msgstr ""
+msgstr "Last 5 financial years"
 
 #: prev_year
 msgid "Prev year"
-msgstr ""
+msgstr "Prev year"
 
 #: next_year
 msgid "Next year"
-msgstr ""
+msgstr "Next year"
 
 #: user_organisation_unit
 msgid "User org unit"
-msgstr ""
+msgstr "User org unit"
 
 #: filters
 msgid "Filters"
-msgstr ""
+msgstr "Filters"
 
 #: at_least_one_dimension_must_be_specified_as_row_or_column
 msgid "At least one dimension must be specified as row or column"
-msgstr ""
+msgstr "At least one dimension must be specified as row or column"
 
 #: at_least_one_period_must_be_specified_as_column_row_or_filter
 msgid "At least one period must be specified as column, row or filter"
-msgstr ""
+msgstr "At least one period must be specified as column, row or filter"
 
 #: indicators_cannot_be_specified_as_filter
 msgid "Indicators cannot be specified as filter"
-msgstr ""
+msgstr "Indicators cannot be specified as filter"
 
 #: all_data_element_groups
 msgid "All data element groups"
-msgstr ""
+msgstr "All data element groups"
 
 #: hide
 msgid "Hide"
-msgstr ""
+msgstr "Hide"
 
 #: layout
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: options
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #: favorites
 msgid "Favorites"
-msgstr ""
+msgstr "Favorites"
 
 #: chart_title
 msgid "Chart title"
-msgstr ""
+msgstr "Chart title"
 
 #: hide_chart_title
 msgid "Hide chart title"
-msgstr ""
+msgstr "Hide chart title"
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr ""
+msgstr "Search for favorites"
 
 #: overwrite_favorite
 msgid "Overwrite favorite"
-msgstr ""
+msgstr "Overwrite favorite"
 
 #: please_create_a_table_first
 msgid "Please create a chart first"
-msgstr ""
+msgstr "Please create a chart first"
 
 #: delete_
 msgctxt "delete_"
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: share_with_other_people
 msgid "Share with other people"
-msgstr ""
+msgstr "Share with other people"
 
 #: totals
 msgid "Totals"
-msgstr ""
+msgstr "Totals"
 
 #: details
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 #: prev
 msgid "Prev"
-msgstr ""
+msgstr "Prev"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "Create"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "Add new"
 
 #: can_view
 msgid "Can view"
-msgstr ""
+msgstr "Can view"
 
 #: can_edit_and_view
 msgid "Can edit and view"
-msgstr ""
+msgstr "Can edit and view"
 
 #: search_for_user_groups
 msgid "Search for user group"
-msgstr ""
+msgstr "Search for user group"
 
 #: public_access
 msgid "Public access"
-msgstr ""
+msgstr "Public access"
 
 #: detailed_data_elements_cannot_be_specified_as_filter
 msgid "Detailed data elements cannot be specified as filter"
-msgstr ""
+msgstr "Detailed data elements cannot be specified as filter"
 
 #: plain_data_sources
 msgid "Plain data source"
-msgstr ""
+msgstr "Plain data source"
 
 #: graphics
 msgid "Graphics"
-msgstr ""
+msgstr "Graphics"
 
 #: write_your_interpretation
 msgid "Write a comment, question or interpretation"
-msgstr ""
+msgstr "Write a comment, question or interpretation"
 
 #: sharing_settings
 msgid "Sharing settings"
-msgstr ""
+msgstr "Sharing settings"
 
 #: select_organisation_units
 msgid "Select organisation units"
-msgstr ""
+msgstr "Select organisation units"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr ""
+msgstr "Select boundaries and levels"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
-msgstr ""
+msgstr "Select organisation unit levels"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr ""
+msgstr "Select boundaries and groups"
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
-msgstr ""
+msgstr "Select organisation unit groups"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr ""
+msgstr "Allow external access"
 
 #: daily
 msgid "Daily"
-msgstr ""
+msgstr "Daily"
 
 #: weekly
 msgid "Weekly"
-msgstr ""
+msgstr "Weekly"
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Monthly"
 
 #: bimonthly
 msgid "Bi-monthly"
-msgstr ""
+msgstr "Bi-monthly"
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Quarterly"
 
 #: sixmonthly
 msgid "Six-monthly"
-msgstr ""
+msgstr "Six-monthly"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Six-monthly April"
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Yearly"
 
 #: financial_oct
 msgid "Financial October"
-msgstr ""
+msgstr "Financial October"
 
 #: financial_july
 msgid "Financial July"
-msgstr ""
+msgstr "Financial July"
 
 #: financial_april
 msgid "Financial April"
-msgstr ""
+msgstr "Financial April"
 
 #: all_indicators
 msgid "All indicators"
-msgstr ""
+msgstr "All indicators"
 
 #: all_data_elements
 msgid "All data elements"
-msgstr ""
+msgstr "All data elements"
 
 #: hide_empty_category_items
 msgid "Hide empty category items"
-msgstr ""
+msgstr "Hide empty category items"
 
 #: axes
 msgid "Axes"
-msgstr ""
+msgstr "Axes"
 
 #: general
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: go_to_pivot_tables
 msgid "Go to pivot tables"
-msgstr ""
+msgstr "Go to pivot tables"
 
 #: open_this_chart_as_table
 msgid "Open this chart as table"
-msgstr ""
+msgstr "Open this chart as table"
 
 #: open_last_pivot_table
 msgid "Open last table"
-msgstr ""
+msgstr "Open last table"
 
 #: go_to_maps
 msgid "Go to maps"
-msgstr ""
+msgstr "Go to maps"
 
 #: open_this_chart_as_map
 msgid "Open this chart as map"
-msgstr ""
+msgstr "Open this chart as map"
 
 #: open_last_map
 msgid "Open last map"
-msgstr ""
+msgstr "Open last map"
 
 #: dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "Dimensions"
 
 #: assigned_categories
 msgid "Assigned categories"
-msgstr ""
+msgstr "Assigned categories"
 
 #: table_layout
 msgid "Table layout"
-msgstr ""
+msgstr "Table layout"
 
 #: type
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: select_sub_units
 msgid "Select sub-units"
-msgstr ""
+msgstr "Select sub-units"
 
 #: you_do_not_have_access_to_all_items_in_this_favorite
 msgid "You do not have access to all items in this favorite"
-msgstr ""
+msgstr "You do not have access to all items in this favorite"
 
 #: meter_chart
 msgid "Meter chart"
-msgstr ""
+msgstr "Meter chart"
 
 #: example1
 msgid "Creating a chart"
-msgstr ""
+msgstr "Creating a chart"
 
 #: example2
 msgid "Select items from any of the dimensions in the left menu"
-msgstr ""
+msgstr "Select items from any of the dimensions in the left menu"
 
 #: example3
 msgid "Click Layout to arrange your dimensions on table rows and columns"
-msgstr ""
+msgstr "Click Layout to arrange your dimensions on table rows and columns"
 
 #: example4
 msgid "Click Update to create your table"
-msgstr ""
+msgstr "Click Update to create your table"
 
 #: example5
 msgid "Working with a chart"
-msgstr ""
+msgstr "Working with a chart"
 
 #: example6
 msgid "Click Options to show trend lines, target lines, axis titles and more"
-msgstr ""
+msgstr "Click Options to show trend lines, target lines, axis titles and more"
 
 #: example7
 msgid "Click Favorites to save your chart for later use"
-msgstr ""
+msgstr "Click Favorites to save your chart for later use"
 
 #: example8
 msgid "Click Download to save chart graphics to your computer"
-msgstr ""
+msgstr "Click Download to save chart graphics to your computer"
 
 #: low_to_high
 msgid "Low to high"
-msgstr ""
+msgstr "Low to high"
 
 #: high_to_low
 msgid "High to low"
-msgstr ""
+msgstr "High to low"
 
 #: sort_order
 msgid "Sort order"
-msgstr ""
+msgstr "Sort order"
 
 #: last_52_weeks
 msgid "Last 52 weeks"
-msgstr ""
+msgstr "Last 52 weeks"
 
 #: last_6_months
 msgid "Last 6 months"
-msgstr ""
+msgstr "Last 6 months"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Created by"
 
 #: initializing
 msgid "Initializing"
-msgstr ""
+msgstr "Initializing"
 
 #: clear_chart
 msgid "Clear chart"
-msgstr ""
+msgstr "Clear chart"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "This financial year"
 
 #: user_sub_units
 msgid "User sub-units"
-msgstr ""
+msgstr "User sub-units"
 
 #: user_sub_x2_units
 msgid "User sub-x2-units"
-msgstr ""
+msgstr "User sub-x2-units"
 
 #: metadata_id_scheme
 msgid "Meta-data ID scheme"
-msgstr ""
+msgstr "Meta-data ID scheme"
 
 #: chart_layout
 msgid "Chart layout"
-msgstr ""
+msgstr "Chart layout"
 
 #: aggregation_type
 msgid "Aggregation type"
-msgstr ""
+msgstr "Aggregation type"
 
 #: by_data_element
 msgid "By data element"
-msgstr ""
+msgstr "By data element"
 
 #: count
 msgid "Count"
-msgstr ""
+msgstr "Count"
 
 #: sum
 msgid "Sum"
-msgstr ""
+msgstr "Sum"
 
 #: stddev
 msgid "Standard deviation"
-msgstr ""
+msgstr "Standard deviation"
 
 #: variance
 msgid "Variance"
-msgstr ""
+msgstr "Variance"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "This week"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "This quarter"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "This month"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "This six-month"
 
 #: this_bimonth
 msgid "This bi-month"
-msgstr ""
+msgstr "This bi-month"
 
 #: excluded_dimensions
 msgid "Excluded dimensions"
-msgstr ""
+msgstr "Excluded dimensions"
 
 #: series_dimensions
 msgid "Series dimensions"
-msgstr ""
+msgstr "Series dimensions"
 
 #: category_dimensions
 msgid "Category dimensions"
-msgstr ""
+msgstr "Category dimensions"
 
 #: report_filter
 msgid "Report filter"
-msgstr ""
+msgstr "Report filter"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Time since last data update"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Revision"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Build time"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Username"
 
 #: no_values_found_for_current_selection
 msgid "No values found for the current selection"
-msgstr ""
+msgstr "No values found for the current selection"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: warning
 msgid "Warning"
-msgstr ""
+msgstr "Warning"
 
 #: event_data_items
 msgid "Event data items"
-msgstr ""
+msgstr "Event data items"
 
 #: program_indicators
 msgid "Program indicators"
-msgstr ""
+msgstr "Program indicators"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Program"
 
 #: select_program
 msgid "Select program"
-msgstr ""
+msgstr "Select program"
 
 #: completed_only
 msgid "Completed only"
-msgstr ""
+msgstr "Completed only"
 
 #: events
 msgid "Events"
-msgstr ""
+msgstr "Events"
 
 #: include_only_completed_events_only
 msgid "Include only completed events"
-msgstr ""
+msgstr "Include only completed events"

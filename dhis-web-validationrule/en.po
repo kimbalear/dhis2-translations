@@ -4,679 +4,705 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 03:01+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462849279.0\n"
 
 #: group_members
 msgid "Group Members"
-msgstr ""
+msgstr "Group Members"
 
 #: available_data_elements
 msgid "Available data elements"
-msgstr ""
+msgstr "Available data elements"
 
 #: saving_validation_rule_failed
 msgid "Saving Validation Rule failed"
-msgstr ""
+msgstr "Saving Validation Rule failed"
 
 #: operator
 msgid "Operator"
-msgstr ""
+msgstr "Operator"
 
 #: adding_validation_rule_failed
 msgid "Adding validation rule failed"
-msgstr ""
+msgstr "Adding validation rule failed"
 
 #: validation_failed
 msgid "Validation failed"
-msgstr ""
+msgstr "Validation failed"
 
 #: right_side
 msgid "Right side"
-msgstr ""
+msgstr "Right side"
 
 #: left_side
 msgid "Left side"
-msgstr ""
+msgstr "Left side"
 
 #: left_brackets
 msgid "Left brackets"
-msgstr ""
+msgstr "Left brackets"
 
 #: right_brackets
 msgid "Right brackets"
-msgstr ""
+msgstr "Right brackets"
 
 #: multiply
 msgid "Multiply"
-msgstr ""
+msgstr "Multiply"
 
 #: divide
 msgid "Divide"
-msgstr ""
+msgstr "Divide"
 
 #: plus
 msgid "Plus"
-msgstr ""
+msgstr "Plus"
 
 #: minus
 msgid "Minus"
-msgstr ""
+msgstr "Minus"
 
 #: no_of_days
 msgid "Number of days"
-msgstr ""
+msgstr "Number of days"
 
 #: specify_left_side
 msgid "Please specify the left side"
-msgstr ""
+msgstr "Please specify the left side"
 
 #: specify_right_side
 msgid "Please specify the right side"
-msgstr ""
+msgstr "Please specify the right side"
 
 #: specify_operator
 msgid "Please specify an operator"
-msgstr ""
+msgstr "Please specify an operator"
 
 #: specify_name
 msgid "Please specify a name"
-msgstr ""
+msgstr "Please specify a name"
 
 #: specify_a_start_date
 msgid "Please specify a start date"
-msgstr ""
+msgstr "Please specify a start date"
 
 #: specify_an_ending_date
 msgid "Please specify an ending date"
-msgstr ""
+msgstr "Please specify an ending date"
 
 #: specify_description
 msgctxt "specify_description"
 msgid "Please specify a description"
-msgstr ""
+msgstr "Please specify a description"
 
 #: specify_expression
 msgctxt "specify_expression"
 msgid "Please specify an expression"
-msgstr ""
+msgstr "Please specify an expression"
 
 #: enter_a_valid_start_date
 msgid "Please enter a valid start date"
-msgstr ""
+msgstr "Please enter a valid start date"
 
 #: enter_a_valid_ending_date
 msgid "Please enter a valid end date"
-msgstr ""
+msgstr "Please enter a valid end date"
 
 #: end_date_cannot_be_before_start_date
 msgid "End date can not be before start date"
-msgstr ""
+msgstr "End date can not be before start date"
 
 #: name_in_use
 msgid "The name is in use"
-msgstr ""
+msgstr "The name is in use"
 
 #: dataelements_left_must_be_type_integers
 msgid "The data elements on the left side must be of type numbers"
-msgstr ""
+msgstr "The data elements on the left side must be of type numbers"
 
 #: dataelements_right_must_be_type_integers
 msgid "The data elements on the right side must be of type numbers"
-msgstr ""
+msgstr "The data elements on the right side must be of type numbers"
 
 #: create_new_validation_rule
 msgid "Create new validation rule"
-msgstr ""
+msgstr "Create new validation rule"
 
 #: validate
 msgid "Validate"
-msgstr ""
+msgstr "Validate"
 
 #: confirm_delete_validation_rule
 msgid "Are you sure you want to delete the validation rule?"
-msgstr ""
+msgstr "Are you sure you want to delete the validation rule?"
 
 #: confirm_delete_validation_rule_group
 msgid "Are you sure you want to delete the validation rule group?"
-msgstr ""
+msgstr "Are you sure you want to delete the validation rule group?"
 
 #: edit_left_side
 msgid "Edit left side"
-msgstr ""
+msgstr "Edit left side"
 
 #: edit_right_side
 msgid "Edit right side"
-msgstr ""
+msgstr "Edit right side"
 
 #: select_operator
 msgid "Select operator"
-msgstr ""
+msgstr "Select operator"
 
 #: left
 msgid "Left"
-msgstr ""
+msgstr "Left"
 
 #: right
 msgid "Right"
-msgstr ""
+msgstr "Right"
 
 #: textual_expression_description
 msgid "Textual expression description"
-msgstr ""
+msgstr "Textual expression description"
 
 #: edit_validation_rule
 msgid "Edit validation rule"
-msgstr ""
+msgstr "Edit validation rule"
 
 #: validation_rule
 msgid "Validation Rule"
-msgstr ""
+msgstr "Validation Rule"
 
 #: run_validation
 msgid "Run validation"
-msgstr ""
+msgstr "Run validation"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: data_element
 msgid "Data element"
-msgstr ""
+msgstr "Data element"
 
 #: organisation_unit
 msgid "Organisation unit"
-msgstr ""
+msgstr "Organisation unit"
 
 #: period
 msgid "Period"
-msgstr ""
+msgstr "Period"
 
 #: source
 msgid "Source"
-msgstr ""
+msgstr "Source"
 
 #: done
 msgid "Done"
-msgstr ""
+msgstr "Done"
 
 #: validation
+#, fuzzy
 msgctxt "validation"
 msgid "Validation"
-msgstr ""
+msgstr "Validation"
 
 #: VALIDATION
+#, fuzzy
 msgctxt "VALIDATION"
 msgid "Validation"
-msgstr ""
+msgstr "Validation"
 
 #: data_quality_report
 msgid "Data quality report"
-msgstr ""
+msgstr "Data quality report"
 
 #: validation_result_details
 msgid "Validation result details"
-msgstr ""
+msgstr "Validation result details"
 
 #: validation_rule_
 msgid "Validation rule"
-msgstr ""
+msgstr "Validation rule"
 
 #: dataelement_id_not_numeric
 msgid "Data element identifier must be a number"
-msgstr ""
+msgstr "Data element identifier must be a number"
 
 #: category_option_combo_id_not_numeric
 msgid "Category option combo identifier must be a number"
-msgstr ""
+msgstr "Category option combo identifier must be a number"
 
 #: data_element_does_not_exist
 msgid "Identifier does not reference a data element"
-msgstr ""
+msgstr "Identifier does not reference a data element"
 
 #: category_option_combo_does_not_exist
 msgid "Identifier does not reference a category option combo"
-msgstr ""
+msgstr "Identifier does not reference a category option combo"
 
 #: expression_not_well_formed
 msgid "Expression is not well formed"
-msgstr ""
+msgstr "Expression is not well formed"
 
 #: everything_is_ok
 msgid "Everything is OK"
-msgstr ""
+msgstr "Everything is OK"
 
 #: validation_rule_group_management
 msgid "Validation rule group management"
-msgstr ""
+msgstr "Validation rule group management"
 
 #: validation_rule_management
 msgid "Validation rule management"
-msgstr ""
+msgstr "Validation rule management"
 
 #: validation_rule_group
 msgid "Validation Rule Group"
-msgstr ""
+msgstr "Validation Rule Group"
 
 #: create_new_validation_rule_group
 msgid "Create new validation rule group"
-msgstr ""
+msgstr "Create new validation rule group"
 
 #: available
 msgid "Available"
-msgstr ""
+msgstr "Available"
 
 #: selected
 msgid "Selected"
-msgstr ""
+msgstr "Selected"
 
 #: validation_rules
 msgid "Validation rules"
-msgstr ""
+msgstr "Validation rules"
 
 #: user_groups_to_alert
 msgid "User groups to alert"
-msgstr ""
+msgstr "User groups to alert"
 
 #: alert_by_org_units
 msgid "Alert only organisation unit related users"
-msgstr ""
+msgstr "Alert only organisation unit related users"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: available_validation_rules
 msgid "Available validation rules"
-msgstr ""
+msgstr "Available validation rules"
 
 #: edit_validation_rule_group
 msgid "Edit validation rule group"
-msgstr ""
+msgstr "Edit validation rule group"
 
 #: all_validation_rules
 msgid "All validation rules"
-msgstr ""
+msgstr "All validation rules"
 
 #: validation_alerts
 msgid "Validation alerts"
-msgstr ""
+msgstr "Validation alerts"
 
 #: validation_passed_successfully
 msgid "Validation passed successfully"
-msgstr ""
+msgstr "Validation passed successfully"
 
 #: from_date
 msgid "From date"
-msgstr ""
+msgstr "From date"
 
 #: to_date
 msgid "To date"
-msgstr ""
+msgstr "To date"
 
 #: std_dev
 msgid "Standard Deviation"
-msgstr ""
+msgstr "Standard Deviation"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Max"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Min"
 
 #: values_found
 msgid "values found"
-msgstr ""
+msgstr "values found"
 
 #: select_std_dev
 msgid "Select number of standard deviations"
-msgstr ""
+msgstr "Select number of standard deviations"
 
 #: select_parent_organisation_unit
 msgid "Select parent organisation unit"
-msgstr ""
+msgstr "Select parent organisation unit"
 
 #: outlier_analysis
 msgid "Outlier Analysis"
-msgstr ""
+msgstr "Outlier Analysis"
 
 #: no_values_found
 msgid "No values found"
-msgstr ""
+msgstr "No values found"
 
 #: intro_validation_rule
 msgid ""
 "Add, modify, view and delete validation rules. Anomalies can be discovered "
 "by running validation rules against the data."
 msgstr ""
+"Add, modify, view and delete validation rules. Anomalies can be discovered "
+"by running validation rules against the data."
 
 #: intro_validation_rule_group
 msgid ""
 "Add, modify, view and delete validation rule groups. Provides the ability to "
 "group and run validation rules together."
 msgstr ""
+"Add, modify, view and delete validation rule groups. Provides the ability to "
+"group and run validation rules together."
 
 #: intro_validation_rule_analysis
 msgid ""
 "Run validation rules in order to unveil anomalies and errors in the data in "
 "the database."
 msgstr ""
+"Run validation rules in order to unveil anomalies and errors in the data in "
+"the database."
 
 #: intro_stddevoutlier_analysis
 msgid ""
 "Analyze potential outlier values based on standard deviations. Outlier "
 "values can be examined and marked for follow-up."
 msgstr ""
+"Analyze potential outlier values based on standard deviations. Outlier "
+"values can be examined and marked for follow-up."
 
 #: intro_minmaxoutlier_analysis
 msgid ""
 "Analyze potential outlier values based on min and max values. Outlier values "
 "can be examined and marked for follow-up."
 msgstr ""
+"Analyze potential outlier values based on min and max values. Outlier values "
+"can be examined and marked for follow-up."
 
 #: intro_gap_analysis
 msgid ""
 "Perform analysis of potential missing values, referred to as gaps. Missing "
 "values can be entered or marked for follow-up."
 msgstr ""
+"Perform analysis of potential missing values, referred to as gaps. Missing "
+"values can be entered or marked for follow-up."
 
 #: intro_followup_analysis
 msgid ""
 "View or edit data values marked for further follow-up during data entry or "
 "analysis."
 msgstr ""
+"View or edit data values marked for further follow-up during data entry or "
+"analysis."
 
 #: value_must_be_a_number
 msgid "Value must be a number"
-msgstr ""
+msgstr "Value must be a number"
 
 #: value_is_lower_than_min_value
 msgid "Value is lower than minimum value"
-msgstr ""
+msgstr "Value is lower than minimum value"
 
 #: value_is_higher_than_max_value
 msgid "Value is higher than maximum value"
-msgstr ""
+msgstr "Value is higher than maximum value"
 
 #: mark
 msgid "Mark"
-msgstr ""
+msgstr "Mark"
 
 #: mark_value_for_followup
 msgid "Mark value for follow-up"
-msgstr ""
+msgstr "Mark value for follow-up"
 
 #: unmark_value_for_followup
 msgid "Unmark value for follow-up"
-msgstr ""
+msgstr "Unmark value for follow-up"
 
 #: data_analysis
 msgid "Data Analysis"
-msgstr ""
+msgstr "Data Analysis"
 
 #: data_analysis_report
 msgid "Data Analysis Report"
-msgstr ""
+msgstr "Data Analysis Report"
 
 #: stddevoutlier_analysis
 msgid "Std Dev Outlier Analysis"
-msgstr ""
+msgstr "Std Dev Outlier Analysis"
 
 #: minmaxoutlier_analysis
 msgid "Min-Max Outlier Analysis"
-msgstr ""
+msgstr "Min-Max Outlier Analysis"
 
 #: gap_analysis
 msgid "Gap Analysis"
-msgstr ""
+msgstr "Gap Analysis"
 
 #: followup_analysis
 msgid "Follow-Up Analysis"
-msgstr ""
+msgstr "Follow-Up Analysis"
 
 #: validation_rule_analysis
 msgid "Validation Rule Analysis"
-msgstr ""
+msgstr "Validation Rule Analysis"
 
 #: result
 msgid "result"
-msgstr ""
+msgstr "result"
 
 #: start
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 #: clear_expression
 msgid "Clear expression"
-msgstr ""
+msgstr "Clear expression"
 
 #: period_type
 msgid "Period type"
-msgstr ""
+msgstr "Period type"
 
 #: available_data_sets
 msgid "Available data sets"
-msgstr ""
+msgstr "Available data sets"
 
 #: selected_data_sets
 msgid "Selected data sets"
-msgstr ""
+msgstr "Selected data sets"
 
 #: analysing_data
 msgid "Analysing data"
-msgstr ""
+msgstr "Analysing data"
 
 #: data_source
 msgid "Data source"
-msgstr ""
+msgstr "Data source"
 
 #: use_captured_data
 msgid "Use captured data"
-msgstr ""
+msgstr "Use captured data"
 
 #: use_aggregated_data
 msgid "Use aggregated data"
-msgstr ""
+msgstr "Use aggregated data"
 
 #: aggregate_data_info
 msgid "Immediate children of the selected organisation unit will be included"
-msgstr ""
+msgstr "Immediate children of the selected organisation unit will be included"
 
 #: captured_data_info
 msgid "All children of the selected organisation unit will be included"
-msgstr ""
+msgstr "All children of the selected organisation unit will be included"
 
 #: method
 msgid "Method"
-msgstr ""
+msgstr "Method"
 
 #: see_statistics
 msgid "See statistics"
-msgstr ""
+msgstr "See statistics"
 
 #: description_not_null
 msgctxt "description_not_null"
 msgid "Please specify a description"
-msgstr ""
+msgstr "Please specify a description"
 
 #: expression_not_null
 msgctxt "expression_not_null"
 msgid "Please specify an expression"
-msgstr ""
+msgstr "Please specify an expression"
 
 #: number_of_members
 msgid "Number of members"
-msgstr ""
+msgstr "Number of members"
 
 #: specify_organisationunit_has_children
+#, fuzzy
 msgid "Please specify an organisationunit which has children."
-msgstr ""
+msgstr "Please specify an organisationunit which has children."
 
 #: get_report_as_xls
 msgid "Download as Excel"
-msgstr ""
+msgstr "Download as Excel"
 
 #: get_report_as_csv
 msgid "Download as CSV"
-msgstr ""
+msgstr "Download as CSV"
 
 #: get_report_as_pdf
 msgid "Download as PDF"
-msgstr ""
+msgstr "Download as PDF"
 
 #: max_values_exceeded
 msgid "More than 500 values found, please narrow the search to see all"
-msgstr ""
+msgstr "More than 500 values found, please narrow the search to see all"
 
 #: specify_dataset
 msgid "Please specify data sets"
-msgstr ""
+msgstr "Please specify data sets"
 
 #: analysing_please_wait
+#, fuzzy
 msgid "Analysing data, please wait"
-msgstr ""
+msgstr "Analysing data, please wait"
 
 #: skip_for_missing_values
 msgid "Skip for missing values"
-msgstr ""
+msgstr "Skip for missing values"
 
 #: select_parameters
 msgid "Select parameters"
-msgstr ""
+msgstr "Select parameters"
 
 #: compulsory_pair
 msgid "Compulsory pair"
-msgstr ""
+msgstr "Compulsory pair"
 
 #: visible_in_validation_alerts
 msgid "visible in validation alerts"
-msgstr ""
+msgstr "visible in validation alerts"
 
 #: tip
 msgid "Tip"
-msgstr ""
+msgstr "Tip"
 
 #: use
 msgid "use"
-msgstr ""
+msgstr "use"
 
 #: importance
 msgid "Importance"
-msgstr ""
+msgstr "Importance"
 
 #: high
+#, fuzzy
 msgctxt "high"
 msgid "High"
-msgstr ""
+msgstr "High"
 
 #: medium
+#, fuzzy
 msgctxt "medium"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #: low
+#, fuzzy
 msgctxt "low"
 msgid "Low"
-msgstr ""
+msgstr "Low"
 
 #: HIGH
+#, fuzzy
 msgctxt "HIGH"
 msgid "High"
-msgstr ""
+msgstr "High"
 
 #: MEDIUM
+#, fuzzy
 msgctxt "MEDIUM"
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #: LOW
+#, fuzzy
 msgctxt "LOW"
 msgid "Low"
-msgstr ""
+msgstr "Low"
 
 #: rule_type
 msgid "Rule type"
-msgstr ""
+msgstr "Rule type"
 
 #: surveillance
 msgctxt "surveillance"
 msgid "Surveillance"
-msgstr ""
+msgstr "Surveillance"
 
 #: SURVEILLANCE
 msgctxt "SURVEILLANCE"
 msgid "Surveillance"
-msgstr ""
+msgstr "Surveillance"
 
 #: attributes
 msgid "Attributes"
-msgstr ""
+msgstr "Attributes"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
-msgstr ""
+msgstr "Organisation unit level"
 
 #: select_level
 msgid "Select level"
-msgstr ""
+msgstr "Select level"
 
 #: sequential_sample_count
 msgid "Sequential sample count"
-msgstr ""
+msgstr "Sequential sample count"
 
 #: annual_sample_count
 msgid "Annual sample count"
-msgstr ""
+msgstr "Annual sample count"
 
 #: high_outliers
 msgid "High outliers"
-msgstr ""
+msgstr "High outliers"
 
 #: low_outliers
 msgid "Low outliers"
-msgstr ""
+msgstr "Low outliers"
 
 #: number_of_user_groups_to_alert
 msgid "Number of user groups to alert"
-msgstr ""
+msgstr "Number of user groups to alert"
 
 #: send_alerts
 msgid "Send alerts"
-msgstr ""
+msgstr "Send alerts"
 
 #: visible_when_rule_is_violated
 msgid "visible when rule is violated"
-msgstr ""
+msgstr "visible when rule is violated"
 
 #: instruction
 msgid "Instruction"
-msgstr ""
+msgstr "Instruction"
 
 #: skip_if_any_value_is_missing
 msgid "Skip if any value is missing"
-msgstr ""
+msgstr "Skip if any value is missing"
 
 #: skip_if_all_values_are_missing
 msgid "Skip if all values are missing"
-msgstr ""
+msgstr "Skip if all values are missing"
 
 #: never_skip
 msgid "Never skip"
-msgstr ""
+msgstr "Never skip"
 
 #: no_organisation_unit_selected
 msgid "No organisation unit selected"
-msgstr ""
+msgstr "No organisation unit selected"

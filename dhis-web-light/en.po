@@ -4,623 +4,631 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 05:21+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462857675.0\n"
 
 #: DHIS_2
+#, fuzzy
 msgid "DHIS2"
-msgstr ""
+msgstr "DHIS 2"
 
 #: menu
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: navigate_to
 msgid "Navigate to"
-msgstr ""
+msgstr "Navigate to"
 
 #: reports
 msgid "Reports"
-msgstr ""
+msgstr "Reports"
 
 #: charts
 msgid "Charts"
-msgstr ""
+msgstr "Charts"
 
 #: documents
 msgid "Documents"
-msgstr ""
+msgstr "Documents"
 
 #: dashboard
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: dashboard_reports
 msgid "Dashboard reports"
-msgstr ""
+msgstr "Dashboard reports"
 
 #: dashboard_charts
 msgid "Dashboard charts"
-msgstr ""
+msgstr "Dashboard charts"
 
 #: dashboard_documents
 msgid "Dashboard documents"
-msgstr ""
+msgstr "Dashboard documents"
 
 #: data_entry
 msgid "Data Entry"
-msgstr ""
+msgstr "Data Entry"
 
 #: namebased_data_entry
+#, fuzzy
 msgid "Namebased Data Entry"
-msgstr ""
+msgstr "Name-based Data Entry"
 
 #: data_entry_overview
 msgid "Data Entry Overview"
-msgstr ""
+msgstr "Data Entry Overview"
 
 #: logout
 msgid "Logout"
-msgstr ""
+msgstr "Logout"
 
 #: desktop_version
 msgid "Desktop version"
-msgstr ""
+msgstr "Desktop version"
 
 #: report_table_parameters
 msgid "Report parameters"
-msgstr ""
+msgstr "Report parameters"
 
 #: get_report
 msgid "Get report"
-msgstr ""
+msgstr "Get report"
 
 #: reporting_period
 msgid "Report period"
-msgstr ""
+msgstr "Report period"
 
 #: select_organisation_unit
 msgid "Please select organisation unit"
-msgstr ""
+msgstr "Please select organisation unit"
 
 #: available_datasets
 msgid "Available data sets"
-msgstr ""
+msgstr "Available data sets"
 
 #: available_organisation_units
 msgid "Available organisation units"
-msgstr ""
+msgstr "Available organisation units"
 
 #: available_periods
 msgid "Available periods"
-msgstr ""
+msgstr "Available periods"
 
 #: settings
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: language
 msgid "Interface Language"
-msgstr ""
+msgstr "Interface Language"
 
 #: is_invalid_boolean
 msgid "is not a valid boolean"
-msgstr ""
+msgstr "is not a valid boolean"
 
 #: is_invalid_date
 msgid "is not a valid date (yyyy-MM-dd)"
-msgstr ""
+msgstr "is not a valid date (yyyy-MM-dd)"
 
 #: is_invalid_number
 msgid "is not a valid number"
-msgstr ""
+msgstr "is not a valid number"
 
 #: is_invalid_integer
 msgid "is not a valid integer"
-msgstr ""
+msgstr "is not a valid integer"
 
 #: is_invalid_positive_integer
 msgid "is not a valid positive integer"
-msgstr ""
+msgstr "is not a valid positive integer"
 
 #: is_invalid_zero_or_positive_integer
 msgid "is not a valid zero or positive integer"
-msgstr ""
+msgstr "is not a valid zero or positive integer"
 
 #: is_invalid_negative_integer
 msgid "is not a valid negative integer"
-msgstr ""
+msgstr "is not a valid negative integer"
 
 #: is_invalid_name
 msgid "is not a valid name"
-msgstr ""
+msgstr "is not a valid name"
 
 #: is_invalid_name_length
 msgid "needs to be 7 or more characters"
-msgstr ""
+msgstr "needs to be 7 or more characters"
 
 #: is_mandatory
 msgid "is a mandatory field"
-msgstr ""
+msgstr "is a mandatory field"
 
 #: is_duplicate
 msgid "person identifier number is duplicated"
-msgstr ""
+msgstr "person identifier number is duplicated"
 
 #: warnings_and_errors
 msgid "Warnings and errors"
-msgstr ""
+msgstr "Warnings and errors"
 
 #: validation_rule_violation_warnings
 msgid "Validation Rule Violation Warnings"
-msgstr ""
+msgstr "Validation Rule Violation Warnings"
 
 #: minmax_violation_warnings
 msgid "Min/Max Violation Warnings"
-msgstr ""
+msgstr "Min/Max Violation Warnings"
 
 #: type_violation_errors
 msgid "Type Violation Errors"
-msgstr ""
+msgstr "Type Violation Errors"
 
 #: messages
 msgid "Messages"
-msgstr ""
+msgstr "Messages"
 
 #: conversations
 msgid "Conversations"
-msgstr ""
+msgstr "Conversations"
 
 #: subject
 msgid "Subject"
-msgstr ""
+msgstr "Subject"
 
 #: reply
 msgid "Reply"
-msgstr ""
+msgstr "Reply"
 
 #: form_complete
 msgid "Form complete"
-msgstr ""
+msgstr "Form complete"
 
 #: completed
 msgid "Completed"
-msgstr ""
+msgstr "Completed"
 
 #: complete_programs
 msgid "Completed Programs"
-msgstr ""
+msgstr "Completed Programs"
 
 #: saved_section
 msgid "Saved Section"
-msgstr ""
+msgstr "Saved Section"
 
 #: sections
 msgid "Sections"
-msgstr ""
+msgstr "Sections"
 
 #: current_activityplan
 msgid "Current Activity Plan"
-msgstr ""
+msgstr "Current Activity Plan"
 
 #: all_activityplan
 msgid "All Activity Plan"
-msgstr ""
+msgstr "All Activity Plan"
 
 #: activity_type
 msgid "Activity Type"
-msgstr ""
+msgstr "Activity Type"
 
 #: beneficiary_list
 msgid "Person List"
-msgstr ""
+msgstr "Person List"
 
 #: activity_list
 msgid "Activity List"
-msgstr ""
+msgstr "Activity List"
 
 #: successfully_saved
 msgid "Successfully Saved"
-msgstr ""
+msgstr "Successfully Saved"
 
 #: select_option
 msgid "Select Option"
-msgstr ""
+msgstr "Select Option"
 
 #: option_set_searching_result
 msgid "Option Set Searching Result"
-msgstr ""
+msgstr "Option Set Searching Result"
 
 #: search_for
 msgid "Searching for"
-msgstr ""
+msgstr "Searching for"
 
 #: id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: gender
 msgid "Gender"
-msgstr ""
+msgstr "Gender"
 
 #: date_of_birth
 msgid "Date of Birth"
-msgstr ""
+msgstr "Date of Birth"
 
 #: blood_group
 msgid "Blood Group"
-msgstr ""
+msgstr "Blood Group"
 
 #: details_for
 msgid "Detail For"
-msgstr ""
+msgstr "Detail For"
 
 #: organisation_unit
 msgctxt "organisation_unit"
 msgid "Organisation Unit"
-msgstr ""
+msgstr "Organisation Unit"
 
 #: beneficiary_registration
 msgid "Person Registration"
-msgstr ""
+msgstr "Person Registration"
 
 #: full_name
 msgid "Full Name"
-msgstr ""
+msgstr "Full Name"
 
 #: male
 msgid "Male"
-msgstr ""
+msgstr "Male"
 
 #: female
 msgid "Female"
-msgstr ""
+msgstr "Female"
 
 #: transgender
 msgid "Transgender"
-msgstr ""
+msgstr "Transgender"
 
 #: is_empty
 msgid "Empty Field"
-msgstr ""
+msgstr "Empty Field"
 
 #: beneficiary_enrollment
 msgid "Person Enrollment"
-msgstr ""
+msgstr "Person Enrollment"
 
 #: beneficiary_search
 msgid "Person Search"
-msgstr ""
+msgstr "Person Search"
 
 #: beneficiary_name
 msgid "Person Name"
-msgstr ""
+msgstr "Person Name"
 
 #: search_result_for
 msgid "Search Result for"
-msgstr ""
+msgstr "Search Result for"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "Search"
 
 #: enrolled_programs
 msgid "Enrolled Program(s)"
-msgstr ""
+msgstr "Enrolled Program(s)"
 
 #: other_programs
 msgid "Other Programs"
-msgstr ""
+msgstr "Other Programs"
 
 #: available_programs
 msgid "Available Programs"
-msgstr ""
+msgstr "Available Programs"
 
 #: no_enrolled_programs
 msgid "No Enrolled Programs"
-msgstr ""
+msgstr "No Enrolled Programs"
 
 #: no_completed_programs
 msgid "No Completed Programs"
-msgstr ""
+msgstr "No Completed Programs"
 
 #: enroll
 msgid "Enroll"
-msgstr ""
+msgstr "Enroll"
 
 #: enrollment_date
 msgid "Enrollment Date"
-msgstr ""
+msgstr "Enrollment Date"
 
 #: incident_date
 msgid "Incident Date"
-msgstr ""
+msgstr "Incident Date"
 
 #: program_list
 msgid "Program List"
-msgstr ""
+msgstr "Program List"
 
 #: single_event
 msgid "Single Event"
-msgstr ""
+msgstr "Single Event"
 
 #: single_event_list
 msgid "Single Event List"
-msgstr ""
+msgstr "Single Event List"
 
 #: back_single_event_form
 msgid "Back To Single Event Form"
-msgstr ""
+msgstr "Back To Single Event Form"
 
 #: tracking
 msgid "Tracking"
-msgstr ""
+msgstr "Tracking"
 
 #: find_beneficiary
 msgid "Find Person"
-msgstr ""
+msgstr "Find Person"
 
 #: activity_plan
 msgid "Activity Plan"
-msgstr ""
+msgstr "Activity Plan"
 
 #: search_by_name_or_id
 msgid "Search By Name or ID or Phone Number"
-msgstr ""
+msgstr "Search By Name or ID or Phone Number"
 
 #: select_orgunit
 msgid "Select Organisation Unit"
-msgstr ""
+msgstr "Select Organisation Unit"
 
 #: all_orgunit
+#, fuzzy
 msgid "All Organisation Unit"
-msgstr ""
+msgstr "All Organisation Unit"
 
 #: tracking_menu
 msgid "Tracking Menu"
-msgstr ""
+msgstr "Tracking Menu"
 
 #: due_date
 msgid "Due Date"
-msgstr ""
+msgstr "Due Date"
 
 #: register_due_date_for
 msgid "Register Due Date For"
-msgstr ""
+msgstr "Register Due Date For"
 
 #: schedule
 msgid "Schedule"
-msgstr ""
+msgstr "Schedule"
 
 #: schedule_visit
 msgid "Schedule Visit"
-msgstr ""
+msgstr "Schedule Visit"
 
 #: do_not_schedule_visit
 msgid "Do Not Schedule Visit"
-msgstr ""
+msgstr "Do Not Schedule Visit"
 
 #: register
 msgid "Register"
-msgstr ""
+msgstr "Register"
 
 #: please_select
 msgid "Please Select"
-msgstr ""
+msgstr "Please Select"
 
 #: enroll_in_program
 msgid "Enroll In Program"
-msgstr ""
+msgstr "Enroll In Program"
 
 #: relationships
 msgid "Relationships"
-msgstr ""
+msgstr "Relationships"
 
 #: no_relationships
 msgid "No Relationships"
-msgstr ""
+msgstr "No Relationships"
 
 #: phone_number
 msgid "Phone Number"
-msgstr ""
+msgstr "Phone Number"
 
 #: add_relationships
 msgid "Add Relationships"
-msgstr ""
+msgstr "Add Relationships"
 
 #: related_person_search
 msgid "Related Person Search"
-msgstr ""
+msgstr "Related Person Search"
 
 #: related_person_list
 msgid "Related Person List"
-msgstr ""
+msgstr "Related Person List"
 
 #: add_relationship
 msgid "Add Relationship"
-msgstr ""
+msgstr "Add Relationship"
 
 #: anonymous_menu
 msgid "Anonymous Menu"
-msgstr ""
+msgstr "Anonymous Menu"
 
 #: date_of_birth_type
 msgid "Date of Birth Type"
-msgstr ""
+msgstr "Date of Birth Type"
 
 #: approximated
 msgid "Approximated"
-msgstr ""
+msgstr "Approximated"
 
 #: declared
 msgid "Declared"
-msgstr ""
+msgstr "Declared"
 
 #: verified
 msgid "Verified"
-msgstr ""
+msgstr "Verified"
 
 #: anomynous_program_list
 msgid "Anonymous Program List"
-msgstr ""
+msgstr "Anonymous Program List"
 
 #: orgunit
 msgctxt "orgunit"
 msgid "Organisation Unit"
-msgstr ""
+msgstr "Organisation Unit"
 
 #: change
 msgid "Change"
-msgstr ""
+msgstr "Change"
 
 #: register_location_for
 msgid "Register Location For"
-msgstr ""
+msgstr "Register Location For"
 
 #: agregate_reporting
 msgid "Aggregate Reporting"
-msgstr ""
+msgstr "Aggregate Reporting"
 
 #: find_or_add_person
 msgid "Find/Add Person"
-msgstr ""
+msgstr "Find/Add Person"
 
 #: search_by_phone_number
 msgid "Search By Phone Number"
-msgstr ""
+msgstr "Search By Phone Number"
 
 #: age_or_dob
 msgid "Age/Date of Birth"
-msgstr ""
+msgstr "Age/Date of Birth"
 
 #: dead
 msgid "Dead"
-msgstr ""
+msgstr "Dead"
 
 #: status
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: visit_schedule
 msgid "Visit Schedule"
-msgstr ""
+msgstr "Visit Schedule"
 
 #: visit_schedule_type
 msgid "Visit Schedule Type"
-msgstr ""
+msgstr "Visit Schedule Type"
 
 #: or_register_new_person
 msgid "or register new person"
-msgstr ""
+msgstr "or register new person"
 
 #: invalid_phone_number
 msgid "invalid phone number"
-msgstr ""
+msgstr "invalid phone number"
 
 #: save_any_way
 msgid "Save anyway"
-msgstr ""
+msgstr "Save anyway"
 
 #: form_in_complete
+#, fuzzy
 msgid "Form InComplete"
-msgstr ""
+msgstr "Form InComplete"
 
 #: allow_provided_elsewhere
 msgid "Provided elsewhere"
-msgstr ""
+msgstr "Provided elsewhere"
 
 #: search_user
 msgid "Search user by name"
-msgstr ""
+msgstr "Search user by name"
 
 #: last_recipients
 msgid "Last recipients"
-msgstr ""
+msgstr "Last recipients"
 
 #: search_orgunit
 msgid "Search Organisation Unit"
-msgstr ""
+msgstr "Search Organisation Unit"
 
 #: date_of_birth_hint
 msgid ""
 "*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
 "mm-dd]"
 msgstr ""
+"*Approximated: enter age. Declared or Verified: enter date in format [yyyy-"
+"mm-dd]"
 
 #: select_attribute
 msgid "Select attribute"
-msgstr ""
+msgstr "Select attribute"
 
 #: tracked_entity
 msgid "Tracked entity"
-msgstr ""
+msgstr "Tracked entity"
 
 #: write
 msgid "Write"
-msgstr ""
+msgstr "Write"
 
 #: write_message
 msgid "Write Message"
-msgstr ""
+msgstr "Write Message"
 
 #: write_feedback
 msgid "Write Feedback"
-msgstr ""
+msgstr "Write Feedback"
 
 #: write_new_message
 msgid "Write new message"
-msgstr ""
+msgstr "Write new message"
 
 #: write_to_users
 msgid "To User(s):"
-msgstr ""
+msgstr "To User(s):"
 
 #: write_add_to_recipients
 msgid "Add to Recipient(s)"
-msgstr ""
+msgstr "Add to Recipient(s)"
 
 #: interpretations
 msgid "Interpretations"
-msgstr ""
+msgstr "Interpretations"
 
 #: interpretation
 msgid "Interpretation"
-msgstr ""
+msgstr "Interpretation"
 
 #: interpretations_support
 msgid "Only charts are currently supported for interpretations."
-msgstr ""
+msgstr "Only charts are currently supported for interpretations."
 
 #: interpretation_comment
 msgid "Comment(s):"
-msgstr ""
+msgstr "Comment(s):"
 
 #: interpretation_add_comment
 msgid "Add a comment"
-msgstr ""
+msgstr "Add a comment"
 
 #: interpretation_post_comment
 msgid "Post comment"
-msgstr ""
+msgstr "Post comment"
 
 #: interpretation_share
 msgid "Share interpretation"
-msgstr ""
+msgstr "Share interpretation"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "Chart"

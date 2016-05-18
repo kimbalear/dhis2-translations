@@ -4,625 +4,638 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 05:54+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462859650.0\n"
 
 #: intro_sms_service_configuration
 msgid "Configure SMS service"
-msgstr ""
+msgstr "Configure SMS service"
 
 #: intro_view_sent_sms
 msgid "List and delete SMS which were sent or scheduled in the system."
-msgstr ""
+msgstr "List and delete SMS which were sent or scheduled in the system."
 
 #: intro_show_receive_sms_form
 msgid "List and delete SMS which the system received from other system."
-msgstr ""
+msgstr "List and delete SMS which the system received from other system."
 
 #: intro_sms_command_form
+#, fuzzy
 msgid "Create, ppdate, view and delete command of SMS received."
-msgstr ""
+msgstr "Create, update, view and delete command of SMS received."
 
 #: intro_j2me_client_update
 msgid "J2ME Client Update Configuration "
-msgstr ""
+msgstr "J2ME Client Update Configuration "
 
 #: patient_mobile_setting
 msgid "Person Mobile Settings"
-msgstr ""
+msgstr "Person Mobile Settings"
 
 #: gender
 msgid "Gender"
-msgstr ""
+msgstr "Gender"
 
 #: dob_type
 msgid "DoB Type"
-msgstr ""
+msgstr "DoB Type"
 
 #: date_of_birth
 msgid "Date of Birth"
-msgstr ""
+msgstr "Date of Birth"
 
 #: blood_group
 msgid "Blood Group"
-msgstr ""
+msgstr "Blood Group"
 
 #: registration_date
 msgid "Registration Date"
-msgstr ""
+msgstr "Registration Date"
 
 #: activity_grouping_attribute
 msgid "Activity Grouping Attribute"
-msgstr ""
+msgstr "Activity Grouping Attribute"
 
 #: available_patient_attributes
 msgid "Available Patient Attributes"
-msgstr ""
+msgstr "Available Patient Attributes"
 
 #: filter
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: selected_patient_attributes
 msgid "Selected Patient Attributes"
-msgstr ""
+msgstr "Selected Patient Attributes"
 
 #: available_datasets
+#, fuzzy
 msgid "Available DataSets"
-msgstr ""
+msgstr "Available Data Sets"
 
 #: mobile_configuration
 msgid "Mobile Configuration"
-msgstr ""
+msgstr "Mobile Configuration"
 
 #: sms_service_configuration
 msgid "SMS Service Configuration"
-msgstr ""
+msgstr "SMS Service Configuration"
 
 #: service_status
 msgid "Service Status"
-msgstr ""
+msgstr "Service Status"
 
 #: status
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: no.
+#, fuzzy
 msgid "No."
-msgstr ""
+msgstr "No."
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: check_all
 msgid "Click Here To Check All"
-msgstr ""
+msgstr "Click Here To Check All"
 
 #: error_delete
 msgid "Please check before delete"
-msgstr ""
+msgstr "Please check before delete"
 
 #: required_data_error
 msgid "Please fill in required fields (*)"
-msgstr ""
+msgstr "Please fill in required fields (*)"
 
 #: new_message
 msgid "You have new messages, press F5 to view them"
-msgstr ""
+msgstr "You have new messages, press F5 to view them"
 
 #: sms_service_is_runnning
 msgid "SMS Service is running"
-msgstr ""
+msgstr "SMS Service is running"
 
 #: sms_service_is_stopped
 msgctxt "sms_service_is_stopped"
 msgid "SMS Service is stopped"
-msgstr ""
+msgstr "SMS Service is stopped"
 
 #: reload_configuration
 msgid "Reload Configuration"
-msgstr ""
+msgstr "Reload Configuration"
 
 #: stop_sms_service
 msgid "Stop SMS Service"
-msgstr ""
+msgstr "Stop SMS Service"
 
 #: configuration
 msgid "Configuration"
-msgstr ""
+msgstr "Configuration"
 
 #: polling_interval_in_seconds
 msgid "Polling interval in seconds"
-msgstr ""
+msgstr "Polling interval in seconds"
 
 #: server_phone_number
 msgid "Server Phone Number"
-msgstr ""
+msgstr "Server Phone Number"
 
 #: gateways
 msgid "Gateways"
-msgstr ""
+msgstr "Gateways"
 
 #: operation
 msgid "Operation"
-msgstr ""
+msgstr "Operation"
 
 #: gateway_type
 msgid "Gateway Type"
-msgstr ""
+msgstr "Gateway Type"
 
 #: list_sent_SMS
 msgid "List of Sent SMS"
-msgstr ""
+msgstr "List of Sent SMS"
 
 #: sent
 msgid "Sent"
-msgstr ""
+msgstr "Sent"
 
 #: all
 msgid "All"
-msgstr ""
+msgstr "All"
 
 #: filter_by_status
 msgid "Filter by Status"
-msgstr ""
+msgstr "Filter by Status"
 
 #: add_gateway
 msgid "Add Gateway"
-msgstr ""
+msgstr "Add Gateway"
 
 #: type
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: gateway_configuration
 msgid "Gateway Configuration"
-msgstr ""
+msgstr "Gateway Configuration"
 
 #: gateway_name
 msgid "Gateway Name"
-msgstr ""
+msgstr "Gateway Name"
 
 #: username
+#, fuzzy
 msgid "User name"
-msgstr ""
+msgstr "Username"
 
 #: password
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: port
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #: baudrate
 msgid "BaudRate"
-msgstr ""
+msgstr "BaudRate"
 
 #: manufacturer
 msgid "Manufacturer"
-msgstr ""
+msgstr "Manufacturer"
 
 #: model
 msgid "Model"
-msgstr ""
+msgstr "Model"
 
 #: pin
 msgid "PIN"
-msgstr ""
+msgstr "PIN"
 
 #: inbound
 msgid "Inbound"
-msgstr ""
+msgstr "Inbound"
 
 #: outbound
 msgid "Outbound"
-msgstr ""
+msgstr "Outbound"
 
 #: api_id
 msgid "API ID"
-msgstr ""
+msgstr "API ID"
 
 #: outboundsms_saved
 msgid "The gateway details have been saved, but no message was sent."
-msgstr ""
+msgstr "The gateway details have been saved, but no message was sent."
 
 #: save_settings
 msgid "Save Settings"
-msgstr ""
+msgstr "Save Settings"
 
 #: add_gw
 msgid "Add gateway"
-msgstr ""
+msgstr "Add gateway"
 
 #: start_sms_service
 msgid "Start SMS Service"
-msgstr ""
+msgstr "Start SMS Service"
 
 #: show_send_sms_form
 msgid "Send SMS"
-msgstr ""
+msgstr "Send SMS"
 
 #: bulk_gw
 msgid "BulkSMS Gateway"
-msgstr ""
+msgstr "BulkSMS Gateway"
 
 #: clickatell_gw
 msgid "Clickatell Gateway"
-msgstr ""
+msgstr "Clickatell Gateway"
 
 #: generic_http_gw
 msgid "Generic HTTP Gateway"
-msgstr ""
+msgstr "Generic HTTP Gateway"
 
 #: url_template
 msgid "URL Template"
-msgstr ""
+msgstr "URL Template"
 
 #: modem_gw
 msgid "Modem Gateway"
-msgstr ""
+msgstr "Modem Gateway"
 
 #: add_update_gateway_success
 msgid "The gateway was added/updated successfully."
-msgstr ""
+msgstr "The gateway was added/updated successfully."
 
 #: add_update_gateway_management
 msgid "Gateway Configuration Management"
-msgstr ""
+msgstr "Gateway Configuration Management"
 
 #: confirm_delete_gateway
 msgid "Do you want to delete this gateway configuration?"
-msgstr ""
+msgstr "Do you want to delete this gateway configuration?"
 
 #: confirm_delete_sms
 msgid "Do you want to delete this SMS?"
-msgstr ""
+msgstr "Do you want to delete this SMS?"
 
 #: confirm_delete_items
 msgid "Do you want to delete those items?"
-msgstr ""
+msgstr "Do you want to delete those items?"
 
 #: smsconfiguration_not_available
 msgid "SMS Configuration is not available"
-msgstr ""
+msgstr "SMS Configuration is not available"
 
 #: outboundsmsservice_is_null_or_unable
 msgid "SMS Service is not available or unable to be started."
-msgstr ""
+msgstr "SMS Service is not available or unable to be started."
 
 #: service_started
 msgid "SMS Service is started"
-msgstr ""
+msgstr "SMS Service is started"
 
 #: service_starting
 msgid "SMS Service is starting"
-msgstr ""
+msgstr "SMS Service is starting"
 
 #: service_stopped
 msgctxt "service_stopped"
 msgid "SMS Service is stopped"
-msgstr ""
+msgstr "SMS Service is stopped"
 
 #: service_stopping
 msgid "SMS Service is stopping"
-msgstr ""
+msgstr "SMS Service is stopping"
 
 #: message
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: show_receive_sms_form
 msgid "View Received SMS"
-msgstr ""
+msgstr "View Received SMS"
 
 #: update_success
 msgid "Update Successfully"
-msgstr ""
+msgstr "Update Successfully"
 
 #: config_my_gateway
 msgid "Configure My Gateway"
-msgstr ""
+msgstr "Configure My Gateway"
 
 #: delete_checked_option
 msgid "Delete Checked Options"
-msgstr ""
+msgstr "Delete Checked Options"
 
 #: import
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 #: unable_load_gateway
 msgid "Unable to load gateway"
-msgstr ""
+msgstr "Unable to load gateway"
 
 #: unable_start_smslib_service
 msgid "Unable to start smsLib service"
-msgstr ""
+msgstr "Unable to start smsLib service"
 
 #: unable_stop_smslib_service
 msgid "Unable to stop smsLib service"
-msgstr ""
+msgstr "Unable to stop smsLib service"
 
 #: sms_unable_or_there_is_no_gateway_service_not_started
 msgid ""
 "SMS Service is not enabled or no gateway has been specified.\n"
 "SMS Service will not be started."
 msgstr ""
+"SMS Service is not enabled or no gateway has been specified.\n"
+"SMS Service will not be started."
 
 #: unable_load_configuration_cause_of_there_is_no_gateway
 msgid "Unable to load the configuration because there is no gateway."
-msgstr ""
+msgstr "Unable to load the configuration because there is no gateway."
 
 #: sms_configuration_not_initialized
 msgid ""
 "SMS Service is not initialized.\n"
 "Please fill in two fields as below then click \"Save Settings\"."
 msgstr ""
+"SMS Service is not initialized.\n"
+"Please fill in two fields as below then click \"Save Settings\"."
 
 #: sms_command_form
 msgid "SMS Commands"
-msgstr ""
+msgstr "SMS Commands"
 
 #: add_command
 msgid "Add command"
-msgstr ""
+msgstr "Add command"
 
 #: command_details
 msgid "Command Details"
-msgstr ""
+msgstr "Command Details"
 
 #: region
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 #: international
 msgid "International"
-msgstr ""
+msgstr "International"
 
 #: uk
 msgid "United Kingdom"
-msgstr ""
+msgstr "United Kingdom"
 
 #: south_africa
 msgid "South Africa"
-msgstr ""
+msgstr "South Africa"
 
 #: spain
 msgid "Spain"
-msgstr ""
+msgstr "Spain"
 
 #: usa
 msgid "USA"
-msgstr ""
+msgstr "USA"
 
 #: germany
 msgid "Germany"
-msgstr ""
+msgstr "Germany"
 
 #: j2me_client_update
 msgid "J2ME Client Update"
-msgstr ""
+msgstr "J2ME Client Update"
 
 #: j2me_client_update_config
 msgid "J2ME Client Update Configuration"
-msgstr ""
+msgstr "J2ME Client Update Configuration"
 
 #: auto_update_client
 msgid "Automatic update for J2ME clients"
-msgstr ""
+msgstr "Automatic update for J2ME clients"
 
 #: client_older_than
 msgid "Update to clients older than version"
-msgstr ""
+msgstr "Update to clients older than version"
 
 #: smpp_gw
 msgid "SMPP gateway"
-msgstr ""
+msgstr "SMPP gateway"
 
 #: processing
 msgid "Processing"
-msgstr ""
+msgstr "Processing"
 
 #: mark_as_default
 msgid "Mark as default"
-msgstr ""
+msgstr "Mark as default"
 
 #: view_sent_sms
 msgid "View Sent SMS"
-msgstr ""
+msgstr "View Sent SMS"
 
 #: receipient
 msgid "Recipient"
-msgstr ""
+msgstr "Recipient"
 
 #: action
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #: incoming
 msgid "Incoming"
-msgstr ""
+msgstr "Incoming"
 
 #: processed
 msgid "Processed"
-msgstr ""
+msgstr "Processed"
 
 #: failed
 msgid "Failed"
-msgstr ""
+msgstr "Failed"
 
 #: unhandled
 msgid "Unhandled"
-msgstr ""
+msgstr "Unhandled"
 
 #: reimport_confirm
 msgid "Are you sure you want to re-import this SMS?"
-msgstr ""
+msgstr "Are you sure you want to re-import this SMS?"
 
 #: edit_command
 msgid "Edit SMS command"
-msgstr ""
+msgstr "Edit SMS command"
 
 #: data_element_category_combination
 msgid "Data Element Category Combination"
-msgstr ""
+msgstr "Data Element Category Combination"
 
 #: sms_command_validation_alert
 msgid "Fix validation problems before you save"
-msgstr ""
+msgstr "Fix validation problems before you save"
 
 #: command_management
 msgid "Command management"
-msgstr ""
+msgstr "Command management"
 
 #: dataset
+#, fuzzy
 msgid "Data set"
-msgstr ""
+msgstr "Data Set"
 
 #: parser
 msgid "Parser"
-msgstr ""
+msgstr "Parser"
 
 #: userGroup
 msgid "User Group"
-msgstr ""
+msgstr "User Group"
 
 #: selected_dataset
+#, fuzzy
 msgid "Selected data set"
-msgstr ""
+msgstr "Selected Data Set"
 
 #: code_value_separator
 msgid "Code and value Separator"
-msgstr ""
+msgstr "Code and value Separator"
 
 #: no_codes_message
 msgid "Reply message if no codes are sent (only the command)"
-msgstr ""
+msgstr "Reply message if no codes are sent (only the command)"
 
 #: validation_error_space
 msgid "*White space not allowed"
-msgstr ""
+msgstr "*White space not allowed"
 
 #: key_value_parser
 msgctxt "key_value_parser"
 msgid "Key Value Parser"
-msgstr ""
+msgstr "Key Value Parser"
 
 #: j2me_parser
 msgctxt "j2me_parser"
 msgid "J2ME Parser"
-msgstr ""
+msgstr "J2ME Parser"
 
 #: mobile_phones_pattern
 msgid "Mobile Phones Pattern"
-msgstr ""
+msgstr "Mobile Phones Pattern"
 
 #: phone_number
 msgid "Phone Number"
-msgstr ""
+msgstr "Phone Number"
 
 #: filter_by_phone_number
 msgid "Filter by Phone Number"
-msgstr ""
+msgstr "Filter by Phone Number"
 
 #: total_number_of_result
 msgid "Total Number of Result"
-msgstr ""
+msgstr "Total Number of Result"
 
 #: special_characters
 msgid "Special Characters"
-msgstr ""
+msgstr "Special Characters"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: add_more
 msgid "Add More"
-msgstr ""
+msgstr "Add More"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Program"
 
 #: KEY_VALUE_PARSER
 msgctxt "KEY_VALUE_PARSER"
 msgid "Key Value Parser"
-msgstr ""
+msgstr "Key Value Parser"
 
 #: J2ME_PARSER
 msgctxt "J2ME_PARSER"
 msgid "J2ME Parser"
-msgstr ""
+msgstr "J2ME Parser"
 
 #: ALERT_PARSER
 msgid "Alert Parser"
-msgstr ""
+msgstr "Alert Parser"
 
 #: UNREGISTERED_PARSER
 msgid "Unregistered Parser"
-msgstr ""
+msgstr "Unregistered Parser"
 
 #: ANONYMOUS_PROGRAM_PARSER
 msgid "Anonymous Program Parser"
-msgstr ""
+msgstr "Anonymous Program Parser"
 
 #: wrong_format_message
 msgid "Wrong format message"
-msgstr ""
+msgstr "Wrong format message"
 
 #: no_user_message
 msgid "No user message"
-msgstr ""
+msgstr "No user message"
 
 #: more_than_one_orgunit_message
+#, fuzzy
 msgid "User belong to more than one OrgUnit message"
-msgstr ""
+msgstr "User belongs to more than one Org Unit message"
 
 #: completeness_method
 msgid "Completeness method"
-msgstr ""
+msgstr "Completeness method"
 
 #: receive_at_least_one_datavalue
 msgid "Receive at least one data value"
-msgstr ""
+msgstr "Receive at least one data value"
 
 #: do_not_mark_complete
 msgid "Do not mark as complete"
-msgstr ""
+msgstr "Do not mark as complete"
 
 #: receive_all_datavalue
 msgid "Receive all data value"
-msgstr ""
+msgstr "Receive all data value"
 
 #: success_message
 msgid "Success Message"
-msgstr ""
+msgstr "Success Message"
 
 #: confirm_delete_command
 msgid "Are you sure you want to delete this command?"
-msgstr ""
+msgstr "Are you sure you want to delete this command?"
 
 #: confirm_message
 msgid "Confirm Message"
-msgstr ""
+msgstr "Confirm Message"
 
 #: TRACKED_ENTITY_REGISTRATION_PARSER
 msgid "Tracked entity registration parser"
-msgstr ""
+msgstr "Tracked entity registration parser"
 
 #: tracked_entity_attribute
 msgid "Tracked entity attribute"
-msgstr ""
+msgstr "Tracked entity attribute"
 
 #: name_in_used
 msgid "Name is in use"
-msgstr ""
+msgstr "Name is in use"

@@ -4,1733 +4,1748 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 06:37+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462862253.0\n"
 
 #: save
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #: saved
 msgid "saved"
-msgstr ""
+msgstr "saved"
 
 #: delete
 msgid "Delete"
-msgstr ""
+msgstr "Delete"
 
 #: deleted
 msgid "deleted"
-msgstr ""
+msgstr "deleted"
 
 #: update
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 #: updated
 msgid "updated"
-msgstr ""
+msgstr "updated"
 
 #: register
 msgid "Register"
-msgstr ""
+msgstr "Register"
 
 #: registered
 msgid "registered"
-msgstr ""
+msgstr "registered"
 
 #: add
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 #: added
 msgid "added"
-msgstr ""
+msgstr "added"
 
 #: assigned
 msgid "assigned"
-msgstr ""
+msgstr "assigned"
 
 #: refresh
 msgid "Refresh"
-msgstr ""
+msgstr "Refresh"
 
 #: refreshed
 msgid "refreshed"
-msgstr ""
+msgstr "refreshed"
 
 #: select
 msgid "Select"
-msgstr ""
+msgstr "Select"
 
 #: selected
 msgid "selected"
-msgstr ""
+msgstr "selected"
 
 #: cancel
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: cancelled
 msgid "cancelled"
-msgstr ""
+msgstr "cancelled"
 
 #: apply
 msgid "Apply"
-msgstr ""
+msgstr "Apply"
 
 #: applied
 msgid "applied"
-msgstr ""
+msgstr "applied"
 
 #: show
 msgid "Show"
-msgstr ""
+msgstr "Show"
 
 #: hide
 msgid "Hide"
-msgstr ""
+msgstr "Hide"
 
 #: showhide
+#, fuzzy
 msgid "Show / hide"
-msgstr ""
+msgstr "Show / Hide"
 
 #: toggle
 msgid "Toggle"
-msgstr ""
+msgstr "Toggle"
 
 #: boundary
 msgid "Boundary"
-msgstr ""
+msgstr "Boundary"
 
 #: level
 msgid "Level"
-msgstr ""
+msgstr "Level"
 
 #: type
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: new
 msgid "New"
-msgstr ""
+msgstr "New"
 
 #: edit
 msgid "Edit"
-msgstr ""
+msgstr "Edit"
 
 #: export
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 #: map
 msgid "Map"
-msgstr ""
+msgstr "Map"
 
 #: favorite
 msgid "Favorite"
-msgstr ""
+msgstr "Favorite"
 
 #: favorites
 msgid "Favorites"
-msgstr ""
+msgstr "Favorites"
 
 #: legend
 msgid "Legend"
-msgstr ""
+msgstr "Legend"
 
 #: legendset
 msgid "Legend set"
-msgstr ""
+msgstr "Legend set"
 
 #: group
 msgid "Group"
-msgstr ""
+msgstr "Group"
 
 #: groups
 msgid "Groups"
-msgstr ""
+msgstr "Groups"
 
 #: groupset
 msgid "Group set"
-msgstr ""
+msgstr "Group set"
 
 #: groupsets
 msgid "Group sets"
-msgstr ""
+msgstr "Group sets"
 
 #: indicators
 msgid "Indicators"
-msgstr ""
+msgstr "Indicators"
 
 #: dataelements
+#, fuzzy
 msgid "Data elements"
-msgstr ""
+msgstr "Data Elements"
 
 #: thematic_map
 msgid "Thematic map"
-msgstr ""
+msgstr "Thematic map"
 
 #: polygon_layer
 msgid "Polygon layer"
-msgstr ""
+msgstr "Polygon layer"
 
 #: point_layer
 msgid "Point layer"
-msgstr ""
+msgstr "Point layer"
 
 #: indicator_group
 msgid "Indicator group"
-msgstr ""
+msgstr "Indicator group"
 
 #: indicator
 msgid "Indicator"
-msgstr ""
+msgstr "Indicator"
 
 #: period_type
 msgid "Period type"
-msgstr ""
+msgstr "Period type"
 
 #: period
 msgid "Period"
-msgstr ""
+msgstr "Period"
 
 #: in_the_map
 msgid "map"
-msgstr ""
+msgstr "map"
 
 #: legend_type
 msgid "Legend type"
-msgstr ""
+msgstr "Legend type"
 
 #: method
 msgid "Method"
-msgstr ""
+msgstr "Method"
 
 #: classes
 msgid "Classes"
-msgstr ""
+msgstr "Classes"
 
 #: low_color
 msgid "Low color"
-msgstr ""
+msgstr "Low color"
 
 #: high_color
 msgid "High color"
-msgstr ""
+msgstr "High color"
 
 #: optional
 msgid "Optional"
-msgstr ""
+msgstr "Optional"
 
 #: loading
+#, fuzzy
 msgid "Loading.."
-msgstr ""
+msgstr "Loading.."
 
 #: automatic
 msgid "Automatic"
-msgstr ""
+msgstr "Automatic"
 
 #: predefined
 msgid "Predefined"
-msgstr ""
+msgstr "Predefined"
 
 #: equal_intervals
 msgid "Equal intervals"
-msgstr ""
+msgstr "Equal intervals"
 
 #: equal_group_count
 msgid "Equal group count"
-msgstr ""
+msgstr "Equal group count"
 
 #: fixed_intervals
 msgid "Fixed intervals"
-msgstr ""
+msgstr "Fixed intervals"
 
 #: administrator
 msgid "Administrator"
-msgstr ""
+msgstr "Administrator"
 
 #: map_source
 msgid "Map source"
-msgstr ""
+msgstr "Map source"
 
 #: base_coordinate
 msgid "Base coordinate"
-msgstr ""
+msgstr "Base coordinate"
 
 #: admin_panels
 msgid "Admin panels"
-msgstr ""
+msgstr "Admin panels"
 
 #: longitude_x
 msgid "Longitude (x)"
-msgstr ""
+msgstr "Longitude (x)"
 
 #: latitude_y
 msgid "Latitude (y)"
-msgstr ""
+msgstr "Latitude (y)"
 
 #: save_coordinate
 msgid "Save coordinate"
-msgstr ""
+msgstr "Save coordinate"
 
 #: error_while_retrieving_data
 msgid "Error while retrieving data"
-msgstr ""
+msgstr "Error while retrieving data"
 
 #: status
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: bounds
 msgid "Bounds"
-msgstr ""
+msgstr "Bounds"
 
 #: comma_separated_values
 msgid "Comma separated values"
-msgstr ""
+msgstr "Comma separated values"
 
 #: ajax_request_failed
+#, fuzzy
 msgid "Ajax request failed"
-msgstr ""
+msgstr "AJAX request failed"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: component_init_not_complete
 msgid "Component init not complete"
-msgstr ""
+msgstr "Component init not complete"
 
 #: form_is_not_complete
 msgid "Form is not complete"
-msgstr ""
+msgstr "Form is not complete"
 
 #: filter
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: assign_all
 msgid "Assign all"
-msgstr ""
+msgstr "Assign all"
 
 #: auto_assign
 msgid "Auto-assign"
-msgstr ""
+msgstr "Auto-assign"
 
 #: please_select_map
 msgid "Please select a map"
-msgstr ""
+msgstr "Please select a map"
 
 #: auto_assignment
 msgid "Auto assignment"
-msgstr ""
+msgstr "Auto assignment"
 
 #: remove_all
 msgid "Remove all"
-msgstr ""
+msgstr "Remove all"
 
 #: remove_all_relations
 msgid "Remove all relations"
-msgstr ""
+msgstr "Remove all relations"
 
 #: all_relations_for_the_map
 msgid "All relations for the map"
-msgstr ""
+msgstr "All relations for the map"
 
 #: removed
 msgid "removed"
-msgstr ""
+msgstr "removed"
 
 #: error_while_deleting_relation_map_and_oranisation_unit
 msgid "Error while deleting relation between map and organisation unit"
-msgstr ""
+msgstr "Error while deleting relation between map and organisation unit"
 
 #: remove_selected
 msgid "Remove selected"
-msgstr ""
+msgstr "Remove selected"
 
 #: remove_relation
 msgid "Remove relation"
-msgstr ""
+msgstr "Remove relation"
 
 #: please_select_least_one_organisation_unit_in_the_list
 msgid "Please select at least one organisation unit in the list"
-msgstr ""
+msgstr "Please select at least one organisation unit in the list"
 
 #: assign
 msgid "Assign"
-msgstr ""
+msgstr "Assign"
 
 #: organisation_units
 msgid "Organisation units"
-msgstr ""
+msgstr "Organisation units"
 
 #: assigned_to
 msgid "assigned to"
-msgstr ""
+msgstr "assigned to"
 
 #: is_already_assigned
 msgid "is already assigned"
-msgstr ""
+msgstr "is already assigned"
 
 #: database
 msgid "database"
-msgstr ""
+msgstr "database"
 
 #: min_size
 msgid "Min size"
-msgstr ""
+msgstr "Min size"
 
 #: max_size
 msgid "Max size"
-msgstr ""
+msgstr "Max size"
 
 #: select_a_value
+#, fuzzy
 msgid "Select a value.."
-msgstr ""
+msgstr "Select a value."
 
 #: organisation_units_assigned
 msgid "organisation units assigned"
-msgstr ""
+msgstr "organisation units assigned"
 
 #: applying_organisation_units_relations
 msgid "Applying organisation units relations"
-msgstr ""
+msgstr "Applying organisation units relations"
 
 #: assigning
 msgid "Assigning"
-msgstr ""
+msgstr "Assigning"
 
 #: creating_map
+#, fuzzy
 msgid "Creating map.."
-msgstr ""
+msgstr "Creating map.."
 
 #: current_selection_no_data
 msgid "The current selection returned no data"
-msgstr ""
+msgstr "The current selection returned no data"
 
 #: creating_choropleth
+#, fuzzy
 msgid "Creating choropleth.."
-msgstr ""
+msgstr "Creating choropleth.."
 
 #: assign_organisation_unit
 msgid "Assign organisation unit"
-msgstr ""
+msgstr "Assign organisation unit"
 
 #: no_feature_selected
 msgid "No feature selected"
-msgstr ""
+msgstr "No feature selected"
 
 #: cursor_position
 msgid "Cursor position"
-msgstr ""
+msgstr "Cursor position"
 
 #: overview_map
 msgid "Overview map"
-msgstr ""
+msgstr "Overview map"
 
 #: feature_data
 msgid "Feature data"
-msgstr ""
+msgstr "Feature data"
 
 #: map_legend_polygon
 msgid "Polygon legend"
-msgstr ""
+msgstr "Polygon legend"
 
 #: map_legend_point
 msgid "Point legend"
-msgstr ""
+msgstr "Point legend"
 
 #: return_to_DHIS_2_dashboard
+#, fuzzy
 msgid "Return to DHIS2 dashboard"
-msgstr ""
+msgstr "Return to DHIS 2 dashboard"
 
 #: exit_gis
 msgid "Exit GIS"
-msgstr ""
+msgstr "Exit GIS"
 
 #: help
 msgid "Get help with GIS"
-msgstr ""
+msgstr "Get help with GIS"
 
 #: create_predefined_legend_sets
 msgid "Create predefined legend sets"
-msgstr ""
+msgstr "Create predefined legend sets"
 
 #: export_map_as_excel
 msgid "Export map as Excel spreadsheet"
-msgstr ""
+msgstr "Export map as Excel spreadsheet"
 
 #: export_map_as_image
 msgid "Export map as image"
-msgstr ""
+msgstr "Export map as image"
 
 #: favorite_map_views
 msgid "Favorite map views"
-msgstr ""
+msgstr "Favorite map views"
 
 #: show_hide_labels
 msgid "Show/hide feature labels"
-msgstr ""
+msgstr "Show/hide feature labels"
 
 #: zoom_to_visible_extent
 msgid "Zoom to visible extent"
-msgstr ""
+msgstr "Zoom to visible extent"
 
 #: zoom_out
 msgid "Zoom out"
-msgstr ""
+msgstr "Zoom out"
 
 #: zoom_in
 msgid "Zoom in"
-msgstr ""
+msgstr "Zoom in"
 
 #: assign_organisation_units_to_map
 msgid "Assign organisation units to map"
-msgstr ""
+msgstr "Assign organisation units to map"
 
 #: map_layers
 msgid "Map layers"
-msgstr ""
+msgstr "Map layers"
 
 #: and
 msgid "and"
-msgstr ""
+msgstr "and"
 
 #: was_saved_as_base_coordinate
 msgid "was saved as base coordinate"
-msgstr ""
+msgstr "was saved as base coordinate"
 
 #: error_while_saving_data
 msgid "Error while saving data"
-msgstr ""
+msgstr "Error while saving data"
 
 #: is_saved_as_map_source
 msgid "is saved as map source"
-msgstr ""
+msgstr "is saved as map source"
 
 #: is_already_selected
 msgid "is already selected"
-msgstr ""
+msgstr "is already selected"
 
 #: overlays_
 msgid "Overlays"
-msgstr ""
+msgstr "Overlays"
 
 #: overlays
 msgid "overlays"
-msgstr ""
+msgstr "overlays"
 
 #: was_registered
 msgid "was registered"
-msgstr ""
+msgstr "was registered"
 
 #: is_already_in_use
 msgid "is already in use"
-msgstr ""
+msgstr "is already in use"
 
 #: new_overlay
 msgid "New overlay"
-msgstr ""
+msgstr "New overlay"
 
 #: name
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: overlay_form_is_not_complete
 msgid "Overlay form is not complete"
-msgstr ""
+msgstr "Overlay form is not complete"
 
 #: display_name
 msgid "Display name"
-msgstr ""
+msgstr "Display name"
 
 #: map_source_file
 msgid "Map source file"
-msgstr ""
+msgstr "Map source file"
 
 #: fill_color
 msgid "Fill color"
-msgstr ""
+msgstr "Fill color"
 
 #: fill_opacity
 msgid "Fill opacity"
-msgstr ""
+msgstr "Fill opacity"
 
 #: stroke_color
 msgid "Stroke color"
-msgstr ""
+msgstr "Stroke color"
 
 #: stroke_width
 msgid "Stroke width"
-msgstr ""
+msgstr "Stroke width"
 
 #: delete_overlay
 msgid "Delete overlay"
-msgstr ""
+msgstr "Delete overlay"
 
 #: overlay
 msgid "overlay"
-msgstr ""
+msgstr "overlay"
 
 #: was_deleted
 msgid "was deleted"
-msgstr ""
+msgstr "was deleted"
 
 #: please_select_an_overlay
 msgid "Please select an overlay"
-msgstr ""
+msgstr "Please select an overlay"
 
 #: title
 msgid "Title"
-msgstr ""
+msgstr "Title"
 
 #: preview
 msgid "Preview"
-msgstr ""
+msgstr "Preview"
 
 #: queryable
 msgid "Queryable"
-msgstr ""
+msgstr "Queryable"
 
 #: description
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: register_map
 msgid "Register map"
-msgstr ""
+msgstr "Register map"
 
 #: register_maps
 msgid "Register maps"
-msgstr ""
+msgstr "Register maps"
 
 #: zoom
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 #: name_column
 msgid "Name column"
-msgstr ""
+msgstr "Name column"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
-msgstr ""
+msgstr "Organisation unit level"
 
 #: please_enter_map_title
 msgid "Please enter a map title"
-msgstr ""
+msgstr "Please enter a map title"
 
 #: please_render_map_first
 msgid "Please render the thematic map first"
-msgstr ""
+msgstr "Please render the thematic map first"
 
 #: include_legend
 msgid "Include legend"
-msgstr ""
+msgstr "Include legend"
 
 #: include_values
 msgid "Include values"
-msgstr ""
+msgstr "Include values"
 
 #: export_excel
 msgid "Export spreadsheet"
-msgstr ""
+msgstr "Export spreadsheet"
 
 #: image_format
 msgid "Image format"
-msgstr ""
+msgstr "Image format"
 
 #: image_quality
 msgid "Image quality"
-msgstr ""
+msgstr "Image quality"
 
 #: export_image
 msgid "Export image"
-msgstr ""
+msgstr "Export image"
 
 #: image_export
 msgid "Image export"
-msgstr ""
+msgstr "Image export"
 
 #: setup
 msgid "Setup"
-msgstr ""
+msgstr "Setup"
 
 #: medium
 msgid "Medium"
-msgstr ""
+msgstr "Medium"
 
 #: large
 msgid "Large"
-msgstr ""
+msgstr "Large"
 
 #: add_to_dashboard
 msgid "Add to dashboard"
-msgstr ""
+msgstr "Add to dashboard"
 
 #: dhis_dashboard
 msgid "DHIS dashboard"
-msgstr ""
+msgstr "DHIS dashboard"
 
 #: dashboard_map_view
 msgid "Dashboard map view"
-msgstr ""
+msgstr "Dashboard map view"
 
 #: the_view
 msgid "The view"
-msgstr ""
+msgstr "The view"
 
 #: added_to_dashboard
 msgid "added to dashboard"
-msgstr ""
+msgstr "added to dashboard"
 
 #: please_select_a_map_view
 msgid "Please select a map view"
-msgstr ""
+msgstr "Please select a map view"
 
 #: view
 msgid "View"
-msgstr ""
+msgstr "View"
 
 #: delete_map_view
 msgid "Delete map view"
-msgstr ""
+msgstr "Delete map view"
 
 #: new_map_view
 msgid "New map view"
-msgstr ""
+msgstr "New map view"
 
 #: there_is_already_a_map_view_called
 msgid "There is already a map view called"
-msgstr ""
+msgstr "There is already a map view called"
 
 #: thematic_map_form_is_not_complete
 msgid "Thematic map form is not complete"
-msgstr ""
+msgstr "Thematic map form is not complete"
 
 #: map_view_form_is_not_complete
 msgid "Map view form is not complete"
-msgstr ""
+msgstr "Map view form is not complete"
 
 #: saving_current_thematic_map_selection
 msgid "Saving current thematic map selection."
-msgstr ""
+msgstr "Saving current thematic map selection."
 
 #: new_legend_set
 msgid "New legend set"
-msgstr ""
+msgstr "New legend set"
 
 #: already_exists
 msgid "already exists"
-msgstr ""
+msgstr "already exists"
 
 #: a_legend_set_called
 msgid "A legend set called"
-msgstr ""
+msgstr "A legend set called"
 
 #: assign_to_indicator
 msgid "Assign to indicators"
-msgstr ""
+msgstr "Assign to indicators"
 
 #: assign_to_dataelement
 msgid "Assign to data elements"
-msgstr ""
+msgstr "Assign to data elements"
 
 #: please_select_a_legend_set
 msgid "Please select a legend set"
-msgstr ""
+msgstr "Please select a legend set"
 
 #: link_legend_set_to_indicator
 msgid "Link legend set to indicator"
-msgstr ""
+msgstr "Link legend set to indicator"
 
 #: please_select_at_least_one_indicator
 msgid "Please select at least one indicator"
-msgstr ""
+msgstr "Please select at least one indicator"
 
 #: was_updated
 msgid "was updated"
-msgstr ""
+msgstr "was updated"
 
 #: automatic_legend_sets
 msgid "Automatic legend sets"
-msgstr ""
+msgstr "Automatic legend sets"
 
 #: start_value
 msgid "Start value"
-msgstr ""
+msgstr "Start value"
 
 #: end_value
 msgid "End value"
-msgstr ""
+msgstr "End value"
 
 #: color
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #: new_legend
 msgid "New legend"
-msgstr ""
+msgstr "New legend"
 
 #: please_select_a_legend
 msgid "Please select a legend"
-msgstr ""
+msgstr "Please select a legend"
 
 #: legends
 msgid "Legends"
-msgstr ""
+msgstr "Legends"
 
 #: overlapping_legends_are_not_allowed
 msgid "Overlapping legends are not allowed"
-msgstr ""
+msgstr "Overlapping legends are not allowed"
 
 #: please_select_at_least_one_legend
 msgid "Please select at least one legend"
-msgstr ""
+msgstr "Please select at least one legend"
 
 #: predefined_legend_sets
 msgid "Predefined legend sets"
-msgstr ""
+msgstr "Predefined legend sets"
 
 #: assignment
 msgid "Assignment"
-msgstr ""
+msgstr "Assignment"
 
 #: geoserver_shapefiles
 msgid "Geoserver shapefiles"
-msgstr ""
+msgstr "Geoserver shapefiles"
 
 #: must_be_a_number
 msgid "must be a number"
-msgstr ""
+msgstr "must be a number"
 
 #: must_be_between_-180_and_180
 msgid "must be between -180 and 180"
-msgstr ""
+msgstr "must be between -180 and 180"
 
 #: must_be_between_-90_and_90
 msgid "must be between -90 and 90"
-msgstr ""
+msgstr "must be between -90 and 90"
 
 #: there_is_already_a_map_called
 msgid "There is already a map called"
-msgstr ""
+msgstr "There is already a map called"
 
 #: the_source_file
 msgid "The source file"
-msgstr ""
+msgstr "The source file"
 
 #: selected_relations_removed
 msgid "Selected relations removed"
-msgstr ""
+msgstr "Selected relations removed"
 
 #: delete_baselayer
 msgid "Delete base layer"
-msgstr ""
+msgstr "Delete base layer"
 
 #: please_select_a_baselayer
 msgid "Please select a base layer"
-msgstr ""
+msgstr "Please select a base layer"
 
 #: baselayer
 msgid "Base layer"
-msgstr ""
+msgstr "Base layer"
 
 #: baselayers
 msgid "Base layers"
-msgstr ""
+msgstr "Base layers"
 
 #: url
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: layer
 msgid "Layer"
-msgstr ""
+msgstr "Layer"
 
 #: new_baselayer
 msgid "New base layer"
-msgstr ""
+msgstr "New base layer"
 
 #: baselayer_form_is_not_complete
 msgid "Base layer form is not complete"
-msgstr ""
+msgstr "Base layer form is not complete"
 
 #: mapvaluetype
 msgid "Map value type"
-msgstr ""
+msgstr "Map value type"
 
 #: dataelement_group
+#, fuzzy
 msgid "Data el. group"
-msgstr ""
+msgstr "Data el. group"
 
 #: dataelement
+#, fuzzy
 msgid "Data element"
-msgstr ""
+msgstr "Data Element"
 
 #: parent_orgunit
 msgid "Parent org unit"
-msgstr ""
+msgstr "Parent org unit"
 
 #: delete_map
 msgid "Delete map"
-msgstr ""
+msgstr "Delete map"
 
 #: aggregating_map_values
+#, fuzzy
 msgid "Aggregating map values.."
-msgstr ""
+msgstr "Aggregating map values.."
 
 #: loading_geojson
+#, fuzzy
 msgid "Loading GeoJSON.."
-msgstr ""
+msgstr "Loading GeoJSON.."
 
 #: date_type
 msgid "Date type"
-msgstr ""
+msgstr "Date type"
 
 #: saved_as_date_type
 msgid "saved as date type"
-msgstr ""
+msgstr "saved as date type"
 
 #: start_date
 msgid "Start date"
-msgstr ""
+msgstr "Start date"
 
 #: end_date
 msgid "End date"
-msgstr ""
+msgstr "End date"
 
 #: fixed_periods
 msgid "Fixed periods"
-msgstr ""
+msgstr "Fixed periods"
 
 #: start_end_dates
 msgid "Start-end dates"
-msgstr ""
+msgstr "Start-end dates"
 
 #: please_expand_layer_panel
 msgid "Please expand the layer panel you want to print"
-msgstr ""
+msgstr "Please expand the layer panel you want to print"
 
 #: has_no_orgunits
 msgid "has no organisation units"
-msgstr ""
+msgstr "has no organisation units"
 
 #: highlight_color
 msgid "Highlight color"
-msgstr ""
+msgstr "Highlight color"
 
 #: feature_filter
 msgid "Feature filter"
-msgstr ""
+msgstr "Feature filter"
 
 #: locate_features
 msgid "Locate features"
-msgstr ""
+msgstr "Locate features"
 
 #: no_coordinates_found
 msgid "No coordinates found"
-msgstr ""
+msgstr "No coordinates found"
 
 #: image_resolution
 msgid "Resolution"
-msgstr ""
+msgstr "Resolution"
 
 #: max
 msgid "max"
-msgstr ""
+msgstr "max"
 
 #: characters
 msgid "characters"
-msgstr ""
+msgstr "characters"
 
 #: geojson_file
 msgid "GeoJSON file"
-msgstr ""
+msgstr "GeoJSON file"
 
 #: history
 msgid "History"
-msgstr ""
+msgstr "History"
 
 #: api_key
 msgid "API key"
-msgstr ""
+msgstr "API key"
 
 #: measure_distance
 msgid "Measure distance"
-msgstr ""
+msgstr "Measure distance"
 
 #: low_point_size
 msgid "Low point size"
-msgstr ""
+msgstr "Low point size"
 
 #: high_point_size
 msgid "High point size"
-msgstr ""
+msgstr "High point size"
 
 #: system
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #: width
 msgid "Width"
-msgstr ""
+msgstr "Width"
 
 #: height
 msgid "Height"
-msgstr ""
+msgstr "Height"
 
 #: text_filter
 msgid "Text filter"
-msgstr ""
+msgstr "Text filter"
 
 #: font_size
 msgid "Font size"
-msgstr ""
+msgstr "Font size"
 
 #: bold_
 msgid "Bold"
-msgstr ""
+msgstr "Bold"
 
 #: italic
 msgid "Italic"
-msgstr ""
+msgstr "Italic"
 
 #: select_outer_boundary
 msgid "Select outer boundary"
-msgstr ""
+msgstr "Select outer boundary"
 
 #: select_organisation_unit_level
 msgid "Select organisation unit level"
-msgstr ""
+msgstr "Select organisation unit level"
 
 #: code
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: address
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
 #: contact_person
 msgid "Contact person"
-msgstr ""
+msgstr "Contact person"
 
 #: email
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "Phone number"
 
 #: infrastructural_data
 msgid "Infrastructural data"
-msgstr ""
+msgstr "Infrastructural data"
 
 #: select_point_level
 msgid "Select point level"
-msgstr ""
+msgstr "Select point level"
 
 #: level_is_higher_that_boundary_level
 msgid "Level is higher than boundary level"
-msgstr ""
+msgstr "Level is higher than boundary level"
 
 #: select_new_location_on_map
+#, fuzzy
 msgid "Please select the new location on the map.."
-msgstr ""
+msgstr "Please select the new location on the map.."
 
 #: show_information_sheet
 msgid "Show information"
-msgstr ""
+msgstr "Show information"
 
 #: relocate
 msgid "Relocate"
-msgstr ""
+msgstr "Relocate"
 
 #: administrator_settings
 msgid "Administrator settings"
-msgstr ""
+msgstr "Administrator settings"
 
 #: thematic_layer
 msgid "Thematic layer"
-msgstr ""
+msgstr "Thematic layer"
 
 #: register_map_favorite
 msgid "Register current map as a favorite"
-msgstr ""
+msgstr "Register current map as a favorite"
 
 #: delete_favorite
 msgid "Delete favorite"
-msgstr ""
+msgstr "Delete favorite"
 
 #: register_new_legend
 msgid "Register new legend"
-msgstr ""
+msgstr "Register new legend"
 
 #: delete_legend
 msgid "Delete legend"
-msgstr ""
+msgstr "Delete legend"
 
 #: overlay_
 msgid "Overlay"
-msgstr ""
+msgstr "Overlay"
 
 #: register_new_legend_set
 msgid "Register new legend set"
-msgstr ""
+msgstr "Register new legend set"
 
 #: delete_legend_set
 msgid "Delete legend set"
-msgstr ""
+msgstr "Delete legend set"
 
 #: assign_indicators_to_legend_set
 msgid "Assign indicators to legend set"
-msgstr ""
+msgstr "Assign indicators to legend set"
 
 #: assign_dataelements_to_legend_set
 msgid "Assign data elements to legend set"
-msgstr ""
+msgstr "Assign data elements to legend set"
 
 #: export_thematic_map_to_png
 msgid "Export thematic map to PNG"
-msgstr ""
+msgstr "Export thematic map to PNG"
 
 #: total_distance
 msgid "Total distance"
-msgstr ""
+msgstr "Total distance"
 
 #: symbol_layer
 msgctxt "symbol_layer"
 msgid "Facility layer"
-msgstr ""
+msgstr "Facility layer"
 
 #: set_thematic_map_date_type
 msgid "Set thematic map date type"
-msgstr ""
+msgstr "Set thematic map date type"
 
 #: tools
 msgid "Tools"
-msgstr ""
+msgstr "Tools"
 
 #: layers
 msgid "Layers"
-msgstr ""
+msgstr "Layers"
 
 #: edit_layer
 msgid "Edit layer"
-msgstr ""
+msgstr "Edit layer"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "Search"
 
 #: labels
 msgid "Labels"
-msgstr ""
+msgstr "Labels"
 
 #: show_hide_feature_labels
 msgid "Show / Hide feature labels"
-msgstr ""
+msgstr "Show / Hide feature labels"
 
 #: opacity
 msgid "Opacity"
-msgstr ""
+msgstr "Opacity"
 
 #: data_options
 msgid "Data options"
-msgstr ""
+msgstr "Data options"
 
 #: legend_options
 msgid "Legend options"
-msgstr ""
+msgstr "Legend options"
 
 #: parent_organisation_unit
 msgid "Parent organisation unit"
-msgstr ""
+msgstr "Parent organisation unit"
 
 #: resize
 msgid "Resize"
-msgstr ""
+msgstr "Resize"
 
 #: facility_layer
 msgctxt "facility_layer"
 msgid "Facility layer"
-msgstr ""
+msgstr "Facility layer"
 
 #: open_which_layer
 msgid "Open in which layer?"
-msgstr ""
+msgstr "Open in which layer?"
 
 #: organisationunit_search
 msgid "Organisation unit search"
-msgstr ""
+msgstr "Organisation unit search"
 
 #: no_features_rendered
 msgid "No features rendered"
-msgstr ""
+msgstr "No features rendered"
 
 #: wms_overlays
 msgid "WMS overlays"
-msgstr ""
+msgstr "WMS overlays"
 
 #: file_overlays
 msgid "File overlays"
-msgstr ""
+msgstr "File overlays"
 
 #: centroid_layer
 msgid "Symbol layer"
-msgstr ""
+msgstr "Symbol layer"
 
 #: no_values_found
 msgid "No values found"
-msgstr ""
+msgstr "No values found"
 
 #: close
 msgid "Close"
-msgstr ""
+msgstr "Close"
 
 #: boundary_layer
 msgid "Boundary layer"
-msgstr ""
+msgstr "Boundary layer"
 
 #: legend_symbolizer
 msgid "Symbolizer"
-msgstr ""
+msgstr "Symbolizer"
 
 #: image
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #: register_new_wms_overlay
 msgid "Register new WMS overlay"
-msgstr ""
+msgstr "Register new WMS overlay"
 
 #: register_new_vector_overlay
 msgid "Register new vector overlay"
-msgstr ""
+msgstr "Register new vector overlay"
 
 #: can_view
 msgid "Can view"
-msgstr ""
+msgstr "Can view"
 
 #: can_edit_and_view
 msgid "Can edit and view"
-msgstr ""
+msgstr "Can edit and view"
 
 #: none
 msgid "None"
-msgstr ""
+msgstr "None"
 
 #: public_access
 msgid "Public access"
-msgstr ""
+msgstr "Public access"
 
 #: search_for_user_groups
 msgid "Search for user groups"
-msgstr ""
+msgstr "Search for user groups"
 
 #: create
 msgid "Create"
-msgstr ""
+msgstr "Create"
 
 #: add_new
 msgid "Add new"
-msgstr ""
+msgstr "Add new"
 
 #: search_for_favorites
 msgid "Search for favorites"
-msgstr ""
+msgstr "Search for favorites"
 
 #: prev
 msgid "Prev"
-msgstr ""
+msgstr "Prev"
 
 #: next
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 #: no_map_to_save
 msgid "No map to save"
-msgstr ""
+msgstr "No map to save"
 
 #: rename
 msgid "Rename"
-msgstr ""
+msgstr "Rename"
 
 #: overwrite
 msgid "Overwrite"
-msgstr ""
+msgstr "Overwrite"
 
 #: share_with_other_people
 msgid "Share with other people"
-msgstr ""
+msgstr "Share with other people"
 
 #: legend_set_name
 msgid "Legend set name"
-msgstr ""
+msgstr "Legend set name"
 
 #: legend_name
 msgid "Legend name"
-msgstr ""
+msgstr "Legend name"
 
 #: add_legend
 msgid "Add legend"
-msgstr ""
+msgstr "Add legend"
 
 #: favorite_outdated_create_new
 msgid "Favorite is outdated - please create a new one"
-msgstr ""
+msgstr "Favorite is outdated - please create a new one"
 
 #: no_valid_coordinates_found
 msgid "No valid coordinates found"
-msgstr ""
+msgstr "No valid coordinates found"
 
 #: invalid_coordinates
 msgid "Invalid coordinates"
-msgstr ""
+msgstr "Invalid coordinates"
 
 #: coordinates_could_not_be_loaded
 msgid "Coordinates could not be loaded"
-msgstr ""
+msgstr "Coordinates could not be loaded"
 
 #: no_aggregated_data_found
 msgid "No aggregated data found"
-msgstr ""
+msgstr "No aggregated data found"
 
 #: start_end_value
 msgid "Start/end value"
-msgstr ""
+msgstr "Start/end value"
 
 #: current_legends
 msgid "Current legends"
-msgstr ""
+msgstr "Current legends"
 
 #: legendsets
 msgid "Legend sets"
-msgstr ""
+msgstr "Legend sets"
 
 #: download
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 #: please_create_map_first
 msgid "Please create a map first"
-msgstr ""
+msgstr "Please create a map first"
 
 #: download_map_as_png
 msgid "Download map as PNG"
-msgstr ""
+msgstr "Download map as PNG"
 
 #: write_your_interpretation
 msgid "Write your interpretation"
-msgstr ""
+msgstr "Write your interpretation"
 
 #: share
 msgid "Share"
-msgstr ""
+msgstr "Share"
 
 #: share_interpretation
 msgid "Share interpretation"
-msgstr ""
+msgstr "Share interpretation"
 
 #: organisation_unit_level_parent
 msgid "Organisation unit level / parent"
-msgstr ""
+msgstr "Organisation unit level / parent"
 
 #: value_type
 msgid "Value type"
-msgstr ""
+msgstr "Value type"
 
 #: equal_counts
 msgid "Equal counts"
-msgstr ""
+msgstr "Equal counts"
 
 #: classes_method
 msgid "Classes / method"
-msgstr ""
+msgstr "Classes / method"
 
 #: low_color_size
 msgid "Low color / size"
-msgstr ""
+msgstr "Low color / size"
 
 #: high_color_size
 msgid "High color / size"
-msgstr ""
+msgstr "High color / size"
 
 #: no_indicator_selected
 msgid "No indicator selected"
-msgstr ""
+msgstr "No indicator selected"
 
 #: no_dataelement_selected
 msgid "No data element selected"
-msgstr ""
+msgstr "No data element selected"
 
 #: no_period_selected
 msgid "No period selected"
-msgstr ""
+msgstr "No period selected"
 
 #: no_legendset_selected
 msgid "No legend set selected"
-msgstr ""
+msgstr "No legend set selected"
 
 #: no_level_selected
 msgid "No level selected"
-msgstr ""
+msgstr "No level selected"
 
 #: no_parent_organisationunit_selected
 msgid "No parent organisation unit selected"
-msgstr ""
+msgstr "No parent organisation unit selected"
 
 #: no_groupset_selected
 msgid "No group set selected"
-msgstr ""
+msgstr "No group set selected"
 
 #: show_circular_area
 msgid "Show circular area with radius (m)"
-msgstr ""
+msgstr "Show circular area with radius (m)"
 
 #: organisationunit_groupset
 msgid "Organisation unit group set"
-msgstr ""
+msgstr "Organisation unit group set"
 
 #: surrounding_areas
 msgid "Surrounding areas"
-msgstr ""
+msgstr "Surrounding areas"
 
 #: table
 msgid "Table"
-msgstr ""
+msgstr "Table"
 
 #: chart
 msgid "Chart"
-msgstr ""
+msgstr "Chart"
 
 #: layer_stack_transparency
 msgid "Layer stack / opacity"
-msgstr ""
+msgstr "Layer stack / opacity"
 
 #: thematic_layer_1_legend
 msgid "Thematic layer 1 legend"
-msgstr ""
+msgstr "Thematic layer 1 legend"
 
 #: thematic_layer_2_legend
 msgid "Thematic layer 2 legend"
-msgstr ""
+msgstr "Thematic layer 2 legend"
 
 #: thematic_layer_3_legend
 msgid "Thematic layer 3 legend"
-msgstr ""
+msgstr "Thematic layer 3 legend"
 
 #: thematic_layer_4_legend
 msgid "Thematic layer 4 legend"
-msgstr ""
+msgstr "Thematic layer 4 legend"
 
 #: facility_layer_legend
 msgid "Facility layer legend"
-msgstr ""
+msgstr "Facility layer legend"
 
 #: facility_layer_export_currently_not_supported
 msgid "Facility layer export currently not supported"
-msgstr ""
+msgstr "Facility layer export currently not supported"
 
 #: link_
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: level_not_higher_than_parent_level
 msgid "Organisation unit level cannot not be higher than parent level"
-msgstr ""
+msgstr "Organisation unit level cannot not be higher than parent level"
 
 #: information
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #: parent_unit
 msgid "Parent unit"
-msgstr ""
+msgstr "Parent unit"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: google_streets
 msgid "Google Streets"
-msgstr ""
+msgstr "Google Streets"
 
 #: google_hybrid
 msgid "Google Hybrid"
-msgstr ""
+msgstr "Google Hybrid"
 
 #: openstreetmap
 msgid "OpenStreetMap"
-msgstr ""
+msgstr "OpenStreetMap"
 
 #: totals
 msgid "Totals"
-msgstr ""
+msgstr "Totals"
 
 #: details
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 #: last_week
 msgid "Last week"
-msgstr ""
+msgstr "Last week"
 
 #: last_month
 msgid "Last month"
-msgstr ""
+msgstr "Last month"
 
 #: last_bimonth
 msgid "Last bi-month"
-msgstr ""
+msgstr "Last bi-month"
 
 #: last_quarter
 msgid "Last quarter"
-msgstr ""
+msgstr "Last quarter"
 
 #: last_sixmonth
 msgid "Last six-month"
-msgstr ""
+msgstr "Last six-month"
 
 #: this_year
 msgid "This year"
-msgstr ""
+msgstr "This year"
 
 #: last_year
 msgid "Last year"
-msgstr ""
+msgstr "Last year"
 
 #: last_financial_year
 msgid "Last financial year"
-msgstr ""
+msgstr "Last financial year"
 
 #: select_organisation_units
 msgid "Select organisation units"
-msgstr ""
+msgstr "Select organisation units"
 
 #: select_boundaries_and_levels
 msgid "Select boundaries and levels"
-msgstr ""
+msgstr "Select boundaries and levels"
 
 #: select_organisation_unit_levels
 msgid "Select organisation unit levels"
-msgstr ""
+msgstr "Select organisation unit levels"
 
 #: select_boundaries_and_groups
 msgid "Select boundaries and groups"
-msgstr ""
+msgstr "Select boundaries and groups"
 
 #: select_organisation_unit_groups
 msgid "Select organisation unit groups"
-msgstr ""
+msgstr "Select organisation unit groups"
 
 #: user_organisation_unit
 msgid "User org unit"
-msgstr ""
+msgstr "User org unit"
 
 #: user_organisation_units
 msgid "User organisation units"
-msgstr ""
+msgstr "User organisation units"
 
 #: dataset
 msgid "Data set"
-msgstr ""
+msgstr "Data set"
 
 #: select_all_children
 msgid "Select all children"
-msgstr ""
+msgstr "Select all children"
 
 #: select_groupset
 msgid "Select group set"
-msgstr ""
+msgstr "Select group set"
 
 #: allow_external_access
 msgid "Allow external access"
-msgstr ""
+msgstr "Allow external access"
 
 #: daily
 msgid "Daily"
-msgstr ""
+msgstr "Daily"
 
 #: weekly
 msgid "Weekly"
-msgstr ""
+msgstr "Weekly"
 
 #: monthly
 msgid "Monthly"
-msgstr ""
+msgstr "Monthly"
 
 #: bimonthly
 msgid "Bi-monthly"
-msgstr ""
+msgstr "Bi-monthly"
 
 #: quarterly
 msgid "Quarterly"
-msgstr ""
+msgstr "Quarterly"
 
 #: sixmonthly
 msgid "Six-monthly"
-msgstr ""
+msgstr "Six-monthly"
 
 #: sixmonthly_april
 msgid "Six-monthly April"
-msgstr ""
+msgstr "Six-monthly April"
 
 #: yearly
 msgid "Yearly"
-msgstr ""
+msgstr "Yearly"
 
 #: financial_oct
 msgid "Financial October"
-msgstr ""
+msgstr "Financial October"
 
 #: financial_july
 msgid "Financial July"
-msgstr ""
+msgstr "Financial July"
 
 #: financial_april
 msgid "Financial April"
-msgstr ""
+msgstr "Financial April"
 
 #: relative
 msgid "Relative"
-msgstr ""
+msgstr "Relative"
 
 #: reporting_rates
 msgid "Reporting rates"
-msgstr ""
+msgstr "Reporting rates"
 
 #: event_layer
 msgid "Event layer"
-msgstr ""
+msgstr "Event layer"
 
 #: coordinates
 msgid "Coordinates"
-msgstr ""
+msgstr "Coordinates"
 
 #: go_to_pivot_tables
 msgid "Go to pivot tables"
-msgstr ""
+msgstr "Go to pivot tables"
 
 #: open_this_map_as_table
 msgid "Open this map as table"
-msgstr ""
+msgstr "Open this map as table"
 
 #: open_last_table
 msgid "Open last table"
-msgstr ""
+msgstr "Open last table"
 
 #: go_to_charts
 msgid "Go to charts"
-msgstr ""
+msgstr "Go to charts"
 
 #: open_this_map_as_chart
 msgid "Open this map as chart"
-msgstr ""
+msgstr "Open this map as chart"
 
 #: open_last_chart
 msgid "Open last chart"
-msgstr ""
+msgstr "Open last chart"
 
 #: clear
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #: select_sub_units
 msgid "Select sub-units"
-msgstr ""
+msgstr "Select sub-units"
 
 #: you_do_not_have_access_to_all_items_in_this_favorite
 msgid "You do not have access to all items in this favorite"
-msgstr ""
+msgstr "You do not have access to all items in this favorite"
 
 #: initializing
 msgid "Initializing"
-msgstr ""
+msgstr "Initializing"
 
 #: created_by
 msgid "Created by"
-msgstr ""
+msgstr "Created by"
 
 #: clear_map
 msgid "Clear map"
-msgstr ""
+msgstr "Clear map"
 
 #: manage_favorites
 msgid "Manage favorites"
-msgstr ""
+msgstr "Manage favorites"
 
 #: yes
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: no
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: this_financial_year
 msgid "This financial year"
-msgstr ""
+msgstr "This financial year"
 
 #: user_sub_units
 msgid "User sub-units"
-msgstr ""
+msgstr "User sub-units"
 
 #: user_sub_x2_units
 msgid "User sub-x2-units"
-msgstr ""
+msgstr "User sub-x2-units"
 
 #: this_week
 msgid "This week"
-msgstr ""
+msgstr "This week"
 
 #: this_quarter
 msgid "This quarter"
-msgstr ""
+msgstr "This quarter"
 
 #: this_month
 msgid "This month"
-msgstr ""
+msgstr "This month"
 
 #: this_sixmonth
 msgid "This six-month"
-msgstr ""
+msgstr "This six-month"
 
 #: this_bimonth
 msgid "This bi-month"
-msgstr ""
+msgstr "This bi-month"
 
 #: about
 msgid "About"
-msgstr ""
+msgstr "About"
 
 #: time_since_last_data_update
 msgid "Time since last data update"
-msgstr ""
+msgstr "Time since last data update"
 
 #: version
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: revision
 msgid "Revision"
-msgstr ""
+msgstr "Revision"
 
 #: build_time
 msgid "Build time"
-msgstr ""
+msgstr "Build time"
 
 #: username
 msgid "Username"
-msgstr ""
+msgstr "Username"

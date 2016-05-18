@@ -4,466 +4,502 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 06:00+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462860006.0\n"
 
 #: create_new_root
 msgid "Are you sure you want to create a new root organisation unit?"
-msgstr ""
+msgstr "Are you sure you want to create a new root organisation unit?"
 
 #: create_new_org_unit
 msgid "Create new organisation unit"
-msgstr ""
+msgstr "Create new organisation unit"
 
 #: registers_data
 msgid "Registers data"
-msgstr ""
+msgstr "Registers data"
 
 #: crease_new_org_unit_group
 msgid "Create new organisation unit group"
-msgstr ""
+msgstr "Create new organisation unit group"
 
 #: hierarchy_operations
 msgid "Hierarchy operations"
-msgstr ""
+msgstr "Hierarchy operations"
 
 #: select_an_org_unit_to_move
 msgid "Select an organisation unit to move"
-msgstr ""
+msgstr "Select an organisation unit to move"
 
 #: not_selected
 msgid "Not selected"
-msgstr ""
+msgstr "Not selected"
 
 #: confirm
 msgid "Confirm"
-msgstr ""
+msgstr "Confirm"
 
 #: select_the_new_parent_org_unit_for_the_one_to_move
 msgid "Select the new parent organisation unit for the one to move"
-msgstr ""
+msgstr "Select the new parent organisation unit for the one to move"
 
 #: reset
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: org_unit
 msgid "Organisation Unit"
-msgstr ""
+msgstr "Organisation Unit"
 
 #: org_unit_group
 msgid "Organisation Unit Group"
-msgstr ""
+msgstr "Organisation Unit Group"
 
 #: hierarchy_operations_menu
 msgid "Hierarchy Operations"
-msgstr ""
+msgstr "Hierarchy Operations"
 
 #: org_unit_level
 msgid "Organisation Unit Level"
-msgstr ""
+msgstr "Organisation Unit Level"
 
 #: org_unit_management
 msgid "Organisation unit management"
-msgstr ""
+msgstr "Organisation unit management"
 
 #: this_org_unit_has_no_children
 msgid "This organisation unit has no children"
-msgstr ""
+msgstr "This organisation unit has no children"
 
 #: org_unit_group_management
 msgid "Organisation unit group management"
-msgstr ""
+msgstr "Organisation unit group management"
 
 #: number_of_group_members
 msgid "Number of group members"
-msgstr ""
+msgstr "Number of group members"
 
 #: edit_org_unit
 msgid "Edit organisation unit"
-msgstr ""
+msgstr "Edit organisation unit"
 
 #: edit_org_unit_group
 msgid "Edit organisation unit group"
-msgstr ""
+msgstr "Edit organisation unit group"
 
 #: the_selected_organisation_unit_is_already_a_root
 msgid ""
 "The selected organisation unit is already a root. Please select a new parent "
 "organisation unit"
 msgstr ""
+"The selected organisation unit is already a root. Please select a new parent "
+"organisation unit"
 
 #: the_selected_organisation_unit_will_be_moved_to_root
 msgid "The selected organisation unit will be moved to root"
-msgstr ""
+msgstr "The selected organisation unit will be moved to root"
 
 #: an_organisation_unit_cannot_be_moved_to_itself
 msgid ""
 "An organisation unit cannot be moved to itself. Please select a new parent "
 "organisation unit"
 msgstr ""
+"An organisation unit cannot be moved to itself. Please select a new parent "
+"organisation unit"
 
 #: an_org_unit_cannot_be_moved_to_be_its_own_child
 msgid ""
 "An organisation unit cannot be moved to be its own child. Please select a "
 "new parent organisation unit"
 msgstr ""
+"An organisation unit cannot be moved to be its own child. Please select a "
+"new parent organisation unit"
 
 #: the_new_parent_org_unit_is_approved
 msgid "The new parent organisation unit is approved"
-msgstr ""
+msgstr "The new parent organisation unit is approved"
 
 #: name_in_use
 msgid "The name is already in use. Please choose a different name."
-msgstr ""
+msgstr "The name is already in use. Please choose a different name."
 
 #: code_in_use
 msgid "The code is already in use. Please choose a different code."
-msgstr ""
+msgstr "The code is already in use. Please choose a different code."
 
 #: this_org_unit_cannot_moved
 msgid ""
 "This organisation unit cannot be moved. Please select a new organisation "
 "unit to move"
 msgstr ""
+"This organisation unit cannot be moved. Please select a new organisation "
+"unit to move"
 
 #: the_org_unit_to_move_is_approved
 msgid "The organisation unit to move is approved"
-msgstr ""
+msgstr "The organisation unit to move is approved"
 
 #: not_selected_moved_to_root_position
 msgid "Not selected, moved to root position"
-msgstr ""
+msgstr "Not selected, moved to root position"
 
 #: verification_of_the_new_parent_org_unit_failed
 msgid ""
 "Verification of the new parent organisation unit failed with the following "
 "message"
 msgstr ""
+"Verification of the new parent organisation unit failed with the following "
+"message"
 
 #: confirm_to_delete_org_unit
 msgid "Are you sure you want to delete this organisation unit?"
-msgstr ""
+msgstr "Are you sure you want to delete this organisation unit?"
 
 #: adding_the_org_unit_failed
 msgid "Adding the organisation unit failed with the following message"
-msgstr ""
+msgstr "Adding the organisation unit failed with the following message"
 
 #: saving_the_org_unit_failed
 msgid "Saving the organisation unit failed with the following message"
-msgstr ""
+msgstr "Saving the organisation unit failed with the following message"
 
 #: confirm_to_delete_org_unit_group
 msgid "Are you sure you want to delete this Organisation Unit Group?"
-msgstr ""
+msgstr "Are you sure you want to delete this Organisation Unit Group?"
 
 #: confirm_to_delete_org_unit_group_set
+#, fuzzy
 msgid "Are you sure you want to delete this organisation unit group set?"
-msgstr ""
+msgstr "Are you sure you want to delete this Organisation Unit Group set?"
 
 #: org_unit_group_set_management
+#, fuzzy
 msgid "Organisation unit group set management"
-msgstr ""
+msgstr "Organisation Unit Group set management"
 
 #: org_unit_group_set
 msgid "Organisation Unit Group Set"
-msgstr ""
+msgstr "Organisation Unit Group Set"
 
 #: saving_the_org_unit_group_set_failed
+#, fuzzy
 msgid ""
 "Saving the organisation unit group set failed with the following message"
 msgstr ""
+"Saving the Organisation Unit Group set failed with the following message"
 
 #: compulsory
 msgid "Compulsory"
-msgstr ""
+msgstr "Compulsory"
 
 #: data_dimension
 msgid "Data Dimension"
-msgstr ""
+msgstr "Data Dimension"
 
 #: exclusive
 msgid "Exclusive"
-msgstr ""
+msgstr "Exclusive"
 
 #: create_new_org_unit_group_set
+#, fuzzy
 msgid "Create new organisation unit group set"
-msgstr ""
+msgstr "Create new Organisation Unit Group set"
 
 #: edit_org_unit_group_set
+#, fuzzy
 msgid "Edit organisation unit group set"
-msgstr ""
+msgstr "Edit Organisation Unit Group set"
 
 #: number_of_members
 msgid "Number of members"
-msgstr ""
+msgstr "Number of members"
 
 #: available_groups
 msgid "Available groups"
-msgstr ""
+msgstr "Available groups"
 
 #: selected_groups
 msgid "Selected groups"
-msgstr ""
+msgstr "Selected groups"
 
 #: the_group_set_can_not_be_creat_bec_it_is_exc_and
+#, fuzzy
 msgid "The group set can not be created because it is exclusive and"
-msgstr ""
+msgstr "The group set can not be created because it is exclusive and"
 
 #: is_a_member_of_more_than_one_selected_group
+#, fuzzy
 msgid "is a member of more than one selected group"
-msgstr ""
+msgstr "is a member of more than one selected group"
 
 #: move_selected
 msgid "Move selected"
-msgstr ""
+msgstr "Move selected"
 
 #: move_all
 msgid "Move all"
-msgstr ""
+msgstr "Move all"
 
 #: remove_selected
 msgid "Remove selected"
-msgstr ""
+msgstr "Remove selected"
 
 #: remove_all
 msgid "Remove all"
-msgstr ""
+msgstr "Remove all"
 
 #: organisation_unit_level_management
 msgid "Organisation unit level management"
-msgstr ""
+msgstr "Organisation unit level management"
 
 #: level
 msgid "Level"
-msgstr ""
+msgstr "Level"
 
 #: code
 msgid "Code"
-msgstr ""
+msgstr "Code"
 
 #: object_not_deleted_associated_by_objects
 msgid "Object not deleted because it is associated by objects of type"
-msgstr ""
+msgstr "Object not deleted because it is associated by objects of type"
 
 #: registers_date
 msgid "Registers date"
-msgstr ""
+msgstr "Registers date"
 
 #: hide_warning
 msgid "Hide warning"
-msgstr ""
+msgstr "Hide warning"
 
 #: url
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: latitude
 msgid "Latitude"
-msgstr ""
+msgstr "Latitude"
 
 #: longitude
 msgid "Longitude"
-msgstr ""
+msgstr "Longitude"
 
 #: latitude_optional
 msgid "Latitude (optional)"
-msgstr ""
+msgstr "Latitude (optional)"
 
 #: longitude_optional
 msgid "Longitude (optional)"
-msgstr ""
+msgstr "Longitude (optional)"
 
 #: assign_to_compulsory_group_set
 msgid "Assign to compulsory organisation unit group set"
-msgstr ""
+msgstr "Assign to compulsory organisation unit group set"
 
 #: organisation_unit_group_set
+#, fuzzy
 msgid "Organisation unit group set"
-msgstr ""
+msgstr "Organisation Unit Group set"
 
 #: group_members
 msgid "Group members"
-msgstr ""
+msgstr "Group members"
 
 #: last_updated
 msgid "Last updated"
-msgstr ""
+msgstr "Last updated"
 
 #: intro_org_unit
 msgid ""
 "Create, modify, view and delete organisation units, which can be "
 "departments, offices, hospitals and clinics."
 msgstr ""
+"Create, modify, view and delete organisation units, which can be "
+"departments, offices, hospitals and clinics."
 
 #: intro_org_unit_group
 msgid ""
 "Create, modify, view and delete organisation unit groups. Groups are used "
 "for improved analysis."
 msgstr ""
+"Create, modify, view and delete organisation unit groups. Groups are used "
+"for improved analysis."
 
 #: intro_org_unit_group_set
 msgid ""
 "Create, modify, view and delete organisation unit group sets. Group sets are "
 "used for improved analysis."
 msgstr ""
+"Create, modify, view and delete organisation unit group sets. Group sets are "
+"used for improved analysis."
 
 #: intro_org_unit_level
 msgid ""
 "Create, modify, view and delete descriptive names for the organisation unit "
 "levels in the system."
 msgstr ""
+"Create, modify, view and delete descriptive names for the organisation unit "
+"levels in the system."
 
 #: intro_org_unit_search
 msgid ""
 "Search organisation units based on name and group sets. View extended "
 "information for individual units."
 msgstr ""
+"Search organisation units based on name and group sets. View extended "
+"information for individual units."
 
 #: intro_hierarchy_operations_menu
 msgid ""
 "Move organisation units in the organisation unit tree. All children will be "
 "moved along with the unit."
 msgstr ""
+"Move organisation units in the organisation unit tree. All children will be "
+"moved along with the unit."
 
 #: loading
 msgid "Loading"
-msgstr ""
+msgstr "Loading"
 
 #: coordinates
 msgid "Coordinates"
-msgstr ""
+msgstr "Coordinates"
 
 #: org_unit_search
+#, fuzzy
 msgid "Organisation Unit Search"
-msgstr ""
+msgstr "Organisation Unit Search"
 
 #: org_unit_search_management
+#, fuzzy
 msgid "Organisation unit search"
-msgstr ""
+msgstr "Organisation unit search"
 
 #: criteria
 msgid "Criteria"
-msgstr ""
+msgstr "Criteria"
 
 #: options
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "Search"
 
 #: organisation_units
 msgid "organisation units"
-msgstr ""
+msgstr "organisation units"
 
 #: found
 msgid "Found"
-msgstr ""
+msgstr "Found"
 
 #: all
 msgid "All"
-msgstr ""
+msgstr "All"
 
 #: please_select_from_tree
 msgid "Please select from tree (optional)"
-msgstr ""
+msgstr "Please select from tree (optional)"
 
 #: polygon
 msgid "Polygon"
-msgstr ""
+msgstr "Polygon"
 
 #: point
 msgid "Point"
-msgstr ""
+msgstr "Point"
 
 #: offline_levels
 msgid "Offline levels"
-msgstr ""
+msgstr "Offline levels"
 
 #: available_data_sets
 msgid "Available data sets"
-msgstr ""
+msgstr "Available data sets"
 
 #: selected_data_sets
 msgid "Selected data sets"
-msgstr ""
+msgstr "Selected data sets"
 
 #: limited
 msgid "Limited"
-msgstr ""
+msgstr "Limited"
 
 #: get_report_as_xls
 msgid "Download as Excel"
-msgstr ""
+msgstr "Download as Excel"
 
 #: get_report_as_csv
 msgid "Download as CSV"
-msgstr ""
+msgstr "Download as CSV"
 
 #: get_report_as_pdf
 msgid "Download as PDF"
-msgstr ""
+msgstr "Download as PDF"
 
 #: please_wait_while_downloading
 msgid "Please wait while downloading report"
-msgstr ""
+msgstr "Please wait while downloading report"
 
 #: please_wait_while_searching
 msgid "Please wait while searching"
-msgstr ""
+msgstr "Please wait while searching"
 
 #: hierarchy
 msgid "Hierarchy"
-msgstr ""
+msgstr "Hierarchy"
 
 #: data_sets
+#, fuzzy
 msgid "Data sets"
-msgstr ""
+msgstr "Data Sets"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
-msgstr ""
+msgstr "Organisation unit groups"
 
 #: select_group
 msgid "Select group"
-msgstr ""
+msgstr "Select group"
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "Phone number"
 
 #: select_symbol
 msgid "Select symbol"
-msgstr ""
+msgstr "Select symbol"
 
 #: symbol
 msgid "Symbol"
-msgstr ""
+msgstr "Symbol"
 
 #: name_code_identifier
 msgid "Name, code or identifier"
-msgstr ""
+msgstr "Name, code or identifier"
 
 #: identifier
 msgid "Identifier"
-msgstr ""
+msgstr "Identifier"
 
 #: short_name_in_use
 msgid "The short name is already in use. Please choose a different short name"
-msgstr ""
+msgstr "The short name is already in use. Please choose a different short name"
 
 #: show_all_sections
 msgid "Show all sections"
-msgstr ""
+msgstr "Show all sections"
 
 #: org_unit_levels_not_yet_saved
 msgid "Organisation unit level is not yet saved, please save"
-msgstr ""
+msgstr "Organisation unit level is not yet saved, please save"

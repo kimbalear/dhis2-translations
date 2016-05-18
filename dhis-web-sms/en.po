@@ -4,482 +4,488 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-06 23:14+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462576466.0\n"
 
 #: DHIS_2
 msgid "DHIS2"
-msgstr ""
+msgstr "DHIS2"
 
 #: menu
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: home
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: navigate_to
 msgid "Navigate to"
-msgstr ""
+msgstr "Navigate to"
 
 #: reports
 msgid "Reports"
-msgstr ""
+msgstr "Reports"
 
 #: charts
 msgid "Charts"
-msgstr ""
+msgstr "Charts"
 
 #: documents
 msgid "Documents"
-msgstr ""
+msgstr "Documents"
 
 #: dashboard
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: dashboard_reports
 msgid "Dashboard reports"
-msgstr ""
+msgstr "Dashboard reports"
 
 #: dashboard_charts
 msgid "Dashboard charts"
-msgstr ""
+msgstr "Dashboard charts"
 
 #: dashboard_documents
 msgid "Dashboard documents"
-msgstr ""
+msgstr "Dashboard documents"
 
 #: data_entry
 msgid "Data Entry"
-msgstr ""
+msgstr "Data Entry"
 
 #: namebased_data_entry
+#, fuzzy
 msgid "Namebased Data Entry"
-msgstr ""
+msgstr "Name-based Data Entry"
 
 #: data_entry_overview
 msgid "Data Entry Overview"
-msgstr ""
+msgstr "Data Entry Overview"
 
 #: logout
 msgid "Logout"
-msgstr ""
+msgstr "Logout"
 
 #: desktop_version
 msgid "Desktop version"
-msgstr ""
+msgstr "Desktop version"
 
 #: report_table_parameters
 msgid "Report parameters"
-msgstr ""
+msgstr "Report parameters"
 
 #: get_report
 msgid "Get report"
-msgstr ""
+msgstr "Get report"
 
 #: reporting_period
 msgid "Report period"
-msgstr ""
+msgstr "Report period"
 
 #: select_organisation_unit
 msgid "Please select organisation unit"
-msgstr ""
+msgstr "Please select organisation unit"
 
 #: available_datasets
 msgid "Available data sets"
-msgstr ""
+msgstr "Available data sets"
 
 #: available_organisation_units
 msgid "Available organisation units"
-msgstr ""
+msgstr "Available organisation units"
 
 #: available_periods
 msgid "Available periods"
-msgstr ""
+msgstr "Available periods"
 
 #: settings
 msgid "Settings"
-msgstr ""
+msgstr "Settings"
 
 #: language
 msgid "Interface Language"
-msgstr ""
+msgstr "Interface Language"
 
 #: is_invalid_boolean
 msgid "is not a valid boolean"
-msgstr ""
+msgstr "is not a valid boolean"
 
 #: is_invalid_date
 msgid "is not a valid date (yyyy-MM-dd)"
-msgstr ""
+msgstr "is not a valid date (yyyy-MM-dd)"
 
 #: is_invalid_number
 msgid "is not a valid number"
-msgstr ""
+msgstr "is not a valid number"
 
 #: is_invalid_integer
 msgid "is not a valid integer"
-msgstr ""
+msgstr "is not a valid integer"
 
 #: is_invalid_positive_integer
 msgid "is not a valid positive integer"
-msgstr ""
+msgstr "is not a valid positive integer"
 
 #: is_invalid_negative_integer
 msgid "is not a valid negative integer"
-msgstr ""
+msgstr "is not a valid negative integer"
 
 #: warnings_and_errors
 msgid "Warnings and errors"
-msgstr ""
+msgstr "Warnings and errors"
 
 #: validation_rule_violation_warnings
 msgid "Validation Rule Violation Warnings"
-msgstr ""
+msgstr "Validation Rule Violation Warnings"
 
 #: minmax_violation_warnings
 msgid "Min/Max Violation Warnings"
-msgstr ""
+msgstr "Min/Max Violation Warnings"
 
 #: type_violation_errors
 msgid "Type Violation Errors"
-msgstr ""
+msgstr "Type Violation Errors"
 
 #: messages
 msgid "Messages"
-msgstr ""
+msgstr "Messages"
 
 #: conversations
 msgid "Conversations"
-msgstr ""
+msgstr "Conversations"
 
 #: subject
 msgid "Subject"
-msgstr ""
+msgstr "Subject"
 
 #: reply
 msgid "Reply"
-msgstr ""
+msgstr "Reply"
 
 #: form_complete
 msgid "Form complete"
-msgstr ""
+msgstr "Form complete"
 
 #: completed
 msgid "Completed"
-msgstr ""
+msgstr "Completed"
 
 #: saved_section
 msgid "Saved Section"
-msgstr ""
+msgstr "Saved Section"
 
 #: sections
 msgid "Sections"
-msgstr ""
+msgstr "Sections"
 
 #: current_activityplan
 msgid "Current Activity Plan"
-msgstr ""
+msgstr "Current Activity Plan"
 
 #: all_activityplan
 msgid "All Activity Plan"
-msgstr ""
+msgstr "All Activity Plan"
 
 #: activity_type
 msgid "Activity Type"
-msgstr ""
+msgstr "Activity Type"
 
 #: beneficiary_list
 msgid "Beneficiary List"
-msgstr ""
+msgstr "Beneficiary List"
 
 #: activity_list
 msgid "Activity List"
-msgstr ""
+msgstr "Activity List"
 
 #: successfully_saved
 msgid "Successfully Saved"
-msgstr ""
+msgstr "Successfully Saved"
 
 #: select_option
 msgid "Select Option"
-msgstr ""
+msgstr "Select Option"
 
 #: id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: gender
 msgid "Gender"
-msgstr ""
+msgstr "Gender"
 
 #: organisation_unit
 msgid "Organisation Unit"
-msgstr ""
+msgstr "Organisation Unit"
 
 #: beneficiary_registration
 msgid "Beneficiary Registration"
-msgstr ""
+msgstr "Beneficiary Registration"
 
 #: transgender
 msgid "Transgender"
-msgstr ""
+msgstr "Transgender"
 
 #: is_empty
 msgid "Empty Field"
-msgstr ""
+msgstr "Empty Field"
 
 #: beneficiary_enrollment
 msgid "Beneficiary Enrollment"
-msgstr ""
+msgstr "Beneficiary Enrollment"
 
 #: beneficiary_search
 msgid "Beneficiary Search"
-msgstr ""
+msgstr "Beneficiary Search"
 
 #: beneficiary_name
 msgid "Beneficiary Name"
-msgstr ""
+msgstr "Beneficiary Name"
 
 #: sms_functions
 msgid "SMS Functions"
-msgstr ""
+msgstr "SMS Functions"
 
 #: send_sms_to_target
 msgid "Send SMS to"
-msgstr ""
+msgstr "Send SMS to"
 
 #: show_send_sms_form
 msgctxt "show_send_sms_form"
 msgid "Send SMS"
-msgstr ""
+msgstr "Send SMS"
 
 #: test_sms_input
 msgid "Test SMS input"
-msgstr ""
+msgstr "Test SMS input"
 
 #: send_sms
 msgctxt "send_sms"
 msgid "Send SMS"
-msgstr ""
+msgstr "Send SMS"
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "Phone number"
 
 #: raw_phone_number
 msgid "Raw phone numbers"
-msgstr ""
+msgstr "Raw phone numbers"
 
 #: assigned_user_number
 msgid "User assigned to organisation unit "
-msgstr ""
+msgstr "User assigned to organisation unit "
 
 #: stakeholder_contact_person
 msgid "Stakeholder (Contact person)"
-msgstr ""
+msgstr "Stakeholder (Contact person)"
 
 #: patients_registered
 msgid "Persons registered"
-msgstr ""
+msgstr "Persons registered"
 
 #: programs
 msgid "Programs"
-msgstr ""
+msgstr "Programs"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
-msgstr ""
+msgstr "Organisation unit level"
 
 #: chidren_only
 msgid "Children only"
-msgstr ""
+msgstr "Children only"
 
 #: please_select_a_program
 msgid "Please select a program"
-msgstr ""
+msgstr "Please select a program"
 
 #: please_select_user_group
 msgid "Please select user group"
-msgstr ""
+msgstr "Please select user group"
 
 #: there_is_no_program
 msgid "There is no program selected, won't send SMS to any Person"
-msgstr ""
+msgstr "There is no program selected, won't send SMS to any Person"
 
 #: service_stopped_cannot_send_sms
 msgid "Service is stopped. SMS cannot be sent."
-msgstr ""
+msgstr "Service is stopped. SMS cannot be sent."
 
 #: please_verify_phone
 msgid ""
 "Please verify the phone number(s). Separate each number with a semicolon (;)"
 msgstr ""
+"Please verify the phone number(s). Separate each number with a semicolon (;)"
 
 #: please_select_orgunit
 msgid "Please select at least one organisation unit"
-msgstr ""
+msgstr "Please select at least one organisation unit"
 
 #: no_recipient
 msgid "There is no recipient. SMS cannot be sent !"
-msgstr ""
+msgstr "There is no recipient. SMS cannot be sent !"
 
 #: registering_unit
 msgid "Registering Unit"
-msgstr ""
+msgstr "Registering Unit"
 
 #: search_by_name_identifier
 msgid "Search by name or identifier"
-msgstr ""
+msgstr "Search by name or identifier"
 
 #: search_by_program
 msgid "Search by program"
-msgstr ""
+msgstr "Search by program"
 
 #: please_select_village
 msgid "Please select village"
-msgstr ""
+msgstr "Please select village"
 
 #: specify_search_criteria
 msgid "Please specify search criteria"
-msgstr ""
+msgstr "Please specify search criteria"
 
 #: list_all_patients
 msgid "List all Persons"
-msgstr ""
+msgstr "List all Persons"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "Search"
 
 #: search_by_selected_unit
 msgid "Search by selected unit"
-msgstr ""
+msgstr "Search by selected unit"
 
 #: please_select
 msgid "Please Select"
-msgstr ""
+msgstr "Please Select"
 
 #: search_details
 msgid "Search details"
-msgstr ""
+msgstr "Search details"
 
 #: male
 msgid "Male"
-msgstr ""
+msgstr "Male"
 
 #: female
 msgid "Female"
-msgstr ""
+msgstr "Female"
 
 #: age
 msgid "Age"
-msgstr ""
+msgstr "Age"
 
 #: full_name
 msgid "Full name"
-msgstr ""
+msgstr "Full name"
 
 #: no_phone
 msgid "No phone"
-msgstr ""
+msgstr "No phone"
 
 #: add_phone_to_list
 msgid "Add phone to list"
-msgstr ""
+msgstr "Add phone to list"
 
 #: hierachy_orgunit
 msgid "Hierarchy organisation unit"
-msgstr ""
+msgstr "Hierarchy organisation unit"
 
 #: total_result
 msgid "Total number of results"
-msgstr ""
+msgstr "Total number of results"
 
 #: search_result_matching_the_search_criteria
 msgid "Result matches the search criteria"
-msgstr ""
+msgstr "Result matches the search criteria"
 
 #: search_patients_by_attributes
 msgid "Search persons by attributes"
-msgstr ""
+msgstr "Search persons by attributes"
 
 #: user_group
 msgid "User Group"
-msgstr ""
+msgstr "User Group"
 
 #: no_message
 msgid "Please type your message before sending"
-msgstr ""
+msgstr "Please type your message before sending"
 
 #: do_not_send_patient_confidential_messages_using_sms
+#, fuzzy
 msgid "Do not send person confidential messages using sms"
-msgstr ""
+msgstr "Do not send person confidential messages using SMS"
 
 #: please_select_a_gateway_type_to_send_sms
+#, fuzzy
 msgid "Please select a default gateway (Maintenance -> ) to send sms"
-msgstr ""
+msgstr "Please select a default gateway (Maintenance -> ) to send SMS"
 
 #: there_is_no_user_assigned_to_selected_units
 msgid "There is no user assigned to selected units"
-msgstr ""
+msgstr "There is no user assigned to selected units"
 
 #: selected_units_have_no_phone_number
 msgid "The selected units have no phone number"
-msgstr ""
+msgstr "The selected units have no phone number"
 
 #: selected_persons_have_no_phone_number
 msgid "The selected persons have no phone number"
-msgstr ""
+msgstr "The selected persons have no phone number"
 
 #: selected_user_group_is_unavailable
 msgid "The selected user group is unavailable"
-msgstr ""
+msgstr "The selected user group is unavailable"
 
 #: selected_user_group_has_no_member
 msgid "The selected user group has no member"
-msgstr ""
+msgstr "The selected user group has no member"
 
 #: person_list_empty
 msgid "List should not be empty"
-msgstr ""
+msgstr "List should not be empty"
 
 #: search_in_all_facilities
 msgid "Search in all facilities"
-msgstr ""
+msgstr "Search in all facilities"
 
 #: dblick_to_unselect
 msgid "Double-click to remove"
-msgstr ""
+msgstr "Double-click to remove"
 
 #: advance_search
 msgid "Advance search"
-msgstr ""
+msgstr "Advance search"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Program"
 
 #: message_not_sent
 msgid "Message not sent"
-msgstr ""
+msgstr "Message not sent"
 
 #: date_of_birth
 msgid "Date of birth"
-msgstr ""
+msgstr "Date of birth"
 
 #: age_year
 msgid "Age (years)"
-msgstr ""
+msgstr "Age (years)"
 
 #: org_unit_phone_number
 msgid "Organisation unit phone number"
-msgstr ""
+msgstr "Organisation unit phone number"

@@ -4,1587 +4,1643 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-05-10 05:27+0000\n"
+"Last-Translator: cjl <cjlhomeaddress@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"X-POOTLE-MTIME: 1462858054.0\n"
 
 #: remove_all
 msgid "Remove All Locks"
-msgstr ""
+msgstr "Remove All Locks"
 
 #: optional
 msgid "Optional"
-msgstr ""
+msgstr "Optional"
 
 #: data_administration
 msgid "Data Administration"
-msgstr ""
+msgstr "Data Administration"
 
 #: period_type
 msgid "Period Type"
-msgstr ""
+msgstr "Period Type"
 
 #: select_options
 msgid "Please select at least one option"
-msgstr ""
+msgstr "Please select at least one option"
 
 #: performing_maintenance
 msgid "Performing maintenance"
-msgstr ""
+msgstr "Performing maintenance"
 
 #: maintenance_performed
 msgid "Maintenance performed"
-msgstr ""
+msgstr "Maintenance performed"
 
 #: generating_resource_tables
 msgid "Generating resource tables"
-msgstr ""
+msgstr "Generating resource tables"
 
 #: resource_tables_generated
 msgid "Resource tables generated"
-msgstr ""
+msgstr "Resource tables generated"
 
 #: clear_analytics_tables
 msgid "Clear analytics tables"
-msgstr ""
+msgstr "Clear analytics tables"
 
 #: maintenance
 msgid "Maintenance"
-msgstr ""
+msgstr "Maintenance"
 
 #: resource_table
 msgid "Resource Table"
-msgstr ""
+msgstr "Resource Table"
 
 #: clear_dataset_completeness
 msgid "Clear data set completeness"
-msgstr ""
+msgstr "Clear data set completeness"
 
 #: clear_zero_values
 msgid "Clear zero values"
-msgstr ""
+msgstr "Clear zero values"
 
 #: group_set_structure
 msgid "Organisation unit group set structure normalized"
-msgstr ""
+msgstr "Organisation unit group set structure normalized"
 
 #: organisation_unit_structure
 msgid "Organisation unit structure"
-msgstr ""
+msgstr "Organisation unit structure"
 
 #: data_element_category_option_combo_name
 msgid "Data element category option combo name"
-msgstr ""
+msgstr "Data element category option combo name"
 
 #: generate_resource_tables
 msgid "Generate tables"
-msgstr ""
+msgstr "Generate tables"
 
 #: perform_maintenance
 msgid "Perform maintenance"
-msgstr ""
+msgstr "Perform maintenance"
 
 #: prune_periods
 msgid "Prune periods"
-msgstr ""
+msgstr "Prune periods"
 
 #: cache_statistics
 msgid "Cache Statistics"
-msgstr ""
+msgstr "Cache Statistics"
 
 #: second_level_cache_statistics
 msgid "Second Level Cache Statistics"
-msgstr ""
+msgstr "Second Level Cache Statistics"
 
 #: region_name
 msgid "Region name"
-msgstr ""
+msgstr "Region name"
 
 #: mem_count
 msgid "Mem count"
-msgstr ""
+msgstr "Mem count"
 
 #: disk_count
 msgid "Disk count"
-msgstr ""
+msgstr "Disk count"
 
 #: mem_size
 msgid "Mem size"
-msgstr ""
+msgstr "Mem size"
 
 #: total_second_level_cache
 msgid "Total Second Level Cache"
-msgstr ""
+msgstr "Total Second Level Cache"
 
 #: total_query_cache
 msgid "Total Query Cache"
-msgstr ""
+msgstr "Total Query Cache"
 
 #: query_cache_statistics
 msgid "Query Cache Statistics"
-msgstr ""
+msgstr "Query Cache Statistics"
 
 #: query_name
 msgid "Query name"
-msgstr ""
+msgstr "Query name"
 
 #: put_count
 msgid "Put count"
-msgstr ""
+msgstr "Put count"
 
 #: hit_count
 msgid "Hit count"
-msgstr ""
+msgstr "Hit count"
 
 #: miss_count
 msgid "Miss count"
-msgstr ""
+msgstr "Miss count"
 
 #: exec_count
 msgid "Exec count"
-msgstr ""
+msgstr "Exec count"
 
 #: exec_avg_time
 msgid "Exec avg time"
-msgstr ""
+msgstr "Exec avg time"
 
 #: exec_max_time
 msgid "Exec max time"
-msgstr ""
+msgstr "Exec max time"
 
 #: exec_min_time
 msgid "Exec min time"
-msgstr ""
+msgstr "Exec min time"
 
 #: exec_row_count
 msgid "Exec row count"
-msgstr ""
+msgstr "Exec row count"
 
 #: clear_cache
 msgid "Clear cache"
-msgstr ""
+msgstr "Clear cache"
 
 #: data_statistics
 msgid "Data Statistics"
-msgstr ""
+msgstr "Data Statistics"
 
 #: indicator_types
 msgid "Indicator types"
-msgstr ""
+msgstr "Indicator types"
 
 #: data_dictionaries
 msgid "Data dictionaries"
-msgstr ""
+msgstr "Data dictionaries"
 
 #: periods
 msgid "Periods"
-msgstr ""
+msgstr "Periods"
 
 #: data_values
 msgid "Data values"
-msgstr ""
+msgstr "Data values"
 
 #: number_of_objects
 msgid "Number of objects"
-msgstr ""
+msgstr "Number of objects"
 
 #: data_browser
 msgid "Data Browser"
-msgstr ""
+msgstr "Data Browser"
 
 #: from_date
 msgid "From date"
-msgstr ""
+msgstr "From date"
 
 #: to_date
 msgid "To date"
-msgstr ""
+msgstr "To date"
 
 #: browse_by
 msgid "Browse by"
-msgstr ""
+msgstr "Browse by"
 
 #: select_mode
 msgid "Select mode"
-msgstr ""
+msgstr "Select mode"
 
 #: select_parent_organisation_unit
 msgid "Select parent organisation unit"
-msgstr ""
+msgstr "Select parent organisation unit"
 
 #: no_data_found
 msgid "No data found"
-msgstr ""
+msgstr "No data found"
 
 #: browse
 msgid "Browse"
-msgstr ""
+msgstr "Browse"
 
 #: select_period_type
 msgid "Select Period Type"
-msgstr ""
+msgstr "Select Period Type"
 
 #: data_integrity
 msgid "Data Integrity"
-msgstr ""
+msgstr "Data Integrity"
 
 #: data_elements_without_data_set
 msgid "Data elements without a data set"
-msgstr ""
+msgstr "Data elements without a data set"
 
 #: data_elements_without_groups
 msgid "Data elements without groups"
-msgstr ""
+msgstr "Data elements without groups"
 
 #: data_sets_not_assigned_to_organisation_units
 msgid "Data sets not assigned to organisation units"
-msgstr ""
+msgstr "Data sets not assigned to organisation units"
 
 #: indicators_with_identical_formulas
 msgid "Indicators with identical formulas"
-msgstr ""
+msgstr "Indicators with identical formulas"
 
 #: indicators_without_groups
 msgid "Indicators without groups"
-msgstr ""
+msgstr "Indicators without groups"
 
 #: organisation_units_with_cyclic_references
 msgid "Organisation units with cyclic references"
-msgstr ""
+msgstr "Organisation units with cyclic references"
 
 #: orphaned_organisation_units
 msgid "Orphaned organisation units"
-msgstr ""
+msgstr "Orphaned organisation units"
 
 #: organisation_units_without_groups
 msgid "Organisation units without groups"
-msgstr ""
+msgstr "Organisation units without groups"
 
 #: organisation_units_violating_compulsory_group_sets
 msgid "Organisation units violating compulsory group sets"
-msgstr ""
+msgstr "Organisation units violating compulsory group sets"
 
 #: organisation_units_violation_exclusive_group_sets
 msgid "Organisation units violating exclusive group sets"
-msgstr ""
+msgstr "Organisation units violating exclusive group sets"
 
 #: organisation_unit_groups_without_group_sets
 msgid "Organisation unit groups without group sets"
-msgstr ""
+msgstr "Organisation unit groups without group sets"
 
 #: category_option_combos_not_in_data_element_category_combo
 msgid ""
 "Category option combos not in data element category combo in data entry form"
 msgstr ""
+"Category option combos not in data element category combo in data entry form"
 
 #: data_integrity_checks_performed
 msgid "Data integrity checks performed"
-msgstr ""
+msgstr "Data integrity checks performed"
 
 #: data_elements_assigned_to_period_types_with_different_period_types
 msgid "Data elements assigned to data sets with different period types"
-msgstr ""
+msgstr "Data elements assigned to data sets with different period types"
 
 #: category_option_group_set_structure
 msgid "Category option group set structure"
-msgstr ""
+msgstr "Category option group set structure"
 
 #: data_element_group_set_structure
 msgid "Data element group set structure"
-msgstr ""
+msgstr "Data element group set structure"
 
 #: indicator_group_set_structure
 msgid "Indicator group set structure"
-msgstr ""
+msgstr "Indicator group set structure"
 
 #: organisation_unit_group_set_structure
 msgid "Organisation unit group set structure"
-msgstr ""
+msgstr "Organisation unit group set structure"
 
 #: period
 msgid "Period"
-msgstr ""
+msgstr "Period"
 
 #: value
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: found
 msgid "Found"
-msgstr ""
+msgstr "Found"
 
 #: values
 msgid "values"
-msgstr ""
+msgstr "values"
 
 #: data_element
+#, fuzzy
 msgctxt "data_element"
 msgid "Data element"
-msgstr ""
+msgstr "Data Element"
 
 #: data_element_group
+#, fuzzy
 msgid "Data element Group"
-msgstr ""
+msgstr "Data Element Group"
 
 #: validation_rules_without_groups
 msgid "Validation rules without groups"
-msgstr ""
+msgstr "Validation rules without groups"
 
 #: aggregated_data_values
 msgid "Aggregated data values"
-msgstr ""
+msgstr "Aggregated data values"
 
 #: aggregated_indicator_values
 msgid "Aggregated indicator values"
-msgstr ""
+msgstr "Aggregated indicator values"
 
 #: organisation_unit_pruning
 msgid "Organisation Unit Pruning"
-msgstr ""
+msgstr "Organisation Unit Pruning"
 
 #: min_max_value_generation
 msgid "Min-Max Value Generation"
-msgstr ""
+msgstr "Min-Max Value Generation"
 
 #: intro_lock_exception
 msgid ""
 "Add or remove exceptions to the the standard rules for locking of data entry "
 "forms."
 msgstr ""
+"Add or remove exceptions to the the standard rules for locking of data entry "
+"forms."
 
 #: intro_data_browser
 msgid ""
 "Browse the database and get an overview of where data exists. View and "
 "export counts of data elements as well as raw data."
 msgstr ""
+"Browse the database and get an overview of where data exists. View and "
+"export counts of data elements as well as raw data."
 
 #: intro_data_integrity
 msgid ""
 "Run data integrity checks and unveil anomalies and problems in the meta data "
 "setup."
 msgstr ""
+"Run data integrity checks and unveil anomalies and problems in the meta data "
+"setup."
 
 #: intro_data_archive
 msgid ""
 "Archive data which is not currently relevant to your system in order to "
 "improve performance. Data can also be unarchived."
 msgstr ""
+"Archive data which is not currently relevant to your system in order to "
+"improve performance. Data can also be unarchived."
 
 #: intro_patient_data_archive
 msgid ""
 "Archive person data which is not currently relevant to your system. Data can "
 "also be unarchived."
 msgstr ""
+"Archive person data which is not currently relevant to your system. Data can "
+"also be unarchived."
 
 #: intro_maintenance
 msgid ""
 "Perform maintenance tasks such as pruning of data values and periods and "
 "clearing of database resource tables."
 msgstr ""
+"Perform maintenance tasks such as pruning of data values and periods and "
+"clearing of database resource tables."
 
 #: intro_resource_table
 msgid ""
 "Generate resource database tables for the organisation unit hierarchy and "
 "group set structure among others."
 msgstr ""
+"Generate resource database tables for the organisation unit hierarchy and "
+"group set structure among others."
 
 #: intro_locale
 msgid ""
 "Create and manage locales for database content. A locale is a combination of "
 "language and country."
 msgstr ""
+"Create and manage locales for database content. A locale is a combination of "
+"language and country."
 
 #: intro_organisation_unit_merge
 msgid ""
 "Merge two organisation units and their data values. Data is merged depending "
 "on existence and date of last modification."
 msgstr ""
+"Merge two organisation units and their data values. Data is merged depending "
+"on existence and date of last modification."
 
 #: intro_data_statistics
 msgid ""
 "Browse the number of objects in the database, like data elements, "
 "indicators, data sets and data values."
 msgstr ""
+"Browse the number of objects in the database, like data elements, "
+"indicators, data sets and data values."
 
 #: intro_cache_statistics
 msgid ""
 "Monitor and clear the system database cache status. Provides information on "
 "object and query caches."
 msgstr ""
+"Monitor and clear the system database cache status. Provides information on "
+"object and query caches."
 
 #: intro_min_max_value_generation
 msgid ""
 "Generate min-max values which can be used for data validation during data "
 "entry and validation processes."
 msgstr ""
+"Generate min-max values which can be used for data validation during data "
+"entry and validation processes."
 
 #: intro_organisation_unit_pruning
 msgid ""
 "Remove sub-trees from the organisation unit tree. Useful when creating and "
 "deploying local databases."
 msgstr ""
+"Remove sub-trees from the organisation unit tree. Useful when creating and "
+"deploying local databases."
 
 #: intro_zero_storage_management
 msgid ""
 "Define which data elements for which zero values should be stored or "
 "ignored. Useful for reducing database size."
 msgstr ""
+"Define which data elements for which zero values should be stored or "
+"ignored. Useful for reducing database size."
 
 #: intro_duplicate_data_elimination
 msgid ""
 "Eliminate data registered for duplicate data elements. Useful when data has "
 "been entered for identical data elements."
 msgstr ""
+"Eliminate data registered for duplicate data elements. Useful when data has "
+"been entered for identical data elements."
 
 #: intro_sql_view
 msgid ""
 "Create SQL database views. These views will typically use the resource "
 "tables to provide convenient views for third-party tools."
 msgstr ""
+"Create SQL database views. These views will typically use the resource "
+"tables to provide convenient views for third-party tools."
 
 #: intro_constant
 msgid ""
 "Create constants which can be included in expressions of indicator and "
 "validation rules."
 msgstr ""
+"Create constants which can be included in expressions of indicator and "
+"validation rules."
 
 #: intro_attribute
 msgid ""
 "Create and update dynamic attributes. Attributes can be used for data "
 "elements, indicators, organisation units and users."
 msgstr ""
+"Create and update dynamic attributes. Attributes can be used for data "
+"elements, indicators, organisation units and users."
 
 #: intro_option_set
 msgid ""
 "Create option sets which can be included in data elements and produce drop-"
 "down lists in data entry forms."
 msgstr ""
+"Create option sets which can be included in data elements and produce drop-"
+"down lists in data entry forms."
 
 #: intro_scheduling
 msgid ""
 "Manage scheduled tasks such as data mart exports, where you can set period "
 "types, aggregation level and frequency."
 msgstr ""
+"Manage scheduled tasks such as data mart exports, where you can set period "
+"types, aggregation level and frequency."
 
 #: expression_is_empty
 msgid "Expression is empty"
-msgstr ""
+msgstr "Expression is empty"
 
 #: dataelement_id_not_numeric
 msgid "Data element identifier must be a number"
-msgstr ""
+msgstr "Data element identifier must be a number"
 
 #: category_option_combo_id_not_numeric
 msgid "Category option combo identifier must be a number"
-msgstr ""
+msgstr "Category option combo identifier must be a number"
 
 #: expression_not_well_formed
 msgid "Expression is not well formed"
-msgstr ""
+msgstr "Expression is not well formed"
 
 #: invalid_indicator_denominators
 msgid "Invalid indicator denominators"
-msgstr ""
+msgstr "Invalid indicator denominators"
 
 #: invalid_indicator_numerators
 msgid "Invalid indicator numerators"
-msgstr ""
+msgstr "Invalid indicator numerators"
 
 #: invalid_validation_rule_left_side_expressions
 msgid "Invalid validation rule left side expressions"
-msgstr ""
+msgstr "Invalid validation rule left side expressions"
 
 #: invalid_validation_rule_right_side_expressions
 msgid "Invalid validation rule right side expressions"
-msgstr ""
+msgstr "Invalid validation rule right side expressions"
 
 #: category_structure
 msgid "Category structure"
-msgstr ""
+msgstr "Category structure"
 
 #: zero_storage_management
 msgid "Zero Value Storage"
-msgstr ""
+msgstr "Zero Value Storage"
 
 #: ignore_zero_data_values
 msgid "Ignore zero data values"
-msgstr ""
+msgstr "Ignore zero data values"
 
 #: store_zero_data_values
 msgid "Store zero data values"
-msgstr ""
+msgstr "Store zero data values"
 
 #: all
 msgid "Select/ALL"
-msgstr ""
+msgstr "Select/ALL"
 
 #: organisation_unit_merge
 msgid "Organisation Unit Merge"
-msgstr ""
+msgstr "Organisation Unit Merge"
 
 #: select_the_org_unit_to_eliminate
 msgid "Select the organisation unit to eliminate"
-msgstr ""
+msgstr "Select the organisation unit to eliminate"
 
 #: not_selected
 msgid "Not selected"
-msgstr ""
+msgstr "Not selected"
 
 #: select_the_org_unit_to_keep
 msgid "Select the organisation unit to keep"
-msgstr ""
+msgstr "Select the organisation unit to keep"
 
 #: create_sql_views
 msgid "Create SQL views"
-msgstr ""
+msgstr "Create SQL views"
 
 #: merge
 msgid "Merge"
-msgstr ""
+msgstr "Merge"
 
 #: reset
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: confirm
 msgid "Confirm"
-msgstr ""
+msgstr "Confirm"
 
 #: merging
 msgid "Merging"
-msgstr ""
+msgstr "Merging"
 
 #: merging_done
 msgid "Merging done"
-msgstr ""
+msgstr "Merging done"
 
 #: eliminating
 msgid "Eliminating"
-msgstr ""
+msgstr "Eliminating"
 
 #: elimination_done
 msgid "Elimination done"
-msgstr ""
+msgstr "Elimination done"
 
 #: select_the_data_element_to_eliminate
 msgid "Select the data element to eliminate"
-msgstr ""
+msgstr "Select the data element to eliminate"
 
 #: select_the_data_element_to_keep
 msgid "Select the data element to keep"
-msgstr ""
+msgstr "Select the data element to keep"
 
 #: eliminate
 msgid "Eliminate"
-msgstr ""
+msgstr "Eliminate"
 
 #: move_all
 msgid "Move All"
-msgstr ""
+msgstr "Move All"
 
 #: drop_sql_views
 msgid "Drop SQL views"
-msgstr ""
+msgstr "Drop SQL views"
 
 #: move_selected
 msgid "Move Selected"
-msgstr ""
+msgstr "Move Selected"
 
 #: duplicate_data_elimination
 msgid "Duplicate Data Elimination"
-msgstr ""
+msgstr "Duplicate Data Elimination"
 
 #: select_different_org_units
 msgid "Please select two different organisation units"
-msgstr ""
+msgstr "Please select two different organisation units"
 
 #: select_different_data_elements
 msgid "Please select two different data elements"
-msgstr ""
+msgstr "Please select two different data elements"
 
 #: filter
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: data_archive
 msgid "Data Archive"
-msgstr ""
+msgstr "Data Archive"
 
 #: there_are
+#, fuzzy
 msgid "There are"
-msgstr ""
+msgstr "There are"
 
 #: overlapping_values
+#, fuzzy
 msgid "overlapping data values in the archive."
-msgstr ""
+msgstr "overlapping data values in the archive."
 
 #: there_are_no_overlapping_values
+#, fuzzy
 msgid "There are no overlapping data in the archive."
-msgstr ""
+msgstr "There are no overlapping data in the archive."
 
 #: eliminate_oldest
 msgid "Eliminate the oldest duplicates"
-msgstr ""
+msgstr "Eliminate the oldest duplicates"
 
 #: eliminate_from_archive
 msgid "Eliminate duplicates from archive source"
-msgstr ""
+msgstr "Eliminate duplicates from archive source"
 
 #: eliminate_from_regular
 msgid "Eliminate duplicates from regular source"
-msgstr ""
+msgstr "Eliminate duplicates from regular source"
 
 #: start_date
 msgid "Start date"
-msgstr ""
+msgstr "Start date"
 
 #: end_date
 msgid "End date"
-msgstr ""
+msgstr "End date"
 
 #: archive
 msgid "Archive"
-msgstr ""
+msgstr "Archive"
 
 #: unarchive
 msgid "Unarchive"
-msgstr ""
+msgstr "Unarchive"
 
 #: archiving
+#, fuzzy
 msgid "Archiving"
-msgstr ""
+msgstr "Archiving"
 
 #: unarchiving
+#, fuzzy
 msgid "Unarchiving"
-msgstr ""
+msgstr "Unarchiving"
 
 #: done_number_of_values
+#, fuzzy
 msgid "done. Number of archived values is now"
-msgstr ""
+msgstr "done. Number of archived values is now"
 
 #: prune
 msgid "Prune"
-msgstr ""
+msgstr "Prune"
 
 #: pruning
 msgid "Pruning"
-msgstr ""
+msgstr "Pruning"
 
 #: pruning_done
 msgid "Pruning done"
-msgstr ""
+msgstr "Pruning done"
 
 #: browser
 msgid "Data browser"
-msgstr ""
+msgstr "Data browser"
 
 #: drilldown_choose_period_type
 msgid "Please choose a period type"
-msgstr ""
+msgstr "Please choose a period type"
 
 #: drilldown_enddate_invalid
 msgid "Please enter a valid End date"
-msgstr ""
+msgstr "Please enter a valid End date"
 
 #: drilldown_select_browse_mode
 msgid "Please select a browser mode"
-msgstr ""
+msgstr "Please select a browser mode"
 
 #: drilldown_select_org_unit
 msgid "Please select an organization unit"
-msgstr ""
+msgstr "Please select an organization unit"
 
 #: drilldown_orgunit
 msgid "Organisation unit"
-msgstr ""
+msgstr "Organisation unit"
 
 #: drilldown_orgunit_group
 msgid "Organisation unit group"
-msgstr ""
+msgstr "Organisation unit group"
 
 #: drilldown_data_element
 msgctxt "drilldown_data_element"
 msgid "Data element"
-msgstr ""
+msgstr "Data element"
 
 #: drilldown_data_element_group
 msgid "Data element group"
-msgstr ""
+msgstr "Data element group"
 
 #: drilldown_data_set
 msgid "Data set"
-msgstr ""
+msgstr "Data set"
 
 #: counts_of_aggregated_values
 msgid "Number of recorded values"
-msgstr ""
+msgstr "Number of recorded values"
 
 #: browse_data_at_this_level
 msgid "Browse data at this level only"
-msgstr ""
+msgstr "Browse data at this level only"
 
 #: view_data_at_descendant_levels
 msgid "Summary drill down"
-msgstr ""
+msgstr "Summary drill down"
 
 #: view_data_at_this_level
 msgid "View raw data at this level"
-msgstr ""
+msgstr "View raw data at this level"
 
 #: click_on_this_orgunit
 msgid "Click on this organisation unit"
-msgstr ""
+msgstr "Click on this organisation unit"
 
 #: earliest
 msgid "earliest"
-msgstr ""
+msgstr "earliest"
 
 #: latest
 msgid "latest"
-msgstr ""
+msgstr "latest"
 
 #: available_dataset
 msgid "Available data sets"
-msgstr ""
+msgstr "Available data sets"
 
 #: loading
 msgid "Loading"
-msgstr ""
+msgstr "Loading"
 
 #: level_must_be_int
 msgid "Level must be a number"
-msgstr ""
+msgstr "Level must be a number"
 
 #: not_choose_dataset
 msgctxt "not_choose_dataset"
 msgid "Please select a data set"
-msgstr ""
+msgstr "Please select a data set"
 
 #: not_choose_organisation
 msgctxt "not_choose_organisation"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "Please select an organisation unit"
 
 #: generate
 msgid "Generate"
-msgstr ""
+msgstr "Generate"
 
 #: sql_view_management
 msgid "SQL View Management"
-msgstr ""
+msgstr "SQL View Management"
 
 #: sql_view
 msgid "SQL View"
-msgstr ""
+msgstr "View"
 
 #: sql_type
 msgid "SQL type"
-msgstr ""
+msgstr "SQL type"
 
 #: sql_view_type
 msgid "SQL view"
-msgstr ""
+msgstr "SQL view"
 
 #: materialized_sql_view_type
 msgid "Materialized SQL view"
-msgstr ""
+msgstr "Materialized SQL view"
 
 #: sql_query_type
 msgid "SQL query"
-msgstr ""
+msgstr "SQL query"
 
 #: created_in_database
 msgid "created in database"
-msgstr ""
+msgstr "created in database"
 
 #: materialized_in_database
 msgid "materialized in database"
-msgstr ""
+msgstr "materialized in database"
 
 #: allows_for_variables
 msgid "allows for variables"
-msgstr ""
+msgstr "allows for variables"
 
 #: sql_statement
 msgid "SQL Statement"
-msgstr ""
+msgstr "SQL Statement"
 
 #: run
 msgid "Execute query"
-msgstr ""
+msgstr "Execute query"
 
 #: hide_warning
 msgid "Hide warning"
-msgstr ""
+msgstr "Hide warning"
 
 #: add_new_sql_view
 msgid "Add new SQL view"
-msgstr ""
+msgstr "Add new SQL view"
 
 #: update_sql_view
 msgid "Update SQL view"
-msgstr ""
+msgstr "Update SQL view"
 
 #: name_is_null
 msgid "Name is not allowed to be null"
-msgstr ""
+msgstr "Name is not allowed to be null"
 
 #: name_in_use
 msgid "Name is in use"
-msgstr ""
+msgstr "Name is in use"
 
 #: code_in_use
 msgid "Code is in use"
-msgstr ""
+msgstr "Code is in use"
 
 #: language_country_in_use
 msgid "The language and country set is already in use"
-msgstr ""
+msgstr "The language and country set is already in use"
 
 #: sqlquery_is_empty
 msgid "SQL statement cannot be null"
-msgstr ""
+msgstr "SQL statement cannot be null"
 
 #: sqlquery_is_invalid
 msgid "This SQL statement is invalid"
-msgstr ""
+msgstr "This SQL statement is invalid"
 
 #: sqlquery_invalid_note
 msgid "Note: Only SELECT query is allowed (without INTO keyword)"
-msgstr ""
+msgstr "Note: Only SELECT query is allowed (without INTO keyword)"
 
 #: sql_view_instance_invalid
 msgid "This resource viewer is invalid or does not exist"
-msgstr ""
+msgstr "This resource viewer is invalid or does not exist"
 
 #: sql_view_table_name
 msgid "SQL view table with name"
-msgstr ""
+msgstr "SQL view table with name"
 
 #: is_created
 msgid "is created"
-msgstr ""
+msgstr "is created"
 
 #: sql_view_table_is_not_created_yet
 msgid "Please execute query to create View table before viewing"
-msgstr ""
+msgstr "Please execute query to create View table before viewing"
 
 #: data_elements_violating_exclusive_group_sets
 msgid "Data elements violating exclusive group sets"
-msgstr ""
+msgstr "Data elements violating exclusive group sets"
 
 #: indicators_violating_exclusive_group_sets
 msgid "Indicators violating exclusive group sets"
-msgstr ""
+msgstr "Indicators violating exclusive group sets"
 
 #: view_data_for
 msgid "View data for"
-msgstr ""
+msgstr "View data for"
 
 #: failed_to_create_view_table_for
 msgid "Failed to create view table for"
-msgstr ""
+msgstr "Failed to create view table for"
 
 #: show
 msgid "Show"
-msgstr ""
+msgstr "Show"
 
 #: sort
 msgid "Sort"
-msgstr ""
+msgstr "Sort"
 
 #: lock
 msgid "Lock"
-msgstr ""
+msgstr "Lock"
 
 #: locked
 msgid "Locked"
-msgstr ""
+msgstr "Locked"
 
 #: unlock
 msgid "Unlock"
-msgstr ""
+msgstr "Unlock"
 
 #: append
 msgid "Append"
-msgstr ""
+msgstr "Append"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
-msgstr ""
+msgstr "Organisation unit groups"
 
 #: users
 msgid "Users"
-msgstr ""
+msgstr "Users"
 
 #: remove_values_success
 msgid "Removed values successfully"
-msgstr ""
+msgstr "Removed values successfully"
 
 #: no_hits
 msgid "Recorded values"
-msgstr ""
+msgstr "Recorded values"
 
 #: earliest_date_used_if_no_date_selected
 msgid "Earliest date will be used if no date is selected"
-msgstr ""
+msgstr "Earliest date will be used if no date is selected"
 
 #: latest_date_used_if_no_date_selected
 msgid "Latest date will be used if no date is selected"
-msgstr ""
+msgstr "Latest date will be used if no date is selected"
 
 #: generate_values_success
 msgid "Generated values successfully"
-msgstr ""
+msgstr "Generated values successfully"
 
 #: start
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 #: data_set_list
 msgid "Data Set list"
-msgstr ""
+msgstr "Data Set list"
 
 #: data_element_group_list
 msgid "Data Element Group list"
-msgstr ""
+msgstr "Data Element Group list"
 
 #: orgunit_group_list
 msgid "Organisation Unit Group list"
-msgstr ""
+msgstr "Organisation Unit Group list"
 
 #: patient_data_archive
 msgid "Person Data Archive"
-msgstr ""
+msgstr "Person Data Archive"
 
 #: intro__patient_data_archive
 msgid ""
 "Archive person data which is not currently relevant to your system in order "
 "to improve performance. Data can also be unarchived."
 msgstr ""
+"Archive person data which is not currently relevant to your system in order "
+"to improve performance. Data can also be unarchived."
 
 #: pruning_interrupted
 msgid ""
 "You must choose the organisation unit has parent to prune. Please try again!"
 msgstr ""
+"You must choose the organisation unit has parent to prune. Please try again!"
 
 #: sqlquery_is_not_allowed
 msgid "Restricted user tables cannot be referenced in query"
-msgstr ""
+msgstr "Restricted user tables cannot be referenced in query"
 
 #: sections_with_invalid_category_combinations
 msgid "Sections with invalid category combinations"
-msgstr ""
+msgstr "Sections with invalid category combinations"
 
 #: confirm_delete_sqlview
 msgid "Do you want to delete this SQL view object ?"
-msgstr ""
+msgstr "Do you want to delete this SQL view object ?"
 
 #: clear_data_mart
 msgid "Clear data mart"
-msgstr ""
+msgstr "Clear data mart"
 
 #: rebuild_data_mart_index
 msgid "Rebuild data mart index"
-msgstr ""
+msgstr "Rebuild data mart index"
 
 #: allow_show_zero
 msgid "Display zeros"
-msgstr ""
+msgstr "Display zeros"
 
 #: raw_data
 msgid "Raw data"
-msgstr ""
+msgstr "Raw data"
 
 #: get_report_as_xls
 msgid "Download as Excel"
-msgstr ""
+msgstr "Download as Excel"
 
 #: get_report_as_csv
 msgid "Download as CSV"
-msgstr ""
+msgstr "Download as CSV"
 
 #: get_report_as_pdf
 msgid "Download as PDF"
-msgstr ""
+msgstr "Download as PDF"
 
 #: get_report_as_html
 msgid "Download as HTML"
-msgstr ""
+msgstr "Download as HTML"
 
 #: get_report_as_xml
 msgid "Download as XML"
-msgstr ""
+msgstr "Download as XML"
 
 #: get_report_as_json
 msgid "Download as JSON"
-msgstr ""
+msgstr "Download as JSON"
 
 #: data_element_structure
 msgid "Data element structure"
-msgstr ""
+msgstr "Data element structure"
 
 #: constant
 msgid "Constant"
-msgstr ""
+msgstr "Constant"
 
 #: constant_management
 msgid "Constant Management"
-msgstr ""
+msgstr "Constant Management"
 
 #: create_new_constant
 msgid "Add Constant"
-msgstr ""
+msgstr "Add Constant"
 
 #: edit_constant
 msgid "Edit Constant"
-msgstr ""
+msgstr "Edit Constant"
 
 #: value_must_be_double
 msgid "Value must be an number"
-msgstr ""
+msgstr "Value must be an number"
 
 #: confirm_delete_constant
 msgid "Do you want to delete this constant?"
-msgstr ""
+msgstr "Do you want to delete this constant?"
 
 #: object_type
 msgid "Object type"
-msgstr ""
+msgstr "Object type"
 
 #: users_logged_in
 msgid "Users logged in"
-msgstr ""
+msgstr "Users logged in"
 
 #: today
 msgid "Today"
-msgstr ""
+msgstr "Today"
 
 #: yesterday
 msgid "Yesterday"
-msgstr ""
+msgstr "Yesterday"
 
 #: last_2_days
 msgid "Last 2 days"
-msgstr ""
+msgstr "Last 2 days"
 
 #: last_7_days
 msgid "Last 7 days"
-msgstr ""
+msgstr "Last 7 days"
 
 #: last_30_days
 msgid "Last 30 days"
-msgstr ""
+msgstr "Last 30 days"
 
 #: dynamic_attributes
 msgid "Dynamic Attributes"
-msgstr ""
+msgstr "Dynamic Attributes"
 
 #: attribute
 msgid "Attribute"
-msgstr ""
+msgstr "Attribute"
 
 #: attribute_management
 msgid "Attribute Management"
-msgstr ""
+msgstr "Attribute Management"
 
 #: value_type
 msgid "Value Type"
-msgstr ""
+msgstr "Value Type"
 
 #: mandatory
 msgid "Mandatory"
-msgstr ""
+msgstr "Mandatory"
 
 #: indicator
 msgid "Indicator"
-msgstr ""
+msgstr "Indicator"
 
 #: indicator_group
 msgid "Indicator Group"
-msgstr ""
+msgstr "Indicator Group"
 
 #: organisation_unit
 msgid "Organisation Unit"
-msgstr ""
+msgstr "Organisation Unit"
 
 #: organisation_unit_group
 msgid "Organisation Unit Group"
-msgstr ""
+msgstr "Organisation Unit Group"
 
 #: organisation_unit_group_set
 msgid "Organisation Unit Group Set"
-msgstr ""
+msgstr "Organisation Unit Group Set"
 
 #: user
 msgid "User"
-msgstr ""
+msgstr "User"
 
 #: user_group
 msgid "User Group"
-msgstr ""
+msgstr "User Group"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "Program"
 
 #: program_stage
 msgid "Program Stage"
-msgstr ""
+msgstr "Program Stage"
 
 #: tracked_entity
 msgid "Tracked Entity"
-msgstr ""
+msgstr "Tracked Entity"
 
 #: tracked_entity_attribute
 msgid "Tracked Entity Attribute"
-msgstr ""
+msgstr "Tracked Entity Attribute"
 
 #: integer
 msgid "Integer"
-msgstr ""
+msgstr "Integer"
 
 #: positive_integer
 msgid "Positive Integer"
-msgstr ""
+msgstr "Positive Integer"
 
 #: negative_integer
 msgid "Negative Integer"
-msgstr ""
+msgstr "Negative Integer"
 
 #: create_new_attribute
 msgid "Add Attribute"
-msgstr ""
+msgstr "Add Attribute"
 
 #: edit_attribute
 msgid "Edit Attribute"
-msgstr ""
+msgstr "Edit Attribute"
 
 #: assigned_to
 msgid "Assigned to"
-msgstr ""
+msgstr "Assigned to"
 
 #: attribute_sort_order
 msgid "Attribute sort order"
-msgstr ""
+msgstr "Attribute sort order"
 
 #: data_element_does_not_exist
 msgid "Data element does not exist"
-msgstr ""
+msgstr "Data element does not exist"
 
 #: category_option_combo_does_not_exist
 msgid "Category option combo does not exist"
-msgstr ""
+msgstr "Category option combo does not exist"
 
 #: scheduling_is
 msgid "Scheduling is"
-msgstr ""
+msgstr "Scheduling is"
 
 #: scheduling
 msgid "Scheduling"
-msgstr ""
+msgstr "Scheduling"
 
 #: scheduling_management
 msgid "Scheduling management"
-msgstr ""
+msgstr "Scheduling management"
 
 #: stop
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 #: refresh
 msgid "Refresh"
-msgstr ""
+msgstr "Refresh"
 
 #: aggregation_period_types
 msgid "Aggregation period types"
-msgstr ""
+msgstr "Aggregation period types"
 
 #: running
 msgid "active"
-msgstr ""
+msgstr "active"
 
 #: resource_tables
 msgid "Resource tables"
-msgstr ""
+msgstr "Resource tables"
 
 #: data_mart
 msgid "Data mart"
-msgstr ""
+msgstr "Data mart"
 
 #: analytics_tables
 msgid "Analytics tables"
-msgstr ""
+msgstr "Analytics tables"
 
 #: analytics_tables_task_strategy
 msgid "Analytics tables task strategy"
-msgstr ""
+msgstr "Analytics tables task strategy"
 
 #: last_2_years_daily
 msgid "Last 2 years daily"
-msgstr ""
+msgstr "Last 2 years daily"
 
 #: last_3_years_daily
 msgid "Last 3 years daily"
-msgstr ""
+msgstr "Last 3 years daily"
 
 #: all_daily
 msgid "All daily"
-msgstr ""
+msgstr "All daily"
 
 #: all_every_15_min
 msgid "All every 15 minutes"
-msgstr ""
+msgstr "All every 15 minutes"
 
 #: resource_table_task_strategy
 msgid "Resource tables task strategy"
-msgstr ""
+msgstr "Resource tables task strategy"
 
 #: data_mart_task_strategy
 msgid "Data mart task strategy"
-msgstr ""
+msgstr "Data mart task strategy"
 
 #: never
 msgid "Never"
-msgstr ""
+msgstr "Never"
 
 #: last_12_months_daily
 msgid "Last 12 months daily"
-msgstr ""
+msgstr "Last 12 months daily"
 
 #: last_6_months_daily_6_to_12_months_weekly
 msgid "Last 6 months daily + 6 to 12 months weekly"
-msgstr ""
+msgstr "Last 6 months daily + 6 to 12 months weekly"
 
 #: daily
 msgid "Daily"
-msgstr ""
+msgstr "Daily"
 
 #: organisation_unit_group_set_aggregation_level
 msgid "Organisation unit group set aggregation level"
-msgstr ""
+msgstr "Organisation unit group set aggregation level"
 
 #: aggregated_org_unit_data_values
 msgid "Aggregated org unit data values"
-msgstr ""
+msgstr "Aggregated org unit data values"
 
 #: aggregated_org_unit_indicator_values
 msgid "Aggregated org unit indicator values"
-msgstr ""
+msgstr "Aggregated org unit indicator values"
 
 #: execute_now
 msgid "Execute now"
-msgstr ""
+msgstr "Execute now"
 
 #: execute_tasks_confirmation
 msgid ""
 "Are you sure you want to execute all tasks now? Task processing might fully "
 "utilize your system resources and slow down other operations."
 msgstr ""
+"Are you sure you want to execute all tasks now? Task processing might fully "
+"utilize your system resources and slow down other operations."
 
 #: no_aggregation
 msgid "No aggregation"
-msgstr ""
+msgstr "No aggregation"
 
 #: data_elements_in_data_set_not_in_form
 msgid "Data elements in data set but not in form or sections"
-msgstr ""
+msgstr "Data elements in data set but not in form or sections"
 
 #: option_set
 msgid "Option set"
-msgstr ""
+msgstr "Option set"
 
 #: option_set_management
 msgid "Option set management"
-msgstr ""
+msgstr "Option set management"
 
 #: add_option_set
 msgid "Add option set"
-msgstr ""
+msgstr "Add option set"
 
 #: options
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 #: option
 msgid "Option"
-msgstr ""
+msgstr "Option"
 
 #: edit_option_set
 msgid "Edit option set"
-msgstr ""
+msgstr "Edit option set"
 
 #: number_of_members
 msgid "The number of members"
-msgstr ""
+msgstr "The number of members"
 
 #: object_not_deleted_associated_by_objects
 msgid "Object not deleted because it is associated by objects of type"
-msgstr ""
+msgstr "Object not deleted because it is associated by objects of type"
 
 #: lock_exception_management
 msgid "Lock Exception Management"
-msgstr ""
+msgstr "Lock Exception Management"
 
 #: lock_exception
 msgid "Lock Exception"
-msgstr ""
+msgstr "Lock Exception"
 
 #: confirm_delete_lock_exception
 msgid "Do you want to delete this lock exception?"
-msgstr ""
+msgstr "Do you want to delete this lock exception?"
 
 #: confirm_delete_lock_exceptions
 msgid "Do you want to delete lock exceptions with this configuration?"
-msgstr ""
+msgstr "Do you want to delete lock exceptions with this configuration?"
 
 #: create_new_lock_exception
 msgid "Create new lock exception"
-msgstr ""
+msgstr "Create new lock exception"
 
 #: edit_lock_exception
 msgid "Edit lock exception"
-msgstr ""
+msgstr "Edit lock exception"
 
 #: lock_exception_batch_removal
 msgid "Lock exception batch removal"
-msgstr ""
+msgstr "Lock exception batch removal"
 
 #: back_to_lock_exceptions
 msgid "Back to lock exception"
-msgstr ""
+msgstr "Back to lock exception"
 
 #: batch_delete
 msgid "Batch deletion"
-msgstr ""
+msgstr "Batch deletion"
 
 #: deleting_lock_exceptions
 msgid "Deleting lock exceptions"
-msgstr ""
+msgstr "Deleting lock exceptions"
 
 #: error_at
 msgid "Error at"
-msgstr ""
+msgstr "Error at"
 
 #: not_started
 msgid "not started"
-msgstr ""
+msgstr "not started"
 
 #: aggregated_data_set_completeness
 msgid "Aggregated data set completeness"
-msgstr ""
+msgstr "Aggregated data set completeness"
 
 #: show_sql_view
 msgid "Show SQL view"
-msgstr ""
+msgstr "Show SQL view"
 
 #: financial_yearly
 msgid "Financial Yearly"
-msgstr ""
+msgstr "Financial Yearly"
 
 #: update_option
 msgid "Update option"
-msgstr ""
+msgstr "Update option"
 
 #: removing_min_max_values
 msgid "Removing min-max values"
-msgstr ""
+msgstr "Removing min-max values"
 
 #: generating_min_max_values
 msgid "Generating min-max values"
-msgstr ""
+msgstr "Generating min-max values"
 
 #: done
 msgid "Done"
-msgstr ""
+msgstr "Done"
 
 #: period_structure
 msgid "Period structure"
-msgstr ""
+msgstr "Period structure"
 
 #: data_element_category_option_combo
 msgid "Data element category option combinations"
-msgstr ""
+msgstr "Data element category option combinations"
 
 #: update_category_option_combos
 msgid "Update category option combinations"
-msgstr ""
+msgstr "Update category option combinations"
 
 #: update_organisation_unit_paths
 msgid "Update organisation unit paths"
-msgstr ""
+msgstr "Update organisation unit paths"
 
 #: date_period_structure
 msgid "Date period structure"
-msgstr ""
+msgstr "Date period structure"
 
 #: locale
 msgid "Locale"
-msgstr ""
+msgstr "Locale"
 
 #: locale_management
 msgid "Locale Management"
-msgstr ""
+msgstr "Locale Management"
 
 #: create_new_locale
 msgid "Create New Locale"
-msgstr ""
+msgstr "Create New Locale"
 
 #: locale_details
 msgid "Locale Details"
-msgstr ""
+msgstr "Locale Details"
 
 #: edit_locale
 msgid "Edit Locale"
-msgstr ""
+msgstr "Edit Locale"
 
 #: confirm_delete_locale
 msgid "Are you sure you want to delete this locale?"
-msgstr ""
+msgstr "Are you sure you want to delete this locale?"
 
 #: language
 msgid "Language"
-msgstr ""
+msgstr "Language"
 
 #: country
 msgid "Country"
-msgstr ""
+msgstr "Country"
 
 #: locale_language_no_translation
 msgid "Please select a language"
-msgstr ""
+msgstr "Please select a language"
 
 #: locale_country_no_translation
 msgid "Please select a country"
-msgstr ""
+msgstr "Please select a country"
 
 #: data_monitoring
 msgid "Data monitoring"
-msgstr ""
+msgstr "Data monitoring"
 
 #: data_monitoring_strategy
 msgid "Data monitoring strategy"
-msgstr ""
+msgstr "Data monitoring strategy"
 
 #: last_hour
 msgid "Last hour"
-msgstr ""
+msgstr "Last hour"
 
 #: data_set
 msgid "Data Set"
-msgstr ""
+msgstr "Data Set"
 
 #: last_year_daily
 msgid "Last year daily"
-msgstr ""
+msgstr "Last year daily"
 
 #: show_fewer_options
 msgid "Show fewer options"
-msgstr ""
+msgstr "Show fewer options"
 
 #: show_more_options
 msgid "Show more options"
-msgstr ""
+msgstr "Show more options"
 
 #: disabled
 msgid "Disabled"
-msgstr ""
+msgstr "Disabled"
 
 #: data_synchronization
 msgid "Data synchronization"
-msgstr ""
+msgstr "Data synchronization"
 
 #: data_synchronization_strategy
 msgid "Data synchronization strategy"
-msgstr ""
+msgstr "Data synchronization strategy"
 
 #: enabled
 msgid "Enabled"
-msgstr ""
+msgstr "Enabled"
 
 #: last_success
 msgid "Last success"
-msgstr ""
+msgstr "Last success"
 
 #: option_management
 msgid "Option management"
-msgstr ""
+msgstr "Option management"
 
 #: add_option
 msgid "Add option"
-msgstr ""
+msgstr "Add option"
 
 #: edit_option
 msgid "Edit option"
-msgstr ""
+msgstr "Edit option"
 
 #: sort_options
 msgid "Sort options"
-msgstr ""
+msgstr "Sort options"
 
 #: available_options
 msgid "Available options"
-msgstr ""
+msgstr "Available options"
 
 #: please_select_a_dataset
 msgctxt "please_select_a_dataset"
 msgid "Please select a data set"
-msgstr ""
+msgstr "Please select a data set"
 
 #: please_select_an_organisation_unit
 msgctxt "please_select_an_organisation_unit"
 msgid "Please select an organisation unit"
-msgstr ""
+msgstr "Please select an organisation unit"
 
 #: prev_year
 msgid "Prev year"
-msgstr ""
+msgstr "Prev year"
 
 #: next_year
 msgid "Next year"
-msgstr ""
+msgstr "Next year"
 
 #: update_the_data_elements_and_option_combos_in_expression
 msgid "Update the data elements and option combos in expression"
-msgstr ""
+msgstr "Update the data elements and option combos in expression"
 
 #: org_unit_group_does_not_exist
 msgid "Org unit group does not exist"
-msgstr ""
+msgstr "Org unit group does not exist"
 
 #: duplicate_periods
 msgid "Duplicate periods"
-msgstr ""
+msgstr "Duplicate periods"
 
 #: remove_expired_invitations
 msgid "Remove expired invitations"
-msgstr ""
+msgstr "Remove expired invitations"
 
 #: view_name
 msgid "View name"
-msgstr ""
+msgstr "View name"
 
 #: user_account_invitations
 msgid "User account invitations"
-msgstr ""
+msgstr "User account invitations"
 
 #: pending_invitations
 msgid "Pending invitations"
-msgstr ""
+msgstr "Pending invitations"
 
 #: expired_invitations
 msgid "Expired invitations"
-msgstr ""
+msgstr "Expired invitations"
 
 #: category_option
 msgid "Category Option"
-msgstr ""
+msgstr "Category Option"
 
 #: category_option_group
 msgid "Category Option Group"
-msgstr ""
+msgstr "Category Option Group"

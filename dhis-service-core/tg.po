@@ -5,14 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-12-04 06:25+0000\n"
+"Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1449210344.0\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -1472,72 +1474,72 @@ msgstr ""
 #: nepali.weekday.monday
 msgctxt "nepali.weekday.monday"
 msgid "Monday"
-msgstr ""
+msgstr "Душанбе"
 
 #: nepali.weekday.tuesday
 msgctxt "nepali.weekday.tuesday"
 msgid "Tuesday"
-msgstr ""
+msgstr "Сешанбе"
 
 #: nepali.weekday.wednesday
 msgctxt "nepali.weekday.wednesday"
 msgid "Wednesday"
-msgstr ""
+msgstr "Чоршанбе"
 
 #: nepali.weekday.thursday
 msgctxt "nepali.weekday.thursday"
 msgid "Thursday"
-msgstr ""
+msgstr "Панҷшанбе"
 
 #: nepali.weekday.friday
 msgctxt "nepali.weekday.friday"
 msgid "Friday"
-msgstr ""
+msgstr "Ҷумъа"
 
 #: nepali.weekday.saturday
 msgctxt "nepali.weekday.saturday"
 msgid "Saturday"
-msgstr ""
+msgstr "Шанбе"
 
 #: nepali.weekday.sunday
 msgctxt "nepali.weekday.sunday"
 msgid "Sunday"
-msgstr ""
+msgstr "Якшанбе"
 
 #: nepali.weekday.short.monday
 msgctxt "nepali.weekday.short.monday"
 msgid "Mon"
-msgstr ""
+msgstr "Душ"
 
 #: nepali.weekday.short.tuesday
 msgctxt "nepali.weekday.short.tuesday"
 msgid "Tue"
-msgstr ""
+msgstr "Сеш"
 
 #: nepali.weekday.short.wednesday
 msgctxt "nepali.weekday.short.wednesday"
 msgid "Wed"
-msgstr ""
+msgstr "Чорш"
 
 #: nepali.weekday.short.thursday
 msgctxt "nepali.weekday.short.thursday"
 msgid "Thu"
-msgstr ""
+msgstr "Панҷш"
 
 #: nepali.weekday.short.friday
 msgctxt "nepali.weekday.short.friday"
 msgid "Fri"
-msgstr ""
+msgstr "Ҷум"
 
 #: nepali.weekday.short.saturday
 msgctxt "nepali.weekday.short.saturday"
 msgid "Sat"
-msgstr ""
+msgstr "Шан"
 
 #: nepali.weekday.short.sunday
 msgctxt "nepali.weekday.short.sunday"
 msgid "Sun"
-msgstr ""
+msgstr "Якш"
 
 #. #-- Translation page ------------------------------------------------------#
 #: translation_translate
@@ -2114,12 +2116,12 @@ msgstr "Не"
 #: true
 msgctxt "true"
 msgid "Yes"
-msgstr ""
+msgstr "Ҳа"
 
 #: false
 msgctxt "false"
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: sum
 msgid "Sum"
@@ -2138,8 +2140,9 @@ msgid "Standard deviation"
 msgstr ""
 
 #: variance
+#, fuzzy
 msgid "Variance"
-msgstr ""
+msgstr "Вариант"
 
 #: min
 msgid "Min"
@@ -2278,8 +2281,9 @@ msgid "Old password"
 msgstr "Пароли кӯҳна"
 
 #: new_password
+#, fuzzy
 msgid "New password"
-msgstr ""
+msgstr "Пароли кӯҳна"
 
 #: retype_new_password
 msgid "Retype new password"
@@ -2789,7 +2793,7 @@ msgstr "Навъ"
 
 #: value_type
 msgid "Value Type"
-msgstr ""
+msgstr "Навъи қимат"
 
 #: actual
 msgid "Actual"
@@ -2836,8 +2840,9 @@ msgid "Data element concepts"
 msgstr "Консепсияҳои унсурҳои иттилоот"
 
 #: organisation_units
+#, fuzzy
 msgid "Organisation units"
-msgstr ""
+msgstr "Воҳиди сохторӣ"
 
 #: organisation_unit_groups
 msgid "Organisation unit groups"
@@ -2865,8 +2870,9 @@ msgid "User groups"
 msgstr "Гурӯҳҳои корбарон"
 
 #: pivot_tables
+#, fuzzy
 msgid "Pivot tables"
-msgstr ""
+msgstr "Ҷадвали ҷамъбастӣ"
 
 #: charts
 msgid "Charts"
@@ -2877,8 +2883,9 @@ msgid "Maps"
 msgstr ""
 
 #: dashboards
+#, fuzzy
 msgid "Dashboards"
-msgstr ""
+msgstr "Лавҳаи маълумот"
 
 #: programs
 msgid "Programs"
@@ -3539,8 +3546,9 @@ msgstr "Зимбабве"
 
 #. #-- Login page ----------------------------------------------------------------#
 #: create_an_account
+#, fuzzy
 msgid "Create an account"
-msgstr ""
+msgstr "Сохтани ҳисоби нав"
 
 #: login_password
 msgctxt "login_password"
@@ -3572,7 +3580,7 @@ msgstr ""
 #: new_user_account_name
 msgctxt "new_user_account_name"
 msgid "Name"
-msgstr ""
+msgstr "Ном"
 
 #: new_user_account_first_name
 msgid "First"
@@ -3697,8 +3705,9 @@ msgid "Islamic"
 msgstr ""
 
 #: nepali
+#, fuzzy
 msgid "Nepali"
-msgstr ""
+msgstr "Непал"
 
 #: julian
 msgid "Julian"
@@ -3709,8 +3718,9 @@ msgid "Gregorian"
 msgstr ""
 
 #: ethiopian
+#, fuzzy
 msgid "Ethiopian"
-msgstr ""
+msgstr "Эфиопия"
 
 #: thai
 msgid "Thai"
