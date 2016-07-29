@@ -734,7 +734,7 @@ msgstr ""
 msgid "Object was not deleted because it is used by other objects:"
 msgstr ""
 
-#: id
+#: id translation_label_id
 msgid "ID"
 msgstr ""
 
@@ -1510,10 +1510,6 @@ msgctxt "translation_save"
 msgid "Save"
 msgstr ""
 
-#: translation_label_id
-msgid "ID"
-msgstr ""
-
 #: translation_label_name
 msgctxt "translation_label_name"
 msgid "Name"
@@ -1976,8 +1972,8 @@ msgstr ""
 
 #: intro_user_message_settings
 msgid ""
-"Customize the system with user specific settings for message email and SMS"
-"notification."
+"Customize the system with user specific settings for message email and "
+"SMSnotification."
 msgstr ""
 
 #: light_blue

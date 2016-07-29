@@ -4,14 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-07-29 08:11+0000\n"
+"Last-Translator: Jason Pickering <jason.p.pickering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1469779875.000000\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -251,126 +253,126 @@ msgstr "受益人姓名"
 
 #: sms_functions
 msgid "SMS Functions"
-msgstr ""
+msgstr "SMS功能"
 
 #: send_sms_to_target
 msgid "Send SMS to"
-msgstr ""
+msgstr "发短信给"
 
 #: show_send_sms_form
 msgctxt "show_send_sms_form"
 msgid "Send SMS"
-msgstr ""
+msgstr "发短信"
 
 #: test_sms_input
 msgid "Test SMS input"
-msgstr ""
+msgstr "测试短信输入"
 
 #: send_sms
 msgctxt "send_sms"
 msgid "Send SMS"
-msgstr ""
+msgstr "发短信"
 
 #: phone_number
 msgid "Phone number"
-msgstr ""
+msgstr "电话号码"
 
 #: raw_phone_number
 msgid "Raw phone numbers"
-msgstr ""
+msgstr "原始电话号码"
 
 #: assigned_user_number
 msgid "User assigned to organisation unit "
-msgstr ""
+msgstr "分配到本组织单元的用户"
 
 #: stakeholder_contact_person
 msgid "Stakeholder (Contact person)"
-msgstr ""
+msgstr "干系人（联系人）"
 
 #: patients_registered
 msgid "Persons registered"
-msgstr ""
+msgstr "已登记患者"
 
 #: programs
 msgid "Programs"
-msgstr ""
+msgstr "项目"
 
 #: organisation_unit_level
 msgid "Organisation unit level"
-msgstr ""
+msgstr "组织单元层级"
 
 #: chidren_only
 msgid "Children only"
-msgstr ""
+msgstr "仅子节点"
 
 #: please_select_a_program
 msgid "Please select a program"
-msgstr ""
+msgstr "请选择项目"
 
 #: please_select_user_group
 msgid "Please select user group"
-msgstr ""
+msgstr "请选择用户组"
 
 #: there_is_no_program
 msgid "There is no program selected, won't send SMS to any Person"
-msgstr ""
+msgstr "无选中项目，不会向任何人发送短信"
 
 #: service_stopped_cannot_send_sms
 msgid "Service is stopped. SMS cannot be sent."
-msgstr ""
+msgstr "服务已停止。不能发送短信。"
 
 #: please_verify_phone
 msgid ""
 "Please verify the phone number(s). Separate each number with a semicolon (;)"
-msgstr ""
+msgstr "请核实电话号码。号码间请用半角分号(;)分隔。"
 
 #: please_select_orgunit
 msgid "Please select at least one organisation unit"
-msgstr ""
+msgstr "请选择至少一个组织单元"
 
 #: no_recipient
 msgid "There is no recipient. SMS cannot be sent !"
-msgstr ""
+msgstr "无收件人。不能发送短信！"
 
 #: registering_unit
 msgid "Registering Unit"
-msgstr ""
+msgstr "正注册单元"
 
 #: search_by_name_identifier
 msgid "Search by name or identifier"
-msgstr ""
+msgstr "按名称或者标识符查找"
 
 #: search_by_program
 msgid "Search by program"
-msgstr ""
+msgstr "按项目查找"
 
 #: please_select_village
 msgid "Please select village"
-msgstr ""
+msgstr "请选择村"
 
 #: specify_search_criteria
 msgid "Please specify search criteria"
-msgstr ""
+msgstr "请明确查找条件"
 
 #: list_all_patients
 msgid "List all Persons"
-msgstr ""
+msgstr "列出所有人"
 
 #: search
 msgid "Search"
-msgstr ""
+msgstr "查找"
 
 #: search_by_selected_unit
 msgid "Search by selected unit"
-msgstr ""
+msgstr "按选中单元查找"
 
 #: please_select
 msgid "Please Select"
-msgstr ""
+msgstr "请选择"
 
 #: search_details
 msgid "Search details"
-msgstr ""
+msgstr "查找明细"
 
 #: male
 msgid "Male"
@@ -382,7 +384,7 @@ msgstr "女"
 
 #: age
 msgid "Age"
-msgstr ""
+msgstr "年龄"
 
 #: full_name
 msgid "Full name"
@@ -390,87 +392,87 @@ msgstr "全名"
 
 #: no_phone
 msgid "No phone"
-msgstr ""
+msgstr "无电话"
 
 #: add_phone_to_list
 msgid "Add phone to list"
-msgstr ""
+msgstr "添加电话到列表"
 
 #: hierachy_orgunit
 msgid "Hierarchy organisation unit"
-msgstr ""
+msgstr "分层组织单元"
 
 #: total_result
 msgid "Total number of results"
-msgstr ""
+msgstr "结果总数"
 
 #: search_result_matching_the_search_criteria
 msgid "Result matches the search criteria"
-msgstr ""
+msgstr "符合查找条件的结果"
 
 #: search_patients_by_attributes
 msgid "Search persons by attributes"
-msgstr ""
+msgstr "按属性查找人员"
 
 #: user_group
 msgid "User Group"
-msgstr ""
+msgstr "用户组"
 
 #: no_message
 msgid "Please type your message before sending"
-msgstr ""
+msgstr "请在发送前输入信息"
 
 #: do_not_send_patient_confidential_messages_using_sms
 msgid "Do not send person confidential messages using sms"
-msgstr ""
+msgstr "不要使用短信发送个人保密信息"
 
 #: please_select_a_gateway_type_to_send_sms
 msgid "Please select a default gateway (Maintenance -> ) to send sms"
-msgstr ""
+msgstr "请选择默认网关（维护->）来发送短信"
 
 #: there_is_no_user_assigned_to_selected_units
 msgid "There is no user assigned to selected units"
-msgstr ""
+msgstr "选中单元未分配用户"
 
 #: selected_units_have_no_phone_number
 msgid "The selected units have no phone number"
-msgstr ""
+msgstr "选中单元无电话号码"
 
 #: selected_persons_have_no_phone_number
 msgid "The selected persons have no phone number"
-msgstr ""
+msgstr "选中人员无电话号码"
 
 #: selected_user_group_is_unavailable
 msgid "The selected user group is unavailable"
-msgstr ""
+msgstr "选中用户组不可用"
 
 #: selected_user_group_has_no_member
 msgid "The selected user group has no member"
-msgstr ""
+msgstr "选中用户组无成员"
 
 #: person_list_empty
 msgid "List should not be empty"
-msgstr ""
+msgstr "列表不应为空"
 
 #: search_in_all_facilities
 msgid "Search in all facilities"
-msgstr ""
+msgstr "在所有机构中查找"
 
 #: dblick_to_unselect
 msgid "Double-click to remove"
-msgstr ""
+msgstr "双击移除"
 
 #: advance_search
 msgid "Advance search"
-msgstr ""
+msgstr "高级查询"
 
 #: program
 msgid "Program"
-msgstr ""
+msgstr "项目"
 
 #: message_not_sent
 msgid "Message not sent"
-msgstr ""
+msgstr "消息未发送"
 
 #: date_of_birth
 msgid "Date of birth"
@@ -478,8 +480,8 @@ msgstr "生日"
 
 #: age_year
 msgid "Age (years)"
-msgstr ""
+msgstr "年龄（年）"
 
 #: org_unit_phone_number
 msgid "Organisation unit phone number"
-msgstr ""
+msgstr "组织单元电话号码"

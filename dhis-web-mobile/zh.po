@@ -4,63 +4,65 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-07-12 07:11+0000\n"
+"Last-Translator: dejinlee <dejinlee@qq.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1468307500.000000\n"
 
 #: no_data_is_stored
 msgid "No data is stored"
-msgstr ""
+msgstr "无数据保存"
 
 #: you_have
 msgid "You have"
-msgstr ""
+msgstr "你有"
 
 #: form_stored
 msgid "form stored"
-msgstr ""
+msgstr "表单保存"
 
 #: forms_stored
 msgid "forms stored"
-msgstr ""
+msgstr "表单保存"
 
 #: aggregate_reporting
 msgid "Aggregate Reporting"
-msgstr ""
+msgstr "汇总报表"
 
 #: unable_to_send_reply
 msgid "Unable to send reply, please try again later"
-msgstr ""
+msgstr "无法发送回应，请稍后重试"
 
 #: unable_to_get_inbox
 msgid "Unable to get inbox, please try again later"
-msgstr ""
+msgstr "无法打开收件箱，请稍后重试"
 
 #: no_messages
 msgid "No messages"
-msgstr ""
+msgstr "无消息"
 
 #: none_selected
 msgid "None selected"
-msgstr ""
+msgstr "无选中"
 
 #: no_organisation_units_for_data_entry
 msgid "No organisation units available for data entry"
-msgstr ""
+msgstr "没有可进行输入录入的组织单元"
 
 #: change_to_invalid_page
 msgid "Tried changing to invalid page"
-msgstr ""
+msgstr "试图切换到无效页面"
 
 #: logout
 msgid "Log out"
-msgstr ""
+msgstr "注销"
 
 #: send_and_complete
 msgid "Send and Complete"
-msgstr ""
+msgstr "发送并完成"

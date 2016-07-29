@@ -4,103 +4,105 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-07-29 08:11+0000\n"
+"Last-Translator: Jason Pickering <jason.p.pickering@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1469779868.000000\n"
 
 #: appmanager_list_app
 msgid "Installed Apps"
-msgstr ""
+msgstr "已安装应用"
 
 #: appmanager_settings
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: appmanager_app_store
 msgid "App Store"
-msgstr ""
+msgstr "应用商店"
 
 #: appmanager_saved_settings
 msgid "Saved Settings "
-msgstr ""
+msgstr "保存设置"
 
 #: appmanager_installation_folder
 msgid "App installation folder"
-msgstr ""
+msgstr "应用安装文件夹"
 
 #: appmanager_absolute_server_path
 msgid "absolute path on server for uploaded apps"
-msgstr ""
+msgstr "应用上传到服务器的绝对路径"
 
 #: appmanager_baseurl
 msgid "App base URL"
-msgstr ""
+msgstr "应用 base URL"
 
 #: appmanager_where_apps_can_be_found
 msgid "location of where apps can be found on the Web"
-msgstr ""
+msgstr "应用在Web中的位置"
 
 #: appmanager_store_url
 msgid "App store URL"
-msgstr ""
+msgstr "应用商店URL"
 
 #: appmanager_upload_app_package
 msgid "Upload App package (ZIP)"
-msgstr ""
+msgstr "上传应用包（ZIP）"
 
 #: appmanager_install_success
 msgid "App installed successfully"
-msgstr ""
+msgstr "应用已成功安装"
 
 #: appmanager_manifest_not_found
 msgid "Manifest file not found in app"
-msgstr ""
+msgstr "应用中Manifest文件未找到"
 
 #: appmanager_not_zip
 msgid "App is not a valid ZIP archive"
-msgstr ""
+msgstr "应用不是一个有效的ZIP压缩包"
 
 #: appmanager_confirm_delete
 msgid "Are you sure you want to delete this app?"
-msgstr ""
+msgstr "你确定要删除本应用吗？"
 
 #: appmanager_invalid_json
 msgid "Invalid JSON syntax in manifest file"
-msgstr ""
+msgstr "manifest文件中JSON语法无效"
 
 #: appmanager_could_not_read_file_check_server_permissions
 msgid "Could not read app files, check server permissions"
-msgstr ""
+msgstr "不能读取应用文件，请检查服务器权限"
 
 #: appmanager_delete_success
 msgid "App deleted successfully"
-msgstr ""
+msgstr "应用已成功删除"
 
 #: appmanager_management
 msgid "Manage Installed Apps"
-msgstr ""
+msgstr "管理已安装应用"
 
 #: appmanager_appname
 msgid "App name"
-msgstr ""
+msgstr "应用名称"
 
 #: appmanager_you_have_no_apps_installed
 msgid "You have no apps installed at the moment"
-msgstr ""
+msgstr "你当前没有已安装的应用"
 
 #: appmanager_author
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 #: appmanager_version
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 #: appmanager_set_to_default
 msgid "Set to default"
-msgstr ""
+msgstr "设为默认值"

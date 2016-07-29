@@ -4,34 +4,36 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-07-12 14:29+0000\n"
+"Last-Translator: dejinlee <dejinlee@qq.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-alpha1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1468333780.000000\n"
 
 #: dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "维度"
 
 #: table_layout
 msgid "Table layout"
-msgstr ""
+msgstr "表格布局"
 
 #: show_totals
 msgid "Show totals"
-msgstr ""
+msgstr "显示合计"
 
 #: show_subtotals
 msgid "Show sub-totals"
-msgstr ""
+msgstr "显示小计"
 
 #: hide_empty_rows
 msgid "Hide empty rows"
-msgstr ""
+msgstr "隐藏空行"
 
 #: display_density
 msgid "Display density"
