@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-02-01 19:56+0000\n"
-"Last-Translator: jmalcantara <jmalcantara@apunto.com.mx>\n"
+"PO-Revision-Date: 2016-07-29 08:08+0000\n"
+"Last-Translator: sergio.valenzuela <sergio.valenzuela@ehas.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1454356582.0\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1469779684.000000\n"
 
 #: please_select_org_unit
 msgctxt "please_select_org_unit"
@@ -479,7 +479,7 @@ msgstr "Usar solo datos de la unidad seleccionada"
 
 #: add_to_dashboard
 msgid "Add to dashboard"
-msgstr "Añadir al tablero"
+msgstr "Añadir al cuadro de mandos"
 
 #: confirm_add_to_dashboard
 msgid "Are you sure want to add this report to the dashboard?"
@@ -531,7 +531,7 @@ msgstr "Columna"
 
 #: confirm_add_report_table_to_dashboard
 msgid "Are you sure you want to add this report table to dashboard?"
-msgstr "¿Seguro que quiere añadir este informe al tablero?"
+msgstr "¿Seguro que quiere añadir este informe al cuadro mandos?"
 
 #: continue
 msgid "Continue"

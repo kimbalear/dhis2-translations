@@ -4,16 +4,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2015-12-04 06:21+0000\n"
-"Last-Translator: jmalcantara <jmalcantara@apunto.com.mx>\n"
+"PO-Revision-Date: 2016-07-29 08:07+0000\n"
+"Last-Translator: sergio.valenzuela <sergio.valenzuela@ehas.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1449210088.0\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1469779678.000000\n"
 
 #: DHIS_2
 msgid "DHIS2"
@@ -45,19 +45,19 @@ msgstr "Documentos"
 
 #: dashboard
 msgid "Dashboard"
-msgstr "Cuadro de Mandos"
+msgstr "Cuadro de mandos"
 
 #: dashboard_reports
 msgid "Dashboard reports"
-msgstr "Reportes del panel de control"
+msgstr "Reportes del cuadro de mandos"
 
 #: dashboard_charts
 msgid "Dashboard charts"
-msgstr "Gráficas del panel de control"
+msgstr "Gráficas del cuadro de mandos"
 
 #: dashboard_documents
 msgid "Dashboard documents"
-msgstr "Documentos del panel de control"
+msgstr "Documentos del cuadro de mandos"
 
 #: data_entry
 msgid "Data Entry"

@@ -5,16 +5,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-26 17:37+0200\n"
-"PO-Revision-Date: 2016-01-16 13:45+0000\n"
-"Last-Translator: Administrator <>\n"
+"PO-Revision-Date: 2016-07-29 08:07+0000\n"
+"Last-Translator: sergio.valenzuela <sergio.valenzuela@ehas.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1452951915.0\n"
+"X-Generator: Pootle 2.8\n"
+"X-POOTLE-MTIME: 1469779676.000000\n"
 
 #: district_health_information_software
 msgid "District Health Information Software 2"
@@ -195,15 +195,15 @@ msgstr "SIG"
 
 #: dhis-web-event-capture
 msgid "Event Capture"
-msgstr ""
+msgstr "Capturador de eventos"
 
 #: dhis-web-event-reports
 msgid "Event Reports"
-msgstr ""
+msgstr "Informes de eventos"
 
 #: dhis-web-event-visualizer
 msgid "Event Visualizer"
-msgstr ""
+msgstr "Visualizador de eventos"
 
 #: dhis-web-tracker-capture
 msgid "Tracker Capture"
@@ -228,7 +228,7 @@ msgstr "Móvil (Smartphone)"
 #: dhis-web-dashboard-integration
 msgctxt "dhis-web-dashboard-integration"
 msgid "Dashboard"
-msgstr "Tablero"
+msgstr "Cuadro de mandos"
 
 #: dhis-web-visualizer
 msgid "Data Visualizer"
@@ -268,7 +268,7 @@ msgstr "Informes de hojas de cálculo"
 
 #: dhis-web-sms
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: dhis-web-maintenance-in
 msgid "Configuration"
@@ -340,6 +340,8 @@ msgstr ""
 msgid ""
 "Access and upload apps, which are extensions to the standard user interface."
 msgstr ""
+"Acceder y cargar aplicaciones, las cuáles son extensions de la interfaz de "
+"usuario estándar"
 
 #: intro_dhis-web-caseentry
 msgid ""
@@ -437,7 +439,7 @@ msgstr ""
 
 #: intro_dhis-web-event-capture
 msgid "Capture information about single events."
-msgstr ""
+msgstr "Capturar información sobre eventos únicos"
 
 #: intro_dhis-web-tracker-capture
 msgid "Capture information about trackable entities."
@@ -546,7 +548,7 @@ msgstr "Descartar"
 
 #: remove_local_data
 msgid "Are you sure you want to remove the locally stored data?"
-msgstr ""
+msgstr "¿Desea realmente eliminar los datos almacenados localmente?"
 
 #: sync_success
 msgid "Upload to server was successful"
@@ -591,7 +593,7 @@ msgstr "Ocultar menú"
 
 #: extend_menu
 msgid "Extend menu"
-msgstr ""
+msgstr "Extender menú"
 
 #: show_menu
 msgid "Show menu"
@@ -796,7 +798,7 @@ msgstr ""
 
 #: id
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: name_in_use
 msgid "The name is already in use. Please choose a different name"
@@ -820,23 +822,23 @@ msgstr ""
 
 #: email_not_configured_for_system
 msgid "Email is not configured for the system"
-msgstr ""
+msgstr "El correo electrónico no ha sido configurado para el sistema"
 
 #: no_user_credentials
 msgid "No user credentials"
-msgstr ""
+msgstr "Sin credenciales de usuario"
 
 #: user_does_not_have_valid_email
 msgid "User does not have a valid email"
-msgstr ""
+msgstr "El usuario no posee un correo electrónico válido"
 
 #: user_has_critical_authorities
 msgid "User has critical authorities"
-msgstr ""
+msgstr "El usuario posee credenciales críticos"
 
 #: default
 msgid "Default"
-msgstr ""
+msgstr "Predeterminado"
 
 #: left_brackets
 msgid "Left brackets"
@@ -868,15 +870,15 @@ msgstr "No de días"
 
 #: variables
 msgid "Variables"
-msgstr ""
+msgstr "Variables"
 
 #: open
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 #: normal
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. #-- Relative periods -----------------------------------------------------------#
 #: LAST_MONTH
@@ -1040,13 +1042,14 @@ msgstr "Fiscal - Oct"
 #: format.Daily.startDate
 msgctxt "format.Daily.startDate"
 msgid "yyyy-MM-dd"
-msgstr ""
+msgstr "aaaa-MM-dd"
 
 #: format.Daily.endDate
 msgctxt "format.Daily.endDate"
 msgid ""
 msgstr ""
 
+# Only translate the 'W' part of this string. it is used for formatting of dates. 
 #: format.Weekly.startDate
 msgid "yyyy 'W' w"
 msgstr ""
@@ -1058,7 +1061,7 @@ msgstr ""
 
 #: format.Monthly.startDate
 msgid "MMMM yyyy"
-msgstr ""
+msgstr "MMMM aaaa"
 
 #: format.Monthly.endDate
 msgctxt "format.Monthly.endDate"
@@ -1073,7 +1076,7 @@ msgstr ""
 #: format.BiMonthly.endDate
 msgctxt "format.BiMonthly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMMM aaaa"
 
 #: format.Quarterly.startDate
 msgctxt "format.Quarterly.startDate"
@@ -1083,7 +1086,7 @@ msgstr ""
 #: format.Quarterly.endDate
 msgctxt "format.Quarterly.endDate"
 msgid "MMM yyyy"
-msgstr ""
+msgstr "MMM aaaa"
 
 #: format.SixMonthly.startDate
 msgctxt "format.SixMonthly.startDate"
@@ -1108,7 +1111,7 @@ msgstr ""
 #: format.Yearly.startDate
 msgctxt "format.Yearly.startDate"
 msgid "yyyy"
-msgstr ""
+msgstr "aaaa"
 
 #: format.Yearly.endDate
 msgctxt "format.Yearly.endDate"
@@ -1117,17 +1120,17 @@ msgstr ""
 
 #: format.TwoYearly.startDate
 msgid "yyyy 'and '"
-msgstr ""
+msgstr "aaaa 'y '"
 
 #: format.TwoYearly.endDate
 msgctxt "format.TwoYearly.endDate"
 msgid "yyyy"
-msgstr ""
+msgstr "aaaa"
 
 #: format.OnChange.startDate
 msgctxt "format.OnChange.startDate"
 msgid "yyyy-MM-dd '- '"
-msgstr ""
+msgstr "aaaa-MM-dd '- '"
 
 #: format.OnChange.endDate
 msgctxt "format.OnChange.endDate"
@@ -1240,11 +1243,11 @@ msgstr "Ene"
 
 #: month.short.february
 msgid "Feb"
-msgstr ""
+msgstr "Feb"
 
 #: month.short.march
 msgid "Mar"
-msgstr ""
+msgstr "Mar"
 
 #: month.short.april
 msgid "Apr"
@@ -1269,15 +1272,15 @@ msgstr "Ago"
 
 #: month.short.september
 msgid "Sep"
-msgstr ""
+msgstr "Sep"
 
 #: month.short.october
 msgid "Oct"
-msgstr ""
+msgstr "Oct"
 
 #: month.short.november
 msgid "Nov"
-msgstr ""
+msgstr "Nov"
 
 #: month.short.december
 msgid "Dec"
@@ -1812,11 +1815,11 @@ msgstr "Opciones de java"
 
 #: java_home
 msgid "Java home"
-msgstr ""
+msgstr "Directorio home Java"
 
 #: java_tmp_dir
 msgid "Java temporary directory"
-msgstr ""
+msgstr "Directorio temporal de Java"
 
 #: java_version
 msgid "Java version"
@@ -1985,7 +1988,7 @@ msgstr "Configuración"
 
 #: property_to_display_in_analysis_modules
 msgid "Property to display in analysis modules"
-msgstr ""
+msgstr "Propiedad para mostrar en módulos de análisis"
 
 #: user_settings
 msgid "User settings"
@@ -1993,7 +1996,7 @@ msgstr "Configuración de usuario"
 
 #: general
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: message
 msgid "Message"
@@ -2061,7 +2064,7 @@ msgstr "Configuración actualizada"
 #: dashboard
 msgctxt "dashboard"
 msgid "Dashboard"
-msgstr "Tablero"
+msgstr "Cuadro de mandos"
 
 #: messages
 msgid "Messages"
@@ -2085,11 +2088,11 @@ msgstr "Nucleos CPU"
 
 #: please_select
 msgid "Please select"
-msgstr ""
+msgstr "Por favor seleccione"
 
 #: browse_it_here
 msgid "Browse it here"
-msgstr ""
+msgstr "Navegue aquí"
 
 #. #-- Change Log------------------------------------------------------------------#
 #: change_log
@@ -2114,7 +2117,7 @@ msgstr "Si"
 #: no
 msgctxt "no"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: true
 msgctxt "true"
@@ -2124,7 +2127,7 @@ msgstr "Si"
 #: false
 msgctxt "false"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: sum
 msgid "Sum"
@@ -2148,11 +2151,11 @@ msgstr "Varianza"
 
 #: min
 msgid "Min"
-msgstr ""
+msgstr "Mín"
 
 #: max
 msgid "Max"
-msgstr ""
+msgstr "Máx"
 
 #: text
 msgid "Text"
@@ -2186,11 +2189,11 @@ msgstr "Entero positivo o cero"
 
 #: negative_integer
 msgid "Negative Integer"
-msgstr ""
+msgstr "Entero negativo"
 
 #: unit_interval
 msgid "Unit interval"
-msgstr ""
+msgstr "Intervalo de unidad"
 
 #: percentage
 msgid "Percentage"
@@ -2202,7 +2205,7 @@ msgstr "Fecha"
 
 #: date_time
 msgid "Date & Time"
-msgstr ""
+msgstr "Fecha y Hora"
 
 #: yes_no
 msgctxt "yes_no"
@@ -2225,7 +2228,7 @@ msgstr "Sólo Sí"
 
 #: custom
 msgid "Custom"
-msgstr ""
+msgstr "Personalizado"
 
 #. #-- Validation messages -------------------------------------------------------#
 #: value_must_integer
@@ -2283,9 +2286,8 @@ msgid "Old password"
 msgstr "Contraseña antigua"
 
 #: new_password
-#, fuzzy
 msgid "New password"
-msgstr "Contraseña antigua"
+msgstr "Contraseña nueva"
 
 #: retype_new_password
 msgid "Retype new password"
@@ -2305,7 +2307,7 @@ msgstr "Correo electrónico"
 
 #: openid
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: username
 msgctxt "username"
@@ -2346,7 +2348,7 @@ msgstr "Por favor, espere mientras el sistema está procesando"
 
 #: organisation_unit_required_for_user
 msgid "User must be assigned to at least one organisation unit"
-msgstr ""
+msgstr "El usuario debe estar asignado a al menos una unidad organizativa"
 
 #. #-- Contact info ---------------------------------------------------------------#
 #: address
@@ -2605,7 +2607,7 @@ msgstr "Seleccionado"
 
 #: error
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: warning
 msgid "Warning"
@@ -2621,7 +2623,7 @@ msgstr "Por favor, espere"
 
 #: invalid_identifiers_in_expression
 msgid "Invalid identifiers in expression"
-msgstr ""
+msgstr "Identificadores no válidos en la expresión"
 
 #: filter_not_evaluating_to_true_or_false
 msgid "Filter is not evaluating to true or false"
@@ -2866,7 +2868,6 @@ msgid "User groups"
 msgstr "Grupos de usuario"
 
 #: pivot_tables
-#, fuzzy
 msgid "Pivot tables"
 msgstr "Tablas dinámicas"
 
@@ -2879,9 +2880,8 @@ msgid "Maps"
 msgstr "Mapas"
 
 #: dashboards
-#, fuzzy
 msgid "Dashboards"
-msgstr "Tableros"
+msgstr "Cuadros de mandos"
 
 #: programs
 msgid "Programs"
@@ -2968,7 +2968,7 @@ msgstr "La constante no existe"
 
 #: org_unit_group_does_not_exist
 msgid "Organisation unit group does not exist"
-msgstr ""
+msgstr "El grupo de unidades organizativas no existe"
 
 #: id_not_numeric
 msgid "Identifier is not numeric"
@@ -2976,7 +2976,7 @@ msgstr "El identificador no es numérico"
 
 #: expression_not_well_formed
 msgid "Expression is not well-formed"
-msgstr ""
+msgstr "La expresión no está bien formada"
 
 #: valid
 msgid "Valid"
@@ -3014,70 +3014,70 @@ msgstr "Operador"
 #: equal_to_symbol
 msgctxt "equal_to_symbol"
 msgid "=="
-msgstr ""
+msgstr "=="
 
 #: not_equal_to_symbol
 msgctxt "not_equal_to_symbol"
 msgid "!="
-msgstr ""
+msgstr "!="
 
 #: greater_than_symbol
 msgctxt "greater_than_symbol"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: greater_than_or_equal_to_symbol
 msgctxt "greater_than_or_equal_to_symbol"
 msgid ">="
-msgstr ""
+msgstr ">="
 
 #: less_than_symbol
 msgctxt "less_than_symbol"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: less_than_or_equal_to_symbol
 msgctxt "less_than_or_equal_to_symbol"
 msgid "<="
-msgstr ""
+msgstr "<="
 
 #: equal_to
 msgctxt "equal_to"
 msgid "=="
-msgstr ""
+msgstr "=="
 
 #: not_equal_to
 msgctxt "not_equal_to"
 msgid "!="
-msgstr ""
+msgstr "!="
 
 #: greater_than
 msgctxt "greater_than"
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: greater_than_or_equal_to
 msgctxt "greater_than_or_equal_to"
 msgid ">="
-msgstr ""
+msgstr ">="
 
 #: less_than
 msgctxt "less_than"
 msgid "<"
-msgstr ""
+msgstr "<"
 
 #: less_than_or_equal_to
 msgctxt "less_than_or_equal_to"
 msgid "<="
-msgstr ""
+msgstr "<="
 
 #: and_title
 msgid "And"
-msgstr ""
+msgstr "Y"
 
 #: or_title
 msgid "Or"
-msgstr ""
+msgstr "O"
 
 #: equal_to_title
 msgid "Equal to"
@@ -3128,7 +3128,7 @@ msgstr "Acceso público"
 
 #: external_access
 msgid "External access (without login)"
-msgstr ""
+msgstr "Acceso externo (sin identificación)"
 
 #: user_group_access
 msgid "User group access"
@@ -3212,7 +3212,7 @@ msgstr "Bangladés"
 
 #: benin
 msgid "Benin"
-msgstr ""
+msgstr "Benin"
 
 #: bhutan
 msgid "Bhutan"
@@ -3224,7 +3224,7 @@ msgstr "Botsuana"
 
 #: burkina_faso
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkina Faso"
 
 #: burkina_faso_coat_of_arms
 msgid "Burkina Faso Coat of Arms"
@@ -3232,7 +3232,7 @@ msgstr "Escudo de armas de Burkina Faso"
 
 #: burundi
 msgid "Burundi"
-msgstr ""
+msgstr "Burundi"
 
 #: cambodia
 msgid "Cambodia"
@@ -3244,11 +3244,11 @@ msgstr "Camerún"
 
 #: china
 msgid "China"
-msgstr ""
+msgstr "China"
 
 #: colombia
 msgid "Colombia"
-msgstr ""
+msgstr "Colombia"
 
 #: demoland
 msgid "Demoland"
@@ -3272,11 +3272,11 @@ msgstr ""
 
 #: ecuador
 msgid "Ecuador"
-msgstr ""
+msgstr "Ecuador"
 
 #: egypt
 msgid "Egypt"
-msgstr ""
+msgstr "Egipto"
 
 #: engender_health
 msgid "Engender Health"
@@ -3296,11 +3296,11 @@ msgstr ""
 
 #: gambia
 msgid "Gambia"
-msgstr ""
+msgstr "Gambia"
 
 #: ghana
 msgid "Ghana"
-msgstr ""
+msgstr "Ghana"
 
 #: global_fund
 msgid "Global Fund"
@@ -3308,11 +3308,11 @@ msgstr "El Fondo Mundial"
 
 #: guinea
 msgid "Guinea"
-msgstr ""
+msgstr "Guinea"
 
 #: guinea_bissau
 msgid "Guinea Bissau"
-msgstr ""
+msgstr "Guinea Bissau"
 
 #: haiti
 msgid "Haiti"
@@ -3320,23 +3320,23 @@ msgstr "Haití"
 
 #: icap
 msgid "ICAP"
-msgstr ""
+msgstr "ICAP"
 
 #: ippf
 msgid "IPPF"
-msgstr ""
+msgstr "IPPF"
 
 #: india
 msgid "India"
-msgstr ""
+msgstr "India"
 
 #: indonesia
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesia"
 
 #: iraq
 msgid "Iraq"
-msgstr ""
+msgstr "Iraq"
 
 #: irc
 msgid "International Rescue Committee"
@@ -3348,7 +3348,7 @@ msgstr "Costa de Marfil"
 
 #: jhpiego
 msgid "JHPIEGO"
-msgstr ""
+msgstr "JHPIEGO"
 
 #: kenya
 msgid "Kenya"
@@ -3356,7 +3356,7 @@ msgstr "Kenia"
 
 #: laos
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "República Democrática Popular de Lao"
 
 #: lesotho
 msgid "Lesotho"
@@ -3364,48 +3364,47 @@ msgstr "Lesoto"
 
 #: liberia
 msgid "Liberia"
-msgstr ""
+msgstr "Liberia"
 
 #: malawi
 msgid "Malawi"
 msgstr "Malaui"
 
 #: mali
-#, fuzzy
 msgid "Mali"
-msgstr "Masculino"
+msgstr "Mali"
 
 #: mongolia
 msgid "Mongolia"
-msgstr ""
+msgstr "Mongolia"
 
 #: mozambique
 msgid "Mozambique"
-msgstr ""
+msgstr "Mozambique"
 
 #: myanmar
 msgid "Myanmar"
-msgstr ""
+msgstr "Myanmar"
 
 #: msf
 msgid "MSF"
-msgstr ""
+msgstr "MSF"
 
 #: msi
 msgid "MSI"
-msgstr ""
+msgstr "MSI"
 
 #: namibia
 msgid "Namibia"
-msgstr ""
+msgstr "Namibia"
 
 #: nepal
 msgid "Nepal"
-msgstr ""
+msgstr "Nepal"
 
 #: nicaragua
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nicaragua"
 
 #: niger
 msgid "Niger"
@@ -3413,7 +3412,7 @@ msgstr "Níger"
 
 #: nigeria
 msgid "Nigeria"
-msgstr ""
+msgstr "Nigeria"
 
 #: norway
 msgid "Norway"
@@ -3421,19 +3420,19 @@ msgstr "Noruega"
 
 #: pakistan
 msgid "Pakistan"
-msgstr ""
+msgstr "Pakistán"
 
 #: palestine
 msgid "Palestine"
-msgstr ""
+msgstr "Palestina"
 
 #: paraguay
 msgid "Paraguay"
-msgstr ""
+msgstr "Paraguay"
 
 #: pepfar
 msgid "PEPFAR"
-msgstr ""
+msgstr "PEPFAR"
 
 #: peru
 msgid "Peru"
@@ -3445,7 +3444,7 @@ msgstr "Filipinas"
 
 #: psi
 msgid "PSI"
-msgstr ""
+msgstr "PSI"
 
 #: republic_of_trinidad_and_tobago
 msgid "Republic of Trinidad & Tobago"
@@ -3457,7 +3456,7 @@ msgstr "Ruanda"
 
 #: senegal
 msgid "Senegal"
-msgstr ""
+msgstr "Senegal"
 
 #: sierra_leone
 msgid "Sierra Leone"
@@ -3481,15 +3480,15 @@ msgstr "Departamento de Salud de Sudáfrica"
 
 #: south_sudan
 msgid "South Sudan"
-msgstr ""
+msgstr "Sudán del Sur"
 
 #: sri_lanka
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Sri Lanka"
 
 #: sudan
 msgid "Sudan"
-msgstr ""
+msgstr "Sudán"
 
 #: swaziland
 msgid "Swaziland"
@@ -3501,7 +3500,7 @@ msgstr "Tayikistan"
 
 #: tanzania
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #: timor_leste
 msgid "Timor-Leste"
@@ -3509,31 +3508,32 @@ msgstr "Timor Oriental"
 
 #: togo
 msgid "Togo"
-msgstr ""
+msgstr "Togo"
 
 #: uganda
 msgid "Uganda"
-msgstr ""
+msgstr "Uganda"
 
 #: usaid
 msgid "USAID"
-msgstr ""
+msgstr "USAID"
 
 #: vanuatu
 msgid "Vanuatu"
-msgstr ""
+msgstr "Vanuatu"
 
 #: vietnam
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 #: who
 msgid "WHO"
 msgstr "OMS"
 
 #: zambia
+#, fuzzy
 msgid "Zambia"
-msgstr ""
+msgstr "Zambia"
 
 #: zanzibar
 msgid "Zanzibar"
@@ -3612,88 +3612,91 @@ msgstr ""
 #: applications
 msgctxt "applications"
 msgid "Apps"
-msgstr ""
+msgstr "Aplicaciones"
 
 #: more_applications
 msgid "More apps"
-msgstr ""
+msgstr "Más aplicaciones"
 
 #: app_manager
 msgctxt "app_manager"
 msgid "Apps"
-msgstr ""
+msgstr "Aplicaciones"
 
 #: app_favorite_description
 msgid ""
 "This icon indicates an app that will be displayed in your dropdown menu."
 msgstr ""
+"Este icono indica la aplicación que será mostrada en su menú desplegable."
 
 #: app_draggable_description
 msgid ""
 "Items are draggable to change their order, so it's easy to customize your "
 "favorite apps."
 msgstr ""
+"Los elementos pueden ser arrastrados para cambiar su orden, de manera que "
+"sea sencillo personalizar sus aplicaciones favoritas."
 
 #: app_order_custom
 msgid "My own order"
-msgstr ""
+msgstr "My propio orden"
 
 #: app_order_name_alpha
 msgid "Alphabetical"
-msgstr ""
+msgstr "Alfabético"
 
 #: app_search_placeholder
 msgid "Search apps"
-msgstr ""
+msgstr "Buscar aplicaciones"
 
 #. #-- Data value error codes ----------------------------------------------------#
 #: data_element_or_type_null_or_empty
 msgid "Data element or type is null or empty"
-msgstr ""
+msgstr "El elemento de datos o el tipo están a null o vacíos"
 
 #: value_length_greater_than_max_length
 msgid "Data value is greater than max length"
-msgstr ""
+msgstr "El valor del dato es mayor que el tamaño máximo"
 
 #: value_not_numeric
 msgid "Data value is not numeric"
-msgstr ""
+msgstr "El valor del dato no es numérico"
 
 #: value_not_unit_interval
 msgid "Data value is not a unit interval"
-msgstr ""
+msgstr "El valor del dato no es una unidad de intervalo"
 
 #: value_not_percentage
 msgid "Data value is not a percentage"
-msgstr ""
+msgstr "El valor de dato no es un porcentaje"
 
 #: value_not_integer
 msgid "Data value is not an integer"
-msgstr ""
+msgstr "El valor de dato no es un entero"
 
 #: value_not_positive_integer
 msgid "Data value is not a positive integer"
-msgstr ""
+msgstr "El valor de dato no es un entero positivo"
 
 #: value_not_negative_integer
 msgid "Data value is not a negative integer"
-msgstr ""
+msgstr "El valor de dato no es un entero negativo"
 
 #: value_is_zero_and_not_zero_significant
 msgid "Data value is zero and not zero significant"
-msgstr ""
+msgstr "El valor de dato es sensible a valores de tipo cero"
 
 #: value_not_bool
 msgid "Data value is not a boolean"
-msgstr ""
+msgstr "El valor de dato no es un booleano"
 
 #: value_not_true_only
 msgid "Data value is not true"
-msgstr ""
+msgstr "El valor de dato no es verdadero"
 
 #: value_not_valid_date
 msgid "Data value is not a valid date"
-msgstr ""
+msgstr "El valor de dato no es una fecha válida"
 
 #: stored_by_length_greater_than_max_length
 msgid "Stored by is greater than max length"
@@ -3706,19 +3709,19 @@ msgstr ""
 #. #-- calendars -----------------------------------------------------------------#
 #: islamic
 msgid "Islamic"
-msgstr ""
+msgstr "Islámica"
 
 #: nepali
 msgid "Nepali"
-msgstr ""
+msgstr "Nepalí"
 
 #: julian
 msgid "Julian"
-msgstr ""
+msgstr "Juliano"
 
 #: gregorian
 msgid "Gregorian"
-msgstr ""
+msgstr "Gregoriano"
 
 #: ethiopian
 #, fuzzy
@@ -3726,16 +3729,18 @@ msgid "Ethiopian"
 msgstr "Etiopía"
 
 #: thai
+#, fuzzy
 msgid "Thai"
-msgstr ""
+msgstr "Tailandés"
 
 #: iso8601
 msgid "ISO 8601"
-msgstr ""
+msgstr "ISO 8601"
 
 #: coptic
+#, fuzzy
 msgid "Coptic"
-msgstr ""
+msgstr "Copto"
 
 #. #-- Email message footer ------------------------------------------------------#
 #: respond_to_this_message
