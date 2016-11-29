@@ -209,6 +209,10 @@ msgstr "Metadatos"
 msgid "Sending message"
 msgstr "Enviando mensaje"
 
+#: Resize
+msgid "Resize"
+msgstr "Redimensionar"
+
 #: explore
 msgid "Explore"
 msgstr "Explorar"
