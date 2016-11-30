@@ -449,10 +449,6 @@ msgstr "Eliminar el cuadro de mandos actual"
 msgid "Add new"
 msgstr "Añadir nuevo"
 
-#: manage
-msgid "Manage"
-msgstr "Gestionar"
-
 #: sharing
 msgid "Sharing"
 msgstr "Compartir"
