@@ -261,11 +261,7 @@ msgstr "Haga click para ver el SIG"
 msgid "Click to view data set report"
 msgstr "Haga click para ver el reporte de sets de datos"
 
-#: Add
-msgid "Add"
-msgstr "Añadir"
-
-#: Manage
+#: manage
 msgid "Manage"
 msgstr "Administrar"
 
