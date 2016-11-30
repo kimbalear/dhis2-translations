@@ -1,0 +1,27 @@
+#: user_settings
+msgid "User settings"
+msgstr "Ajustes de usuario"
+
+#: interface_language
+msgid "Interface language"
+msgstr "Idioma de la interfaz"
+
+#: database_language
+msgid "Database language"
+msgstr "Idioma de la base de datos"
+
+#: style
+msgid "Style"
+msgstr "Estilo"
+
+#: property_to_display_in_analysis_modules
+msgid "Property to display in analysis modules"
+msgstr "Propiedad a desplegar en módulos de análisis"
+
+#: enable_message_email_notifications
+msgid "Enable message email notifications"
+msgstr "Habilitar notificaciones de correo electrónico"
+
+#: enable_message_sms_notifications
+msgid "Enable message SMS notifications"
+msgstr "Habilitar notificaciones para SMS"
