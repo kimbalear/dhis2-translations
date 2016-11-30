@@ -209,7 +209,7 @@ msgstr "Metadatos"
 msgid "Sending message"
 msgstr "Enviando mensaje"
 
-#: Resize
+#: resize
 msgid "Resize"
 msgstr "Redimensionar"
 
